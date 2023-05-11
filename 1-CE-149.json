@@ -1,131 +1,131 @@
 [{
         "id": 30,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Ne pas assez dormir plusieurs nuits de suite perturbe, tout le monde s’en rend compte. Ce qui est moins visible, c’est comment cela affecte notre santé.(…) Des scientifiques ont montré que le manque de sommeil modifiait l’intensité de l’activité de plus de 700 gènes, parmi eux ceux liés au stress et à la lutte contre les maladies. Mais ils ne peuvent encore dire si ces modifications des gènes sont une réponse de court terme et sans danger à un sommeil de mauvaise qualité, un signe d’adaptation du corps à la privation de sommeil, ou un danger potentiel pour la santé.",
         "options": [
-            "La méfiance des propriétaires.",
-            "La rareté des offres ce logement.",
-            "L'absence d'engagement de l'État.",
-            "Le montant de la caution exigée."
+            "La gestion du stress est difficile.",
+            "La santé est mise en péril.",
+            "Le corps est moins réactif.",
+            "Le système génétique est affecté."
         ],
-        "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse ?",
-        "answer": 0
+        "query": "Qu’est-ce que les scientifiques ont découvert concernant le manque de sommeil?",
+        "answer": 3
     },
     {
         "id": 31,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Solitude, conflit avec les parents, difficultés scolaires… Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte. Fil Santé Jeunes a vu ses visites augmenter de 313% ces dernières années. De l’autre côté de l’écran, animateurs et psychologues s’efforcent de maintenir le contact et de prolonger la discussion. L’entreprise est délicate puisque les regards et les gestes ne peuvent être pris en compte par le professionnel. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situatoin similaire.",
         "options": [
-            "L'inauguration d'une exposition temporaire.",
-            "L'inscription d'une œuvre au patrimoine mondial.",
-            "L'ouverture au public d'une zone dangereuse.",
-            "L'accès réglementé à un emplacement protégé."
+            "L'absence totale des signes visuels du langage.",
+            "L'opposition des familles à leurs interventions.",
+            "La nécessité de modérer le ton des échanges.",
+            "Les nombreuses remarques des participants."
         ],
-        "query": "Qu’évoque-t-on dans cet article ?",
-        "answer": 3
+        "query": "À quelle difficulté se heurtent les spécialistes?",
+        "answer": 0
     },
     {
         "id": 32,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Méthode originale, la psychologie narrative propose les clés d’un nouvel art de vivre pour renoncer définitivement aux comportements susceptibles de brider notre propension du bonheur! Cette pratique, loin de vanter le bienfait de vaines chimères, repose sur une prise de conscience: celle que le monde tel que je le pense n’est pas tel que je le vis. Le travetissement de la réalité est incessant. “Il y a d’un côté la réalité des faits, et de l’autre, ma représentation”, explique Yves-Alexandre Thalmann. Avec notre cerveau, nous passons notre temps à organiser les liens de cause à effet de façon à ce que(so that) ça prenne une signification à nos yeux. Or, selon le psychologue, la manière dont nous appréhendons les choses détermine davantage nortre qualité de vie que les événements eux-mêmes. À ce titre(donc), nos représentations mentales ont donc la capacité de nous procurer une vie plus agréable.",
         "options": [
-            "L'affrontement entre partenaires sociaux.",
-            "L'avancée majeure en termes de fiscalité.",
-            "La proclamation de réformes importantes.",
-            "L'absence de prise de décisions effectives."
+            "Si on les prend en compte avec lucidité.",
+            "Si on les remodèle à travers l'Imagination.",
+            "Si on modifie la façon dont on les perçoit.",
+            "Si on recherche leur signification profonde"
         ],
-        "query": "Quel a été l’aboutissement de la conférence ?",
-        "answer": 3
+        "query": "Comment la perception des évènements permet-elle d’accéder au bonheur??",
+        "answer": 2
     },
     {
         "id": 33,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "“Le Fait du Roi” un roman d’A. Thonon. C’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise. L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
         "options": [
-            "Elle concerne uniquement les économies fortes.",
-            "Elle freine l'utilisation de ressources renouvelables.",
-            "Elle permet le dépassement des normes édictées.",
-            "Elle ralentit le progrès dans les États émergents."
+            "La description du personnage.",
+            "La longueur du texte.",
+            "La qualité de l'écriture.",
+            "Le déroulement des événements"
         ],
-        "query": "Quel est le paradoxe de la taxe carbone ?",
-        "answer": 2
-    },
-    {
-        "id": 34,
-        "testId": "1-CE-150",
-        "text": "Monsieur et Madame Martin n’ont pas un emploi du temps également captivant. Quand Monsieur se rend au travail. Madame manie l’aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l’épouse modèle se colle aux fourneaux. Une illustration exhumée d’un manuel des années 1950? Non, les images d’un exercice pour une classe de CP afin de “Comprendre la simultanéité” en étudiant les moments de la “journée d’une famille”. Quand Virginie Sassoon est tombée sur ce document ultra-stéréotypé dans le classeur de sa fille, cette maman est tombée des nues. “Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève selon moi, de la responsabilité collective.”",
-        "options": [
-            "L'extension d'un système de climatisation à tout un quartier.",
-            "L'installation de parcs sur les toits des bâtiments parisiens.",
-            "La construction de pistes cyclables au sommet des immeubles.",
-            "La création de jardins communs pour planter des légumes."
-        ],
-        "query": "Quel projet est présenté comme réaliste?",
+        "query": "Sur quel point porte la critique négative faute à ce livre?",
         "answer": 3
     },
     {
+        "id": 34,
+        "testId": "1-CE-149",
+        "text": "Monsieur et Madame Martin n’ont pas un emploi du temps également captivant. Quand Monsieur se rend au travail. Madame manie l’aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l’épouse modèle se colle aux fourneaux. Une illustration exhumée d’un manuel des années 1950? Non, les images d’un exercice pour une classe de CP afin de “Comprendre la simultanéité” en étudiant les moments de la “journée d’une famille”. Quand Virginie Sassoon est tombée sur ce document ultra-stéréotypé dans le classeur de sa fille, cette maman est tombée des nues. “Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève selon moi, de la responsabilité collective.”",
+        "options": [
+            "Ils correspondent à des programmes scolaires obsolètes.",
+            "Ils méconnaissent l'existence des familles recomposées.",
+            "Ils présentent un partage sexiste des tâches dans le couple.",
+            "Ils se moquent du quotidien des personnes sans emploi."
+        ],
+        "query": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille",
+        "answer": 2
+    },
+    {
         "id": 35,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Des chercheurs mettent en doute l’idée répandue, que la langue que nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventées par des locuteurs sourds.",
         "options": [
-            "Il conteste la fiabilité des sources d'Internet.",
-            "Il critique la surabondance de l'information.",
-            "Il dénonce la médiocrité de la presse écrite.",
-            "Il doute de l'intérêt des médias traditionnels."
+            "Les gestes révèleraient systématiquement la langue maternelle des locuteurs",
+            "Il existerait un ordre universel de la pensée, indépendant de l'ordre linguistique",
+            "Il y aurait autant de façons de penser que de structures de langue différentes",
+            "Les structures des langues seraient dépendantes de notre expérience du monde."
         ],
-        "query": "Quelle est la position de l’auteur de l’article ?",
-        "answer": 2
+        "query": "Quel est le résultat de l’expérience présentée dans cet article ?",
+        "answer": 1
     },
     {
         "id": 36,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Sexistes, les jeux vidéo? Peur-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l’oeil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure plaire à masculins. Pour le reste, circulez, il n’y a presque rien d’autre à voir, si l’on balaye d’un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les calls girls de mafioso. Pourtant, l’industrie du jeu vidéo a pris conscience ces dernière années du potentiel du marché des joueuse.",
         "options": [
-            "Les acheteurs opposés au téléchargement illégal.",
-            "Les amateurs de subtilité et de raffinement musical.",
-            "Les admirateurs inconditionnels de l'interprète.",
-            "Les curieux en mal de musique expérimentale."
+            "La quasi absence d'héroïnes.",
+            "L'appel constant à la violence.",
+            "L'atténuation des clichés.",
+            "L'uniformité des scénarios."
         ],
-        "query": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F. Hardy?",
-        "answer": 1
+        "query": "Quel constat est dressé sur les jeux vidéo ?",
+        "answer": 0
     },
     {
         "id": 37,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Les technologies de l’information et de la communication(TIC) sont de plus en plus utilisées et adoptées de façon variable par les établissements d’enseignement supérieur à travers le mode. Les TIC apparaissent autant comme une prestation en présence sur le campus que comme un enseignement ouvert et à distance. Les actions de l’UNESCO se concentre sur l’aide aux États membres afin de développer des politiques durables dans le domaine des TIC dans l’enseignement supérieur. Les plans d’action et les investissements positifs en matière de TIC sont clairement bénéfiques pour les institutions d’enseignement supérieur(IES), même si les TIC n’ont pas remplacé les modes d’apprentissage ou d’enseignement classiques tels que les salles de classe.",
         "options": [
-            "À s'acquitter d'un engagement moral.",
-            "À s'affranchir d'une histoire ancienne.",
-            "À se défaire d'un sentiment de culpabilité.",
-            "À se justifier d'une action peu glorieuse."
+            "Parce qu'elle finance les programmes de développement des TIC.",
+            "Parce qu'elle organise des débats entre États membres sur les TIC.",
+            "Parce qu'elle sensibilise les établissements d'enseignement aux TIC.",
+            "Parce qu'elle habilite des formateurs à l'utilisation des TIC."
         ],
-        "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux?",
-        "answer": 1
+        "query": "Pourquoi peut-on dire que l’UNESCO est active dans le domaine des TIC?",
+        "answer": 0
     },
     {
         "id": 38,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Travailler avec son mari ou son petit ami, sa soeur ou sa mère n’est pas une punition pour tout le monde! Pour certains, c’est même la condition du bien être professionnel. Si cette idée évoquait jadis une petite entreprise conservatrice, transmise de père en fils, aujourd’hui, travailler en famille relève de réalités très différentes. Critères retenus: confiance, valeurs et goûts communs; et surtout, besoin de réaliser ses projets plutôt que ceux des autres. Depuis toujours, la mojorité des entreprises en France, toutes tailles confondues, sont familiales; et de plus en plus de créations sont le fait de femmes. Ce sont d’ailleurs des entreprises où l’on vit mieux et qui durent plus longtemps que les-autres. Aujourd’hui, la création d’une entreprise est plus souvent motivée par le désir d’assurer un travail à ses enfants ou d’échapper à des structures jugées déshumanisantes.",
         "options": [
-            "Ce choix creuse les inégalités sociales.",
-            "Ce projet omet des questions de sécurité.",
-            "Cette démarche déresponsabilise les usagers.",
-            "Cette initiative coûte beaucoup trop cher."
+            "De concrétiser des objectifs personnels.",
+            "De fonctionner dans un cadre innovant.",
+            "De limiter la répartition des gains.",
+            "De renforcer les liens entre les générations."
         ],
-        "query": "Pourquoi la gratuité des transports publics est-elle critiquée ?",
-        "answer": 2
+        "query": "Que permet la structure d’entreprise présentée ?",
+        "answer": 0
     },
     {
         "id": 39,
-        "testId": "1-CE-150",
+        "testId": "1-CE-149",
         "text": "Le contrôle, en toute matière, aboutit à pervertir l’action… Dès qu’une action est soumise à un contrôle, le but profond de celui qui agit n’est plus l’action. Mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n’est qu’un cas particulier et une demonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir: il garde toute sa vie ce brevet d’une science momentanée. C’est pour accéder au diplôme qu’on a vu se substituer à la lecture des auteurs, l’usage des résumés, des manuels, des recueils de questions et de réponses toute faites et autres abominations.",
         "options": [
-            "Pour découvrir de nouvelles références.",
-            "Pour posséder une bibliothèque fournie.",
-            "Pour s'évader vers des horizons lointains.",
-            "Pour trouver des remèdes à ses maux."
+            "Il contribue à améliorer les méthodes d'apprentissage.",
+            "Il est indispensable pour accéder au monde professionnel.",
+            "Il permet de certifier les compétences réelles d'un candidat.",
+            "Il perturbe le processus d'acquisition des connaissances."
         ],
-        "query": "Pourquoi Jean-Claude Simoén aime-t-il les dictionnaires?",
-        "answer": 0
+        "query": "Que soutient l’auteur de ce texte à propos du contrôle ?",
+        "answer": 3
     }
 ]

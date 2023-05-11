@@ -1,0 +1,131 @@
+[{
+        "id": 30,
+        "testId": "3-CE-152",
+        "text": "Parcourir les routes d’Europe l’été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays. Ce qu’il faut savoir, c’est qu’il existe des différences qui peuvent être notables selon les législations. Alors que la vitesse maximal sur autoroute est de 130km/h en France, elle n’est que de 120km/h en Belgique, en Espagne ou au Portugal. Quant au taux d’alcoolémie toléré, il varie de 0,8g/l en Irlande à zéro en République tchèque.",
+        "query": "Que fait l’auteur de cet article ?",
+        "options": [
+            "Il commente une loi.",
+            "Il donne un conseil.",
+            "Il formule une plainte.",
+            "Il raconte une anecdote."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "3-CE-152",
+        "text": "On s’est habitué depuis belle lurette à ne plus rencontrer de poinçonneurs dans le métro ni de pompistes dans les stations-service. Mais la liste de professions en voie de disparition ne cesse de s’allonger. Caissières dans les supermarchés, guichetiers dans les banques, hôtesses dans les cinémas… Tous remplacés par des machines? Pas si simple. Comme l’analyse Thibaut Carpentier, directeur du cabinet de conseil Obstand, la tentation industrielle de réduire les frais de personnel est grande mais cette logique se heurte à celle des comsommateurs qui ont mal à se passer d’une présence humaine. D’ailleurs, toutes les entreprises concernées l’ont bien compris: pas de suppression de postes mais des redéploiements avec élargissement des compétences. ",
+        "query": "Quel obstacle rencontre l’automatisation des services ?",
+        "options": [
+            "Les coûts élevés des investissements.",
+            "Les faibles qualifications des employés.",
+            "Les réticences émises par la clientèle.",
+            "Les spécificités de certains métiers."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "3-CE-152",
+        "text": "Théâtre. Joël Pommerat nous offre un très court spectacle dont à la fois ta pureté formelle et ton sens nous ont conquis. Le matériau en est constitué par une série de rencontres, auxquelles lui-même et son équipe assistèrent, entre des travailleurs sociaux et des femmes d’origine simple, vivant en cité, et en proie à des problèmes familiaux. De ces confiances relatives aux tentions qu’elles connaissent dans leurs rapports, soit avec leur parents, soit avec leurs enfants, Pommerat a tiré une suite de brèves séquences qui composent une tragégie intense de la souffrance familiale, et particulièrement de la souffrance de la femmes. Son regard sur la détresse humaine est d’une bienveillance et d’une tendresse infinies, Il ne nous livre aucun message moral et à peine un message social: il fait simplement un appel à notre sensibilité.",
+        "query": "Dans quel objectif Joël Pommerat a-t-il créé son spectacle ?",
+        "options": [
+            "Aider les femmes à se battre pour améliorer leur situation familiale.",
+            "Amener les spectateurs à s'émouvoir d'un quotidien douloureux.",
+            "Démontrer que la condition de la femme dans les cités est désastreuse.",
+            "Informer des difficultés que peuvent rencontrer les enfants des cités"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": "3-CE-152",
+        "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la “conférence” installée aujourd’hui par le ministre de l’éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire. C’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits “atypique”. C’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine. C’est encore accueillr l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme… Autant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel du compromis.",
+        "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaire ?",
+        "options": [
+            "Les familles sont opposées à toute modification.",
+            "Les impacts financiers demeurent insurmontables.",
+            "Les intérêts en jeu sont difficilement compatibles.",
+            "Les opinions des experts sont en total désaccord."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "3-CE-152",
+        "text": "L’éclairage événementiel est une discipline artistique récente qui consiste à créer des décors et des ambiances par un jeu de lumières projetées sur des monuments et des sites remarquables. L’intérêt de cet art est double: il permet, sans toucher au site qui accueille l’événement, de modifier littéralement l’aspect d’une façade ou d’un intérieur et de personnaliser un lien en rapport avec le thème abordé. Ainsi une grande ville comme Paris peut façonner ses monuments et ses bâtiments publics grâce aux éclairages conçus et réalisés par de véritables artistes.",
+        "query": "Quel est l’atout principal de cette discipline artistique ?",
+        "options": [
+            "Donner une dimension nouvelle aux lieux mis en scène.",
+            "Permettre la réhabilitation des monuments historiques.",
+            "Transformer de manière durable les bâtiments illuminés.",
+            "Valoriser culturellement des zones urbaines délaissées"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "3-CE-152",
+        "text": "Plutôt que de multiplier les tests et les mise en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement à leurs salariés. “Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu’il vous amène un autre bon élément, ça permet de limiter les risques.” Signe des temps, la “cooptation” est aujourd’hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime: 4000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
+        "query": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises ?",
+        "options": [
+            "À gagner du temps.",
+            "À minimiser les aléas.",
+            "À réduire les frais.",
+            "À Simplifier les procédures."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "3-CE-152",
+        "text": "Le discours écologique actuel est très factuel, “pratico-practique” comme si on n’osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C’est peut-être l’une des raisons pour laquelle l’écologie politique ne rallie pas tant que ça. Si on n’est pas sensible à la terre, aux végétaux, on devient un technicien de l’écologie, on emploie un langague neutre et rassurant, fait d’environement et de développement durable. Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
+        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel",
+        "options": [
+            "Il apaise les tensions de la société.",
+            "Il insiste sur le point de vue matériel.",
+            "Il propose des programmes utopiques.",
+            "Il traite les problèmes liés aux sols."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "3-CE-152",
+        "text": "Le Bon Usage est un gros livre, parce que son auteur n’a voulu éluder aucune des chasse-trapes de cette langue française dont Colette disait “C’est une langue bien difficile que le français. À peine écrit-on depuis quarante-cinq ans qu’on commence à s’en apercevoir”. j’avais craint, jadis, que la masse même du volume n’en rebutât plus d’un. Appréhension vaine: l’ouvrage s’est étoffé à chaque réédition, la typographie (tout en restant d’une parfaite lisibilité) se présente dans une composition beaucoup plus serrée, et le succès du livre va croissant, à mesure que le lecteur a davantage le sentiment qu’il est aimablement conduit par la main grâce surtout à un index infiniment précieux, et que les explications qu’on lui propose ne sont pas de sommaires ukases(simple command), mais le reflet patient, probe jusqu’à l’aveu d’incertitudes, d’une actualité aussi mouvante que la vie.",
+        "query": "D’après cet extrait, quelle est la plus grande qualité du Bon",
+        "options": [
+            "Il est complet.",
+            "Il est concis.",
+            "Il est innovant.",
+            "Il est irréfutable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "3-CE-152",
+        "text": "Il est incroyable que la perspective d’avoir à lire son propre livre en public n’ait jamais fait renoncer un écrivain à l’écrire. Rien n’est extravagant comme ces émissions littéraires où ils sont régulièrement requis de sacrifier à ce rituel qui suppose tout de même une habitude, une habileté, pour ne pas dire une technique, qui ne sont pas données à tous les romanciers. La plupart n’osent pas refuser, en quoi ils ont tort. Pour les convaincre de renoncer à ce dernier avatar de leur vanité, il suffirait de les emmener, un soir, écouter des comédiens lire leur livre. En principe, si l’on est lucide et de bonne foi, on ne se remet pas d’une telle épreuve.",
+        "query": "Que pense cet écrivain de la lecture publique d’un roman par son auteur?",
+        "options": [
+            "Elle demande de posséder des talents d'acteur.",
+            "Elle dessert le travail d'écriture du romancier.",
+            "Elle est particulièrement adaptée au petit écran.",
+            "Elle rend les émissions littéraires prétentieuses"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": "3-CE-152",
+        "text": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique. Le voilier va mettre le cap en septembre prochain sur l’Amérique du sud et ses grands fleuves. Il se consacrera “aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable”, selon la “lettre de mission” adressée à son commandant, signée du ministre d’État aux Transport et à l’Écologie. Cette “lettre de mission” de la République assigne à l’équipage un audacieux programme concernant la protection de l’environement.",
+        "query": "Selon l’article, que va faire l’équipage du voilier La Boudeuse ?",
+        "options": [
+            "Former des scientifiques a la prévention des risques écologiques",
+            "Innover dans les moyens de lutter contre les pollutions fluviales",
+            "Observer l’écosystème dans une région de grands fleuves",
+            "Représerver le gouvernement français lors d’une rencontre"
+        ],
+        "answer": 2
+    }
+]

@@ -1,0 +1,131 @@
+[{
+        "id": 30,
+        "testId": "2-CE-150",
+        "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois inffranchissable. Non seulement les loyers sont élevés mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante(CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",
+        "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse ?",
+        "options": [
+            "La méfiance des propriétaires.",
+            "La rareté des offres ce logement.",
+            "L'absence d'engagement de l'État.",
+            "Le montant de la caution exigée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "2-CE-150",
+        "text": "Après avoir été fermé au public pendant douze ans, la grotte préhisotique d’Altatnira, située en Espagne doit rouvrir ses portes, mais de manière expérimentale. Il s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complère.",
+        "query": "Qu’évoque-t-on dans cet article ?",
+        "options": [
+            "L'inauguration d'une exposition temporaire.",
+            "L'inscription d'une œuvre au patrimoine mondial.",
+            "L'ouverture au public d'une zone dangereuse.",
+            "L'accès réglementé à un emplacement protégé."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "2-CE-150",
+        "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernment peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du premier ministre mais il n’y a pas non plus eu de fâcherie comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants “les retraites en tête” personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
+        "query": "Quel a été l’aboutissement de la conférence ?",
+        "options": [
+            "L'affrontement entre partenaires sociaux.",
+            "L'avancée majeure en termes de fiscalité.",
+            "La proclamation de réformes importantes.",
+            "L'absence de prise de décisions effectives."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": "2-CE-150",
+        "text": "“Des taxes vertes” ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
+        "query": "Quel est le paradoxe de la taxe carbone ?",
+        "options": [
+            "Elle concerne uniquement les économies fortes.",
+            "Elle freine l'utilisation de ressources renouvelables.",
+            "Elle permet le dépassement des normes édictées.",
+            "Elle ralentit le progrès dans les États émergents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "2-CE-150",
+        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes “Et alors…” a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers “partagés” au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’oeil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au millieu de toiture végétalisées et de jardins.",
+        "query": "Quel projet est présenté comme réaliste?",
+        "options": [
+            "L'extension d'un système de climatisation à tout un quartier.",
+            "L'installation de parcs sur les toits des bâtiments parisiens.",
+            "La construction de pistes cyclables au sommet des immeubles.",
+            "La création de jardins communs pour planter des légumes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "2-CE-150",
+        "text": "Il faut se rendre à l’évidence: le “jour” n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les “news” des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme “le journal de la veille” perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+        "query": "Quelle est la position de l’auteur de l’article ?",
+        "options": [
+            "Il conteste la fiabilité des sources d'Internet.",
+            "Il critique la surabondance de l'information.",
+            "Il dénonce la médiocrité de la presse écrite.",
+            "Il doute de l'intérêt des médias traditionnels."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": "2-CE-150",
+        "text": "Un vingt-sixième album de François Hardy. La pluie sans parapluie, est forcément un événement. On sait que le public qui achète encore des disque passe volontiers à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cettte voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais. Elle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré. C’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle. Il faut se retrancher pour en saisir la saveur et la goûter. Un disque comme autrefois, avec un son soigné et de l’émotion. Mais surtout une élégance comme on n’en fait plus.",
+        "query": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F. Hardy?",
+        "options": [
+            "Les acheteurs opposés au téléchargement illégal.",
+            "Les amateurs de subtilité et de raffinement musical.",
+            "Les admirateurs inconditionnels de l'interprète.",
+            "Les curieux en mal de musique expérimentale."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "2-CE-150",
+        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible. Le modèle est celle que Kafka rédigea à l’intention de son père et qu’il préféra ranger dans un tiroir tant l’accusation portée étati peu amène. Avec l’autre fille, missive adressé à sa soeur ainée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le ternie d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d’un vieux uniment, la collection souhaite réhabiliter un genre littéraire oublié.",
+        "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux?",
+        "options": [
+            "À s'acquitter d'un engagement moral.",
+            "À s'affranchir d'une histoire ancienne.",
+            "À se défaire d'un sentiment de culpabilité.",
+            "À se justifier d'une action peu glorieuse."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": "2-CE-150",
+        "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne falicitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une “fausse bonne idée” qui “induit des déplacements inutiles, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent”. Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
+        "query": "Pourquoi la gratuité des transports publics est-elle critiquée ?",
+        "options": [
+            "Ce choix creuse les inégalités sociales.",
+            "Ce projet omet des questions de sécurité.",
+            "Cette démarche déresponsabilise les usagers.",
+            "Cette initiative coûte beaucoup trop cher."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "testId": "2-CE-150",
+        "text": "Depuis l’adolescence, je fréquente assidûment les dictionnaires. Chaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m’apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d’autre ouvrages. Je possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par example, guano vous cherchez le mot juste, rien de tel qu’un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on brait la notice d’un produit pharmaceutique destiné à soigner ceci ou cela est le self-service de la pensée.",
+        "query": "Pourquoi Jean-Claude Simoén aime-t-il les dictionnaires?",
+        "options": [
+            "Pour découvrir de nouvelles références.",
+            "Pour posséder une bibliothèque fournie.",
+            "Pour s'évader vers des horizons lointains.",
+            "Pour trouver des remèdes à ses maux."
+        ],
+        "answer": 0
+    }
+]
