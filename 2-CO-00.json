@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/20.mp3",
+        "options": [
+            "La circulation routière est coupée.",
+            "La commande s'est perdue.",
+            "Le transporteur est en grève.",
+            "Les marchandises ont été volées."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/21.mp3",
+        "options": [
+            "Interviewer un réalisateur.",
+            "Participer à un festival.",
+            "Tourner un film.",
+            "Visiter des studios de cinéma."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/22.mp3",
+        "options": [
+            "Visiter des studios de cinéma.",
+            "Lui apporter un livre.",
+            "Lui présenter son travail.",
+            "Lui proposer une interview."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/23.mp3",
+        "options": [
+            "Ils déplorent un manque d'information.",
+            "Ils refusent de participer à la collecte.",
+            "Ils s'inquiètent de la sécurité sanitaire.",
+            "Ils souhaitent rencontrer des soignants."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/24.mp3",
+        "options": [
+            "La voiture est interdite en centre-ville.",
+            "Le sens de la circulation été modifié.",
+            "Le stationnement est devenu payant.",
+            "Les embouteillages sont fréquents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/25.mp3",
+        "options": [
+            "L'organisation d’ateliers vidéo.",
+            "La présence de réalisateurs étrangers.",
+            "La projection de documentaires.",
+            "La variété de la programmation."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/26.mp3",
+        "options": [
+            "La recherche d'un appartement est rapide.",
+            "Le système de la colocation est encouragé.",
+            "Les habitations proposées sont de qualité.",
+            "Les logements sont bon marché en banlieue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/27.mp3",
+        "options": [
+            "Parce qu'elles étaient difficiles à mettre en œuvre.",
+            "Parce qu'elles ignoraient la particularité des contextes.",
+            "Parce qu'elles avaient lieu tôt dans l’année scolaire.",
+            "Parce qu'elles proposaient des exercices complexes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/28.mp3",
+        "options": [
+            "L'état actuel de la biodiversité.",
+            "L'existence de plantes menaçantes.",
+            "La découverte de nouvelles espèces menacées.",
+            "Le rôle de l'ONU dans la préservation des espèces."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "1-CO-48",
+        "text": "",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/29.mp3",
+        "options": [
+            "D'apprendre à élaborer des itinéraires de visites.",
+            "D'expérimenter une manière différente de voyager",
+            "De découvrir des adresses d'hôtel à l'étranger.",
+            "De participer à des actions de solidarité internationale."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "1-CO-48",
+        "text": "L'effet sur l'apprentissage est faible, mais les notes ont d'autres fonctions. Elles servent à visibiliser les hiérarchies à l'intérieur de la classe, elles servent à savoir exactement à quel niveau se trouvent les élèves, donc elles donnent une indication très claire. Ensuite, elles permettent de faire le tri en termes de redoublement ou d'orientation, et elles permettent aussi une objectification, une réification du jugement qu'on donne de l'élève, par exemple lorsqu'on communique les résultats aux parents, c'est numérique, c'est vrai, c'est objectif. Selon le locuteur à quoi servent les notes à l’école?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/30.mp3",
+        "options": [
+            "À classer les établissements selon un taux de performance",
+            "À communiquer sur les progrès de l'élève dans chaque matière",
+            "À créer une échelle lisible de classification des élèves.",
+            "À susciter chez l'élève l'envie de devenir le meilleur de la classe."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": "1-CO-48",
+        "text": "Bonjour. Alors, voilà ma question. Je voudrais savoir comment fonctionne le système des pourboires au Québec, car cela varie beaucoup d'un pays à l'autre. Est-ce obligatoire ou non? Eh bien, c'est une chose courante chez nous de laisser une somme d'argent à quelqu'un pour le remercier de ses bons services, car le service n'est pas inclus dans le salaire du personnel. Et comment calcule-t-on la somme d'argent qu'on doit laisser? En général, on doit laisser entre 15 et 20 % de la somme indiquée sur la facture. C'est une vraie gymnastique alors au moment de payer? Non, pas vraiment. Nous autres, Québécois, on est habitués à ce système. Ça se fait presque automatiquement. De quoi dépend le montant du pourboire au Québec?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/31.mp3",
+        "options": [
+            "De la législation en vigueur.",
+            "De la paye des employés.",
+            "Du bon vouloir du client.",
+            "Du type d'établissement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "1-CO-48",
+        "text": "Longtemps, la copie illégale de produits ne concernait que le domaine du luxe. Aujourd'hui, tous les secteurs de l'économie sont atteints par ce phénomène. Pièces automobiles, prêts à porter, jouets ou encore médicaments. La douane française a saisi plus de 5 millions d'articles, soit deux fois plus que l'année dernière, et on estime que cette contrefaçon contribue à supprimer 30 000 emplois en France chaque année. Quel constat la journaliste fait-elle sur la contrefaçon?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/32.mp3",
+        "options": [
+            "Elle concerne de moins en moins d'articles.",
+            "Elle est maîtrisée grâce aux contrôles.",
+            "Elle met en danger le marché du travail.",
+            "Elle se concentre sur des objets précieux."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": "1-CO-48",
+        "text": "Le monde bouge, partout, trop lentement, certes, mais enfin il bouge même quand on parle de sport féminin. Non que nous ne célébrions depuis longtemps nos championnes, une médaille d'or au JO n'a pas de sexe, c'est une médaille d'or pour la France, un point c'est tout(that’s all, period), mais dès qu'il s'agit de s'intéresser à l'actualité des équipes féminines de sport collectif et de retransmettre leur compétition, bah là, les médias ont souvent tendance à détourner caméras et micros. Et quand on scrute d'un peu près les instances dirigeantes des clubs et des fédérations, là encore, beaucoup de testostérone et encore bien peu de parité. Que dénonce cette journaliste?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/33.mp3",
+        "options": [
+            "La télévision touche des droits importants sur les compétitions.",
+            "Les comportements machistes perdurent dans l'univers sportif.",
+            "Les fédérations sont souvent impliquées dans des scandales.",
+            "Les grandes équipes concentrent la majorité des financements."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": "1-CO-48",
+        "text": "Dans le cadre du CRAD, je coordonne un projet de recherche justement sur l'adaptation du milieu urbain aux changements climatiques. L'adaptation, ça veut dire non pas l'atténuation nécessairement des gaz à effet de serre, mais plutôt, puisque le climat change, il faut s'y adapter, il faut voir à ce que(we need to make sure) la ville s'y adapte pour anticiper les changements plutôt qu'y réagir et avoir à payer pour tout ce que ça veut dire, comme bris et catastrophes et désorganisation, déstructuration. Alors ce qu'on fait nous, c'est depuis trois ans, on mène une démarche participative pour savoir sur quoi se fonder pour justement planifier l'adaptation. Sur quoi porte le projet de recherche mentionné par l’intervenante? ",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/34.mp3",
+        "options": [
+            "Un aménagement territorial en fonction des données météorologiques.",
+            "Un programme de réduction des différentes sources de pollution.",
+            "Une analyse comparative entre les modes de vie citadins et ruraux.",
+            "Une proposition de prévention renforcée des grands cataclysmes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "1-CO-48",
+        "text": "On l'a dit, la culture générale a tous son défaut, mais en plus, elle a le défaut d'ignorer les sciences. Ça c'est assez facile à faire comme constat. Oui, assez facile à faire comme constat, mais ce qui est déplorable, c'est que c'est pas incorporé cette idée-là, il me semble. C'est-à-dire qu'on peut traiter aujourd'hui, se prétendre cultiver, et les gens qui parlent de culture générale sont très souvent, ou typiquement des humanistes qui ont une culture littéraire, être cultivés sans avoir de connaissances scientifiques. Et j'irais même jusqu'à dire pire, en méprisant, ou en trouvant que ça pose absolument pas problème de pas avoir de culture scientifique, ou pour prendre un exemple que j'aime beaucoup, en se vantant de rien connaître aux mathématiques. Et là, je pense que c'est une profonde erreur, et puis le livre se veut une défense passionnée, j'oserais dire, de l'importance d'incorporer les notions de culture scientifique. Pour l'auteur, de quoi les gens cultivés doivent-ils se rendre compte?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/35.mp3",
+        "options": [
+            "De l'absurdité qu'il y à valoriser leur manque de culture scientifique",
+            "De la nécessité de mieux défendre les acquis de la culture classique.",
+            "Du besoin qu'ont les mathématiciens d'avoir une culture générale.",
+            "Du refus des valeurs humanistes par les milieux scientifiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "1-CO-48",
+        "text": "Au milieu des années 70 à Grenoble, un étudiant des Beaux-Arts se convertit à la danse par amour pour une danseuse qui deviendra sa muse et sa compagne. Après avoir suivi pendant deux ans les cours de Meurs Cunningham à New York, il crée en 1979 le groupe Émile Dubois. Groupe, tribu, horde, un désordre qui investit des lieux de la ville où on ne s'attendait pas à voir de la danse. Piscine vide, carrefour, parc, gymnase, les lieux ne sont pas attendus et cette danse là encore moins. Quelle est la particularité du groupe Émile Dubois?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/36.mp3",
+        "options": [
+            "Ses créations sont très romantiques.",
+            "Ses décors sont créés par des artistes américains.",
+            "Ses membres sont d'origines variées.",
+            "Ses spectacles sont donnés dans des sites insolites."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "1-CO-48",
+        "text": "Voilà, la question principale c'est de savoir si on va médicaliser la crise d'adolescence ou pas, sachant qu'aujourd'hui le symptôme principal de la crise d'adolescence chez le garçon, c'est le jeu vidéo excessif ou l'internet excessif. Donc si on dit addiction, on le médicalise et ça veut dire tôt ou tard, pas seulement des psychothérapies, mais des chimiothérapies pour tous les adolescents joueurs, alors qu'on sait encore une fois d'expérience que 99% arrêtent de jouer à 17 ou 18 ans parce qu'ils ont fini leur crise d'adolescence, ils ne sont plus en révolte contre les parents qui sont soucieux de s'intégrer à la société et d'avoir une activité professionnelle. Donc l'adolescence, on l'accompagne, voilà, ne la pathologisons pas et je suis bien content que l'Académie de médecine ait pris cette position. Que préconise ce spécialiste face à l'engouement des jeunes pour les jeux vidéo?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/37.mp3",
+        "options": [
+            "De consulter un médecin psychothérapeute.",
+            "D'attendre que le temps ait fait son œuvre.",
+            "De prescrire un traitement médicamenteux.",
+            "D'informer les utilisateurs sur leurs dangers."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": "1-CO-48",
+        "text": "Ouvrir une chambre d'hôte c'est d'abord opter pour un mode de vie bien particulier où vous partagez la vie de votre quotidien avec des gens de passage soit toute l'année ou une partie de l'année. C'est une formule conviviale qui a du succès puisqu'on en compte plus de 110 000 en France. Est-ce qu'il y a moins de contraintes pour les gîtes ruraux? Oui tout à fait, si vous êtes moins disponible, le gîte rural, pour cela il vous suffit d'être là à l'arrivée, au départ des vacanciers et en fait il pose au contraire un logement qui est vraiment indépendamment du vôtre, qui est généralement situé à proximité de celui du propriétaire mais où le vacancier va séjourner en toute autonomie pendant la semaine ou pour le week-end. Que peut offrir un propriétaire de gîte rurale?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/38.mp3",
+        "options": [
+            "De la tranquillité et de l'intimité.",
+            "Des facilités de réservation.",
+            "Un contact privilégié avec son hôte.",
+            "Un tarif intéressant toute l'année."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "1-CO-48",
+        "text": "On part du principe que nos vies contemporaines étant ce qu'elles sont, peu à peu, si on n'y prend pas garde, vont être expulsées de nos journées, tous les temps d'attente, de non-action. On est sans arrêt soit en train de nous engager dans des actions, faire des choses avec nos mains ou avec notre cerveau, soit nous nous reposons dans des distractions. On regarde si on a des messages sur internet, on écoute de la musique, on se passe un film, mais à aucun moment notre cerveau n'entre sur un mode très simple qui est d'être là, conscient que je suis vivant, conscient que j'appartiens à un ordre naturel, et juste contempler et ressentir ce phénomène. Selon l’intervenant qu’est-ce qui caractérise nos vies comtemporaines?",
+        "audio": "https://github.com/NicholasFLee/tcfca-audio/raw/main/1-CO-48/39.mp3",
+        "options": [
+            "L'absence de temps morts.",
+            "L'ennui des distractions.",
+            "L'insuffisance de repos.",
+            "Le manque d'action."
+        ],
+        "answer": 2
+    }
+]
