@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/20.mp3",
+        "options": [
+            "Il fait plus beau qu'hier.",
+            "Il fait plus mauvais qu'hier.",
+            "Il pleut plus qu'hier.",
+            "Il y a moins de soleil qu'hier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/21.mp3",
+        "options": [
+            "Des habitants ont voté pour un maire écologiste.",
+            "Les écologistes refusent la construction d'une autoroute.",
+            "L'Union européenne veut faire construire une autoroute.",
+            "Un maire propose d'ouvrir une réserve naturelle."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/22.mp3",
+        "options": [
+            "Pour apprendre les termes spécifiques de la plomberie.",
+            "Pour économiser les frais d'un dépannage par un artisan.",
+            "Pour être autonome face aux petits travaux de la maison.",
+            "Pour rencontrer d'autres femmes ayant la même passion."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/23.mp3",
+        "options": [
+            "Un point de vue sur la situation mondiale aujourd'hui.",
+            "Une analyse de l'actualité économique dans le monde.",
+            "Une critique des conséquences de la mondialisation.",
+            "Une réflexion sur les relations politiques mondiales."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/24.mp3",
+        "options": [
+            "De disposer d'une petite surface.",
+            "De partager sa salle de bain.",
+            "De payer un loyer excessif.",
+            "De prendre ses repas seule."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/25.mp3",
+        "options": [
+            "Elle a changé de cursus universitaire.",
+            "Elle a rencontré des gens étonnants.",
+            "Elle a suivi des enseignements variés.",
+            "Elle a trouvé le niveau des cours facile."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/26.mp3",
+        "options": [
+            "Avoir la liberté d'être son propre patron.",
+            "Innover dans le domaine informatique.",
+            "Mener un projet aux États-Unis.",
+            "Mieux réussir que ses parents."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/27.mp3",
+        "options": [
+            "Des besoins énergétiques des jeunes.",
+            "Des bons réflexes pour les repas.",
+            "Des comportements alimentaires.",
+            "Des conseils de préparation culinaire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/28.mp3",
+        "options": [
+            "De devenir entrepreneur en créant son entreprise.",
+            "De s'informer sur les secteurs porteurs d'emplois.",
+            "De suivre une formation diplômante à l'université.",
+            "D'élargir sa recherche d'emploi à d'autres domaines."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": "8-CO-157",
+        "text": "",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/29.mp3",
+        "options": [
+            "L'absence d'éléments ornementaux.",
+            "La limitation du nombre d'étages.",
+            "Le respect d'obligations légales.",
+            "L'utilisation d'un matériau unique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": "8-CO-157",
+        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. À quel type d'entreprise appartient ce service?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/30.mp3",
+        "options": [
+            "Un groupe de centres d'appels téléphoniques.",
+            "Un service de livraison express du courrier.",
+            "Un spécialiste de la création de sites Internet.",
+            "Un fournisseur pour la restauration à domicile."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "8-CO-157",
+        "text": "Je suis un marcheur, et mes vacances se passent à marcher parce que ça me permet de réfléchir. Que le rythme de la marche est musical pour les oreilles, éblouissant pour les paysages, et que les médecins m'ont démontré que l'activité musculaire permettait d'éviter des fractures des os importants, et que la vieillesse doit marcher. Je ne marche pas n'importe où, je marche sur des sentiers de grande randonnée, et j'y ai souvent fait des rencontres vraiment merveilleuses. On y rencontre à la fois le paysage, les autres, mais on se rencontre aussi soi-même. comment la personne considère la marche.",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/31.mp3",
+        "options": [
+            "C'est un temps de découverte et d'humanité.",
+            "C'est une occasion de dépenser son énergie.",
+            "C'est une opportunité d'apprécier la solitude.",
+            "C'est une possibilité quotidienne d'évasion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": "8-CO-157",
+        "text": "Les chiffres parlent d'eux-mêmes. Selon une étude internationale, près de la moitié des 300 plus grandes coopératives de la planète ont 70 ans et plus. Elles créent souvent davantage d'emplois et font faillite moins souvent que les entreprises capitalistes classiques. Monique Leroux. De façon générale, on constate que les entreprises coopératives sont plus résilientes. Leur prise de risque, globalement, qu'elle soit petite, moyenne ou grande, se fait d'une façon généralement plus prudente, en grande partie grâce à la gouvernance démocratique, avec un grand nombre de personnes qui, très souvent, participent et contribuent à la prise de décision. Comment Monique Leroux explique-t-elle le succès des entreprises coopératives?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/32.mp3",
+        "options": [
+            "Elles appuient leur gestion sur la concertation.",
+            "Elles garantissent des évolutions de carrière.",
+            "Elles œuvrent dans des secteurs traditionnels.",
+            "Elles s'engagent dans des projets audacieux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "8-CO-157",
+        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé, in extremis, entre les deux pays et de nouvelles négociations commencent aujourd'hui, mais sur le front rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent car c'est maintenant que les choses démarrent réellement. Alors, amorce d'un processus de paix ou conférence symbolique? La secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint, car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/33.mp3",
+        "options": [
+            "La conférence qui a eu lieu est uniquement symbolique.",
+            "La secrétaire d'État a fait part de son pessimisme.",
+            "Les discussions s'annoncent longues et difficiles.",
+            "Tous les points de l'accord ont déjà été traités sans succès."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "8-CO-157",
+        "text": "Les constructeurs automobiles préparent leur modèle écologique pour profiter de ce nouveau marché. Où en est-on au niveau de la pollution? Si on regarde la moyenne des émissions des véhicules vendus en France, ça va dans le bon sens grâce à une série de mesures législatives. On voit apparaître des véhicules de moins en moins polluants, dont l'émission est inférieure à 140 grammes. Malheureusement, ça ne résout pas le problème du développement de la civilisation automobile. Si le taux d'équipement augmente à l'échelle mondiale, on se retrouve face à une catastrophe écologique considérable. Il faut donc nous affranchir de ce modèle de civilisation qui repose sur le transport individuel. Que propose cette spécialiste pour éviter une catastrophe écologique?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/34.mp3",
+        "options": [
+            "Durcir les normes appliquées à la fabrication de voitures.",
+            "Inciter les usagers à pratiquer d'autres modes de déplacement.",
+            "Pousser les industriels à employer des technologies innovantes.",
+            "Rendre obligatoire l'utilisation de carburants propres."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": "8-CO-157",
+        "text": "C'est une idée originale et réussie qu'a eu un philosophe, créer l'école de la vie. L'endroit est accueillant, rempli de livres, de fleurs, on peut y boire et manger. Cette librairie a pour objectif d'aider les gens avec leurs problèmes de tous les jours en apportant de nouvelles pistes de réflexion. On y vient au petit déjeuner ou le week-end pour des ateliers, on y pratique aussi des consultations littéraires, d'où l'on repart avec une ordonnance de livres. Quel est le concept de cette librairie?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/35.mp3",
+        "options": [
+            "Animer des ateliers d'écriture thématiques.",
+            "Faire connaître de jeunes philosophes talentueux.",
+            "Organiser des lectures pendant les repas de midi.",
+            "Trouver des solutions aux difficultés quotidiennes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": "8-CO-157",
+        "text": "Je crois qu'on peut effectivement donner à la critique cette tâche de tri dans effectivement la masse d'ouvrages qui paraissent donc donner une chance à un livre alors que peut-être selon cette logique du marché il passerait sans doute inaperçu. C'est contrer je le dis très modestement dans une très faible mesure cette logique du marché. D'ailleurs la logique du marché ne produit pas forcément des choses absolument nulles. Mais en revanche si on ne parlait pas dans certains quotidiens de livres un peu plus difficiles et bien ce serait effectivement la mort pour toutes les sciences humaines et la philosophie. Selon cette personne quel est le rôle de la critique littéraire?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/36.mp3",
+        "options": [
+            "Favoriser la visibilité des ouvrages peu accessibles.",
+            "Intervenir dans le choix des publications à venir.",
+            "Modifier notre regard sur les livres « grand public ».",
+            "Soutenir les petits éditeurs et leurs parutions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "8-CO-157",
+        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin, elle est connue comme telle. Elle a beaucoup reçu de Rodin mais elle s'en est servie pour créer une oeuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l'or mais l'or qu'elle trouvait bien à elle ». C'est très flagrant quand on compare plusieurs oeuvres. À côté du Penseur qui est, c'est vrai, d'une puissance ramassée, tout en muscles, qui dégage une force presque brute, l'Homme penché lui est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l'attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l'intervention?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/37.mp3",
+        "options": [
+            "La relation liant Camille Claudel et Rodin.",
+            "La richesse du musée Auguste Rodin.",
+            "Les difficultés rencontrées par Rodin.",
+            "Les sources d'inspiration de Rodin."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "8-CO-157",
+        "text": "Les pays européens sont presque tous d'excellents élèves de l'écologie. Mais c'est une bonne nouvelle? s'interroge le Figaro. Pas si sûr. L'Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2 fixés à l'avance ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l'inverse, d'avoir des exigences drastiques mais irréalistes. Les industriels savent d'ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c'est de fermer une usine et de la délocaliser sous d'autres cieux. Ce n'est pas toujours une menace en l'air. D'après le journaliste, en quoi les bons résultats européens en matière d'écologie sont-ils contestables?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/38.mp3",
+        "options": [
+            "Ils font l'objet de manipulations douteuses par les pollueurs.",
+            "Ils répondent à des critères insuffisamment exigeants.",
+            "Ils sont destinés à justifier les politiques économiques.",
+            "Ils sont publiés par des organismes liés aux entreprises."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 39,
+        "testId": "8-CO-157",
+        "text": "Est-ce qu'on peut ne pas aimer un film quand on a une comédienne aussi extraordinaire que Karine Viard? J'aime aussi beaucoup cette comédienne qui joue sa mère. Karine Viard est tellement extraordinaire que dans les scènes de radio, par exemple, elle est formidable. Elle est formidable tout le temps, à chaque séquence. Et en même temps, je trouve que le film s'effiloche. Cette histoire de recherche de la mère, je n'ai pas été très passionné. C'est dommage parce que Pinault avait fait des courts-métrages de grande qualité. Je trouve qu'on ne retrouve pas dans son long-métrage l'originalité qu'il y avait dans les courts-métrages. Là, on est vraiment dans une histoire, encore une fois, d'une sorte de réalisme à la française. Elle va retrouver la famille, les scènes de banlieue et tout ça. On est dans une sorte de naturalisme, vraiment sans relief. Pourquoi le locuteur nuance-t-il son appréciation du film?",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/1-CO-48/39.mp3",
+        "options": [
+            "La réalisation est trop extravagante.",
+            "L'actrice principale est omniprésente.",
+            "Le montage manque de cohérence.",
+            "Le scénario manque de singularité."
+        ],
+        "answer": 3
+    }
+]
