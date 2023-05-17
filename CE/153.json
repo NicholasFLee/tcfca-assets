@@ -1,4 +1,134 @@
 [{
+        "id": 20,
+        "testId": "153",
+        "text": "Elle a 27 ans et a trouvé sa vocation: restauratrice de meubles. Stéphanie reçoit, à ce titre, le prix du jeune artisan d’art: “La dotation va me permettre d’ouvrir mon atelier. J’ai déjà trouvé le lieu, dans un village entre Narbonne et Carcassonne.” Son compagnon y a créé une menuserie. Stéphanie a déjà touché à tout, au fil de sa formation, dont un BTS en alternance, obtenu dans son Auvergne natale. Nos voeux de réussite!",
+        "query": "Quel projet cette personne vt-elle réaliser?",
+        "options": [
+            "Démarrer une activité professionnelle",
+            "Présenter son travail à un concours",
+            "S’associer à un groupement d’artisans",
+            "Suivre une formation complémentaire"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "153",
+        "text": "Le rire pour soulager les enfants à l’hôpital. Les “docteurs rêves” apportent joie et mieux-être aux enfants hospitalisés. Pour que le petit malade puisse oublier un peu ses souffrances et retrouver le sourire, de gentils “docteurs” viennent à sa rencontre. Ils visitent les jeunes enfants, vêtus d’une blouse blanche, stéthoscope autour du cou, comme de vrais médecins. On les appelle les “docteurs rêves”. C’est en artistes professionnels spécialement formés qu’ils interviennent dans les hôpitaux pédiatriques tout en travaillant en synergie avec l’équipe médicale. Les enfants s’échappent un instant, grâce à eux, du monde hospitalier.",
+        "query": "Quelle est la fonction des « docteurs rêves »?",
+        "options": [
+            "Mettre en place une autre thérapie",
+            "Remplacer les anciens médecins",
+            "Faire rêver les petits patients",
+            "Guérir les enfants par le rêve"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": "153",
+        "text": "Avant de pouvoir entrer, il faut jurer par écrit que l’on s’engager à participer à la lutte contre le réchauffement de la planète. Bar Surya est devenue la première boîte de nuit écologique. Située à Londres, elle ne propose que des boissons biologiques, et offre une entrée gratuite aux clients qui peuvent prouver qu’ils sont venus à pied, à vélo, en bus ou en métro. En outre, un système d’énergie recyclable utilise les mouvements des pieds des danseurs pour fournir une partie de l’électricité. L’objectif affiché est de sensibiliser les jeunes au développement durable. Une bonne idée marketing qui devrait inspirer d’autres initiatives du même type…",
+        "query": "Quelle est l’originalité de la discothèque dont il est question?",
+        "options": [
+            "Elle s’adresse exclusivement à une clientèle soucieuse des questions d’environnement.",
+            "Elle travaille à la réduction des accidents de la route dus à l’alcool",
+            "Le cout du billet d’entrée varie en fonction de l’énergie produite par les danseurs.",
+            "Les jeunes doivent consommer sur place les produits du commerce équitable"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": "153",
+        "text": "La ville chinoise de Chongqing vient d’inaugurer des voies réservées aux “accros” du portable sur les trottoirs. Les piétons sont en effet nombreux à ne prêter aucune attention leur entourage, au risque de provoquer des accidents. Un parcours délimité par des lignes blanches peintes au sol invite ceux qui ne quittent pas des yeux leur écran à les emprunter. L’idée de ce marquage n’est pas d’encourager l’usage des portables mais d’inciter chacun à réfléchir à la place qu’il leur donne dans son quotidien et à faire attention aux autres.",
+        "query": "Quel est l’objectif de cette initiative concernant les portables?",
+        "options": [
+            "Faciliter leur utilisation dans l’ensemble de la commune",
+            "Faire prendre conscience des excès lies à leur usage",
+            "Instaurer de nouvelles règles de priorité de circulation",
+            "Multiplier les espaces publicitaires le long des avenues"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": "153",
+        "text": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique. “Il est temps que la planète franchisse une nouvelle étape dans la protection des océans” a déclaré le ministre australien de l’environement. La création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d’euros en contrepartie. La fondation australienne pour la protection de l’environement a qualifié cette annonce d’historique mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+        "query": "Que projette le gouvernement australien?",
+        "options": [
+            "D’aménager des réserves restreignant la pêche",
+            "D’encourager une politique mondiale de la pêche",
+            "D’organiser des contrôles pour surveiller la pêche",
+            "De créer des taxes sur les produits de la pêche."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "153",
+        "text": "L’Éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation informatique, appelée “code”. Le but n’est pas de faire tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif consitituera, par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, la vitesse à laquelle les technologies numériques ont changé a été bien supérieure à celle de l’évolution de la formation des équipes pédagogiques.",
+        "query": "Qu’apprend-on au sujet de l’enseignement du code à l’école?",
+        "options": [
+            "Les enfants ont des difficultés de concentration dans ce domaine.",
+            "les équipements informatiques des écoles sont devenus obsolètes.",
+            "Les établissements doivent se doter d’une connexion illimitée",
+            "Les professeurs avec les compétences nécessaires sont rares."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": "153",
+        "text": "Futur manager, soyez gentil! Depuis les scandales des traders, les grandes écoles ont été mises au ban des accusés: ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est quetion que de “social business” ou de “développement durable”. À côté des activités associatives tradionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+        "query": "D’après ce texte, Quelle est la nouvelle orientation des grandes écoles?",
+        "options": [
+            "Créer des partenaires avec le milieu associatif",
+            "Former des jeunes défavorisés au mangement",
+            "Intégrer des valeurs sociales et environnementales",
+            "Préparer ders techniciens aux dangers de la finance"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": "153",
+        "text": "D’abord surpris par la naïveté du film, puis sceptique face aux clichés habituels et gentillets de ce genre de longs métrages potaches. On se laisse progressivement porter par la réalisation décalée du cinéaste et par l’interprétation savoureuse de la distribution. S’il manque parfois de rythme et s’il a un peu vieilli, ce film ne demeure pas moins réussi dans sa capacité à savoir capter l’esprit bohème et bon enfant des échanges Erasmus! Après, ça n’est bien sûr pas le chef-d’oeuvre de l’année, mais il est tellement rare aujourd’hui de voir un film français proposer quelque chose d’assez original et drôle sans se départir d’une certaine simplicité et d’une réelle justesse. Qu’on ne peut que saluer le travail du réalisateur et de sa sympathique équipe.",
+        "query": "Quelle critique négative ce spectateur émet-il sur ce film?",
+        "options": [
+            "La réalisation de l’œuvre manque de maîtrise",
+            "Le film tombe dans les stéréotypes du genre",
+            "Le jeu des comédiens lui semble plutôt médiocre",
+            "Le scenario du film est maladroitement construite"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "153",
+        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la “société civile” n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
+        "query": "Quelle est l’opinion de l’auteur?",
+        "options": [
+            "L’ambiance de l’école doit être calquée sur le modelé familial",
+            "L’autorité du professeur doit-être récompensée par sa gentillesse",
+            "L’épanouissement de l’enfant doit primer sur sa réussite",
+            "L’impartialité doit être l’une des qualités principales d’un maitre"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": "153",
+        "text": "“Pendant des millénaires, les chercheurs du mon entier ont jalousement gardé leurs données. Essentiellement parce qu’ils pensaient que le contrôle de l’information donnait le pouvoir” déclare le conservateur en paléontologie au musée d’histoire naturelle de Londres. Les mentalités ont changé depuis quelques années à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l’information. Cependant, vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes, c’est ce que constatent les invités d’une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
+        "query": "Que souhaitent actuellement les chercheurs?",
+        "options": [
+            "Mettre en commun les données.",
+            "Multiplier les colloques internationaux",
+            "Protéger les résultats de leurs études",
+            "Vulgariser l’information scientifique"
+        ],
+        "answer": 0
+    },
+    {
         "id": 30,
         "testId": "153",
         "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois inffranchissable. Non seulement les loyers sont élevés mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante(CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",

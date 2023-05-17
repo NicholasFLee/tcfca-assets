@@ -2,7 +2,7 @@
         "id": 20,
         "testId": "152",
         "text": "Chers Valérie et Serge, Que vos projets immobiliers voient enfin le jour avec-cette année qui débute! Qu’elle vous apporte la joie de déménager à Nancy comme vous le souhaitez, mais aussi, à tous les niveaux, réussite et beaucoup de bonneur! J’espère que nous aurons le temps de nous voir plus souvent et de partir à nouveau en vacances ensemble notre séjour en Corse reste un merveilleux souvenir pour moi. Je vous embrasse, Elisa.",
-        "query": "Quel est le but de cette lettre ?",
+        "query": "Quel est le but de cette lettre?",
         "options": [
             "Annoncer l’achat d’un appartement",
             "Donner des nouvelles à des amis.",
@@ -15,7 +15,7 @@
         "id": 21,
         "testId": "152",
         "text": "Les bons vieux banc verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la ville de Paris recueille l’avis des usagers et des riverains. Le traditionnel banc en fonte et bois a-t-il encore de l’avenir au milieu de ce mobilier futuriste?",
-        "query": "Quelle est l’originalité de ce projet ?",
+        "query": "Quelle est l’originalité de ce projet?",
         "options": [
             "La priorité donnée à l’aspect écologique",
             "La Prise en compte de l'opinion publique.",
@@ -28,7 +28,7 @@
         "id": 22,
         "testId": "152",
         "text": "Le smartphone participe à l’entretien d’un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d’adolescence confronte les parents au désir d’autonomie de l’adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu’ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
-        "query": "Quel constat fait l’auteur à propos des smartphones ?",
+        "query": "Quel constat fait l’auteur à propos des smartphones?",
         "options": [
             "Ils éloignent les jeunes du monde des adultes.",
             "Ils entraînent des comportements de type addictif.",
@@ -67,7 +67,7 @@
         "id": 25,
         "testId": "152",
         "text": "Le témoignage de Maud est très représentatif de la vie étudiante actuelle: “J’ai cherché un logement près de la fac. J’ai trouvé un studio à 600 euros par mois. Mon père me donne 500 par mois. Je dois travailler comme surveillante dans un lycée. Les fins de mois sont difficiles, mais mon dossier d’allocation logement vient d’être accepté. Finalement, j’ai de la chance!”",
-        "query": "Pourquoi Maud pense-t-elle avoir de la chance ?",
+        "query": "Pourquoi Maud pense-t-elle avoir de la chance?",
         "options": [
             "Elle aura un meilleur pouvoir d'achat sous peu.",
             "Elle se débrouille sans l’aide de personne.",
@@ -106,7 +106,7 @@
         "id": 28,
         "testId": "152",
         "text": "Avez-vous déjà observé des familles en train de remplir des sachets de bonbons sur un stand de confiserie? Un chercheur américain, a montré qu’elles en achètent plus quand les bonbons sont de couleurs différentes. De nombreuses observations similaires prouvent que les entreprises agroalimentaires connaissent nos comportements et la manière dont nous prenons certaines de nos décision. Par exemple, elles exploitent notre préférence innée pour le sucre, à tous les âges. Elles savent que l’éducation nutritionnelle des enfants et des jeunes est défaillante dans certaines familles et en profitent.",
-        "query": "Que dénonce l’auteur de cet article ?",
+        "query": "Que dénonce l’auteur de cet article?",
         "options": [
             "La manipulation des clients par les industriels.",
             "L'attitude imprévisible des consommateurs.",
@@ -132,7 +132,7 @@
         "id": 30,
         "testId": "152",
         "text": "Parcourir les routes d’Europe l’été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays. Ce qu’il faut savoir, c’est qu’il existe des différences qui peuvent être notables selon les législations. Alors que la vitesse maximal sur autoroute est de 130km/h en France, elle n’est que de 120km/h en Belgique, en Espagne ou au Portugal. Quant au taux d’alcoolémie toléré, il varie de 0,8g/l en Irlande à zéro en République tchèque.",
-        "query": "Que fait l’auteur de cet article ?",
+        "query": "Que fait l’auteur de cet article?",
         "options": [
             "Il commente une loi.",
             "Il donne un conseil.",
@@ -145,7 +145,7 @@
         "id": 31,
         "testId": "152",
         "text": "On s’est habitué depuis belle lurette à ne plus rencontrer de poinçonneurs dans le métro ni de pompistes dans les stations-service. Mais la liste de professions en voie de disparition ne cesse de s’allonger. Caissières dans les supermarchés, guichetiers dans les banques, hôtesses dans les cinémas… Tous remplacés par des machines? Pas si simple. Comme l’analyse Thibaut Carpentier, directeur du cabinet de conseil Obstand, la tentation industrielle de réduire les frais de personnel est grande mais cette logique se heurte à celle des comsommateurs qui ont mal à se passer d’une présence humaine. D’ailleurs, toutes les entreprises concernées l’ont bien compris: pas de suppression de postes mais des redéploiements avec élargissement des compétences. ",
-        "query": "Quel obstacle rencontre l’automatisation des services ?",
+        "query": "Quel obstacle rencontre l’automatisation des services?",
         "options": [
             "Les coûts élevés des investissements.",
             "Les faibles qualifications des employés.",
@@ -158,7 +158,7 @@
         "id": 32,
         "testId": "152",
         "text": "Théâtre. Joël Pommerat nous offre un très court spectacle dont à la fois ta pureté formelle et ton sens nous ont conquis. Le matériau en est constitué par une série de rencontres, auxquelles lui-même et son équipe assistèrent, entre des travailleurs sociaux et des femmes d’origine simple, vivant en cité, et en proie à des problèmes familiaux. De ces confiances relatives aux tentions qu’elles connaissent dans leurs rapports, soit avec leur parents, soit avec leurs enfants, Pommerat a tiré une suite de brèves séquences qui composent une tragégie intense de la souffrance familiale, et particulièrement de la souffrance de la femmes. Son regard sur la détresse humaine est d’une bienveillance et d’une tendresse infinies, Il ne nous livre aucun message moral et à peine un message social: il fait simplement un appel à notre sensibilité.",
-        "query": "Dans quel objectif Joël Pommerat a-t-il créé son spectacle ?",
+        "query": "Dans quel objectif Joël Pommerat a-t-il créé son spectacle?",
         "options": [
             "Aider les femmes à se battre pour améliorer leur situation familiale.",
             "Amener les spectateurs à s'émouvoir d'un quotidien douloureux.",
@@ -171,7 +171,7 @@
         "id": 33,
         "testId": "152",
         "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la “conférence” installée aujourd’hui par le ministre de l’éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire. C’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits “atypique”. C’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine. C’est encore accueillr l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme… Autant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel du compromis.",
-        "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaire ?",
+        "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaire?",
         "options": [
             "Les familles sont opposées à toute modification.",
             "Les impacts financiers demeurent insurmontables.",
@@ -184,7 +184,7 @@
         "id": 34,
         "testId": "152",
         "text": "L’éclairage événementiel est une discipline artistique récente qui consiste à créer des décors et des ambiances par un jeu de lumières projetées sur des monuments et des sites remarquables. L’intérêt de cet art est double: il permet, sans toucher au site qui accueille l’événement, de modifier littéralement l’aspect d’une façade ou d’un intérieur et de personnaliser un lien en rapport avec le thème abordé. Ainsi une grande ville comme Paris peut façonner ses monuments et ses bâtiments publics grâce aux éclairages conçus et réalisés par de véritables artistes.",
-        "query": "Quel est l’atout principal de cette discipline artistique ?",
+        "query": "Quel est l’atout principal de cette discipline artistique?",
         "options": [
             "Donner une dimension nouvelle aux lieux mis en scène.",
             "Permettre la réhabilitation des monuments historiques.",
@@ -197,7 +197,7 @@
         "id": 35,
         "testId": "152",
         "text": "Plutôt que de multiplier les tests et les mise en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement à leurs salariés. “Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu’il vous amène un autre bon élément, ça permet de limiter les risques.” Signe des temps, la “cooptation” est aujourd’hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime: 4000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
-        "query": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises ?",
+        "query": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises?",
         "options": [
             "À gagner du temps.",
             "À minimiser les aléas.",
@@ -249,7 +249,7 @@
         "id": 39,
         "testId": "152",
         "text": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique. Le voilier va mettre le cap en septembre prochain sur l’Amérique du sud et ses grands fleuves. Il se consacrera “aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable”, selon la “lettre de mission” adressée à son commandant, signée du ministre d’État aux Transport et à l’Écologie. Cette “lettre de mission” de la République assigne à l’équipage un audacieux programme concernant la protection de l’environement.",
-        "query": "Selon l’article, que va faire l’équipage du voilier La Boudeuse ?",
+        "query": "Selon l’article, que va faire l’équipage du voilier La Boudeuse?",
         "options": [
             "Former des scientifiques a la prévention des risques écologiques",
             "Innover dans les moyens de lutter contre les pollutions fluviales",

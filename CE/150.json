@@ -54,7 +54,7 @@
         "id": 24,
         "testId": "150",
         "text": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret. Surnommé “le château des Pêcheurs” il possède des collections d’objets rares sur la pêche. Sans oublier un superbe parc. Aujourd’hui, ce monument est confronté à un fléau: un champignon ronge ses édifices. Les propriétaires ont déjà lancé une campagne de restauration mais le champignon s’attaque aussi à d’autres parties du domaine. Les maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15 euros, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un diner avec les propriétaires.",
-        "query": "D’après l’article, à quoi les internautes sont-ils encouragés ?",
+        "query": "D’après l’article, à quoi les internautes sont-ils encouragés?",
         "options": [
             "À aider à la rénovation en travaillant au château.",
             "À entrer en contact avec les occupants du château.",
@@ -67,7 +67,7 @@
         "id": 25,
         "testId": "150",
         "text": "Sandrine Mercier et Michel Fonovic ont le voyage dans la peau. Les deux journalistes ont longtemps exploré le monde avant d’écrire un livre ensemble. Ils sont partis vivre ailleurs est constitué des histoires d’une trentaine d’expatriés et d’autant de destins et de trajectoires. Les auteurs sont aller chercher les personnages tous très différents mais toujours touchants et sincères en racontant leurs parcours lointains rappel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres… C’est certainement ce qui unit tous ces Français du bout du monde; par-delà leurs différences et leurs expériences: une ouverture d’esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
-        "query": "D’après l’auteur de cet article, quelle est la particularité de cet ouvrage ?",
+        "query": "D’après l’auteur de cet article, quelle est la particularité de cet ouvrage?",
         "options": [
             "L'originalité des pays visités.",
             "La description des habitudes quotidiennes.",
@@ -93,7 +93,7 @@
         "id": 27,
         "testId": "150",
         "text": "Depuis plusieurs années, Thierry Marc, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrire à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d’espoir, de montrer “qu’après”, il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
-        "query": "Pourquoi Thierry Marc intervient-il dans les prisons ?",
+        "query": "Pourquoi Thierry Marc intervient-il dans les prisons?",
         "options": [
             "Pour améliorer les méthodes de travail de la cantine.",
             "Pour encourager la création de formations professionnelles.",
@@ -106,7 +106,7 @@
         "id": 28,
         "testId": "150",
         "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la “société civile” n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
-        "query": "Quelle est l’opinion de l’auteur ?",
+        "query": "Quelle est l’opinion de l’auteur?",
         "options": [
             "L'ambiance de l'école doit être calquée sur le modèle familial.",
             "L'autorité du professeur doit être compensée par sa gentillesse.",
@@ -119,7 +119,7 @@
         "id": 29,
         "testId": "150",
         "text": "Durant les investigation journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n’est aussi qu’un cache-misère, un moyen de compenser l’absence d’informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C’est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler?",
-        "query": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées ?",
+        "query": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées?",
         "options": [
             "Pour améliorer la qualité des documentaires.",
             "Pour dissimuler la pauvreté des contenus.",
@@ -132,7 +132,7 @@
         "id": 30,
         "testId": "150",
         "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois inffranchissable. Non seulement les loyers sont élevés mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante(CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",
-        "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse ?",
+        "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse?",
         "options": [
             "La méfiance des propriétaires.",
             "La rareté des offres ce logement.",
@@ -145,7 +145,7 @@
         "id": 31,
         "testId": "150",
         "text": "Après avoir été fermé au public pendant douze ans, la grotte préhisotique d’Altatnira, située en Espagne doit rouvrir ses portes, mais de manière expérimentale. Il s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
-        "query": "Qu’évoque-t-on dans cet article ?",
+        "query": "Qu’évoque-t-on dans cet article?",
         "options": [
             "L'inauguration d'une exposition temporaire.",
             "L'inscription d'une œuvre au patrimoine mondial.",
@@ -158,7 +158,7 @@
         "id": 32,
         "testId": "150",
         "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernment peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du premier ministre mais il n’y a pas non plus eu de fâcherie comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants “les retraites en tête” personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
-        "query": "Quel a été l’aboutissement de la conférence ?",
+        "query": "Quel a été l’aboutissement de la conférence?",
         "options": [
             "L'affrontement entre partenaires sociaux.",
             "L'avancée majeure en termes de fiscalité.",
@@ -171,7 +171,7 @@
         "id": 33,
         "testId": "150",
         "text": "“Des taxes vertes” ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
-        "query": "Quel est le paradoxe de la taxe carbone ?",
+        "query": "Quel est le paradoxe de la taxe carbone?",
         "options": [
             "Elle concerne uniquement les économies fortes.",
             "Elle freine l'utilisation de ressources renouvelables.",
@@ -197,7 +197,7 @@
         "id": 35,
         "testId": "150",
         "text": "Il faut se rendre à l’évidence: le “jour” n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les “news” des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme “le journal de la veille” perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
-        "query": "Quelle est la position de l’auteur de l’article ?",
+        "query": "Quelle est la position de l’auteur de l’article?",
         "options": [
             "Il conteste la fiabilité des sources d'Internet.",
             "Il critique la surabondance de l'information.",
@@ -236,7 +236,7 @@
         "id": 38,
         "testId": "150",
         "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne falicitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une “fausse bonne idée” qui “induit des déplacements inutiles, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent”. Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
-        "query": "Pourquoi la gratuité des transports publics est-elle critiquée ?",
+        "query": "Pourquoi la gratuité des transports publics est-elle critiquée?",
         "options": [
             "Ce choix creuse les inégalités sociales.",
             "Ce projet omet des questions de sécurité.",
