@@ -1,8 +1,8 @@
 [{
         "id": 20,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/20.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/20.mp3",
         "options": [
             "Il associe tourisme et shopping.",
             "Il est accessible la journée entière.",
@@ -13,9 +13,9 @@
     },
     {
         "id": 21,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/21.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
             "Les écologistes refusent la construction d'une autoroute.",
@@ -26,9 +26,9 @@
     },
     {
         "id": 22,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/22.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/22.mp3",
         "options": [
             "La formation professionnelle des jeunes.",
             "L'absence de vérification des sources.",
@@ -39,9 +39,9 @@
     },
     {
         "id": 23,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/23.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/23.mp3",
         "options": [
             "Parce qu'elle a toujours très faim.",
             "Parce qu'elle est surmenée et stressée.",
@@ -52,9 +52,9 @@
     },
     {
         "id": 24,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/24.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/24.mp3",
         "options": [
             "D'une collection de haute-couture.",
             "D'une exposition de peinture.",
@@ -65,9 +65,9 @@
     },
     {
         "id": 25,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/25.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/25.mp3",
         "options": [
             "Il a répondu à une demande de ses patients.",
             "Il consacre son temps à son nouveau métier.",
@@ -78,9 +78,9 @@
     },
     {
         "id": 26,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/26.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/26.mp3",
         "options": [
             "Il avait du mal à accepter ses choix.",
             "Il essayait souvent de rivaliser avec elle.",
@@ -91,9 +91,9 @@
     },
     {
         "id": 27,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/27.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/27.mp3",
         "options": [
             "La création d'un livre pour enfant de qualité est un travail d'équipe.",
             "Les enfants préfèrent les livres illustrés en trois dimensions.",
@@ -104,9 +104,9 @@
     },
     {
         "id": 28,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/28.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/28.mp3",
         "options": [
             "Des besoins énergétiques des jeunes.",
             "Des bons réflexes pour les repas.",
@@ -117,9 +117,9 @@
     },
     {
         "id": 29,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/29.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/29.mp3",
         "options": [
             "Jouer aux cartes.",
             "Aller se promener.",
@@ -130,9 +130,9 @@
     },
     {
         "id": 30,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un bugde ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédier à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont(such as) les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individue. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié.\nq: Que dénonce cette journaliste?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/30.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/30.mp3",
         "options": [
             "L'absence de formation sur l'élaboration d'un budget.",
             "Le désintérêt des jeunes pour les questions financières.",
@@ -143,9 +143,9 @@
     },
     {
         "id": 31,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais.\nq: Quelle est l’hypothèse de la police sur les oeuvres volés.",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/31.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/31.mp3",
         "options": [
             "Elles ont été revendues.",
             "Elles seront abandonnées.",
@@ -156,9 +156,9 @@
     },
     {
         "id": 32,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "La communication est l'une des plus grandes révolutions de notre époque moderne. Elle a bouleversé nos existences et la société. Ainsi parle Dominique Volton, sociologue très médiatique. Dominique Volton a passé sa vie à valoriser une conception originale de la communication. Il s'est penché sur les mouvements de libération de la femme, les syndicats, les médias, la politique. Une question obsède Dominique Volton. Comment réussir à cohabiter avec l'autre? Et un paradoxe l'étonne. Malgré les techniques de communication de plus en plus performantes, les hommes, les sociétés ou les cultures ne se comprennent pas mieux qu'il y a 2000 ans.\nq: Comment ce sociologue étudie-t-il la communication?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/32.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/32.mp3",
         "options": [
             "En écoutant les gens dans la sphère privée.",
             "En employant des technologies innovantes.",
@@ -169,9 +169,9 @@
     },
     {
         "id": 33,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "Il faut passer devant plusieurs tableaux de la collection permanente avant d'arriver à un seuil métallique qui marque l'entrée dans un espace entièrement vide. Il s'agit de l'exposition VIDE, une rétrospective présentée actuellement à Paris. 50 ans auparavant, un artiste lessivait pour la première fois une salle de musée. C'était en 1958. Yves Klein, célèbre notamment pour ses monochromes, avait alors présenté une salle de musée déserte. L'an dernier, le VIDE, en art contemporain, a donc soufflé ses 50 bougies(celebrated its 50th anniversary), l'occasion de faire le point sur cette histoire particulière. Le musée parisien consacre donc une rétrospective aux artistes qui depuis un demi-siècle ont proposé une autre approche du lieu d'exposition. \nq: Sur quels registres cette rétrospective joue-t-elle?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/33.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/33.mp3",
         "options": [
             "L'humour: elle met en scène des produits ménagers.",
             "La provocation: elle présente des tableaux scandaleux.",
@@ -182,9 +182,9 @@
     },
     {
         "id": 34,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "Une étude menée dans dix pays montre que les Français ont mauvaise opinion de leurs chefs d'entreprise. Bernard Ramanansoha, vous êtes directeur d'une école de commerce, qu'en pensez-vous? C'est vrai que les dirigeants français ressortent moins bien notés. Lorsqu'il s'agit d'organiser le travail de leur équipe ou d'accompagner leurs collaborateurs dans leur évolution professionnelle, ils sont 20 points en dessous des dirigeants internationaux. Maintenant, est-ce que cette étude prouve que les chefs d'entreprise sont moins bons ou est-ce que ça prouve que les gens qui ont répondu au questionnaire, quand ils sont français, sont capables d'être plus critiques que leurs homologues européens? Car encore une fois, il s'agit de perceptions qu'ont les salariés de leur patron. Quelle est la position de ce spécialiste par rapport à cette étude?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/34.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/34.mp3",
         "options": [
             "Il adhère au choix de la méthodologie retenue.",
             "Il approuve toutes les conclusions présentées.",
@@ -195,9 +195,9 @@
     },
     {
         "id": 35,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu'apprend-on sur l'équipe des Canadiens de Montréal?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/35.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/35.mp3",
         "options": [
             "C'est un exemple de réussite par le sport.",
             "C'est un modèle rare de mixité culturelle.",
@@ -208,9 +208,9 @@
     },
     {
         "id": 36,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "La biographie de la faim est un livre que j'ai écrit il y a quelques années, c'était en 2005 ou 2004. Ça répondait à une question assez énorme. De même que les physiciens essayent de résumer toute la loi de la nature à une seule loi, je voulais me résumer moi-même en un seul mot. Je me suis demandé quel était le mot le plus susceptible de me résumer. Après avoir quelque peu réfléchi, j'en suis arrivée à la conclusion que le mot faim, hungry, hunger, était celui qui me résumait le mieux. Bien sûr, faim est à prendre à son sens le plus large, non seulement la faim des aliments mais aussi la faim de tout, la faim des êtres humains, la faim des livres, la faim de la beauté, la faim de tout ce qui existe. De quoi l’auteur s’était inspiré pour choisir le titre de son livre?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/36.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/36.mp3",
         "options": [
             "De sa propre personnalité.",
             "D'un ouvrage scientifique.",
@@ -221,9 +221,9 @@
     },
     {
         "id": 37,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "Les musées sont de moins en moins ces lieux morts et poussiéreux qui habitent encore votre imaginaire. Décors vivants, animations, sons et lumières, chasse aux trésors, jeux de rôles... Tout en exposant les collections, les musées innovent et proposent aussi de se divertir. Mais se divertir jusqu'où? Jusqu'à ne plus voir l'œuvre et seulement son emballage? C'est le risque que pointent certains dans cette course à l'attractivité. Quelle inquiétude exprime l'intervenante concernant les musées?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/37.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/37.mp3",
         "options": [
             "Que les œuvres d'art y soient dégradées.",
             "Que leur taux de fréquentation chute.",
@@ -234,9 +234,9 @@
     },
     {
         "id": 38,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevoix, à Montérégie. Que cherche à faire cette entreprise?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/38.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/38.mp3",
         "options": [
             "Améliorer la présentation des produits.",
             "Augmenter le nombre de clients.",
@@ -247,9 +247,9 @@
     },
     {
         "id": 39,
-        "testId": "4-CO-152",
+        "testId": "152",
         "text": "Au mois de mars dernier, l'AUF, Agence Universitaire de la Francophonie, organisait à Dakar ses journées scientifiques autour du thème de l'appropriation du français par les écrivains d'Afrique. L'occasion de rencontrer un certain nombre de spécialistes, et plus précisément deux écrivains qui s'intéressent à la littérature d'enfance. Il s'agit d'Abdallah Madari Alawi et de Guy Missodet. Depuis longtemps, ils essaient de cerner l'évolution de cette littérature destinée à la jeunesse, qui au départ ne se différenciait peut-être pas tellement de ce qui est production littéraire, et puis en prenant de l'ampleur, commençait à avoir une identité propre. Selon la Journaliste en Afrique, quelles tendances suit la littérature destinée à la jeunesse?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/4-CO-152/39.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-assets/main/152/39.mp3",
         "options": [
             "Elle tend à devenir une forme d'expression spécifique.",
             "Elle reste cantonnée aux frontières du continent africain.",

@@ -1,6 +1,6 @@
 [{
         "id": 30,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois inffranchissable. Non seulement les loyers sont élevés mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante(CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",
         "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse?",
         "options": [
@@ -13,7 +13,7 @@
     },
     {
         "id": 31,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "L’opération “Voile à l’école” permet chaque année à des centaines d’enfants d’apprendre à faire du bateau pendant l’école. Au départ, la voile fait peur. Pour rassurer les élèves débutants les leçons sont très progressives. Les enseignants reçoivent des cahiers avec des explications et des information techniques. Ils peuvent ainsi développer en classe un programme de prévention pour identifier et éviter les dangers.",
         "query": "Quel est le but de l’opération « voile à l’école »?",
         "options": [
@@ -26,7 +26,7 @@
     },
     {
         "id": 32,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Christian Hincker, dessinateur consacré, né en 1967 à Strasbourg, est devenu “Blutch” très tôt, et pas seulement parce que dans la cour de récréation il était le portait craché du caporal du même nom, l’un des héros de la célèbres bande dessinée “Les Tuniques Bleues”… C’est aussi grâce au dessin que “Le petit Christian” se protégeait. “Je me coupais du monde, ça m’arrangeait bien car je fuyais le sport, j’avais la terreur de devenir un souffre-douleur. Le dessin m’a donné une stature au sein de la classe et m’a aidé à survivre…”. Doué, il puise dans ses lectures d’enfant de quoi développer le don: “J’étais tellement emballé par les BD que je lisais que j’essayais de perpétuer le plaisir en reproduisant les ambiances de Tartine, Picsou ou Lucky Luke”.",
         "query": "Comment s’explique l’engouement de Christian Hincker pour le dessin?",
         "options": [
@@ -39,7 +39,7 @@
     },
     {
         "id": 33,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "C’est un joli coup de peinture… avant fermeture! Le vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes. Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes. L’occasion était belle pour le collectif associatif “Espace provisoire” d’envahir les salles et de leur redonner une seconde vie. Plus de 2000 m2 ont été occupés par une soixantaine d’artistes: musiciens, peintres, sculpteurs, photographes…, tous prêts à accueillir des visiteurs, des curieux. L’objectif, non avoué, est de prouver que la culture est à sa place partout.",
         "query": "Que cherche à faire le collectif « Espace provisoire »?",
         "options": [
@@ -52,7 +52,7 @@
     },
     {
         "id": 34,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Le fait du roi, C’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise. L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
         "query": "Sur quel point porte la critique négative faites à ce livre?",
         "options": [
@@ -65,7 +65,7 @@
     },
     {
         "id": 35,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "L’ambition de cet auteur: Changer l’art d’écrire, rien de moins. Mais cela est dit sans emphase, d’un ton dubitatif, fataliste presque “Changer l’art d’écrire, chaque écrivain le fait à sa façon. Je voudrais le faire de façon absolue, radicale, en abolissant totalement les histoires, l’intrigue, bien qu’il y ait toujours, en fait, des sortes de micros-narrations dans mes livres. J’ai l’idée qu’il est encore trop tôt pour savoir ce que j’ai apporté ou pas. Cela dit, lorsque vous écrivez, vous êtes tellement occupé à essayer de resoudre les problemes techniques qui se posent à chaque instant que vous n’avez pas le temps d’avoir beaucoup d’idées générales.”",
         "query": "De quelle manière cet auteur veut-il réaliser son ambition?",
         "options": [
@@ -78,7 +78,7 @@
     },
     {
         "id": 36,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible. Le modèle est celle que Kafka rédigea à l’intention de son père et qu’il préféra ranger dans un tiroir tant l’accusation portée étati peu amène. Avec l’autre fille, missive adressé à sa soeur ainée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le ternie d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d’un vieux uniment, la collection souhaite réhabiliter un genre littéraire oublié.",
         "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux?",
         "options": [
@@ -91,7 +91,7 @@
     },
     {
         "id": 37,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Une scolarisation précoce permet une meilleure adaptation à l’univers scolaire et peut donc être le gage d’une réussite scolaire ultérieure. “La scolarisation avant 3 ans, écrit Agnès Florin(professeur de psychologie), trouve des justifications dans les résultas de plusieurs recherches, au moins pour les enfants des milieux défavorisés et sur certains aspects de leur développement congnitif et langagier. Par ailleurs, l’entrée précoce à l’école permet d’éviter l’apparition de troubles ou de perturbations et joue donc un rôle préventif. On trouve en effet de nombreux exemples de jeunes enfants dont on a pu détecter certains problèmes psychologieques ou physiologiques grâce à leur entrée à l’école.",
         "query": "Selon l’auteur, que permet la scolarité précoce des enfants?",
         "options": [
@@ -104,7 +104,7 @@
     },
     {
         "id": 38,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Prix bas toute l’année. Des voyages aux loisirs en passant par les voitures, plus question(no more) de rater la bonne affaire. Voilà pourquoi les fins de séries, les promotions, les soldes ne se sont jamais aussi bien portés(never have been better). On achète surtout des vêtements, jusqu’à 14 articles pour un motant moyen de 186 euros, même si on doit dépenser moins le reste de l’année. Le gouvernement l’a bien compris: il vient d’octroyer deux semaines supplémentaires de soldes, à la convenance des commerçants, en dehors des mois de juillet et janvier, afin de redonner un peu de tonus aux ventes.",
         "query": "Quel est le thème de cet article?",
         "options": [
@@ -117,7 +117,7 @@
     },
     {
         "id": 39,
-        "testId": "4-CE-153",
+        "testId": "153",
         "text": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique. Le voilier va mettre le cap en septembre prochain sur l’Amérique du sud et ses grands fleuves. Il se consacrera “aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable”, selon la “lettre de mission” adressée à son commandant, signée du ministre d’État aux Transport et à l’Écologie. Cette “lettre de mission” de la République assigne à l’équipage un audacieux programme concernant la protection de l’environement.",
         "query": "Selon l’article, que va faire l’équipage du voilier La Boudeuse?",
         "options": [

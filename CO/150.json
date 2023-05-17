@@ -1,8 +1,8 @@
 [{
         "id": 20,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/20.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/20.mp3",
         "options": [
             "Le nombre d'élèves est en baisse.",
             "Les frais de scolarité sont élevés.",
@@ -13,9 +13,9 @@
     },
     {
         "id": 21,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/21.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/21.mp3",
         "options": [
             "Il fait plus beau qu'hier.",
             "Il fait plus mauvais qu’hier.",
@@ -26,9 +26,9 @@
     },
     {
         "id": 22,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/22.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/22.mp3",
         "options": [
             "Lui apporter un livre.",
             "Lui demander conseil.",
@@ -39,9 +39,9 @@
     },
     {
         "id": 23,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/23.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/23.mp3",
         "options": [
             "Des circuits respectueux de l'environnement.",
             "Des formules-adaptées à chaque client.",
@@ -52,9 +52,9 @@
     },
     {
         "id": 24,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/24.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/24.mp3",
         "options": [
             "La création de numéros innovants.",
             "La renaissance des traditions oubliées.",
@@ -65,9 +65,9 @@
     },
     {
         "id": 25,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/25.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/25.mp3",
         "options": [
             "Augmenter les espaces de terres cultivables.",
             "Moderniser les machines de production agricole.",
@@ -78,9 +78,9 @@
     },
     {
         "id": 26,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/26.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/26.mp3",
         "options": [
             "La peur de faire de la peine à leur entourage familial.",
             "Le confort que leur procure leur structure familiale.",
@@ -91,9 +91,9 @@
     },
     {
         "id": 27,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/27.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/27.mp3",
         "options": [
             "Ils espèrent obtenir une allocation de l'Etat.",
             "Ils voient leur futur de manière positive,",
@@ -104,9 +104,9 @@
     },
     {
         "id": 28,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/28.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/28.mp3",
         "options": [
             "Sa mémoire exceptionnelle.",
             "Ses aptitudes au jardinage.",
@@ -117,9 +117,9 @@
     },
     {
         "id": 29,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/29.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/29.mp3",
         "options": [
             "De devenir entrepreneur en créant son entreprise.",
             "De s'informer sur les secteurs porteurs d'emplois.",
@@ -130,9 +130,9 @@
     },
     {
         "id": 30,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/30.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/30.mp3",
         "options": [
             "D'un appel à projets imaginaires",
             "D'un examen de fin d'études",
@@ -143,9 +143,9 @@
     },
     {
         "id": 31,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "On fait un petit tour de France, c'est-à-dire qu'on est parti vers le sud et on s'est arrêté à La Rochelle, parce que nos ancêtres viennent de La Rochelle. Ils sont partis au 17e siècle pour le Québec du port de La Rochelle, donc on est venu voir le port et essayer de trouver une trace de nos ancêtres. Ce qu'on a commencé par trouver, c'est que c'était plutôt compliqué d'avoir des traces écrites, surtout quand notre ancêtre n'était pas un capitaine de bateau ou quelque chose comme ça. De quoi parle cet interveant?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/31.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/31.mp3",
         "options": [
             "D'une compétition sportive.",
             "D'une croisière maritime.",
@@ -156,9 +156,9 @@
     },
     {
         "id": 32,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "En fait, comme on habite tous le 19e arrondissement de Paris, le canal de Lourdes qui est devenu notre espace de baignade quotidien. Après une journée de travail, généralement on se retrouve au bord du canal, tous ensemble, et on se baigne. Aujourd'hui on est entre 15 et 20 à se baigner régulièrement dans le canal de Lourdes. On est des jeunes étudiants fouchés(poor), qui ont envie de s'amuser, qui n'ont pas forcément les moyens aussi de partir de Paris. Que font les jeunes parisiens dont parle ce reportage?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/32.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/32.mp3",
         "options": [
             "Ils nagent en plein air dans la capitale.",
             "Ils s'amusent dans un parc d'attractions",
@@ -169,9 +169,9 @@
     },
     {
         "id": 33,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "C'est une des plus grandes chansons qui a été faite dans toute l'histoire de la chanson francophone. C'est un court métrage, c'est même un long métrage en quelques minutes. Et d'arriver à dépeindre tout un univers où on comprend la complexité du personnage, où on peut le mettre dans un contexte social, où on a même presque des parfums, on a tout dans cette chanson-là. Donc oui, pour moi, c'est comme si j'avais chanté un grammaire. Si j'étais en classique, j'aurais joué Bach. Donc là, j'ai chanté Aznavour, j'ai chanté cette chanson-là d'Aznavour. De quoi parle cet artiste?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/33.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/33.mp3",
         "options": [
             "De la particularité de sa voix.",
             "De la reprise d'une œuvre.",
@@ -182,9 +182,9 @@
     },
     {
         "id": 34,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France, et ce nombre a vocation à grossir. Aujourd'hui, les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emplois qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance. Dans ce reportage, qu'apprend-on sur les seniors?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/34.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/34.mp3",
         "options": [
             "Ils consomment plus que la jeune génération.",
             "Ils dépensent beaucoup pour leur santé.",
@@ -195,9 +195,9 @@
     },
     {
         "id": 35,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "20% du bassin arctique canadien est devenu corrosif pour certains de ses habitants. On s'inquiète beaucoup ainsi de l'élargissement de ces fameuses zones mortes dans les océans, là où l'oxygène et la vie se sont retirées. Elles sont particulièrement nombreuses le long de la troisième côte océanique canadienne, donc le long de la province de la Colombie-Britannique. Denis Gilbert est chercheur scientifique au ministère canadien de pêche et océans Canada. Selon lui, il faut savoir dépasser les simples manchettes alarmistes des journaux, basées souvent sur les cris d'alarme des environnementalistes. Le phénomène des zones mortes ou de l'hypoxie n'est pas nouveau, et ce n'est pas obligatoirement une mauvaise chose. La preuve, en tout cas, reste à faire. Quelle est la position du chercheur Denis Gilbert?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/35.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/35.mp3",
         "options": [
             "Il considère que le phénomène doit être analysé.",
             "Il conteste les méthodes de collecte des données.",
@@ -208,9 +208,9 @@
     },
     {
         "id": 36,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "Les nouveaux outils aujourd'hui que nous utilisons au quotidien, est-ce qu'ils ont stimulé de nouvelles intelligences ou est-ce qu'ils ont amoindri d'autres capacités? Alors, on peut considérer qu'en effet, les nouveaux outils numériques, par exemple ordinateurs, robots, font qu'on va déléguer aux machines certaines tâches asservissantes pour l'homme. On voit pour la mémoire, le calcul mental. C'est un autre aspect, la mémoire. La mémoire, c'est le second, c'est que la mémoire est devenue plutôt externe. La mémoire étant externe, et finalement, les tâches qui nécessitaient beaucoup de temps, de concentration, de labeur plus automatique, peuvent être déléguées aux machines. Donc, il y a là un espace de nouveauté. Qu'explique l'intervenant à propos des nouveaux outils numériques?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/36.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/36.mp3",
         "options": [
             "Ils améliorent les facultés d'attention.",
             "Ils entravent la liberté de penser.",
@@ -221,9 +221,9 @@
     },
     {
         "id": 37,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. Il doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, disons qu'il y a parfois un petit problème. C'est d'abord que peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quel sont les limites du recours au médiateur lors d’en conflit avec sa banque.",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/37.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/37.mp3",
         "options": [
             "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
             "Les banques influencent les décisions prises par les médiateurs.",
@@ -234,9 +234,9 @@
     },
     {
         "id": 38,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "Gérard Nora, vous vous occupez de la restauration de monuments historiques, comment s'y prend-on lorsqu'il faut refaire des éléments dont il ne reste quasiment aucune trace? Nécessité fait loi en la matière. Lorsqu'une peinture ou un vitrail par exemple ont complètement disparu dans une église, nous n'avons pas d'autre choix que de concevoir une œuvre moderne, selon les standards actuels. On ne fait pas un pastiche ou une imitation? Ce serait la pire des choses à faire à un monument. On sait que le faux contamine le vrai et aujourd'hui, il règne une suspicion sur certains monuments parce qu'on a voulu faire du faux à mauvais escient, sans avoir le talent de ceux qui créaient les originaux aux périodes antérieures. Quelle solution, l'expert juge-t-il préférable concernant les éléments architecturaux que le temps a détruit?",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/38.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/38.mp3",
         "options": [
             "Les remplacer par des copies de qualité.",
             "Les rénover selon les techniques originales.",
@@ -247,9 +247,9 @@
     },
     {
         "id": 39,
-        "testId": "6-CO-150",
+        "testId": "150",
         "text": "Dans les relations d'amitié virtuelle, bien souvent les liens se créent d'un clic, se défont d'un clic. Il y a une précarité de la relation humaine dans ces réseaux-là. Et puis même aussi dans les rencontres, on est appelé à faire sur le mode de l'instantanéité, dans le speed dating ou toutes les formes de speed meeting, qui fait qu'on s'aide à(rely on) l'affect du moment pour décider si on maintient une relation ou pas. Et donc tout le caractère durable et vertueux des amitiés à l'échelle d'une vie, on peut se poser la question de leur existence à l'avenir.",
-        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/6-CO-150/39.mp3",
+        "audio": "https://raw.githubusercontent.com/NicholasFLee/tcfca-audio/main/150/39.mp3",
         "options": [
             "La fragilité de l'engagement.",
             "La multiplicité des contacts.",
