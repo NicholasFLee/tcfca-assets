@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "182",
+        "options": [
+            "Il a avalé un mauvais morceau de fromage.",
+            "Il a trouvé quelque chose dans son fromage.",
+            "Il est tombé malade en mangeant du fromage.",
+            "Il s’est fait mal aux dents avec le fromage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "182",
+        "options": [
+            "actrice à la télévision française.",
+            "gendarme sur les routes de France.",
+            "championne française de conduite.",
+            "reporter pour la télévision française."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": "182",
+        "options": [
+            "Elle a consommé des sucres lents.",
+            "Elle a diversifié son alimentation.",
+            "Elle a préféré sauter certains repas.",
+            "Elle a privilégié les repas rapides."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": "182",
+        "options": [
+            "Effectuer un calcul.",
+            "Évoquer un fait divers.",
+            "Fournir un support.",
+            "Sélectionner un souvenir."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": "182",
+        "options": [
+            "le résultat d’une lutte menée par des gens orgueilleux et intolérants.",
+            "le triomphe d’une opinion émise par Apollinaire, mais autrefois combattue.",
+            "un miracle dû à la persévérance des archéologues sur plusieurs continents.",
+            "la consécration des œuvres européennes jusqu’alors remisées dans les musées."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "182",
+        "options": [
+            "De protéger les droits du personnel.",
+            "De vérifier le profil des postulants.",
+            "D’encourager la création d’emplois.",
+            "D’éviter la discrimination à l’embauche."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": "182",
+        "options": [
+            "Il déconseille au grand public de les adopter.",
+            "Il estime qu’elles sont insuffisamment promues.",
+            "Il remet en question leurs retombées positives.",
+            "Il révèle qu’elles contribuent au déclin industriel."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": "182",
+        "options": [
+            "L’efficacité d’un slogan choc.",
+            "La coopération de ses membres.",
+            "La distribution de brochures.",
+            "La promotion en ligne de la campagne."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "182",
+        "options": [
+            "Elles ont moins de succès que les cursus scientifiques.",
+            "Elles représentent inégalement les milieux sociaux.",
+            "Elles séduisent des étudiants aux profils variés.",
+            "Elles sont source de discrimination envers les femmes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": "182",
+        "options": [
+            "Les données des malades sont transmises aux fabricants.",
+            "Les incidents dus aux erreurs de diagnostic augmentent.",
+            "Les patients se méfient des innovations technologiques.",
+            "Les recherches sont limitées par le manque d’informations."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": "182",
+        "options": [
+            "Il est stimulé en phase d’apprentissage du langage.",
+            "À chaque activité correspond une région précise.",
+            "Les neurones sont concentrés dans quelques zones.",
+            "Son développement est lié au caractère d’un individu."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "182",
+        "options": [
+            "La longévité des programmes.",
+            "La qualité des services offerts.",
+            "Le changement régulier des séries.",
+            "Le contentement de leurs abonnés."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "182",
+        "options": [
+            "D’anciens artistes ont l’occasion de monter sur scène.",
+            "Les financements publics contribuent à leur expansion.",
+            "Les organisateurs s’adaptent aux nouvelles tendances.",
+            "Les tarifs proposés dépendent de la programmation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": "182",
+        "options": [
+            "Il est méconnu du public visé.",
+            "Il est restreint à quelques pays.",
+            "Il favorise certains établissements.",
+            "Il souffre d’une image négative."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": "182",
+        "options": [
+            "Dans un centre de relaxation.",
+            "Dans un laboratoire.",
+            "Dans un musée archéologique.",
+            "Dans un parc naturel."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "182",
+        "options": [
+            "Il aimerait que sa région soit plus combative et engagée face aux problèmes locaux.",
+            "Il réclame de nouvelles dispositions tarifaires pour que les factures soient moins élevées.",
+            "Il s’indigne en estimant que les reproches faits aux consommateurs sont injustifiés.",
+            "Il trouve inquiétantes les conséquences de la mauvaise gestion des sources d’énergie"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": "182",
+        "options": [
+            "L’écologie est avant tout une affaire d’État.",
+            "La concertation est la clé d’une action réussie.",
+            "Les mesures protectionnistes sont dépassées.",
+            "L’influence des lobbies est à prendre en compte."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "182",
+        "options": [
+            "Attirer davantage d’étudiants brillants.",
+            "Être à la pointe de la technologie.",
+            "Ouvrir ses cours à un public élargi.",
+            "Proposer des disciplines inédites."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": "182",
+        "options": [
+            "L’évolution des aptitudes mentales.",
+            "La mondialisation de la recherche scientifique.",
+            "La transformation des savoirs fondamentaux.",
+            "Le maintien du patrimoine culturel."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "182",
+        "options": [
+            "Elles diminuent dans toutes les organisations.",
+            "Elles résultent du fonctionnement d’une société.",
+            "Elles se combattent mieux avec de la sincérité.",
+            "Elles se justifient par des arguments fallacieux."
+        ],
+        "answer": 1
+    }
+]

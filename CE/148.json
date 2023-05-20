@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "148",
+        "options": [
+            "Il a avalé un mauvais morceau de fromage.",
+            "Il a trouvé quelque chose dans son fromage.",
+            "Il est tombé malade en mangeant du fromage.",
+            "Il s’est fait mal aux dents avec le fromage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "148",
+        "options": [
+            "Accéder à la propriété privée.",
+            "Avoir un mode de vie économique.",
+            "Participez à la vie associative.",
+            "Tenter une nouvelle aventure."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "148",
+        "options": [
+            "Parce qu’il y a eu des pluies importantes.",
+            "Parce que les femelles ont moins pondu.",
+            "Parce que les larves ont beaucoup mangé.",
+            "Parce qu’ils ont hiberné plus longtemps."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "148",
+        "options": [
+            "Des facilités d’irrigation.",
+            "Des moissons plus fréquentes.",
+            "Des paysans plus nombreux.",
+            "Des rendements en baisse."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": "148",
+        "options": [
+            "Rationaliser la gestion des associations.",
+            "Élargir le recrutement à de nouveaux bénévoles.",
+            "Former les responsables des associations.",
+            "Mieux communiquer sur l’utilisation des fonds."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "148",
+        "options": [
+            "En envoyant des courriels sur la plateforme de l’émission.",
+            "En étant sélectionné pour être convié sur le plateau.",
+            "En joignant le standard de la chaîne pendant le direct.",
+            "En participant à distance au moyen d’une cybercaméra."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "148",
+        "options": [
+            "L’avenir de son travail est menacé par l’industrie agroalimentaire.",
+            "La qualité des produits charcutiers est reconnue par les médecins.",
+            "Le passage d’un métier de bouche à un autre se fait facilement.",
+            "L’image attachée à sa profession est stéréotypée et peu valorisante."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "148",
+        "options": [
+            "Obtenir de l’argent pour développer des centres d’accueil.",
+            "Convaincre les entreprises étrangères d’investir au Burundi.",
+            "Soutenir les étudiants burundais expatriés pour leurs études.",
+            "Trouver des bénévoles pour s’occuper des enfants à l’hôpital."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": "148",
+        "options": [
+            "L’harmonisation de leurs appellations.",
+            "La multiplication de leurs prédateurs.",
+            "La transformation de leur écosystème.",
+            "Le prélèvement abusif lié à leur surpêche."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "148",
+        "options": [
+            "Il constate la fréquence des modifications apportées aux photos.",
+            "Il espère la disparition des corrections sur les photos.",
+            "Il souligne la place grandissante des photos par rapport au texte.",
+            "Il vante la grande qualité artistique des photos de célébrités."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "148",
+        "options": [
+            "La complémentarité des supports médiatiques.",
+            "La rivalité entre les différents médias.",
+            "La spécificité des médias français.",
+            "Le développement des médias en ligne."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "148",
+        "options": [
+            "Les coûts élevés des investissements.",
+            "Les faibles qualifications des employés.",
+            "Les réticences émises par la clientèle.",
+            "Les spécificités de certains métiers."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "148",
+        "options": [
+            "D’anciens artistes ont l’occasion de monter sur scène.",
+            "Les financements publics contribuent à leur expansion.",
+            "Les organisateurs s’adaptent aux nouvelles tendances.",
+            "Les tarifs proposés dépendant de la programmation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": "148",
+        "options": [
+            "Elle concerne uniquement les économies fortes.",
+            "Elle freine l’utilisation de ressources renouvelables.",
+            "Elle permet le dépassement des normes édictées.",
+            "Elle ralentit le progrès dans les États émergents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "148",
+        "options": [
+            "L’idée de démocratie est aujourd’hui plus controversée qu’avant.",
+            "La démocratie est affaiblie par la diversité de ses formes.",
+            "La mise en place de la démocratie résulte d’un long processus.",
+            "Les fondements théoriques de la démocratie sont utopiques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": "148",
+        "options": [
+            "Il apaise les tensions de la société.",
+            "Il insiste sur le point de vue matériel.",
+            "Il propose des programmes utopiques.",
+            "Il traite les problèmes liés aux sols."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "148",
+        "options": [
+            "L’écologie est avant tout une affaire d’État.",
+            "La concertation est la clé d’une action réussie.",
+            "Les mesures protectionnistes sont dépassées.",
+            "L’influence des lobbies est à prendre en compte."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "148",
+        "options": [
+            "La Commission européenne est en désaccord avec les autorités.",
+            "Le contenu des programmes universitaires est inadapté à la vie active.",
+            "Le discours sur la formation continue s’oppose à la réalité observée.",
+            "L’obtention de diplômes cesse d’assurer l’avenir professionnel des jeunes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": "148",
+        "options": [
+            "Ils ont une influence très préoccupante sur l’économie.",
+            "Ils se produisent dans les entreprises industrielles.",
+            "Ils sont remplacés par des pathologies professionnelles.",
+            "Ils sont source de traumatismes musculaires graves."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "testId": "148",
+        "options": [
+            "L’aisance de l’acteur qui tient le rôle principal.",
+            "La finesse de l’humour présente dans la pièce.",
+            "Le mystère qui entoure le personnage.",
+            "Le talent de l’ensemble des musiciens."
+        ],
+        "answer": 0
+    }
+]

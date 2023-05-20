@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "178",
+        "options": [
+            "Il cite un extrait d’une œuvre de Modiano.",
+            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il présente le métier de Modiano à ses débuts.",
+            "Il raconte la rencontre entre Modiano et sa femme."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "178",
+        "options": [
+            "Le remboursement de son article.",
+            "L’échange de son téléphone.",
+            "L’envoi de son téléphone par la poste.",
+            "Une réclamation sur son achat."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": "178",
+        "options": [
+            "Effectuer un calcul.",
+            "Évoquer un fait divers.",
+            "Fournir un support.",
+            "Sélectionner un souvenir."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 23,
+        "testId": "178",
+        "options": [
+            "Elle est simple à mettre en place, mais aussi très couteuse.",
+            "Elle est source d’infection pour des patients déjà fragiles.",
+            "Elle entraine une trop grande consommation d’énergie.",
+            "Elle concurrence des modes naturels de rafraîchissement de l’air."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": "178",
+        "options": [
+            "Ce sont des réseaux de commerçants qui les ont créés.",
+            "Ils sont financés discrètement par des entreprises.",
+            "Les prestations qu’ils proposent sont payantes.",
+            "Leur maintenance est assurée par des bénévoles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "178",
+        "options": [
+            "Par l’abolition des relations hiérarchiques classiques.",
+            "Par la mise en place d’une carte écologique commune.",
+            "Par la primauté de l’intérêt collectif sur bénéfices.",
+            "Par la répartition équitable des profits entre salariés."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "178",
+        "options": [
+            "L’avenir de son travail est menacé par l’industrie agroalimentaire.",
+            "La qualité des produits charcutiers est reconnue par les médecins.",
+            "Le passage d’un métier de bouche à un autre se fait facilement.",
+            "L’image attachée à sa profession est stéréotypée et peu valorisante."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "178",
+        "options": [
+            "Il dissocie environnement et questions sociales.",
+            "Il envisage avec optimisme les futurs possibles.",
+            "Il reste sceptique envers les scientifiques.",
+            "Il s’associe à l’écriture d’un documentaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "178",
+        "options": [
+            "À quel problème sont confrontés les distributeurs indépendants.",
+            "La forte concurrence des vidéos à la demande à la télévision.",
+            "Le désintérêt croissant du public pour les productions indépendantes.",
+            "Les nombreux échecs des projections proposées le weekend."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "178",
+        "options": [
+            "Commencer une thérapie.",
+            "Multiplier les passe-temps.",
+            "Rechercher l’âme sœur.",
+            "Travailler sur soi-même."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": "178",
+        "options": [
+            "Il commente une loi.",
+            "Il donne un conseil.",
+            "Il formule une plainte.",
+            "Il raconte une anecdote."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "178",
+        "options": [
+            "Abandonner le travail du bois.",
+            "Aider les plus démunis à se loger.",
+            "Bâtir des locaux commerciaux.",
+            "Développer l’activité de recyclage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": "178",
+        "options": [
+            "L’attirance pour les espaces naturels.",
+            "L’insécurité des zones urbaines.",
+            "La précarité du monde professionnel.",
+            "Le désir de vivre en communauté."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": "178",
+        "options": [
+            "Il est imposé sans explications aux enseignants.",
+            "Il manque de finesse dans l’analyse des résultats.",
+            "Il propose des questions inadaptées aux enfants.",
+            "Il remet en question des traditions profondément ancrées."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "178",
+        "options": [
+            "Ce sont des blessures corporelles superficielles.",
+            "Elles sont commises par des groupes minoritaires.",
+            "Les autorités universitaires s’en préoccupent peu.",
+            "Lutter contre elles peut nuire à certaines libertés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "178",
+        "options": [
+            "Il apaise les tensions de la société.",
+            "Il insiste sur le pont de vue matériel.",
+            "Il propose des programmes utopiques.",
+            "Il traite les problèmes liés aux sols."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "178",
+        "options": [
+            "Être au plus près de l’actualité.",
+            "Présenter des histoires positives.",
+            "Proposer des anecdotes amusantes.",
+            "Recenser les dérives de la société."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "178",
+        "options": [
+            "Elle favorise l’évolution des mentalités.",
+            "Elles incarnent une première historique.",
+            "Elle permet de moderniser le lexique.",
+            "Elle reflète les clivages de la société."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "178",
+        "options": [
+            "Ils ont une influence très préoccupante sur l’économie.",
+            "Ils se produisent dans les entreprises industrielles.",
+            "Ils sont remplacés par des pathologies professionnelles.",
+            "Ils sont source de traumatismes musculaires."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "testId": "178",
+        "options": [
+            "À établir un lien entre robotique et individualisme.",
+            "À évaluer l’action des robots dans la lutte contre la solitude.",
+            "À répéter les dérivés issus de la robotique dans le quotidien.",
+            "À vérifier l’empathie ressentie envers les robots."
+        ],
+        "answer": 3
+    }
+]

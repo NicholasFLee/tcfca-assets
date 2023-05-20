@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "180",
+        "options": [
+            "Elle cultive des espaces verts abandonnés.",
+            "Elle réalise de petits services d’entretien.",
+            "Elle récolte les produits de terrains privés.",
+            "Elle s’occupe de gérer des jardins collectifs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": "180",
+        "options": [
+            "Améliorer les capacités physiques.",
+            "Découvrir de nouveaux types de sports.",
+            "Développer le cercle de ses relations sociales.",
+            "Maintenir les performances de la mémoire."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "180",
+        "options": [
+            "Effectuer un calcul.",
+            "Évoquer un fait divers.",
+            "Fournir un support.",
+            "Sélectionner un souvenir."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 23,
+        "testId": "180",
+        "options": [
+            "Il a écrit une œuvre abondante et variée.",
+            "Il a toujours rêvé de devenir médecin.",
+            "Il est emballé par les histoires d’épouvante.",
+            "Il peine à écrire depuis quelque temps."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "180",
+        "options": [
+            "Elles concurrencent le marché numérique.",
+            "Elles contribuent à protéger l’environnement.",
+            "Elles favorisent l’épargne des citoyens.",
+            "Elles sécurisent les modes de paiement."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "180",
+        "options": [
+            "Il sera éloigné des magasins.",
+            "Il sera isolé au milieu d’un parc.",
+            "Il sera proche d’un jardin public.",
+            "Il sera situé près d’un axe routier."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "180",
+        "options": [
+            "Elle est dépendante de décisions politiques.",
+            "Elle est limitée par les intellectuels.",
+            "Elle est menacée par l’essor d’autres langues.",
+            "Elle est modelée par ses locuteurs."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "180",
+        "options": [
+            "Améliorer la puissance de la réception.",
+            "Diminuer les risques sanitaires.",
+            "Limiter les dépenses de la ville",
+            "Respecter les normes internationales."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "180",
+        "options": [
+            "Démontrer les dégâts des méthodes de culture intensive.",
+            "Prouver l’efficacité des insectes contre les parasites.",
+            "Recommander des procédés de gestion durable de l’eau.",
+            "Vulgariser des techniques de rendement des terres."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "180",
+        "options": [
+            "Elle a peu d’action sur le dérèglement climatique.",
+            "Elle demande trop d’entretien aux petites villes.",
+            "Elle doit figurer dans les programmes électoraux.",
+            "Elle est incompatible avec les objectifs politiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "180",
+        "options": [
+            "Ce sont les violons récents qui sont les plus estimés.",
+            "Il est difficile de maîtriser les violons anciens.",
+            "La qualité des violons évolue avec le temps.",
+            "Voir le violon modifie l’appréciation de l’auditeur."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "180",
+        "options": [
+            "Sur l’industrie des bois rares.",
+            "Sur la démographie dans ces zones.",
+            "Sur la pollution atmosphérique.",
+            "Sur la progression des cultures tropicales."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "180",
+        "options": [
+            "Développer leur esprit critique.",
+            "Encourager les débats entre eux.",
+            "Enrichir leur capacité mémorielle.",
+            "Évaluer régulièrement leurs acquis."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "180",
+        "options": [
+            "Il est méconnu du public visé.",
+            "Il est restreint à quelques pays",
+            "Il favorise certains établissements",
+            "Il souffre d’une image négative."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": "180",
+        "options": [
+            "Sa structure est identique chez l’homme et l’animal.",
+            "Sa taille influe sur les compétences cognitives.",
+            "Son développement est ralenti les premiers mois.",
+            "Son fonctionnement est encore mystérieux."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "180",
+        "options": [
+            "Il conteste la fiabilité des sources d’internet.",
+            "Il critique la surabondance de l’information.",
+            "Il dénonce la médiocrité de la presse écrite.",
+            "Il doute de l’intérêt des médias traditionnels."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": "180",
+        "options": [
+            "La quasi-absence d’héroïnes.",
+            "L’appel constant à la violence.",
+            "L’atténuation des clichés.",
+            "L’uniformité des scénarios."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "180",
+        "options": [
+            "Il analyse l’établissement d’une dynastie royale.",
+            "Il explique l’origine d’une légende médiévale.",
+            "Il explore la construction identitaire des Français.",
+            "Il renforce le mythe de la bataille de Bouvines."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": "180",
+        "options": [
+            "Former des scientifiques à la prévention de risques écologiques.",
+            "Innover dans les moyens de lutte contre les pollutions fluviales.",
+            "Observer l’écosystème dans une région de grands fleuves.",
+            "Représenter le gouvernement français lors d’une rencontre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "testId": "180",
+        "options": [
+            "Ils défendent les pratiques traditionnelles.",
+            "Ils éprouvent le sentiment d’être incompris.",
+            "Ils réfutent les reproches qui leur sont faits.",
+            "Ils sont fiers de leurs apports à l’économie."
+        ],
+        "answer": 1
+    }
+]

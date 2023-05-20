@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "166",
+        "options": [
+            "La réputation de restaurants touristiques est menacée par internet.",
+            "La technologie modifie la relation à la gastronomie.",
+            "Les grands chefs livrent leurs secrets sur des sites.",
+            "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "166",
+        "options": [
+            "Le remboursement de son article.",
+            "L’échange de son téléphone.",
+            "L’envoi de son téléphone par la poste.",
+            "Une réclamation sur son achat."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": "166",
+        "options": [
+            "C’est possible à la campagne.",
+            "C’est possible avec du temps.",
+            "C’est possible, mais pénible.",
+            "C’est possible pour tous."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "166",
+        "options": [
+            "Il considère que l’ère du support papier est définitivement terminée.",
+            "Il estime qu’il reste du travail à faire pour mieux préparer cette évolution.",
+            "Il juge indispensable de n’utiliser que les supports électroniques.",
+            "Il pense qu’il faut privilégier le contact des élèves avec l’outil internet."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": "166",
+        "options": [
+            "D’aménager des réserves restreignant la pêche.",
+            "D’encourager une politique mondiale de la pêche.",
+            "D’organiser des contrôles pour surveiller la pêche.",
+            "De créer des taxes sur les produits de la pêche."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": "166",
+        "options": [
+            "Ils influencent les élèves au-delà de la classe.",
+            "Ils instillent le goût du travail en équipe.",
+            "Ils permettent au système de se maintenir.",
+            "Ils suscitent de nombreuses vocations."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "166",
+        "options": [
+            "Ils alternent les supports selon le type d’activité.",
+            "Ils hésitent à utiliser les techniques informatiques.",
+            "Ils optent toujours pour des ouvrages imprimés.",
+            "Ils tiennent compte des progrès des apprenants."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "166",
+        "options": [
+            "D’un catalogue de styliste.",
+            "D’un dictionnaire philosophique.",
+            "D’un manuel d’histoire de l’art.",
+            "D’une présentation de musée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": "166",
+        "options": [
+            "C’est un produit recherché par les consommateurs.",
+            "Elle valorise des méthodes agricoles traditionnelles.",
+            "Ses qualités nutritionnelles sont reconnues.",
+            "Son exploitation génère des revenus élevés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": "166",
+        "options": [
+            "Les changements de climat.",
+            "Les méthodes de culture.",
+            "Les oiseaux prédateurs.",
+            "Les politiques publiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "166",
+        "options": [
+            "Sa connaissance des médias.",
+            "Ses méthodes ancestrales.",
+            "Ses recettes originales.",
+            "Son charisme incroyable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "166",
+        "options": [
+            "Amélie a déménagé récemment.",
+            "Amélie a invité Florence.",
+            "Florence a beaucoup de travail.",
+            "Florence aime le bord de mer."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": "166",
+        "options": [
+            "Il a plus d’illustrations que d’écrit.",
+            "Il préserve l’imaginaire des enfants.",
+            "Il touche également les adultes.",
+            "Il valorise le patrimoine littéraire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": "166",
+        "options": [
+            "D’anciens artistes ont l’occasion de monter sur scène.",
+            "Les financements publics contribuent à leur expansion.",
+            "Les organisateurs s’adaptent aux nouvelles tendances.",
+            "Les tarifs proposés dépendent de la programmation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": "166",
+        "options": [
+            "Il constitue un bienfait autant qu’un problème.",
+            "Il est menacé d’assèchement.",
+            "Il pollue les terres avoisinantes.",
+            "Il représente un attrait touristique essentiel."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "166",
+        "options": [
+            "Sa technique puise dans divers mouvements artistiques.",
+            "Ses œuvres se fondent dans leur environnement.",
+            "Son inspiration provient de ses nombreuses lectures.",
+            "Son savoir-faire met en valeur des procédés connus."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "166",
+        "options": [
+            "L’influence de ses contemporains.",
+            "La singularité de ses portraits.",
+            "Son engouement pour la nature.",
+            "Son travail post-impressionniste."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "166",
+        "options": [
+            "Une adéquation avec l’attente des lecteurs.",
+            "Une diffusion abusive de copies illégales.",
+            "Une offre promotionnelle provisoire.",
+            "Une perte croissante du nombre d’abonnés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": "166",
+        "options": [
+            "C’est un accessoire d’élégance masculine.",
+            "C’est un signe de reconnaissance entre pairs.",
+            "C’est une coutume en réunion.",
+            "C’est une marque de courtoisie."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": "166",
+        "options": [
+            "Il reconnaît ses aspects pratiques.",
+            "Il remet en cause ses bienfaits.",
+            "Il s’inquiète de son usage abusif.",
+            "Il s’émerveille de sa technologie."
+        ],
+        "answer": 2
+    }
+]

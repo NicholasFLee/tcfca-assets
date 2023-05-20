@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "165",
+        "options": [
+            "Il est facile de s’identifier aux personnages.",
+            "Les lieux de tournage sont authentiques.",
+            "On y dresse un portrait juste de la société.",
+            "Son humour fait passer un message sérieux."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": "165",
+        "options": [
+            "Découvrir de recettes locales.",
+            "Entrer en contact avec les gens.",
+            "Réaliser une opération publicitaire.",
+            "Vendre des spécialités françaises."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": "165",
+        "options": [
+            "Des adaptations télévisées de Maupassant.",
+            "Des programmes d’études littéraires.",
+            "Une exposition consacrée à Maupassant.",
+            "Un ouvrage critique récemment paru."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": "165",
+        "options": [
+            "La faible qualité de la production française.",
+            "Le manque d’innovation dans son entreprise.",
+            "Les contraintes des contrôles financiers.",
+            "L’expansion de la concurrence internationale."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": "165",
+        "options": [
+            "Ils ont plus de facilités d’apprentissage.",
+            "Ils ont une idée claire de leur futur métier.",
+            "Ils sont déterminés à travailler beaucoup.",
+            "Ils sont plus sûrs de leur nouveau choix."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "165",
+        "options": [
+            "Découvrir le travail de recherche en laboratoire.",
+            "Faire découvrir les formations pour devenir ingénieur.",
+            "Inaugurer l’ouverture d’un campus universitaire.",
+            "Obtenir des conseils afin de créer une association."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": "165",
+        "options": [
+            "Un engagement politique.",
+            "Une contemplation abstraite.",
+            "Une mise en valeur de l’autre.",
+            "Une technique de retouche."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": "165",
+        "options": [
+            "Des conservateurs de musée.",
+            "Des élus européens.",
+            "De simples citoyens.",
+            "Des militants associatifs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "165",
+        "options": [
+            "De la concurrence des autres générations.",
+            "De la course à la compétitive.",
+            "De la situation économique tendue.",
+            "Des critiques émanant de leurs parents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": "165",
+        "options": [
+            "Les données des malades sont transmises aux fabricants.",
+            "Les incidents dus aux erreurs de diagnostic augmentent.",
+            "Les patients se méfient des innovations technologiques.",
+            "Les recherches sont limitées par le manque d’informations."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": "165",
+        "options": [
+            "Sur l’industrie des bois rares.",
+            "Sur la démographie dans ces zones.",
+            "Sur la pollution atmosphérique.",
+            "Sur la progression des cultures tropicales."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": "165",
+        "options": [
+            "L’addiction liée à certains aliments.",
+            "L’inévitable uniformisation du goût.",
+            "La difficulté à décrire les saveurs.",
+            "La multiplication des termes culinaires."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "165",
+        "options": [
+            "Créer de nouvelles sources d’emploi.",
+            "Éviter la solitude des personnes âgées.",
+            "Instaurer des rapports de réciprocité.",
+            "Répondre à l’allongement de la durée de vie."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": "165",
+        "options": [
+            "Les familles sont opposées à toute modification.",
+            "Les impacts financiers demeurent insurmontables.",
+            "Les intérêts en jeu sont difficilement compatibles.",
+            "Les opinions des experts sont en total désaccord."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "165",
+        "options": [
+            "La liberté accordée aux visiteurs.",
+            "La simplicité des moyens artistiques",
+            "Le classicisme de sa présentation.",
+            "Le discours politique des plasticiens."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "165",
+        "options": [
+            "Aborder des œuvres réputées difficiles avec leur élevés.",
+            "Encourager leurs élèves à écrire des textes littéraires.",
+            "Inviter régulièrement des écrivains célèbres dans leur classe.",
+            "Monter des pièces de théâtre d’auteurs classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "165",
+        "options": [
+            "La quasi-absence d’héroïnes.",
+            "L’appel constant à la violence.",
+            "L’atténuation des clichés.",
+            "L’uniformité des scénarios."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "165",
+        "options": [
+            "Elle favorise l’évolution des mentalités.",
+            "Elle incarne une première historique.",
+            "Elle permet de moderniser le lexique.",
+            "Elle reflète les clivages de la société."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "165",
+        "options": [
+            "Il donne satisfaction aux employés interrogés.",
+            "Il est délicat à mettre en œuvre.",
+            "Il impose une restructuration des services.",
+            "Il nuit à la performance des cadres."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": "165",
+        "options": [
+            "Embaucher des parents défavorisés.",
+            "Faciliter l’intégration professionnelle.",
+            "Proposer des tarifs préférentiels en crèche.",
+            "Trouver un accueil provisoire pour les enfants."
+        ],
+        "answer": 1
+    }
+]

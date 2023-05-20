@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "179",
+        "options": [
+            "Il cite un extrait d’une œuvre de Modiano.",
+            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il présente le métier de Modiano à ses débuts.",
+            "Il raconte la rencontre entre Modiano et sa femme."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "179",
+        "options": [
+            "Un spectacle de cirque.",
+            "Une activité de maquillage.",
+            "Une rencontre avec un clown.",
+            "Une sortie au zoo."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": "179",
+        "options": [
+            "Acheter les meilleurs produits et dépenser le moins possible.",
+            "Avoir la garantie de la qualité du produit.",
+            "Être amateur de viande et militer pour le bien-être animal.",
+            "Privilégier les aliments bio et avoir du mal à s’en procurer."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "179",
+        "options": [
+            "Définir les conditions d’accueil des élèves en milieu professionnel.",
+            "Expliquer le déroulement des stages en entreprise pour les élèves.",
+            "Informer des mesures de sécurité des élèves lors de visites d’entreprises.",
+            "Lister les différents types de stages professionnels destinés aux élèves."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "179",
+        "options": [
+            "Il devient la solution idéale des voyages organisés à la dernière minute.",
+            "Il est accessible à un nombre croissant d’utilisateurs grâce à internet.",
+            "Il occupe une place grandissante dans les petites annonces des journaux.",
+            "Il s’impose comme le moyen de déplacement à la mode chez les jeunes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "179",
+        "options": [
+            "Pour comparer son histoire à celle de la Terre.",
+            "Pour évaluer les possibilités d’aller y vivre.",
+            "Pour expliquer son grand nombre de séismes.",
+            "Pour obtenir des données sur sa composition."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": "179",
+        "options": [
+            "L’essor de nouveaux modes de consommation.",
+            "La stagnation de la dépendance au numérique.",
+            "Le développement des voitures ultraconnectées.",
+            "Le recul des difficultés économiques des ménages."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "179",
+        "options": [
+            "Faire découvrir des destinations authentiques.",
+            "Organiser des séjours à vocation humanitaire.",
+            "Recruter des salariés a l’international.",
+            "Reverser ses bénéfices à des associations."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "179",
+        "options": [
+            "Il est difficile d’en évaluer l’impact sur la santé.",
+            "Il permet la consommation de médicaments.",
+            "Le sénat a toujours refusé de voter une loi sur le sujet.",
+            "Les Français sont encore attachés à cette tradition."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "179",
+        "options": [
+            "Pour améliorer la qualité des documentaires.",
+            "Pour dissimuler la pauvreté des contenus.",
+            "Pour moderniser leurs méthodes de travail.",
+            "Pour piéger les gens visés par les enquêtes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "179",
+        "options": [
+            "La faune aquatique est en danger.",
+            "La technologie facilite le pillage des mers.",
+            "Le nombre de voleurs dépaves augmente.",
+            "Les bateaux en détresse sont laissés à leur sort."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "179",
+        "options": [
+            "Elle devrait être réservée aux périodes de congés.",
+            "Elle est préconisée par la médecine.",
+            "Elle peine à se répandre en milieu professionnel.",
+            "Elle serait néfaste pour le rendement."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": "179",
+        "options": [
+            "Aider les femmes à se battre pour améliorer leur situation familiale.",
+            "Amener les spectateurs à s’émouvoir d’un quotidien douloureux.",
+            "Démontrer que la condition de la femme dans les cités est désastreuse.",
+            "Informer des difficultés que peuvent rencontrer les enfants des cités."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": "179",
+        "options": [
+            "Leur donner le gout de l’observation.",
+            "Leur permettre d’inventer des activités.",
+            "Leur procurer des jeux éducatifs.",
+            "Leur proposer des énigmes à résoudre."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": "179",
+        "options": [
+            "Sa structure est identique chez l’homme et l’animal.",
+            "Sa taille influe sur les compétences cognitives.",
+            "Son développement est ralenti les premiers mois.",
+            "Son fonctionnement est encore mystérieux."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "179",
+        "options": [
+            "Sa technique puise dans divers mouvements artistiques.",
+            "Ses œuvres se fondent dans leur environnement.",
+            "Son inspiration provient de ses nombreuses lectures.",
+            "Son savoir-faire met en valeur des procédés connus."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "179",
+        "options": [
+            "La primauté de l’apparence sur les compétences.",
+            "Le corporatisme pousse de certaines sociétés.",
+            "Le manque de formation aux nouvelles technologies.",
+            "Les principes actuels d’organisation du travail."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "179",
+        "options": [
+            "La capacité des plantes à nettoyer les sols.",
+            "La rentabilité d’un nouveau système d’extraction.",
+            "Le résultat des recherches de Mr Van der Hert.",
+            "Les préoccupations écologistes des industriels."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": "179",
+        "options": [
+            "Concevoir des lieux de vie alternatifs.",
+            "Étudier de nouvelles technologies.",
+            "Proposer des activités futuristes.",
+            "Protéger des espaces marins menacés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "179",
+        "options": [
+            "Elle représenterait l’influence de l’inconscient.",
+            "Elle résulterait de l’observation de normes.",
+            "Elle résulterait la part de l’acquis dû au groupe.",
+            "Elle serait issue du patrimoine génétique."
+        ],
+        "answer": 2
+    }
+]

@@ -1,0 +1,221 @@
+[{
+        "id": 20,
+        "testId": "171",
+        "options": [
+            "Il est facile de s’identifier aux personnages.",
+            "Les lieux de tournage sont authentiques.",
+            "On y dresse un portrait juste de la société.",
+            "Son humour fait passer un message sérieux."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": "171",
+        "options": [
+            "Découvrir des recettes locales.",
+            "Entrer en contact avec les gens.",
+            "Réaliser une opération publicitaire.",
+            "Vendre des spécialités françaises."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": "171",
+        "options": [
+            "Elle demande des connaissances techniques poussées.",
+            "Elle empêche les jeunes utilisateurs de se concentrer.",
+            "Elle masque les problèmes pédagogiques essentiels.",
+            "Elle sert sans succès d’argument commercial."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "171",
+        "options": [
+            "Bâtir une église identique dans le quartier.",
+            "Débuter le réaménagement du boulevard.",
+            "Entreprendre une rénovation du lieu.",
+            "Réhabiliter les logements sociaux existants."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": "171",
+        "options": [
+            "La langue française et l’anglais jouissent d’un statut équitable.",
+            "Les ligues sportives internationales comptent peu de francophones.",
+            "Les textes officiels et les règlements sont traduits en langue française.",
+            "Très peu de francophones occupent des fonctions à responsabilité."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "171",
+        "options": [
+            "S’ils appartiennent à une espèce adéquate.",
+            "S’ils ont des feuilles persistantes en hiver.",
+            "S’ils ont été plantés il y a longtemps.",
+            "S’ils se trouvent loin des zones de logement."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "171",
+        "options": [
+            "Augmenter la surface des terres agricoles.",
+            "Garantir la qualité des aliments pour animaux.",
+            "Généraliser l’agriculture biologique.",
+            "Lutter contre la démographie galopante."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": "171",
+        "options": [
+            "Améliorer la puissance de la réception.",
+            "Diminuer les risques sanitaires.",
+            "Limiter les dépenses de la ville.",
+            "Respecter les normes internationales."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "171",
+        "options": [
+            "La constitution d’une culture nationale.",
+            "La stimulation de la croissance économique.",
+            "L’amélioration des comportements sanitaires.",
+            "Le développement d’une conscience civique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": "171",
+        "options": [
+            "Les changements de climat.",
+            "Les méthodes de culture.",
+            "Les oiseaux prédateurs.",
+            "Les politiques publiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "171",
+        "options": [
+            "L’accès universel à des aliments bon marché.",
+            "L’innovation des procédés de production.",
+            "Le développement du commerce équitable.",
+            "Le partage d’expériences traditionnelles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "171",
+        "options": [
+            "D’attirer l’attention de l’interlocuteur.",
+            "D’imaginer des solutions originales.",
+            "De solliciter davantage la raison.",
+            "De trouver des réponses rapides."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": "171",
+        "options": [
+            "Encourager le dialogue avec le public.",
+            "Former des acteurs en banlieue.",
+            "Réaliser une œuvre à plusieurs mains.",
+            "Sensibiliser à l’égalité des sexes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "171",
+        "options": [
+            "C’est un handicap qui peut se transformer en atout.",
+            "Il décuple l’ensemble des aptitudes cérébrales.",
+            "Il est officiellement reconnu comme une maladie.",
+            "Ses effets touchent plus particulièrement les seniors."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": "171",
+        "options": [
+            "Attirer l’attention grâce à un coup de publicité.",
+            "Concurrencer les autres moyens de locomotion.",
+            "Multiplier le nombre de souscripteurs par internet.",
+            "Permettre de voyager extramuros à moindres frais."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "171",
+        "options": [
+            "Ils se détériorent après un certain temps.",
+            "Ils sont dangereux pour la santé.",
+            "Ils sont nuisibles pour l’environnement.",
+            "Ils sont vendus à des prix élevés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "171",
+        "options": [
+            "Encadrer le marché du numérique.",
+            "Prévenir l’addiction aux jeux vidéo.",
+            "Protéger les enfants des ondes.",
+            "Restreindre l’impact des écrans."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "171",
+        "options": [
+            "Je ressentais pleinement l’anxiété des bêtes.",
+            "Je percevais parfaitement la quiétude de cet instant.",
+            "Je découvrais inopinément un spectacle effrayant et inquiétant.",
+            "J’éprouvais un sentiment de crainte face à ces troupeaux d’animaux sauvages."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": "171",
+        "options": [
+            "Elle engendre une baisse du rendement du personnel.",
+            "Elle est en partie prise en charge par les entreprises.",
+            "Les employés sont attachés à l’origine des aliments.",
+            "Les salariés ont tendance à la prendre à l’extérieur."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "testId": "171",
+        "options": [
+            "Il mobilise une zone spécifique du cerveau.",
+            "Il s’avère plus spontané chez les enfants.",
+            "Il s’enrichit des connaissances théoriques.",
+            "Il semble réservé aux esprits imaginatifs."
+        ],
+        "answer": 2
+    }
+]
