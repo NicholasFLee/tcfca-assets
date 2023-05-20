@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "171",
+        "options": [
+            "Les conditions de recrutement sont plus difficiles aujourd’hui.",
+            "Les étudiants ignorent le fonctionnement de l’entreprise.",
+            "Les jeunes étaient préparés plus sérieusement dans le passé.",
+            "Les patrons actuels ont un degré d’exigence trop élevé."
+        ],
+        "audio": "/mp3/171/20.mp3",
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "171",
+        "options": [
+            "Elle est en congé.",
+            "Elle est tombée malade.",
+            "Elle travaille la nuit.",
+            "Elle voyage souvent."
+        ],
+        "audio": "/mp3/171/21.mp3",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "171",
+        "options": [
+            "D’attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d’histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "audio": "/mp3/171/22.mp3",
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": "171",
+        "options": [
+            "L’atmosphère détendue.",
+            "La souplesse des horaires.",
+            "L’efficacité de son équipe.",
+            "Les opportunités de carrière."
+        ],
+        "audio": "/mp3/171/23.mp3",
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": "171",
+        "options": [
+            "Pour changer de profession.",
+            "Pour découvrir de nouveaux lieux.",
+            "Pour se rapprocher de sa famille.",
+            "Pour suivre son compagnon."
+        ],
+        "audio": "/mp3/171/24.mp3",
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "171",
+        "options": [
+            "Écouter de la musique classique.",
+            "Parler des plats que l’on savoure.",
+            "Partager un repas en famille.",
+            "Avoir une table bien décorée."
+        ],
+        "audio": "/mp3/171/25.mp3",
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": "171",
+        "options": [
+            "Avoir la liberté d’être son propre patron.",
+            "Innover dans le domaine informatique.",
+            "Mener un projet aux États-Unis.",
+            "Mieux réussir que ses parents."
+        ],
+        "audio": "/mp3/171/26.mp3",
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "171",
+        "options": [
+            "De la préparation des vacances.",
+            "Des révisions d’un examen.",
+            "D’un anniversaire surprise.",
+            "D’un projet de visites culturelles."
+        ],
+        "audio": "/mp3/171/27.mp3",
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "171",
+        "options": [
+            "Conseiller gratuitement des régimes minceur.",
+            "Faciliter la consommation de produits sains.",
+            "Livrer des spécialités régionales à domicile.",
+            "Proposer une émission de cuisine sur internet."
+        ],
+        "audio": "/mp3/171/28.mp3",
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": "171",
+        "options": [
+            "Jouer aux cartes.",
+            "Aller se promener.",
+            "Regarder la télévision.",
+            "Visiter la région."
+        ],
+        "audio": "/mp3/171/29.mp3",
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "171",
+        "options": [
+            "Il a besoin d’être perfectionné.",
+            "Il fonctionne pour les romans.",
+            "Il peut adapter la ponctuation.",
+            "Il sert aux spécialistes du métier."
+        ],
+        "audio": "/mp3/171/30.mp3",
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "171",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifique.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "audio": "/mp3/171/31.mp3",
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": "171",
+        "options": [
+            "Elle est dans l’innovation constante.",
+            "Elle est tournée vers l’exotisme.",
+            "Elle fait la part belle à la tradition.",
+            "Elle nécessite un service très rapide."
+        ],
+        "audio": "/mp3/171/32.mp3",
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "171",
+        "options": [
+            "Elle se heurte aux systèmes existants.",
+            "Elle est complexe à développer en Europe.",
+            "Elle est soutenue par les grandes surfaces.",
+            "Elle représente une solution d’avenir."
+        ],
+        "audio": "/mp3/171/33.mp3",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "171",
+        "options": [
+            "Pour accélérer la rénovation d’anciennes constructions.",
+            "Pour comparer les styles des maisons nord-américaines.",
+            "Pour conserver la trace du patrimoine architectural.",
+            "Pour dénoncer la dégradation des logements urbains."
+        ],
+        "audio": "/mp3/171/34.mp3",
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": "171",
+        "options": [
+            "Ils desservent l’image des vedettes.",
+            "Ils génèrent des profits insuffisants.",
+            "Ils programment les mêmes musiciens.",
+            "Ils sont tous organisés pendant l’été."
+        ],
+        "audio": "/mp3/171/35.mp3",
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": "171",
+        "options": [
+            "Les acheteurs.",
+            "Les commerçants.",
+            "Les entreprises.",
+            "Les pouvoirs publics."
+        ],
+        "audio": "/mp3/171/36.mp3",
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "171",
+        "options": [
+            "Pour mettre en pratique ses connaissances.",
+            "Pour opérer une reconversion professionnelle.",
+            "Pour pouvoir rembourser son emprunt.",
+            "Pour vivre quelques années à l’étranger."
+        ],
+        "audio": "/mp3/171/37.mp3",
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": "171",
+        "options": [
+            "Ils font l’objet de manipulations douteuses par les pollueurs.",
+            "Ils répondent à des critères insuffisamment exigeants.",
+            "Ils sont destinés à justifier les politiques économiques.",
+            "Ils sont publiés par des organismes liés aux entreprises."
+        ],
+        "audio": "/mp3/171/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "171",
+        "options": [
+            "Le processus d’attractivité des cellules femelles.",
+            "Les différences avec la reproduction des plantes terrestres.",
+            "La constitution de certains organismes aquatiques.",
+            "L’influence de la météorologie sur leur fécondation."
+        ],
+        "audio": "/mp3/171/39.mp3",
+        "answer": 0
+    }
+]

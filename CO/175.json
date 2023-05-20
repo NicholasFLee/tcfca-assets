@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "175",
+        "options": [
+            "C’est meilleur marché.",
+            "C’est plus simple.",
+            "C’est plus rapide.",
+            "C’est trop tard."
+        ],
+        "audio": "/mp3/175/20.mp3",
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "175",
+        "options": [
+            "Le comportement des habitants.",
+            "Le sentiment de solitude.",
+            "Les conditions météoritiques.",
+            "Les obstacles linguistiques."
+        ],
+        "audio": "/mp3/175/21.mp3",
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": "175",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "audio": "/mp3/175/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "175",
+        "options": [
+            "De conservation des plantes.",
+            "De nettoyage d’espaces verts.",
+            "De procédés de recyclage.",
+            "De techniques de culture."
+        ],
+        "audio": "/mp3/175/23.mp3",
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": "175",
+        "options": [
+            "Pour afficher notre niveau de vie.",
+            "Pour affirmer notre personnalité.",
+            "Pour améliorer notre quotidien.",
+            "Pour imiter notre entourage."
+        ],
+        "audio": "/mp3/175/24.mp3",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "175",
+        "options": [
+            "C’est le jeune public qui les crée.",
+            "Ce sont des outils de jardinage transformés.",
+            "Ils sont confectionnés sur scène.",
+            "Ils sont réalisés avec des objets recyclés."
+        ],
+        "audio": "/mp3/175/25.mp3",
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": "175",
+        "options": [
+            "Pour annoncer une nouvelle.",
+            "Pour annuler une livraison.",
+            "Pour faire une réclamation.",
+            "Pour obtenir une information."
+        ],
+        "audio": "/mp3/175/26.mp3",
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "175",
+        "options": [
+            "En les incitant à travailler de manière collaborative.",
+            "En les poussant à prendre des risques importants.",
+            "En leur offrant des formations personnalisées.",
+            "En leur proposant de participer à des compétitions."
+        ],
+        "audio": "/mp3/175/27.mp3",
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": "175",
+        "options": [
+            "Des besoins énergétiques des jeunes.",
+            "Des bons réflexes pour les repas.",
+            "Des comportements alimentaires.",
+            "Des conseils de préparation culinaire."
+        ],
+        "audio": "/mp3/175/28.mp3",
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": "175",
+        "options": [
+            "L’absence d’éléments ornementaux.",
+            "La limitation du nombre d’étages.",
+            "Le respect d’obligations légales.",
+            "L’utilisation d’un matériau unique."
+        ],
+        "audio": "/mp3/175/29.mp3",
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": "175",
+        "options": [
+            "De la législation en vigueur.",
+            "De la paye des employés.",
+            "Du bon vouloir du client.",
+            "Du type d’établissement."
+        ],
+        "audio": "/mp3/175/30.mp3",
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": "175",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifique.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "audio": "/mp3/175/31.mp3",
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": "175",
+        "options": [
+            "Il a accepté les articles de presse dans les livres scolaires.",
+            "Il a créé un journal quotidien dédié à l’éducation publique.",
+            "Il a distribué des journaux aux établissements scolaires.",
+            "Il a intégré l’étude de la presse à ses programmes."
+        ],
+        "audio": "/mp3/175/32.mp3",
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": "175",
+        "options": [
+            "Des recettes ont été baptisées en l’honneur de clients réputés.",
+            "La promotion de son restaurant a été confiée à des personnalités.",
+            "Un accueil chaleureux et généreux était réservé aux habitués.",
+            "Un partenariat inédit entre hôtel et restaurant a été mis en place."
+        ],
+        "audio": "/mp3/175/33.mp3",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "175",
+        "options": [
+            "Elle doit servir d’exemple aux enfants.",
+            "Elle est automatique en cas de réunion.",
+            "Elle répond à un besoin des employés.",
+            "Elle s’applique très rarement au travail."
+        ],
+        "audio": "/mp3/175/34.mp3",
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "175",
+        "options": [
+            "De l’absurdité qu’il y a à valoriser leur manque de culture scientifique.",
+            "De la nécessité de mieux défendre les acquis de la culture classique.",
+            "Du besoin qu’ont les mathématiciens d’avoir une culture générale.",
+            "Du refus des valeurs humanistes par les milieux scientifiques."
+        ],
+        "audio": "/mp3/175/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "175",
+        "options": [
+            "Elles abordent les traitements des enfants.",
+            "Elles s’appuient sur la complicité des parents.",
+            "Elles sont animées par le personnel hospitalier.",
+            "Elles tiennent compte de l’avis des médecins."
+        ],
+        "audio": "/mp3/175/36.mp3",
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "175",
+        "options": [
+            "Les acheteurs.",
+            "Les commerçants.",
+            "Les entreprises.",
+            "Les pouvoirs publics."
+        ],
+        "audio": "/mp3/175/37.mp3",
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "175",
+        "options": [
+            "De la tranquillité et de l’intimité.",
+            "Des facilités de réservation.",
+            "Un contact privilégié avec son hôte.",
+            "Un tarif intéressant toute l’année."
+        ],
+        "audio": "/mp3/175/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "175",
+        "options": [
+            "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
+            "Les banques influencent les décisions prises par les médiateurs.",
+            "Les demandeurs trouvent que la procédure est trop longue et compliquée.",
+            "Quelle que soit la nature du litige, le médiateur n’a qu’un pouvoir consultatif."
+        ],
+        "audio": "/mp3/175/39.mp3",
+        "answer": 3
+    }
+]

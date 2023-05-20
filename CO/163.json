@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "163",
+        "options": [
+            "Il fait beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
+        ],
+        "audio": "/mp3/163/20.mp3",
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "163",
+        "options": [
+            "Elle va repartir avec sa voiture.",
+            "Elle va revenir dans dix minutes.",
+            "Elle va revenir le lendemain.",
+            "Elle va repartir sans sa voiture."
+        ],
+        "audio": "/mp3/163/21.mp3",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "163",
+        "options": [
+            "Ils affichaient des prix erronés.",
+            "Ils annonçaient de fausses promotions.",
+            "Ils soldaient des articles périmés.",
+            "Ils vendaient des marchandises à perte."
+        ],
+        "audio": "/mp3/163/22.mp3",
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": "163",
+        "options": [
+            "II n’y a plus de place en seconde classe.",
+            "II n’y a plus de place pour la voiture.",
+            "Il n’y a plus de place pour quatre personnes.",
+            "II n’y a plus de cabines pour quatre personnes."
+        ],
+        "audio": "/mp3/163/23.mp3",
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": "163",
+        "options": [
+            "Elle a changé de cursus universitaire.",
+            "Elle a rencontré des gens étonnants.",
+            "Elle a suivi des enseignements variés.",
+            "Elle a trouvé le niveau des cours facile."
+        ],
+        "audio": "/mp3/163/24.mp3",
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": "163",
+        "options": [
+            "Amener l’élève à participer à sa propre formation.",
+            "Axer principalement l’apprentissage sur le jeu.",
+            "Initier les élèves à des activités parascolaires.",
+            "Responsabiliser les élèves encore immatures."
+        ],
+        "audio": "/mp3/163/25.mp3",
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "163",
+        "options": [
+            "Ils annulent leurs activités.",
+            "Ils partent à la montagne.",
+            "Ils préfèrent sortir la nuit.",
+            "Ils restent au frais à l’intérieur."
+        ],
+        "audio": "/mp3/163/26.mp3",
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": "163",
+        "options": [
+            "De ses difficultés à se réveiller le matin.",
+            "De son dernier salaire qui est insuffisant.",
+            "De son emploi du temps professionnel.",
+            "De son manque d’organisation habituel."
+        ],
+        "audio": "/mp3/163/27.mp3",
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "163",
+        "options": [
+            "La répartition des tâches dans le service.",
+            "Le manque d’expérience de l’équipe.",
+            "Le retard pris dans la réalisation d’un projet.",
+            "Les désaccords entre employeur et employés."
+        ],
+        "audio": "/mp3/163/28.mp3",
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "163",
+        "options": [
+            "D’apprendre à élaborer des itinéraires de visites.",
+            "D’expérimenter une manière différente de voyager.",
+            "De découvrir des adresses d’hôtel à l’étranger.",
+            "De participer à des actions de solidarité internationale."
+        ],
+        "audio": "/mp3/163/29.mp3",
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": "163",
+        "options": [
+            "Il y a eu des problèmes de circulation automobile.",
+            "Le réveille-matin n’a pas sonné.",
+            "Il y a eu une panne d’électricité dans le métro.",
+            "Le personnel du métro a fait grève."
+        ],
+        "audio": "/mp3/163/30.mp3",
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": "163",
+        "options": [
+            "Il annonce une réorganisation.",
+            "Il encourage un collaborateur.",
+            "Il négocie des délais de livraison.",
+            "II rappelle à l’ordre un employé."
+        ],
+        "audio": "/mp3/163/31.mp3",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "163",
+        "options": [
+            "L’attribution d’aides financières.",
+            "Les inégalités salariales.",
+            "Les modes de consommation.",
+            "L’essor du travail féminin."
+        ],
+        "audio": "/mp3/163/32.mp3",
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": "163",
+        "options": [
+            "Les jeunes diplômés privilégient le travail en milieu urbain.",
+            "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+            "Les soins aux animaux de ferme demandent une spécialisation.",
+            "Les vétérinaires en activité refusent de former les nouveaux."
+        ],
+        "audio": "/mp3/163/33.mp3",
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": "163",
+        "options": [
+            "Ils consomment plus que la jeune génération.",
+            "Ils dépensent beaucoup pour leur santé.",
+            "Ils profitent peu des effets de la croissance.",
+            "Ils sont à l’origine de créations d’emplois."
+        ],
+        "audio": "/mp3/163/34.mp3",
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "163",
+        "options": [
+            "Il considère que le phénomène doit être analysé.",
+            "Il conteste les méthodes de collecte des données.",
+            "Il partage la vision catastrophiste des écologistes.",
+            "Il s’oppose aux décisions du gouvernement."
+        ],
+        "audio": "/mp3/163/35.mp3",
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "163",
+        "options": [
+            "Il demande un délai supplémentaire de réflexion.",
+            "Il doute de l’intérêt d’un diagnostic préalable.",
+            "Il hésite sur la définition de son projet.",
+            "II souhaite l’avis de consultants extérieurs."
+        ],
+        "audio": "/mp3/163/36.mp3",
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "163",
+        "options": [
+            "De la mise en vente libre de jouets sans contrôle sanitaire.",
+            "De la tendance des adultes à s’approprier les jouets des enfants.",
+            "De l’intérêt croissant suscité par les jouets tout au long de l’année.",
+            "Du niveau de toxicité maximal toléré dans la fabrication des jouets."
+        ],
+        "audio": "/mp3/163/37.mp3",
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "163",
+        "options": [
+            "Sur l’étroite collaboration avec les équipes locales.",
+            "Sur la formation des employés expatriés.",
+            "Sur la prédominance de bénévoles dans chaque pays.",
+            "Sur le montant élevé des bénéfices réalisés."
+        ],
+        "audio": "/mp3/163/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "163",
+        "options": [
+            "L’absence de temps morts.",
+            "L’ennui des distractions.",
+            "L’insuffisance de repos.",
+            "Le manque d’action."
+        ],
+        "audio": "/mp3/163/39.mp3",
+        "answer": 0
+    }
+]

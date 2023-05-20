@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "176",
+        "options": [
+            "Le nombre d’élèves est en baisse.",
+            "Les frais de scolarité sont élevés.",
+            "Leurs programmes sont inadaptés.",
+            "Leurs financements sont fragilisés."
+        ],
+        "audio": "/mp3/176/20.mp3",
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": "176",
+        "options": [
+            "Elle va repartir avec sa voiture.",
+            "Elle va revenir dans dix minutes.",
+            "Elle va revenir le lendemain.",
+            "Elle va repartir sans sa voiture."
+        ],
+        "audio": "/mp3/176/21.mp3",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "176",
+        "options": [
+            "La fréquence des compétitions sportives.",
+            "Le contenu des programmes sportifs.",
+            "Les contraintes liées aux pratiques sportives.",
+            "L’insuffisance des résultats sportifs."
+        ],
+        "audio": "/mp3/176/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "176",
+        "options": [
+            "Il fait des compliments.",
+            "Il formule une invitation.",
+            "Il cherche à convaincre.",
+            "Il donne des conseils."
+        ],
+        "audio": "/mp3/176/23.mp3",
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": "176",
+        "options": [
+            "La qualité de l’accueil des visiteurs et des familles.",
+            "Le souci du bien-être des personnes hospitalisées.",
+            "La capacité d’adaptation du personnel médical.",
+            "La prise en charge personnalisée en fonction de l’Age."
+        ],
+        "audio": "/mp3/176/24.mp3",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "176",
+        "options": [
+            "Ecouter de la musique classique.",
+            "Parler des plats que l’on savoure.",
+            "Partager un repas en famille.",
+            "Avoir une table bien décorée."
+        ],
+        "audio": "/mp3/176/25.mp3",
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": "176",
+        "options": [
+            "Aller à l’essentiel.",
+            "Faire des phrases courtes.",
+            "Hiérarchiser ses idées.",
+            "S’exprimer avec précision."
+        ],
+        "audio": "/mp3/176/26.mp3",
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "176",
+        "options": [
+            "Ils espèrent obtenir une allocation de l’état.",
+            "Ils voient leur futur de manière positive.",
+            "Ils comptent sur le soutien de leurs proches.",
+            "Ils refusent d’habiter chez leurs parents."
+        ],
+        "audio": "/mp3/176/27.mp3",
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "176",
+        "options": [
+            "Les élèves manquent de temps pour prendre leurs repas.",
+            "Les habitudes alimentaires des élèves sont difficiles à modifier.",
+            "Les menus des cantines scolaires sont très mal équilibrés.",
+            "Les restaurants scolaires coutent cher aux familles."
+        ],
+        "audio": "/mp3/176/28.mp3",
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": "176",
+        "options": [
+            "L’absence de formation à l’élaboration du budget.",
+            "Le désintérêt des jeunes pour les questions financières.",
+            "Le manque de cours d’économie à l’université.",
+            "Le peu d’information des banques sur les crédits."
+        ],
+        "audio": "/mp3/176/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "176",
+        "options": [
+            "Un bijou d’artisanat local.",
+            "Un guide touristique illustré.",
+            "Un modèle réduit de bateau.",
+            "Un album de souvenirs personnels."
+        ],
+        "audio": "/mp3/176/30.mp3",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": "176",
+        "options": [
+            "L’inégalité dans la répartition des taches.",
+            "La surabondance de sollicitations.",
+            "Le manque de fonctionnalité des locaux.",
+            "Les interventions des collègues."
+        ],
+        "audio": "/mp3/176/31.mp3",
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": "176",
+        "options": [
+            "Ils nagent en plein air dans la capitale.",
+            "Ils s’amusent dans un parc d’attraction.",
+            "Ils se retrouvent à la piscine municipale.",
+            "Ils sont en vacances au bord de la mer."
+        ],
+        "audio": "/mp3/176/32.mp3",
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "176",
+        "options": [
+            "Parce qu’elle admire l’orchestre du conservatoire et qu’elle espère y jouer.",
+            "Parce qu’elle aspire à rencontrer tous les grands interprètes classiques du moment.",
+            "Parce qu’elle connait la discipline dont il faut faire preuve pour bien jouer.",
+            "Parce qu’elle est elle-même migrante et sait combien peut lui être utile."
+        ],
+        "audio": "/mp3/176/33.mp3",
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "176",
+        "options": [
+            "Un aménagement territorial en fonction des données météorologiques.",
+            "Un programme de réduction des différentes sources de pollution.",
+            "Une analyse comparative entre les modes de vie citadins et ruraux.",
+            "Une proposition de prévention renforcée des grands cataclysmes."
+        ],
+        "audio": "/mp3/176/34.mp3",
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "176",
+        "options": [
+            "La perte de sa liberté intellectuelle.",
+            "Les nombreux voyages à l’étranger.",
+            "Un manque de reconnaissance.",
+            "Une rémunération insuffisante."
+        ],
+        "audio": "/mp3/176/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "176",
+        "options": [
+            "Il conditionne l’humeur.",
+            "Il dope l’énergie.",
+            "Il minimise l’angoisse.",
+            "Il stimule la créativité."
+        ],
+        "audio": "/mp3/176/36.mp3",
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "176",
+        "options": [
+            "D’affiner l’écoute entre musiciens.",
+            "D’exprimer l’originalité d’une interprétation.",
+            "De faire varier le répertoire des concerts.",
+            "De perfectionner la technique du violoniste."
+        ],
+        "audio": "/mp3/176/37.mp3",
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": "176",
+        "options": [
+            "Elles demandent un nouveau statut juridique.",
+            "Elles exigent des garanties réelles et tangibles.",
+            "Elles mettent en doute la viabilité du projet.",
+            "Elles veulent que les terres restent intactes."
+        ],
+        "audio": "/mp3/176/38.mp3",
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": "176",
+        "options": [
+            "Elles entrainent des dépendances maladives.",
+            "Elles nuisent aux capacités d’apprentissage.",
+            "Elles perturbent la perception de la réalité.",
+            "Elles provoquent un isolement dangereux."
+        ],
+        "audio": "/mp3/176/39.mp3",
+        "answer": 0
+    }
+]

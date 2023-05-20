@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "165",
+        "options": [
+            "Elle a décidé de changer d’emballage.",
+            "Elle a laissé son portefeuille chez elle.",
+            "Elle a mal rempli la fiche de douane.",
+            "Elle a oublié l’adresse du destinataire."
+        ],
+        "audio": "/mp3/165/20.mp3",
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "165",
+        "options": [
+            "De conforter le rôle de chacun.",
+            "De faire des économies.",
+            "De renforcer les relations.",
+            "De transmettre des savoir-faire."
+        ],
+        "audio": "/mp3/165/21.mp3",
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": "165",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "audio": "/mp3/165/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "165",
+        "options": [
+            "De conservation des plantes.",
+            "De nettoyage d’espaces verts.",
+            "De procédés de recyclage.",
+            "De techniques de culture."
+        ],
+        "audio": "/mp3/165/23.mp3",
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": "165",
+        "options": [
+            "Amener l’élève à participer à sa propre formation.",
+            "Axer principalement l’apprentissage sur le jeu.",
+            "Initier les élèves à des activités parascolaires",
+            "Responsabiliser les élèves encore immatures."
+        ],
+        "audio": "/mp3/165/24.mp3",
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "165",
+        "options": [
+            "Le report de la remise d’un devoir.",
+            "Le changement de l’emploi du temps.",
+            "Le rattrapage d’une mauvaise note.",
+            "Le programme de révision pour un examen."
+        ],
+        "audio": "/mp3/165/25.mp3",
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "165",
+        "options": [
+            "Développer sa coopération industrielle.",
+            "Favoriser l’embauche de profils créatifs.",
+            "Financer des projets de recherche innovants.",
+            "Renforcer la formation numérique des jeunes."
+        ],
+        "audio": "/mp3/165/26.mp3",
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "165",
+        "options": [
+            "Elle encourage des propos stéréotypés en société.",
+            "Elle masque les inégalités de la société.",
+            "Elle perpétue des usages de la société médiévale.",
+            "Elle reflète une vision sexiste de la société."
+        ],
+        "audio": "/mp3/165/27.mp3",
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": "165",
+        "options": [
+            "Aider les consommateurs à mieux acheter.",
+            "Faire la publicité des produits biologiques.",
+            "Garantir l’origine de certains aliments.",
+            "Identifier les emballages recyclables."
+        ],
+        "audio": "/mp3/165/28.mp3",
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "165",
+        "options": [
+            "De devenir entrepreneur en créant son entreprise.",
+            "De s’informer sur les secteurs porteurs d’emplois.",
+            "De suivre une formation diplômante à l’université.",
+            "D’élargir sa recherche d’emploi à d’autres domaines."
+        ],
+        "audio": "/mp3/165/29.mp3",
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": "165",
+        "options": [
+            "Accroître la mixité sociale dans les grandes villes.",
+            "Décrocher des financements pour ses activités.",
+            "Modifier le fonctionnement des marchés aux puces.",
+            "Obtenir un statut professionnel officiel pour les biffins."
+        ],
+        "audio": "/mp3/165/30.mp3",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": "165",
+        "options": [
+            "C’est un détail négligeable pour les recruteurs.",
+            "Il est indépendant de la promotion professionnelle.",
+            "Il est prévu de tester celui des futurs salariés.",
+            "La question est préoccupante pour les plus jeunes."
+        ],
+        "audio": "/mp3/165/31.mp3",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "165",
+        "options": [
+            "Les jeunes diplômés privilégient le travail en milieu urbain.",
+            "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+            "Les soins aux animaux de ferme demandent une spécialisation.",
+            "Les vétérinaires en activité refusent de former les nouveaux."
+        ],
+        "audio": "/mp3/165/32.mp3",
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "165",
+        "options": [
+            "L’industrie du plastique.",
+            "Les activités agricoles.",
+            "Les pièges de braconniers.",
+            "Les pratiques de pêcheurs."
+        ],
+        "audio": "/mp3/165/33.mp3",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "165",
+        "options": [
+            "La seule visée de cet enseignement est d’initier les enfants à la langue.",
+            "Le temps imparti à cette discipline est trop court pour qu’il soit utile.",
+            "Les élèves manquent de la maturité nécessaire pour cet apprentissage.",
+            "Les professeurs sont opposés au concept d’une jeunesse plurilingue."
+        ],
+        "audio": "/mp3/165/34.mp3",
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "165",
+        "options": [
+            "Elle aborde des sujets de fonds.",
+            "Elle créé de la concurrence entre auteurs.",
+            "Elle est encadrée par des normes strictes.",
+            "Elle s’adresse à un public averti."
+        ],
+        "audio": "/mp3/165/35.mp3",
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": "165",
+        "options": [
+            "Ils favorisent les interactions avec les adultes.",
+            "lls permettent d’apprendre de façon ludique.",
+            "Ils peuvent compenser les absences des parents.",
+            "Ils sont utiles pour l’accompagnement scolaire."
+        ],
+        "audio": "/mp3/165/36.mp3",
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "165",
+        "options": [
+            "Il conseillé d’augmenter la productivité.",
+            "Il milite pour la création d’un label qualité.",
+            "Il s’efforce de moderniser sa profession.",
+            "Il valorise les méthodes traditionnelles."
+        ],
+        "audio": "/mp3/165/37.mp3",
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": "165",
+        "options": [
+            "À l’occasion d’une entrevue.",
+            "En côtoyant des auteurs connus.",
+            "Grâce à des relations amicales.",
+            "Lors d’une émission de radio."
+        ],
+        "audio": "/mp3/165/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "165",
+        "options": [
+            "Expliquer l’intérêt de renseigner un document.",
+            "Motiver les employés ayant un mauvais bilan.",
+            "Présenter un nouveau système d’avancement.",
+            "Remercier l’équipe pour son investissement."
+        ],
+        "audio": "/mp3/165/39.mp3",
+        "answer": 1
+    }
+]

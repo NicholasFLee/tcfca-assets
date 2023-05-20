@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "172",
+        "options": [
+            "Une sortie au théâtre.",
+            "Un voyage au Pérou.",
+            "Un séjour en Bretagne.",
+            "Une visite à Anne Roman."
+        ],
+        "audio": "/mp3/172/20.mp3",
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "172",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "audio": "/mp3/172/21.mp3",
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": "172",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "audio": "/mp3/172/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "172",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis.",
+            "Leur talent est dévalorisé."
+        ],
+        "audio": "/mp3/172/23.mp3",
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": "172",
+        "options": [
+            "De conseils pour mieux dormir.",
+            "De difficultés à calmer les enfants.",
+            "De la relation entre fille et mère.",
+            "Des premiers mois d’un bébé."
+        ],
+        "audio": "/mp3/172/24.mp3",
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "172",
+        "options": [
+            "Les gens cherchent davantage à être heureux.",
+            "Les gens deviennent de plus en plus égoïstes.",
+            "Les gens se préoccupent moins de leur famille.",
+            "Les gens sont peu demandeurs de sensations fortes."
+        ],
+        "audio": "/mp3/172/25.mp3",
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "172",
+        "options": [
+            "La création de meubles à partir du recyclage.",
+            "La distribution d’emballages non polluants.",
+            "La promotion des marques peu connues.",
+            "L’achat en gros d’aliments labellisés bio."
+        ],
+        "audio": "/mp3/172/26.mp3",
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "172",
+        "options": [
+            "Il a eu conscience de son talent tôt.",
+            "Il édite des œuvres pour la jeunesse.",
+            "Il pratique son art depuis l’enfance.",
+            "Il rédige des manuels de jardinage."
+        ],
+        "audio": "/mp3/172/27.mp3",
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "172",
+        "options": [
+            "De collecter des dons.",
+            "De développer la recherche.",
+            "De sensibiliser l’opinion.",
+            "D’explorer l’écosystème."
+        ],
+        "audio": "/mp3/172/28.mp3",
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": "172",
+        "options": [
+            "Adopter un mode de vie collectif responsable.",
+            "Construire un réseau d’assainissement des eaux.",
+            "Faire la promotion de logements écologiques.",
+            "Mener une politique d’aménagement des villes."
+        ],
+        "audio": "/mp3/172/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "172",
+        "options": [
+            "Il aide à lutter efficacement contre la tristesse.",
+            "Il est indispensable pour l’activité de notre cerveau.",
+            "Il montre les progrès dans l’apprentissage des émotions.",
+            "Il permet d’entrer en relation avec les autres."
+        ],
+        "audio": "/mp3/172/30.mp3",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": "172",
+        "options": [
+            "C’est un délai négligeable pour les recruteurs.",
+            "Il est indépendant de la promotion professionnelle.",
+            "Il est prévu de tester celui des futurs salariés.",
+            "La question est préoccupante pour les plus jeunes."
+        ],
+        "audio": "/mp3/172/31.mp3",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "172",
+        "options": [
+            "L’absence de formes d’altruisme.",
+            "La place accordée à l’apparence.",
+            "La superficialité des relations.",
+            "Le manque d’estime de soi."
+        ],
+        "audio": "/mp3/172/32.mp3",
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": "172",
+        "options": [
+            "En communiquant dans les médias.",
+            "En critiquant le pouvoir en place.",
+            "En représentant les électeurs.",
+            "En s’engageant comme citoyenne."
+        ],
+        "audio": "/mp3/172/33.mp3",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "172",
+        "options": [
+            "L’alimentation fournie aux élevages est de mauvaise qualité.",
+            "L’existence d’industries piscicoles nuit à la variété des espèces.",
+            "La filière aquacole fragilise l’équilibre alimentaire mondial.",
+            "Les pécheurs pillent les fonds marins pour soutenir la concurrence."
+        ],
+        "audio": "/mp3/172/34.mp3",
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": "172",
+        "options": [
+            "La perte de son emploi.",
+            "Sa volonté d’apprendre.",
+            "Ses nouvelles fonctions.",
+            "Un dispositif gouvernemental."
+        ],
+        "audio": "/mp3/172/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "172",
+        "options": [
+            "C’est un thème controversé.",
+            "C’est une croyance invraisemblable.",
+            "C’est une hypothèse vérifiée.",
+            "C’est une invention de science-fiction."
+        ],
+        "audio": "/mp3/172/36.mp3",
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "172",
+        "options": [
+            "Il admet que les guérisons spontanées sont fréquentes.",
+            "Il considère que la médecine a du mal à tout expliquer.",
+            "Il déconseille l’utilisation de certains médicaments.",
+            "Il est convaincu de l’efficacité des remèdes naturelle."
+        ],
+        "audio": "/mp3/172/37.mp3",
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": "172",
+        "options": [
+            "Le consensus à ce sujet semble impossible.",
+            "Le nombre de données complexifie l’analyse.",
+            "Les études existantes doivent être révisées.",
+            "Les thèses avancées varient selon les pays."
+        ],
+        "audio": "/mp3/172/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "172",
+        "options": [
+            "L’absence de temps morts.",
+            "L’ennui des distractions.",
+            "L’insuffisance de repos.",
+            "Le manque d’action."
+        ],
+        "audio": "/mp3/172/39.mp3",
+        "answer": 0
+    }
+]

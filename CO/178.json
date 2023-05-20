@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "178",
+        "options": [
+            "Interviewer un réalisateur.",
+            "Participer à un festival.",
+            "Tourner un film.",
+            "Visiter des studios de cinéma."
+        ],
+        "audio": "/mp3/178/20.mp3",
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": "178",
+        "options": [
+            "C’est un artiste oublié par le public.",
+            "Il a travaillé avec des couleurs claires.",
+            "On lui a demandé de décorer un bâtiment.",
+            "Son œuvre est présentée en France."
+        ],
+        "audio": "/mp3/178/21.mp3",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "178",
+        "options": [
+            "Parce qu’ils ont été scolarisés dans des lycées plurilingues.",
+            "Parce qu’ils ont été adoptés dans des pays différents.",
+            "Parce qu’ils ont vécu dans de diverses zones de la France.",
+            "Parce qu’ils parlent plusieurs langues à la maison."
+        ],
+        "audio": "/mp3/178/22.mp3",
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": "178",
+        "options": [
+            "D’attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en automne.",
+            "De limiter la lecture d’histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "audio": "/mp3/178/23.mp3",
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "178",
+        "options": [
+            "Elle a beaucoup d’expérience.",
+            "Elle a vite appris son métier.",
+            "Elle aime prendre des risques.",
+            "Elle sait diriger ses collègues."
+        ],
+        "audio": "/mp3/178/24.mp3",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "178",
+        "options": [
+            "Le nombre d’étudiants inscrits a augmenté.",
+            "Les cursus sur l’environnement se sont multipliés.",
+            "Les enseignants font des carrières prestigieuses.",
+            "Les formations sont devenues plus concrètes."
+        ],
+        "audio": "/mp3/178/25.mp3",
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": "178",
+        "options": [
+            "Elle construit des maisons pour les personnes âgées.",
+            "Elle organise des évènements rassemblant les générations.",
+            "Elle permet à des jeunes d’habiter chez des personnes âgées.",
+            "Elle valorise les professions d’assistance aux personnes âgées."
+        ],
+        "audio": "/mp3/178/26.mp3",
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": "178",
+        "options": [
+            "Il est caractérisé par son rythme.",
+            "Il est protégé par des apports lexicaux varies.",
+            "Il est protégé par les académiciens.",
+            "Il est utilisé par une minorité de locuteurs."
+        ],
+        "audio": "/mp3/178/27.mp3",
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "178",
+        "options": [
+            "La répartition des tâches dans le service.",
+            "Le manque d’expérience de l’équipe.",
+            "Le retard pris dans la réalisation d’un projet.",
+            "Les désaccords entre employeur et employés."
+        ],
+        "audio": "/mp3/178/28.mp3",
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "178",
+        "options": [
+            "D’un outil qui facilite l’apprentissage, quel que soit la discipline étudiée.",
+            "De la bonne méthode de révision d’un cours quand on est pris par le temps.",
+            "De la difficulté a rédigé des cours motivants pour les jeunes étudiants.",
+            "Des limites de l’enseignement à distance pour certaines disciplines."
+        ],
+        "audio": "/mp3/178/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "178",
+        "options": [
+            "D’un appel à un projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "audio": "/mp3/178/30.mp3",
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "178",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifiques.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "audio": "/mp3/178/31.mp3",
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": "178",
+        "options": [
+            "La conférence qui a eu lieu est uniquement symbolique.",
+            "La secrétaire d’État a fait part de son pessimisme.",
+            "Les discussions s’annoncent longues et difficiles.",
+            "Tous les points de l’accord ont déjà été traités sans succès."
+        ],
+        "audio": "/mp3/178/32.mp3",
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": "178",
+        "options": [
+            "C’est la reproduction d’un café du siècle dernier.",
+            "Il contient un dépôt-vente de meubles design.",
+            "C’est à la fois un restaurant et une galerie d’art.",
+            "Il y organise un festival de musique électronique."
+        ],
+        "audio": "/mp3/178/33.mp3",
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "178",
+        "options": [
+            "Une littérature axée sur les débats avec le public.",
+            "Une littérature expérimentée à travers le jeu.",
+            "Une littérature interprétée par les comédiens.",
+            "Une littérature portée sur l’interdisciplinarité."
+        ],
+        "audio": "/mp3/178/34.mp3",
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": "178",
+        "options": [
+            "Allonger la durée de vie des smartphones.",
+            "Evaluer la consommation téléphonique.",
+            "Gérer le temps de connexion à internet.",
+            "Optimiser l’utilisation des appareils."
+        ],
+        "audio": "/mp3/178/35.mp3",
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": "178",
+        "options": [
+            "Des partitions musicales ponctuent les chapitres.",
+            "Elle réunit des textes de musiciens sur le thème de la peur.",
+            "L’éditeur a choisi d’accompagner le livre d’un DVD.",
+            "Sa mise en page est comparable à celle du livret d’un disque."
+        ],
+        "audio": "/mp3/178/36.mp3",
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "178",
+        "options": [
+            "De consulter un médecin psychothérapeute.",
+            "Pour limiter la naissance des automobiles.",
+            "De prescrire un traitement médicamenteux.",
+            "D’informer les utilisateurs sur leurs dangers."
+        ],
+        "audio": "/mp3/178/37.mp3",
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": "178",
+        "options": [
+            "Un durcissement des politiques relatives à la consommation.",
+            "Un renforcement des pouvoirs de la Commission européenne.",
+            "Une homogénéisation des règlementations internationales.",
+            "Une législation dans le respect de la singularité des États."
+        ],
+        "audio": "/mp3/178/38.mp3",
+        "answer": 3
+    },
+    {
+        "id": 39,
+        "testId": "178",
+        "options": [
+            "Le processus d’attractivité des cellules femelles.",
+            "Les différences avec la reproduction des plantes terrestres.",
+            "La constitution de certains organismes aquatiques.",
+            "L’influence de la météorologie sur leur fécondation."
+        ],
+        "audio": "/mp3/178/39.mp3",
+        "answer": 0
+    }
+]

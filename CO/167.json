@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "167",
+        "options": [
+            "Il ne fera pas beau durant le week-end.",
+            "La maison est mal chauffée.",
+            "Le voyage est trop long.",
+            "Il n’aime pas rester enfermé."
+        ],
+        "audio": "/mp3/167/20.mp3",
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": "167",
+        "options": [
+            "Elle est en congé.",
+            "Elle est tombée malade.",
+            "Elle travaille la nuit.",
+            "Elle voyage souvent."
+        ],
+        "audio": "/mp3/167/21.mp3",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": "167",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "audio": "/mp3/167/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "167",
+        "options": [
+            "La construction de villes sur l’eau.",
+            "La création d’un lieu de vie sous-marin.",
+            "Le développement de bateaux aménagés.",
+            "L’installation de digues sur les côtes."
+        ],
+        "audio": "/mp3/167/23.mp3",
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "167",
+        "options": [
+            "Un meilleur contrôle des repas dabs les cantines.",
+            "Une information complète pour le consommateur.",
+            "Une promotion des produits bons pour la santé.",
+            "Une suppression des emballages en plastique."
+        ],
+        "audio": "/mp3/167/24.mp3",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "167",
+        "options": [
+            "A l’époque de sa jeunesse.",
+            "A sa passion pour un artiste.",
+            "A son amour des langues.",
+            "A un voyage aux Etats-Unis."
+        ],
+        "audio": "/mp3/167/25.mp3",
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "167",
+        "options": [
+            "Il avait du mal à accepter ses choix.",
+            "Il essayait souvent de rivaliser avec elle.",
+            "Il était attentif à ses centres d’intérêt.",
+            "Il lui interdisait les activités intellectuelles."
+        ],
+        "audio": "/mp3/167/26.mp3",
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "167",
+        "options": [
+            "Pour améliorer la cohésion des équipes.",
+            "Pour empêcher la diffusion de rumeurs.",
+            "Pour éviter les sollicitations abusives.",
+            "Pour limiter les distractions au travail."
+        ],
+        "audio": "/mp3/167/27.mp3",
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "167",
+        "options": [
+            "Conseiller des médicaments.",
+            "Etablir un certificat médical.",
+            "Examiner une radiographie.",
+            "Traiter un problème de poids."
+        ],
+        "audio": "/mp3/167/28.mp3",
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": "167",
+        "options": [
+            "D’un outil qui facilite l’apprentissage, quelle que soit la discipline étudiée.",
+            "De la bonne méthode de révision d’un cours quand on est pris par le temps.",
+            "De la difficulté à rédiger des cours motivants pour les jeunes étudiants.",
+            "Des limites de l’enseignement à distance pour certaines disciplines."
+        ],
+        "audio": "/mp3/167/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "167",
+        "options": [
+            "Un bijou d’artisanat local.",
+            "Un guide touristique illustré.",
+            "Un modèle réduit de bateau.",
+            "Un album de souvenirs personnels."
+        ],
+        "audio": "/mp3/167/30.mp3",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": "167",
+        "options": [
+            "Metteur en scène.",
+            "Explorateur.",
+            "Photographe.",
+            "Journaliste."
+        ],
+        "audio": "/mp3/167/31.mp3",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "167",
+        "options": [
+            "En écoutant les gens dans la sphère privée.",
+            "En employant des technologies innovantes.",
+            "En interrogeant des personnes cultivées.",
+            "En observant divers types d’interlocuteurs."
+        ],
+        "audio": "/mp3/167/32.mp3",
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": "167",
+        "options": [
+            "Sur l’amplitude de l’effet de la dette sur la croissance.",
+            "Sur l’utilisation des recettes fiscales pour régler la dette.",
+            "Sur l’acquittement de la dette par la vente du patrimoine de l’Etat.",
+            "Sur le montant de la dette contractée par la province québécoise."
+        ],
+        "audio": "/mp3/167/33.mp3",
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": "167",
+        "options": [
+            "La qualité croissante des résultats.",
+            "Les aménagements hydrauliques.",
+            "L’expérience de ses collègues.",
+            "L’importation de pieds de vigne."
+        ],
+        "audio": "/mp3/167/34.mp3",
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": "167",
+        "options": [
+            "Des fouilles archéologiques dans un sanctuaire.",
+            "La construction d’un édifice emblématique.",
+            "Le tourisme religieux au cours des siècles.",
+            "Une visite lors des journées du patrimoine."
+        ],
+        "audio": "/mp3/167/35.mp3",
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": "167",
+        "options": [
+            "D’automatiser leurs techniques.",
+            "D’éviter les rivalités entre collègues.",
+            "De perfectionner leur savoir-faire.",
+            "D’enrichir leurs échanges internes."
+        ],
+        "audio": "/mp3/167/36.mp3",
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "167",
+        "options": [
+            "L’industrialisation galopante des rives.",
+            "La dégradation d’un site naturel rare.",
+            "La pollution des nappes phréatiques.",
+            "La raréfaction des énergies fossiles."
+        ],
+        "audio": "/mp3/167/37.mp3",
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": "167",
+        "options": [
+            "Elle est trop éloignée des orientations politiques actuelles.",
+            "Elle fait référence à des événements historiques douloureux.",
+            "Elle fait ressurgir des rivalités ou des antagonismes oubliés.",
+            "Elle remet en cause la domination de fait de certains pays."
+        ],
+        "audio": "/mp3/167/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "167",
+        "options": [
+            "Elles entraînent des dépendances maladives.",
+            "Elles nuisent aux capacités d’apprentissage.",
+            "Elles perturbent la perception de la réalité.",
+            "Elles provoquent un isolement dangereux."
+        ],
+        "audio": "/mp3/167/39.mp3",
+        "answer": 0
+    }
+]

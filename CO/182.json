@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "182",
+        "options": [
+            "Il a besoin de beaucoup de sommeil.",
+            "Il déteste tous les types de sport.",
+            "Il travaille pour plusieurs entreprises.",
+            "Il va souvent danser en discothèque."
+        ],
+        "audio": "/mp3/182/20.mp3",
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": "182",
+        "options": [
+            "Des déclarations rassurantes des autorités sanitaires.",
+            "Des études de spécialistes sur leur apport nutritionnel.",
+            "L’implication des professionnels de la gastronomie.",
+            "Une mise en valeur par les producteurs eux-mêmes."
+        ],
+        "audio": "/mp3/182/21.mp3",
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": "182",
+        "options": [
+            "Que l’homme soit parti seul en vacances.",
+            "Que l’homme ait progressé au golf.",
+            "Que l’homme lui ait envoyé une carte.",
+            "Que l’homme se soit mis à faire du sport"
+        ],
+        "audio": "/mp3/182/22.mp3",
+        "answer": 3
+    },
+    {
+        "id": 23,
+        "testId": "182",
+        "options": [
+            "La diffusion d’une langue qui exprime les nuances des sentiments.",
+            "La multiplication des actions pour la défense des droits de l’homme.",
+            "La promotion d’un moyen d’échanges entre les différentes nationalités.",
+            "La reconnaissance d’un patrimoine culturel unique par sa richesse"
+        ],
+        "audio": "/mp3/182/23.mp3",
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": "182",
+        "options": [
+            "Ils déplorent un manque d’information.",
+            "Ils refusent de participer à la collecte.",
+            "Ils s’inquiètent de la sécurité sanitaire.",
+            "lls souhaitent rencontrer des soignants."
+        ],
+        "audio": "/mp3/182/24.mp3",
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": "182",
+        "options": [
+            "Quelqu’un qui invente de nouveaux termes.",
+            "Quelqu’un qui utilise un langage complexe.",
+            "Quelqu’un qui joue avec les sonorités.",
+            "Quelqu’un qui idéalise le monde."
+        ],
+        "audio": "/mp3/182/25.mp3",
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": "182",
+        "options": [
+            "Parce que la salle est en travaux aujourd’hui.",
+            "Parce qu’un vol a eu lieu dans cette salle.",
+            "Parce que le personnel procède au nettoyage.",
+            "Parce qu’il manque du personnel aujourd’hui."
+        ],
+        "audio": "/mp3/182/26.mp3",
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "182",
+        "options": [
+            "Il avait du mal à accepter ses choix.",
+            "Il essayait souvent de rivaliser avec elle.",
+            "Il était attentif à ses centres d’intérêt.",
+            "Il lui interdisait les activités intellectuelles."
+        ],
+        "audio": "/mp3/182/27.mp3",
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": "182",
+        "options": [
+            "Parce qu’elles ont beaucoup à apprendre d’eux.",
+            "Parce qu’elles s’implanteront mieux ensuite à l’étranger.",
+            "Parce qu’elles sont en manque de main-d’œuvre.",
+            "Parce qu’elles y sont contraintes par la mondialisation."
+        ],
+        "audio": "/mp3/182/28.mp3",
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "182",
+        "options": [
+            "Elle annonce la fin prochaine d’un projet.",
+            "Elle félicite des collègues pour un travail.",
+            "Elle prépare une opération commerciale.",
+            "Elle présente une nouveauté à des clients."
+        ],
+        "audio": "/mp3/182/29.mp3",
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": "182",
+        "options": [
+            "Conseiller des médicaments.",
+            "Établir un certificat médical.",
+            "Examiner une radiographie.",
+            "Traiter un problème de poids."
+        ],
+        "audio": "/mp3/182/30.mp3",
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": "182",
+        "options": [
+            "L’absence de formation sur l’élaboration d’un budget.",
+            "Le désintérêt des jeunes pour les questions financières.",
+            "Le manque de cours d’économie à l’université.",
+            "Le peu d’informations des banques sur les crédits."
+        ],
+        "audio": "/mp3/182/31.mp3",
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": "182",
+        "options": [
+            "Elles garantissent l’épanouissement des enfants.",
+            "Elles permettent à la société de fonctionner.",
+            "Elles profitent du système qui les soutient.",
+            "Elles représentent une charge pour leur famille."
+        ],
+        "audio": "/mp3/182/32.mp3",
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": "182",
+        "options": [
+            "La lassitude du public pour ce genre de quête.",
+            "Le manque d’attractivité de la récompense.",
+            "Le temps nécessaire pour découvrir la cachette.",
+            "Les distances à parcourir pour trouver des indices."
+        ],
+        "audio": "/mp3/182/33.mp3",
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": "182",
+        "options": [
+            "Leur habitude de privilégier les sports de combat au détriment des autres.",
+            "Leur manque d’investissement dans des actions à caractère social.",
+            "Leur nombre restreint dans les zones urbaines réputées difficiles.",
+            "Leur réticence à travailler en collaboration avec le système éducatif."
+        ],
+        "audio": "/mp3/182/34.mp3",
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": "182",
+        "options": [
+            "L’intérêt principal de sa mise en place a disparu.",
+            "Le ministère manque de moyens pour l’organiser.",
+            "Le taux de réussite des candidats est en baisse.",
+            "Le nombre de fraudes constatées augmente."
+        ],
+        "audio": "/mp3/182/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "182",
+        "options": [
+            "Ils attendent la dernière minute avant de consulter.",
+            "Ils consomment de plus en plus de médicaments.",
+            "Ils pratiquent majoritairement l’automédication.",
+            "Ils s’en remettent trop à l’autorité du praticien."
+        ],
+        "audio": "/mp3/182/36.mp3",
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": "182",
+        "options": [
+            "Améliorer la présentation des produits.",
+            "Augmenter le nombre de clients.",
+            "Multiplier les points de vente",
+            "Maintenir des tarifs compétitifs."
+        ],
+        "audio": "/mp3/182/37.mp3",
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": "182",
+        "options": [
+            "Les médicaments de référence parce qu’ils sont plus efficaces que les génériques.",
+            "Les génériques parce qu’ils compensent le coût élevé des nouveaux médicaments.",
+            "Les médicaments de référence parce qu’ils financent les nouveaux médicaments.",
+            "Les génériques parce qu’ils sont plus innovants que les médicaments de référence."
+        ],
+        "audio": "/mp3/182/38.mp3",
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": "182",
+        "options": [
+            "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
+            "Elle désapprouve la disparition d’endroits consacrés aux pratiques culturelles.",
+            "Elle estime insuffisantes les tentatives des cinémas de mélanger les publics.",
+            "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
+        ],
+        "audio": "/mp3/182/39.mp3",
+        "answer": 0
+    }
+]

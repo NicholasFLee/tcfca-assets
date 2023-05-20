@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "179",
+        "options": [
+            "Dun projet de recrutement.",
+            "D’une campagne d’action sociale.",
+            "D’une formation professionnelle.",
+            "D’une opération publicitaire."
+        ],
+        "audio": "/mp3/179/20.mp3",
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "179",
+        "options": [
+            "La circulation routière est coupée.",
+            "La commande s’est perdue.",
+            "Le transporteur est en grève.",
+            "Les marchandises ont été volées."
+        ],
+        "audio": "/mp3/179/21.mp3",
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": "179",
+        "options": [
+            "La diffusion d’une langue qui exprime les nuances des sentiments.",
+            "La multiplication des actions pour la défense des droits de l’homme.",
+            "La promotion d’un moyen d’échanges entre les différentes nationalités.",
+            "La reconnaissance d’un patrimoine culturel unique par sa richesse."
+        ],
+        "audio": "/mp3/179/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "179",
+        "options": [
+            "A un poste de responsabilité du village.",
+            "A un temps de loisir plus étendu.",
+            "A place spéciale dans l’histoire.",
+            "A une plus grosse part de nourriture."
+        ],
+        "audio": "/mp3/179/23.mp3",
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": "179",
+        "options": [
+            "Pour afficher notre niveau de vie.",
+            "Pour affirmer notre personnalité.",
+            "Pour améliorer notre quotidien.",
+            "Pour imiter notre entourage."
+        ],
+        "audio": "/mp3/179/24.mp3",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "179",
+        "options": [
+            "Elle construit des maisons pour les personnes âgées.",
+            "Elle organise des évènements rassemblant les générations.",
+            "Elle permet à des jeunes d’habiter chez des personnes âgées.",
+            "Elle valorise les professions d’assistance aux personnes âgées."
+        ],
+        "audio": "/mp3/179/25.mp3",
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "179",
+        "options": [
+            "L’entretien des liens d’amitiés à distance.",
+            "La comparaison de moyens de mobilité.",
+            "La sociabilité a l’ère du numérique.",
+            "Les échanges dans les transports."
+        ],
+        "audio": "/mp3/179/26.mp3",
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": "179",
+        "options": [
+            "D’établir un diagnostic en ligne.",
+            "D’éviter des pertes de temps.",
+            "De réduire les frais de sante.",
+            "De vérifier la qualité des soins."
+        ],
+        "audio": "/mp3/179/27.mp3",
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": "179",
+        "options": [
+            "La répartition des taches dans le service.",
+            "Le manque d’expérience de l’équipe.",
+            "Le retard pris dans la réalisation d’un projet.",
+            "Les désaccords entre employeur et employés."
+        ],
+        "audio": "/mp3/179/28.mp3",
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "179",
+        "options": [
+            "L’absence de formation sur l’élaboration d’un budget.",
+            "Le désintérêt des jeunes pour les questions financières.",
+            "Le manque de cours d’économie a l’Université.",
+            "Le peu d’informations des banques sur les crédits."
+        ],
+        "audio": "/mp3/179/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "179",
+        "options": [
+            "Il aide à lutter efficacement contre la tristesse.",
+            "Il est indispensable pour l’activité de notre cerveau.",
+            "Il montre les progrès dans l’apprentissage des émotions.",
+            "Il permet d’entrer en relation avec les autres."
+        ],
+        "audio": "/mp3/179/30.mp3",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": "179",
+        "options": [
+            "De l’activité économique.",
+            "De la gastronomie locale.",
+            "De pistes cyclables.",
+            "De sorties originales."
+        ],
+        "audio": "/mp3/179/31.mp3",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "179",
+        "options": [
+            "De côtoyer des et coutumes différentes.",
+            "De mettre le monde a la portée de tout budget.",
+            "De partager une aventure avec les siens.",
+            "De participer à l’essor économique d’un endroit."
+        ],
+        "audio": "/mp3/179/32.mp3",
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "179",
+        "options": [
+            "Ils consomment plus que la jeune génération.",
+            "Ils dépensent beaucoup pour la sante.",
+            "Ils profitent peu des effets de la croissance.",
+            "Ils sont à l’origine de créations d’emplois."
+        ],
+        "audio": "/mp3/179/33.mp3",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "179",
+        "options": [
+            "L’alimentation fournie aux élevages est de mauvaise qualité.",
+            "L’existence d’industries piscicoles nuit à la variété des espèces.",
+            "La filière aquacole fragilise l’équilibre alimentaire mondial.",
+            "Les pêcheurs pillent les fonds marins pour soutenir la concurrence."
+        ],
+        "audio": "/mp3/179/34.mp3",
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": "179",
+        "options": [
+            "Etablir des priorités s’avère être très difficile.",
+            "Grace au numérique les gains de temps sont importants.",
+            "Il n’y a pas de limite à la quantité d’informations traites.",
+            "La communication en ligne est addictive."
+        ],
+        "audio": "/mp3/179/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "179",
+        "options": [
+            "Pour faire connaître leurs services.",
+            "Pour rechercher des collaborateurs.",
+            "Pour s’informer sur la concurrence.",
+            "Pour vendre leurs produits en ligne."
+        ],
+        "audio": "/mp3/179/36.mp3",
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": "179",
+        "options": [
+            "Comme un prétexte pour éviter de traiter les questions significatives.",
+            "Comme une occasion de commenter ce qui ne va pas dans notre société.",
+            "Comme un moyen de sensibiliser le public aux problèmes des individus.",
+            "Comme une façon de distraire les individus de leurs petits soucis quotidiens."
+        ],
+        "audio": "/mp3/179/37.mp3",
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "179",
+        "options": [
+            "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
+            "Elle désapprouve la disparition d’endroits consacres aux pratiques culturelles.",
+            "Elle estime insuffisantes les tentatives des cinémas de mélanger les publics.",
+            "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
+        ],
+        "audio": "/mp3/179/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "179",
+        "options": [
+            "Il concevait des histoires originales.",
+            "Il participait au journal de l’école.",
+            "Il récupérait des albums d’occasion.",
+            "Il s’amusait à illustrer ses cours."
+        ],
+        "audio": "/mp3/179/39.mp3",
+        "answer": 0
+    }
+]

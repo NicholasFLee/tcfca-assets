@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "183",
+        "options": [
+            "Manger au restaurant.",
+            "Regarder un film.",
+            "Rester à la maison.",
+            "Voir un spectacle."
+        ],
+        "audio": "/mp3/183/20.mp3",
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": "183",
+        "options": [
+            "Le comportement des habitants.",
+            "Le sentiment de solitude.",
+            "Les conditions météorologiques.",
+            "Les obstacles linguistiques."
+        ],
+        "audio": "/mp3/183/21.mp3",
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": "183",
+        "options": [
+            "Il est ironique.",
+            "Il est favorable.",
+            "Il est plein d’espoir.",
+            "Il est méprisant."
+        ],
+        "audio": "/mp3/183/22.mp3",
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": "183",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis.",
+            "Leur talent est dévalorisé."
+        ],
+        "audio": "/mp3/183/23.mp3",
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": "183",
+        "options": [
+            "La voiture est interdite en centre-ville.",
+            "Le sens de la circulation a été modifié.",
+            "Le stationnement est devenu payant.",
+            "Les embouteillages sont fréquents."
+        ],
+        "audio": "/mp3/183/24.mp3",
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": "183",
+        "options": [
+            "Trois jours.",
+            "Une semaine.",
+            "Un mois.",
+            "Cinq ans."
+        ],
+        "audio": "/mp3/183/25.mp3",
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "183",
+        "options": [
+            "La recherche d’un appartement est rapide.",
+            "Le système de la colocation est encouragé.",
+            "Les habitations proposées sont de qualité.",
+            "Les logements sont bon marché en banlieue."
+        ],
+        "audio": "/mp3/183/26.mp3",
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": "183",
+        "options": [
+            "Il a eu conscience de son talent tôt.",
+            "Il édite des œuvres pour la jeunesse.",
+            "Il pratique son art depuis l’enfance.",
+            "Il rédige des manuels de jardinage."
+        ],
+        "audio": "/mp3/183/27.mp3",
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "183",
+        "options": [
+            "Elles ont la notion du temps chronologique.",
+            "Elles redoutent de s’approcher des humains.",
+            "Elles sont attirées par la lumière du soleil.",
+            "Elles sont un cas à part chez les animaux."
+        ],
+        "audio": "/mp3/183/28.mp3",
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": "183",
+        "options": [
+            "Partager ses impressions.",
+            "Rechercher de nouveaux auteurs.",
+            "S’extraire du quotidien.",
+            "Utiliser un support électronique."
+        ],
+        "audio": "/mp3/183/29.mp3",
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": "183",
+        "options": [
+            "Il contrôle rigoureusement toutes les formalités de garantie.",
+            "Il organise préalablement une rencontre avec les locataires.",
+            "Il propose une première révision gratuite des véhicules.",
+            "Il vérifie systématiquement l’identité de chacun de ses clients."
+        ],
+        "audio": "/mp3/183/30.mp3",
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "183",
+        "options": [
+            "Favoriser l’apprentissage de chansons françaises.",
+            "Montrer la variété de la langue française.",
+            "Promouvoir de nouveaux événements musicaux.",
+            "Faire le tour du monde des festivals francophones."
+        ],
+        "audio": "/mp3/183/31.mp3",
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": "183",
+        "options": [
+            "Il développe la volonté de vaincre.",
+            "Il enrichit les relations humaines.",
+            "Il garantit l’équilibre psychologique.",
+            "Il procure des bienfaits physiques."
+        ],
+        "audio": "/mp3/183/32.mp3",
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": "183",
+        "options": [
+            "C’est le tout dernier journal indépendant.",
+            "Il offre un large panorama de l’actualité.",
+            "Les articles s’adressent à un public éclairé.",
+            "Ses lecteurs sont encouragés à réfléchir."
+        ],
+        "audio": "/mp3/183/33.mp3",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": "183",
+        "options": [
+            "De choisir une école avec un petit nombre de classes.",
+            "De permettre aux jeunes de parler de leur chagrin.",
+            "De placer les enfants dans une école internationale.",
+            "D’expliquer le système scolaire français aux enfants."
+        ],
+        "audio": "/mp3/183/34.mp3",
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": "183",
+        "options": [
+            "De l’absurdité qu’il y a à valoriser leur manque de culture scientifique.",
+            "De la nécessité de mieux défendre les acquis de la culture classique.",
+            "Du besoin qu’ont les mathématiciens d’avoir une culture générale.",
+            "Du refus des valeurs humanistes par les milieux scientifiques."
+        ],
+        "audio": "/mp3/183/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "183",
+        "options": [
+            "Pour faire connaitre leurs services.",
+            "Pour rechercher des collaborateurs.",
+            "Pour s’informer sur la concurrence.",
+            "Pour vendre leurs produits en ligne."
+        ],
+        "audio": "/mp3/183/36.mp3",
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "183",
+        "options": [
+            "Appliquée seule, elle est contre-productive.",
+            "C’est une proposition vraiment innovante.",
+            "Elle a déjà montré ses limites dans le passé.",
+            "Il faudrait la tester avant sa mise en place."
+        ],
+        "audio": "/mp3/183/37.mp3",
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "183",
+        "options": [
+            "Mettre en place toutes les infrastructures d’accueil.",
+            "Prendre en compte les aspects financiers du projet.",
+            "Réussir l’intégration de la main-d’œuvre étrangère.",
+            "Susciter l’adhésion de tous les habitants concernés."
+        ],
+        "audio": "/mp3/183/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "183",
+        "options": [
+            "En regroupant les œuvres selon un ordre chronologique.",
+            "En regroupant les tableaux dans une même salle.",
+            "En regroupant les toiles autour d’un même sujet.",
+            "En regroupant ses créations avec celles d’autres artistes."
+        ],
+        "audio": "/mp3/183/39.mp3",
+        "answer": 2
+    }
+]

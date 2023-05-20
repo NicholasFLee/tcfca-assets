@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "154",
+        "options": [
+            "Délivrer des diplômes à ceux qui suivent ses cours.",
+            "Élargir les connaissances scientifiques des participants.",
+            "Faire progresser la recherche scientifique en France.",
+            "Recueillir des fonds pour les laboratoires français."
+        ],
+        "audio": "/mp3/154/20.mp3",
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": "154",
+        "options": [
+            "De l’enthousiasme.",
+            "De l’étonnement.",
+            "De l’admiration.",
+            "De l’intérêt."
+        ],
+        "audio": "/mp3/154/21.mp3",
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": "154",
+        "options": [
+            "La fréquence des compétitions sportives.",
+            "Le contenu des programmes sportifs.",
+            "Les contraintes liées aux pratiques sportives.",
+            "L’insuffisance des résultats sportifs."
+        ],
+        "audio": "/mp3/154/22.mp3",
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": "154",
+        "options": [
+            "Pour lui annoncer le rejet de sa proposition.",
+            "Pour lui confirmer un rendez-vous de travail.",
+            "Pour lui demander des documents supplémentaires.",
+            "Pour lui fixer un entretien d’embauche."
+        ],
+        "audio": "/mp3/154/23.mp3",
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": "154",
+        "options": [
+            "ll intéresse très peu les vacanciers.",
+            "Il offre des services de qualité supérieure.",
+            "Il permet le développement des campagnes.",
+            "II souffre d’une augmentation des tarifs."
+        ],
+        "audio": "/mp3/154/24.mp3",
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": "154",
+        "options": [
+            "Une paire de boucles d’oreille.",
+            "Une paire de chaussures.",
+            "Une paire de lunettes.",
+            "Une paire de skis."
+        ],
+        "audio": "/mp3/154/25.mp3",
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "154",
+        "options": [
+            "Avoir effectué de nombreux séjours à l’étranger.",
+            "Avoir été eux-mêmes formés à l’école Colbert.",
+            "Avoir obtenu la nationalité française.",
+            "Avoir vécu dans le pays de la langue qu’ils enseignent."
+        ],
+        "audio": "/mp3/154/26.mp3",
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": "154",
+        "options": [
+            "Des différences entre la taxe locative et la taxe foncière.",
+            "Du délai accordé pour le paiement des taxes.",
+            "Du mode de calcul de la taxe locative.",
+            "Du système français de taxe d’habitation."
+        ],
+        "audio": "/mp3/154/27.mp3",
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": "154",
+        "options": [
+            "Un tour de la capitale en bus découvert.",
+            "Un parcours à pied le long des quais.",
+            "Une visite guidée du Musée du Louvre.",
+            "Une croisière-promenade sur la Seine."
+        ],
+        "audio": "/mp3/154/28.mp3",
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": "154",
+        "options": [
+            "Ils devront demander le remboursement de leur billet par écrit.",
+            "Ils devront descendre en gare de Valence suite à une panne.",
+            "lls devront patienter à leur place jusqu’à l’arrêt complet du train.",
+            "lls devront présenter leur billet à leur descente du train."
+        ],
+        "audio": "/mp3/154/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "154",
+        "options": [
+            "lls bénéficient d’enseignements adaptés.",
+            "Ils se consacrent peu aux matières littéraires.",
+            "Ils sont dotés d’un esprit plus scientifique.",
+            "Ils sont encouragés lors de leur apprentissage."
+        ],
+        "audio": "/mp3/154/30.mp3",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": "154",
+        "options": [
+            "À baisse de l’intérêt manifesté pour le mariage.",
+            "À la difficulté de se retrouver dans un même lieu.",
+            "À l’augmentation des tarifs des transports aériens.",
+            "Aux problèmes relationnels rencontrés par les enfants."
+        ],
+        "audio": "/mp3/154/31.mp3",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": "154",
+        "options": [
+            "Il a accepté les articles de presse dans les livres scolaires.",
+            "Il a créé un journal quotidien dédié à l’éducation publique.",
+            "ll a distribué des journaux aux établissements scolaires.",
+            "Il a intégré l’étude de la presse à ses programmes."
+        ],
+        "audio": "/mp3/154/32.mp3",
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": "154",
+        "options": [
+            "Elle cherche à privilégier le travail avec des entreprises françaises.",
+            "Elle organise régulièrement des réunions avec ses couturiers.",
+            "Elle s’apprête à signer un nouveau contrat avec un atelier de dentellerie.",
+            "Elle souhaite modifier ses commandes avec les usines partenaires."
+        ],
+        "audio": "/mp3/154/33.mp3",
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": "154",
+        "options": [
+            "Elle commercialise des produits dangereux pour la santé.",
+            "Elle crée des besoins pour réutiliser de vieux remèdes.",
+            "Elle fait des profits grâce à la vente de traitements périmés.",
+            "Elle limite la recherche consacrée aux pathologies rares."
+        ],
+        "audio": "/mp3/154/34.mp3",
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": "154",
+        "options": [
+            "Elle critique la fiabilité des méthodes d’investigation utilisées.",
+            "Elle déplore leur manque d’impact au sein des entreprises.",
+            "Elle doute de la qualité de l’interprétation des données collectées.",
+            "Elle met en question la représentativité des échantillons."
+        ],
+        "audio": "/mp3/154/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "154",
+        "options": [
+            "Il privilégie des partenaires impliqués dans la vie de leur région.",
+            "Il favorise des hôtels qui répondent aux exigences occidentales.",
+            "Il préfère les conseils des populations autochtones à ceux des fournisseurs.",
+            "II propose des prestations qui contribuent au développement humanitaire."
+        ],
+        "audio": "/mp3/154/36.mp3",
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "154",
+        "options": [
+            "Sur des considérations morales.",
+            "Sur des convictions écologiques.",
+            "Sur des certitudes économiques,",
+            "Sur des prescriptions diététiques."
+        ],
+        "audio": "/mp3/154/37.mp3",
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": "154",
+        "options": [
+            "La situation de l’emploi ne s’améliore pas cette année en France.",
+            "La France n’est pas le pays européen le plus frappé par le chômage.",
+            "Le chômage a reculé pour tous, sans distinction d’âge ou de sexe.",
+            "L’action engagée par le gouvernement permettra une amélioration."
+        ],
+        "audio": "/mp3/154/38.mp3",
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": "154",
+        "options": [
+            "Pratiquer des exercices mentaux.",
+            "Exprimer ses sentiments.",
+            "Se montrer chaleureux.",
+            "Se retirer régulièrement au calme."
+        ],
+        "audio": "/mp3/154/39.mp3",
+        "answer": 2
+    }
+]

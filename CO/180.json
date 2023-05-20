@@ -1,0 +1,241 @@
+[{
+        "id": 20,
+        "testId": "180",
+        "options": [
+            "Elle veut faire du vélo.",
+            "Elle a horreur du volley.",
+            "Elle trouve le vent trop fort.",
+            "Elle se sent fatiguée."
+        ],
+        "audio": "/mp3/180/20.mp3",
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": "180",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "audio": "/mp3/180/21.mp3",
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": "180",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis",
+            "Leur talent est dévalorisé."
+        ],
+        "audio": "/mp3/180/22.mp3",
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": "180",
+        "options": [
+            "L’écologie.",
+            "La puissance.",
+            "La sécurité.",
+            "Les équipements."
+        ],
+        "audio": "/mp3/180/23.mp3",
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": "180",
+        "options": [
+            "Il a répondu à une demande de ses patients.",
+            "Il consacre son temps à son nouveau métier.",
+            "Il s’est remis en question suite à un échec.",
+            "Il veut éviter toute publicité personnelle."
+        ],
+        "audio": "/mp3/180/24.mp3",
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": "180",
+        "options": [
+            "Augmenter le nombre des surfaces exploitables.",
+            "Développer la production des fruits et légumes.",
+            "Diffuser des procédés en accord avec la nature.",
+            "Introduire la plantation de nouvelles espèces."
+        ],
+        "audio": "/mp3/180/25.mp3",
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": "180",
+        "options": [
+            "De la préparation des vacances.",
+            "Des révisions d’un examen.",
+            "D’un anniversaire surpris.",
+            "D’un projet de visites culturelles."
+        ],
+        "audio": "/mp3/180/26.mp3",
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": "180",
+        "options": [
+            "Revendre des livres d’occasion auprès des finissants.",
+            "Rencontrer les étudiants nouvellement inscrits.",
+            "Se rendre à une vente de livres universitaires d’occasion à la faculté.",
+            "Aller acheter des livres pour réviser avec son ami avant leurs examens"
+        ],
+        "audio": "/mp3/180/27.mp3",
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": "180",
+        "options": [
+            "Elle est sortie en boîte de nuit.",
+            "Elle a diné avec sa famille.",
+            "Elle est restée toute seule.",
+            "Elle a vu un mauvais film."
+        ],
+        "audio": "/mp3/180/28.mp3",
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": "180",
+        "options": [
+            "Une ascension professionnelle accompagnée de revenus confortables.",
+            "Une nomination à un premier poste valorisant au sein de l’entreprise.",
+            "Une opportunité de multiplier les contrats dans différentes entreprises.",
+            "Une reconnaissance rapide de leurs supérieurs sur les résultats obtenus."
+        ],
+        "audio": "/mp3/180/29.mp3",
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": "180",
+        "options": [
+            "Adopter un mode de vie collectif responsable.",
+            "Construire un réseau d’assainissement des eaux.",
+            "Faire la promotion de logements écologiques.",
+            "Mener une politique d’aménagement des villes."
+        ],
+        "audio": "/mp3/180/30.mp3",
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": "180",
+        "options": [
+            "D’un appel à projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "audio": "/mp3/180/31.mp3",
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": "180",
+        "options": [
+            "Elle est dans l’innovation constante.",
+            "Elle est tournée vers l’exotisme.",
+            "Elle fait la part belle à la tradition.",
+            "Elle nécessite un service très rapide."
+        ],
+        "audio": "/mp3/180/32.mp3",
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": "180",
+        "options": [
+            "Donner des conseils de préparation.",
+            "Éviter de faire attendre les acheteurs.",
+            "Faire connaître des aliments oubliés.",
+            "Respecter le goût des consommateurs."
+        ],
+        "audio": "/mp3/180/33.mp3",
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": "180",
+        "options": [
+            "Elle crée des discriminations.",
+            "Elle enrichit les rapports.",
+            "Elle est utile pour le droit.",
+            "Elle varie selon les contextes."
+        ],
+        "audio": "/mp3/180/34.mp3",
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": "180",
+        "options": [
+            "La qualité croissante des résultats.",
+            "Les aménagements hydrauliques.",
+            "L’expérience de ses collègues.",
+            "L’importation de pieds de vigne."
+        ],
+        "audio": "/mp3/180/35.mp3",
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": "180",
+        "options": [
+            "De voiliers destinés à des particuliers.",
+            "De navires pour la marine marchande.",
+            "De paquebots adaptés au tourisme de masse.",
+            "De bateaux de pêche traditionnels."
+        ],
+        "audio": "/mp3/180/36.mp3",
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": "180",
+        "options": [
+            "Une diminution de la longueur des entretiens.",
+            "Une meilleure diffusion des offres d’emploi.",
+            "Une plus grande équité entre les candidats.",
+            "Une protection accrue des données personnelles."
+        ],
+        "audio": "/mp3/180/37.mp3",
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": "180",
+        "options": [
+            "Devenir plus attrayantes aux yeux des étrangers.",
+            "Diminuer le nombre d’inscrits d’origine française.",
+            "Diversifier les nationalités au sein de chaque cursus",
+            "Intégrer de préférence des étudiants anglophones."
+        ],
+        "audio": "/mp3/180/38.mp3",
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": "180",
+        "options": [
+            "Les bâtiments restaurés sont en nombre insuffisant.",
+            "Les cités réaménagées sont surtout résidentielles.",
+            "Les municipalités privilégient les projets coûteux.",
+            "Les réhabilitations ont une portée limitée."
+        ],
+        "audio": "/mp3/180/39.mp3",
+        "answer": 3
+    }
+]
