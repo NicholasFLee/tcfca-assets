@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "182",
+        "options": [
+            "Il a avalé un mauvais morceau de fromage.",
+            "Il a trouvé quelque chose dans son fromage.",
+            "Il est tombé malade en mangeant du fromage.",
+            "Il s’est fait mal aux dents avec le fromage."
+        ],
+        "answer": 1,
+        "text": "Plus de peur que de mal pour ce petit garçon, près de Lorient, qui, dimanche soir, mangeait une part de fromage. “Papa, le fromage, il est dur!” Dimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale. Ses parents, occupés dans la pièce d’à côté, l’entendent tousser. “Comme s’il voulait vomir”, raconte Yann, son père. En fait, l’enfant est en train de recracher… un bout de plastique qui aurait pu l’étouffer.",
+        "query": "Qu’est-il arrivé à Youenn?"
+    },
+    {
+        "id": 21,
+        "testId": "182",
+        "options": [
+            "actrice à la télévision française.",
+            "gendarme sur les routes de France.",
+            "championne française de conduite.",
+            "reporter pour la télévision française."
+        ],
+        "answer": 0,
+        "text": "En tournage dans le Vaucluse jusqu'en décembre, l'héroïne d'« Une femme d'honneur, l'un des feuilletons stars de la première chaîne de télévision (TFl), a pris le temps de marquer une pause pour parler de la sécurité routière. « Non pas avec le prisme de mon rôle de gendarme » dit-elle, « mais en tant que mère et automobiliste choquée par le comportement de certains conducteurs. » Corinne Touzet sait de quoi elle parle : chaque année, elle avale en monospace 25 000 kilomètres sur les routes de France.",
+        "query": "Croinne Touzet est"
+    },
+    {
+        "id": 22,
+        "testId": "182",
+        "options": [
+            "Elle a consommé des sucres lents.",
+            "Elle a diversifié son alimentation.",
+            "Elle a préféré sauter certains repas.",
+            "Elle a privilégié les repas rapides."
+        ],
+        "answer": 1,
+        "text": "On dit souvent que, pour avoir un bon moral et résister au stress, il faut une bonne condition physique c'est encore plus vrai en période d'examen où il faut s'astreindre à quelques règles d'hygiène simples pour une bonne concentration. Le cerveaux a besoin plus que jamais d'aliments et de nutriments variés pour être le plus efficace. Personnellement, j'ai arrêté les sandwiches et le café, et privilégié les œufs (vitamine B9), les céréales (vitamine B1), les viandes riches en Fer. L'iode avec les poissons et les Légumes verts.",
+        "query": "Quelle conduite alimentaire a tenu cette étudiante pendant ses examens?"
+    },
+    {
+        "id": 23,
+        "testId": "182",
+        "options": [
+            "Effectuer un calcul.",
+            "Évoquer un fait divers.",
+            "Fournir un support.",
+            "Sélectionner un souvenir."
+        ],
+        "answer": 3,
+        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit : coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi!",
+        "query": "Quel est le rôle des participants à cette expérience?"
+    },
+    {
+        "id": 24,
+        "testId": "182",
+        "options": [
+            "le résultat d’une lutte menée par des gens orgueilleux et intolérants.",
+            "le triomphe d’une opinion émise par Apollinaire, mais autrefois combattue.",
+            "un miracle dû à la persévérance des archéologues sur plusieurs continents.",
+            "la consécration des œuvres européennes jusqu’alors remisées dans les musées."
+        ],
+        "answer": 1,
+        "text": "Les arts premiers au musée. Si cette renaissance sonne comme un cri de victoire, c’est qu’elle marque l’issue d’un combat idéaliste qui n’a fait d’autres victimes que l’arrogance et les préjugés. Le signal en fut donné par Guillaume Apollinaire en 1909: “le Louvre devrait recueillir certains chefs-d'œuvre exotiques dont l’aspect n’est pas moins émouvant que celui des beaux spécimens de la statuaire occidentale. Près d’un siècle plus tard, le vœu du poète est enfin comblé : plus d’une centaine de sculptures primitives d’Afrique, d’Asie, d’Océanie et des Amériques, jusqu’alors confinées dans des réserves ethnographiques, prennent place dans le temple de l’Art, jusqu’alors réservé à l’Europe et à ses sources.",
+        "query": "Cet événement est présenté comme…"
+    },
+    {
+        "id": 25,
+        "testId": "182",
+        "options": [
+            "De protéger les droits du personnel.",
+            "De vérifier le profil des postulants.",
+            "D’encourager la création d’emplois.",
+            "D’éviter la discrimination à l’embauche."
+        ],
+        "answer": 1,
+        "text": "Comment recruter la bonne personne, baby-sitter ou collaborateur? Si le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d'être sûr à 100% que la personne choisie soit vraiment la bonne. C'est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux : grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes. Cependant, l'usage de l'intelligence artificielle pour la sélection de candidats a rapidement montré ses limites. L'entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+        "query": "Que devrait permettre l’intelligence artificielle dans le monde professionnel?"
+    },
+    {
+        "id": 26,
+        "testId": "182",
+        "options": [
+            "Il déconseille au grand public de les adopter.",
+            "Il estime qu’elles sont insuffisamment promues.",
+            "Il remet en question leurs retombées positives.",
+            "Il révèle qu’elles contribuent au déclin industriel."
+        ],
+        "answer": 1,
+        "text": "Selon plusieurs scientifiques, les nouvelles solutions « écologiques », comme la voiture électrique, tendent en fait à accroître l'activité économique et ne pourront pas préserver notre modèle de développement. Au-delà du double écueil de la fabrication des voitures électriques qui est énergivore et génère beaucoup de déchets, le problème des technologies dites « vertes » est principalement dû à l'effet rebond, c'est-à-dire l'augmentation de l'activité globale qu'entraîne toute découverte ou amélioration technologique. Ainsi, une véritable approche écologique devrait obligatoirement comporter une part de sobriété, grâce à laquelle le progrès technique servirait une réduction de la consommation.",
+        "query": "Que pense l’auteur des nouvelles solutions écologiques?"
+    },
+    {
+        "id": 27,
+        "testId": "182",
+        "options": [
+            "L’efficacité d’un slogan choc.",
+            "La coopération de ses membres.",
+            "La distribution de brochures.",
+            "La promotion en ligne de la campagne."
+        ],
+        "answer": 1,
+        "text": "7,116 TONNES C'est la quantité de médicaments non utilisés qui dorment dans les armoires des Français. Pour les inciter à les ramener en pharmacie, l'Association santé environnement France (Asef) lance une grande opération. Des tampons avec l'inscription « rapportez vos médicaments non utilisés à votre pharmacie », vont être remis aux 1 500 médecins et professionnels de santé adhérents de l'Asef. Ces derniers pourront les appliquer sur les ordonnances pour sensibiliser les patients au gaspillage des médicaments.",
+        "query": "Sur quoi repose le bon fonctionnement de l’opération lancée par l’Asef?"
+    },
+    {
+        "id": 28,
+        "testId": "182",
+        "options": [
+            "Elles ont moins de succès que les cursus scientifiques.",
+            "Elles représentent inégalement les milieux sociaux.",
+            "Elles séduisent des étudiants aux profils variés.",
+            "Elles sont source de discrimination envers les femmes."
+        ],
+        "answer": 1,
+        "text": "Minoritaires au sein des filières scientifiques universitaires et dans les écoles d'ingénieurs, les filles sont de plus en plus nombreuses à suivre des études de médecine. Elles représentent désormais près de 70% des inscrits en première année. Attirance pour le secteur sanitaire et social, plus grande motivation et maturité sont des raisons invoquées pour expliquer cette forte féminisation de la profession. Mais l'origine de l'élève en médecine a peu changé : 40% de ces étudiants ont des parents-cadres supérieurs ou exerçant une profession libérale - contre 30% à l'université. Des chiffres stables qui en font une des formations les plus clivées socialement, derrière les classes préparatoires aux grandes écoles.",
+        "query": "Que constate le journaliste à propos des études de médecine?"
+    },
+    {
+        "id": 29,
+        "testId": "182",
+        "options": [
+            "Les données des malades sont transmises aux fabricants.",
+            "Les incidents dus aux erreurs de diagnostic augmentent.",
+            "Les patients se méfient des innovations technologiques.",
+            "Les recherches sont limitées par le manque d’informations."
+        ],
+        "answer": 3,
+        "text": "Les implants médicaux (prothèses mammaires, de hanche, etc.) sont censés vous améliorer la vie. Mais des lacunes dans leur contrôle seraient à l'origine d'incidents en nombre croissant. C'est ce que révèle la dernière enquête du Consortium international des journalistes d'investigation. On y apprend que, en France, le nombre d'incidents lié à ces implants aurait doublé en dix ans. Le problème souligne l'enquête, c'est que les informations sur les patients restent globalement très incomplètes et leurs données sont souvent confidentielles. Il est donc difficile de dénombrer avec précision les incidents, de connaître la marque et le modèle des implants posés, et de retrouver les patients en cas de problème.",
+        "query": "Quel problème révélé cet article à propos des implants médicaux?"
+    },
+    {
+        "id": 30,
+        "testId": "182",
+        "options": [
+            "Il est stimulé en phase d’apprentissage du langage.",
+            "À chaque activité correspond une région précise.",
+            "Les neurones sont concentrés dans quelques zones.",
+            "Son développement est lié au caractère d’un individu."
+        ],
+        "answer": 1,
+        "text": "Selon une ancienne théorie sur la différence entre cerveau gauche et cerveau droit, les individus pourraient être classés selon leur dominance hémisphérique. Les « plus à gauche » seraient ainsi plus logiques et analytiques tandis que les « plus à droite » seraient créatifs et intuitifs. S'il existe bel et bien une forme de dominance hémisphérique, elle dépend non pas de la personne, mais du type d'activité en cours. Par exemple, chez 99% des droitiers et plus de 70% des gauchers, le langage fait appel le plus souvent à des neurones situés dans l'hémisphère gauche.",
+        "query": "qu’apprend-on sur le cerveau?"
+    },
+    {
+        "id": 31,
+        "testId": "182",
+        "options": [
+            "La longévité des programmes.",
+            "La qualité des services offerts.",
+            "Le changement régulier des séries.",
+            "Le contentement de leurs abonnés."
+        ],
+        "answer": 2,
+        "text": "Deux petites saisons et puis s'en vont. Sur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n'en sont pas moins soumises à rude concurrence. Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles. Cette stratégie ne doit rien au hasard. Dans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu'à la longévité. Quitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l'audimat.",
+        "query": "D’après l’article, que privilégient les plates-formes de streaming?"
+    },
+    {
+        "id": 32,
+        "testId": "182",
+        "options": [
+            "D’anciens artistes ont l’occasion de monter sur scène.",
+            "Les financements publics contribuent à leur expansion.",
+            "Les organisateurs s’adaptent aux nouvelles tendances.",
+            "Les tarifs proposés dépendent de la programmation."
+        ],
+        "answer": 1,
+        "text": "Cette année encore, les adeptes de la culture ne savent plus où donner de la tête et du porte-monnaie. En nombre sans cesse croissant - notamment depuis que les collectivités territoriales (régions, départements...) ont compris le parti qu'elles pouvaient tirer de leur investissement en matière de communication les festivals de musique foisonnent et les indicateurs sont au beau fixe, avec des rendez-vous emblématiques comme les Francofolies de La Rochelle et les Vieilles Charrues. L'année dernière, ils assuraient avoir battu des records de fréquentation.",
+        "query": "Dans cet article, qu’apprend-on sur les festivals?"
+    },
+    {
+        "id": 33,
+        "testId": "182",
+        "options": [
+            "Il est méconnu du public visé.",
+            "Il est restreint à quelques pays.",
+            "Il favorise certains établissements.",
+            "Il souffre d’une image négative."
+        ],
+        "answer": 0,
+        "text": "« Le programme de mobilité Erasmus n'est plus réservé aux étudiants, » explique Sophie Roque, enseignante. Peu répandu, le programme Erasmus+ pour les enseignants bénéficie depuis quelques années d'un grand appel d'air. La demande progresse, et l'offre de mobilité aussi. Le système éducatif finlandais et les formations en anglais attirent beaucoup. Si le programme Erasmus+ pour les enseignants semble très apprécié de ceux qui y participent, il souffre néanmoins d'un vrai déficit de notoriété. On le découvre souvent par hasard ou à la faveur d'une rencontre. Franck Le Cars, délégué académique, confirme que le bouche-à-oreille entre enseignants est le meilleur moyen de développer le dispositif. II souligne également que ces mobilités à l'étranger restent complexes à mettre en œuvre, car très chronophages.",
+        "query": "Qu’apprend-on sur le programme Erasmus+?"
+    },
+    {
+        "id": 34,
+        "testId": "182",
+        "options": [
+            "Dans un centre de relaxation.",
+            "Dans un laboratoire.",
+            "Dans un musée archéologique.",
+            "Dans un parc naturel."
+        ],
+        "answer": 3,
+        "text": "Je ne connais pas son prénom, mais il y a dans les Alpes, une personne à la verve savoureuse. Elle émaille la visite des gravures rupestres, dont les plus anciennes datent du Néolithique, de remises en perspective sur les prémices préhistoriques du capitalisme et de la domination masculine. Elle chantera peut-être, à condition que vous ne l’applaudissiez pas, pour vous permettre de ressentir l’acoustique d’un cirque rocheux. Elle vous proposera aussi de vous allonger et de fermer les yeux pour percevoir les vibrations du sol, riche en uranium. Bref, elle guidera les êtres minuscules que vous êtes à travers les plis grandioses de l’écorce terrestre.",
+        "query": "Où exerce la personne décrite?"
+    },
+    {
+        "id": 35,
+        "testId": "182",
+        "options": [
+            "Il aimerait que sa région soit plus combative et engagée face aux problèmes locaux.",
+            "Il réclame de nouvelles dispositions tarifaires pour que les factures soient moins élevées.",
+            "Il s’indigne en estimant que les reproches faits aux consommateurs sont injustifiés.",
+            "Il trouve inquiétantes les conséquences de la mauvaise gestion des sources d’énergie"
+        ],
+        "answer": 2,
+        "text": "Bonjour, Vous parlez dans votre article du risque de coupure générale d'électricité pour la Bretagne du fait d'une surconsommation. Or, cette région ne possède pas de source de production locale, ce qui implique une dépendance vis-à-vis du réseau et des lignes à haute tension! La pression est forte à chaque épisode de grand froid... Le risque est réel, cependant les Bretons se serrent la ceinture! La Bretagne s'est toujours montrée en avance dans l'action, comme un village d'irréductibles Gaulois entouré par les Romains! Ce qui est agaçant, c'est que, pendant qu'ils jettent la pierre aux particuliers, les médias ne dénoncent pas l'absence d'efforts des milieux industriels! C'est même écœurant de le constater, ils ne subissent aucune restriction à ce jour! Qui consomme réellement plus?",
+        "query": "Quelle est la réaction dont ce lecteur fait part?"
+    },
+    {
+        "id": 36,
+        "testId": "182",
+        "options": [
+            "L’écologie est avant tout une affaire d’État.",
+            "La concertation est la clé d’une action réussie.",
+            "Les mesures protectionnistes sont dépassées.",
+            "L’influence des lobbies est à prendre en compte."
+        ],
+        "answer": 1,
+        "text": "Dans l'intérêt de leurs peuples, les gouvernements doivent répondre à la fois à des enjeux de court et de long terme. Cet exercice est si difficile que l'on peut comprendre qu'une certaine cacophonie règne au niveau politique. Pourtant, face aux périls, le mot « ensemble » est une arme souvent victorieuse. Les stratégies de développement durable des pays ont ainsi plus de chance de succès si elles s'harmonisent. Pour commencer, cherchons à nous rapprocher entre Européens, pour mener de front transition économique et transition environnementale, afin de mettre un bémol au dérèglement climatique et à la perte de biodiversité.",
+        "query": "Quel point de vue défend l’auteur?"
+    },
+    {
+        "id": 37,
+        "testId": "182",
+        "options": [
+            "Attirer davantage d’étudiants brillants.",
+            "Être à la pointe de la technologie.",
+            "Ouvrir ses cours à un public élargi.",
+            "Proposer des disciplines inédites."
+        ],
+        "answer": 2,
+        "text": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche. Pour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grands écoles, organismes de recherche, centre hospitalier universitaire…). Ce nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre. Il a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures. Au travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+        "query": "Quel est l’objectif de cette université?"
+    },
+    {
+        "id": 38,
+        "testId": "182",
+        "options": [
+            "L’évolution des aptitudes mentales.",
+            "La mondialisation de la recherche scientifique.",
+            "La transformation des savoirs fondamentaux.",
+            "Le maintien du patrimoine culturel."
+        ],
+        "answer": 0,
+        "text": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu'en leur temps l'invention de l'écriture, puis celle de l'imprimerie. Les notions de temps et d'espace en sont transformées et les façons d'accéder à la connaissance profondément modifiées. À cet égard, chaque grande rupture dans l'histoire de l'humanité conduit à priver l'homme de facultés («il perd »), mais chaque révolution lui en apporte de nouvelles («il gagne »). Pour chaque perte d'une part de mémoire et de capacité de traitement de l'information liée à la diffusion des technologies numériques, l'homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu'une faculté décuplée d'invention et de création.",
+        "query": "Sur quoi Michel Serres attire-t-il l’attention?"
+    },
+    {
+        "id": 39,
+        "testId": "182",
+        "options": [
+            "Elles diminuent dans toutes les organisations.",
+            "Elles résultent du fonctionnement d’une société.",
+            "Elles se combattent mieux avec de la sincérité.",
+            "Elles se justifient par des arguments fallacieux."
+        ],
+        "answer": 1,
+        "text": "L'histoire des sociétés humaines tourne autour de la recherche d'un monde plus juste. Les idéologies religieuses et politiques ont toujours visé une certaine forme de justice et d'égalité. Les êtres humains ont besoin de donner un sens à leur existence, notamment sociale : ils se soucient forcément de la vie des autres et veulent trouver une raison d'être à l'état de la société. Aucune élite ne peut se contenter de posséder davantage d'argent ou de pouvoir que les autres de façon explicitement arbitraire. De ce fait, l'organisation sociale est expliquée et justifiée par un discours sophistiqué. Ce discours doit être un minimum plausible et repose souvent sur un mélange de sincérité et d'hypocrisie.",
+        "query": "Qu’explique l’auteur sur les inégalités sociales?"
+    }
+]
