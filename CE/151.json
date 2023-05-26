@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "151",
-        "text": "Difficile d'affirmer qu'on attendait beaucoup de ce film. En effet, avec le réalisateur du très moyen Maison bleue aux commandes, Franck Christian et Articus dans les rôles principaux, cette comédie partait avec plusieurs handicaps du côté du capital sympathie. Des handicaps qui allaient demander un bon paquet de qualités pour nous convaincre qu'Imperturbable n'était pas juste un énième bouche-trou pour prime time télévisuel tel qu'on continue à en voir toutes les semaines. Résultat : o miracle, les qualités d'un bon film sont là ! Et même plus encore !",
+        "text": "Difficile d'affirmer qu'on attendait beaucoup de ce film. En effet, avec le réalisateur du très moyen Maison bleue aux commandes, Franck Christian et Articus dans les rôles principaux, cette comédie partait avec plusieurs handicaps du côté du capital sympathie. Des handicaps qui allaient demander un bon paquet de qualités pour nous convaincre qu'Imperturbable n'était pas juste un énième bouche-trou pour prime time télévisuel tel qu'on continue à en voir toutes les semaines. Résultat : o miracle, les qualités d'un bon film sont là! Et même plus encore!",
         "query": " ",
         "options": [
             "Elle le trouve juste bon pour la télévision.",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "151",
-        "text": "La Maison de campagne: Ce restaurant offre à sa clientèle un bel espace articulé en trois salles : cuisine, salle à manger et salon, décorées dans un joli style provençal. On choisit même sa bouteille de vin à la cave, comme à la maison ! Malheureusement, bien que les plats proposés soient élaborés à partir de produits frais sélectionnés au marché, la cuisine reste une cuisine vue et revue, tellement prévisible qu'il vaudra mieux choisir un restaurant en ville plutôt que se perdre dans cette campagne-là.",
+        "text": "La Maison de campagne: Ce restaurant offre à sa clientèle un bel espace articulé en trois salles : cuisine, salle à manger et salon, décorées dans un joli style provençal. On choisit même sa bouteille de vin à la cave, comme à la maison! Malheureusement, bien que les plats proposés soient élaborés à partir de produits frais sélectionnés au marché, la cuisine reste une cuisine vue et revue, tellement prévisible qu'il vaudra mieux choisir un restaurant en ville plutôt que se perdre dans cette campagne-là.",
         "query": "Sur quel point porte la critique négative faite à ce restaurant?",
         "options": [
             "L’originalité des plats.",

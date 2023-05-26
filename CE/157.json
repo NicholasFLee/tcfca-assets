@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "157",
-        "text": "Un jour, en réfléchissant aux raisons qui m'avaient éloigné d'une carrière universitaire pourtant bien partie afin de me consacrer à mon I travail de médecin praticien, l'ai compris que mon choix tenait en partie au fait que l'on I riait beaucoup plus au contact des êtres humains plongés dans la vie qu'à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j'avais suivi le soleil de cette ! vibration qui fabrique du bonheur, du lien, de la santé. Je ne l'ai jamais regretté.",
+        "text": "Un jour, en réfléchissant aux raisons qui m'avaient éloigné d'une carrière universitaire pourtant bien partie afin de me consacrer à mon I travail de médecin praticien, l'ai compris que mon choix tenait en partie au fait que l'on I riait beaucoup plus au contact des êtres humains plongés dans la vie qu'à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j'avais suivi le soleil de cette! vibration qui fabrique du bonheur, du lien, de la santé. Je ne l'ai jamais regretté.",
         "query": "Qu’est-ce qui a guide l’auteur dans ses choix professionnels?",
         "options": [
             "L'attirance pour les études.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "157",
-        "text": "Changer de métier: évitez les aléas ! Changer de métier ne doit pas être une décision prise à la légère. Il est Important de prendre le temps de déterminer avec précision les raisons qui vous poussent à vouloir faire ce choix. Il est essentiel de bien s'orienter pour la recherche d'un nouveau travail, surtout si vous êtes dans le flou par rapport à vos envies. Faire le point sur vos compétences vous permettra de déterminer vers quels secteurs vous pouvez-vous diriger. Avoir conscience de vos compétences sera également un plus au moment de vous vendre à un employeur potentiel.",
+        "text": "Changer de métier: évitez les aléas! Changer de métier ne doit pas être une décision prise à la légère. Il est Important de prendre le temps de déterminer avec précision les raisons qui vous poussent à vouloir faire ce choix. Il est essentiel de bien s'orienter pour la recherche d'un nouveau travail, surtout si vous êtes dans le flou par rapport à vos envies. Faire le point sur vos compétences vous permettra de déterminer vers quels secteurs vous pouvez-vous diriger. Avoir conscience de vos compétences sera également un plus au moment de vous vendre à un employeur potentiel.",
         "query": "Que conseille cet article à ceux qui désirent changer de métier?",
         "options": [
             "D'élargir leurs perspectives professionnelles.",
@@ -119,7 +119,7 @@
         "id": 29,
         "testId": "157",
         "text": "L'Europe s'est dotée de son propre label du patrimoine décerné à de hauts lieux de l'histoire et de la culture du Vieux Continent, en complément de la célèbre liste mondiale établie par l'UNESCO. Un accord est intervenu lors d'une réunion des ministres de la Culture de l'Union européenne. Ce label incitera un plus grand nombre de personnes à réfléchir à la dimension européenne de notre histoire commune. Le tourisme et l'économie devraient également en tirer parti. Le label sera accordé en fonction non de qualités architecturales ou esthétiques, mais de la valeur symbolique européenne des lieux et de leur dimension pédagogique.",
-        "query": "D’après l’article, à quoi servira le label du patrimoine européen !",
+        "query": "D’après l’article, à quoi servira le label du patrimoine européen!",
         "options": [
             "À concurrencer la liste des hauts lieux dressée par l'UNESCO.",
             "À définir les critères esthétiques de l'architecture européenne.",
