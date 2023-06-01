@@ -79,8 +79,8 @@
     {
         "id": 26,
         "testId": "162",
-        "text": "Il veut réhabiliter la charcuterie. Si le métier, bien sür, mais aussi le Produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire! On travaille avec des matières nobles, dans des labos modernes. On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de ce puriste : la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur? C'est un non-sens! »",
-        "query": "Quel message cet homme veut-il transmettre?",
+        "text": "Il veut réhabiliter la charcuterie. Le métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire ! On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de puriste : la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur ? C'est un non-sens! »",
+        "query": "Quel message cet homme veut-il transmettre ?",
         "options": [
             "L'avenir de son travail est menacé par l'industrie agroalimentaire.",
             "La qualité des produits charcutiers est reconnue par les médecins.",

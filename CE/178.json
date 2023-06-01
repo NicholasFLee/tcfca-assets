@@ -7,7 +7,9 @@
             "Il présente le métier de Modiano à ses débuts.",
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Dora Bruder, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir: « On recherche une jeune fille, Dora Bruder, 15 ans, 1m55, visage ovale, yeux gris marron, manteau sport gris. Adresse toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris. » Modiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18e arrondissement.",
+        "query": "Que fait le journaliste dans cet extrait?"
     },
     {
         "id": 21,
@@ -18,7 +20,9 @@
             "L’envoi de son téléphone par la poste.",
             "Une réclamation sur son achat."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Madame, Monsieur, Ce courrier fait suite à mon achat d’un téléphone le 4 mars dernier. Après réflexion, je souhaiterais le rendre car j’ai finalement décidé d’acheter un appareil avec messagerie intégrée. Ainsi, je vous prie de bien vouloir me restituer la somme de 75 euros, correspondant à la somme versée le 5 mars par chèque. Dans l’attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations. André Cellier.",
+        "query": "Quel est l’objet de la lettre de monsieur Cellier?"
     },
     {
         "id": 22,
@@ -29,7 +33,9 @@
             "Fournir un support.",
             "Sélectionner un souvenir."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit : coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi!",
+        "query": "Quel est le rôle des participants à cette expérience?"
     },
     {
         "id": 23,
@@ -40,7 +46,9 @@
             "Elle entraine une trop grande consommation d’énergie.",
             "Elle concurrence des modes naturels de rafraîchissement de l’air."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "L'épisode meurtrier de canicule, qui a entraîné la mort d'un si grand nombre de personnes du troisième âge en Europe, a imposé un nouveau défi sanitaire. « Une seule solution, la climatisation » a-t-on entendu à cette occasion. La revue Durable, chantre du développement durable, s'insurge contre cette facilité. « Le but n'est pas de condamner la climatisation par principe, notamment dans les hôpitaux et les foyers de personnes âgées, mais celle-ci crée des tensions sur le réseau électrique; donc, avant de l'installer, il serait bon de considérer d'autres moyens efficaces tels que systèmes de circulation d'eau, appareillage sophistiqué de stores orientables jouant avec la brise et le rayonnement, etc. »",
+        "query": "Que reproche la revue Durable à la climatisation?"
     },
     {
         "id": 24,
@@ -51,7 +59,9 @@
             "Les prestations qu’ils proposent sont payantes.",
             "Leur maintenance est assurée par des bénévoles."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite... Les cartes fleurissent sur le web et les internautes y sont accros. Plus de 13 millions de Français consultent régulièrement des sites de localisation sur Internet. Sans oublier le succès phénoménal des photos-satellites mises en ligne. Ces services gratuits pour les internautes cachent un véritable business. De grandes sociétés rémunèrent les sites de localisation pour être bien placées sur les cartes. C'est d'autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
+        "query": "Qu’apprend-on sur les services de localisation sur internet?"
     },
     {
         "id": 25,
@@ -62,7 +72,9 @@
             "Par la primauté de l’intérêt collectif sur bénéfices.",
             "Par la répartition équitable des profits entre salariés."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "La vision traditionnelle de l'entreprise implique d'avoir pour seule finalité le profit. Toutefois, le discours change. On parle désormais des trois P: performance du profit, des personnes et de la planète, ce qui constitue certes un progrès et signifie que l'entreprise doit être responsable socialement et environnementalement pour faire du profit. Néanmoins, la finalité reste toujours le profit. L'entreprise « humaniste » inverse ce discours en s'appuyant sur un regroupement de personnes au service du bien commun. Les bénéfices de l'entreprise qui demeurent nécessaires deviennent un moyen et l'objectif, c'est le bien commun. Pour l'atteindre, l'entreprise humaniste est construite sur des relations de confiance interpersonnelles, sur des produits et un service de qualité ainsi que sur un impact environnemental fiable, voire nul.",
+        "query": "Comment les entreprises humanistes se distinguent-elles des autres?"
     },
     {
         "id": 26,
@@ -73,7 +85,9 @@
             "Le passage d’un métier de bouche à un autre se fait facilement.",
             "L’image attachée à sa profession est stéréotypée et peu valorisante."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Il veut réhabiliter la charcuterie. Le métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire ! On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de puriste : la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur ? C'est un non-sens! »",
+        "query": "Quel message cet homme veut-il transmettre?"
     },
     {
         "id": 27,
@@ -84,7 +98,9 @@
             "Il reste sceptique envers les scientifiques.",
             "Il s’associe à l’écriture d’un documentaire."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Lettre à G, un documentaire passionnant. Les 4 jeunes réalisateurs de ce documentaire consacré au philosophe-journaliste André Gorz ont décidé de tourner ce film, après avoir découvert sa pensée presque par hasard. Ni pédagogique, ni austère, ni alarmiste, c'est une œuvre qui ouvre l'horizon et arrive à point nommé pour nous rappeler que l'écologie politique peut être une renaissance. Elle propose, en même temps qu'une découverte de cet auteur atypique, une lecture claire de son projet d'émancipation sociale à l'heure de l'urgence écologique. Car même si le contexte actuel est grave, la somme des connaissances psychologiques et scientifiques favorise, selon lui, « des possibilités d' émancipation, de développement et d'enrichissement de la vie qui n'ont jamais existé avant ».",
+        "query": "Dans cet article, qu’apprend-on sur André Gorz?"
     },
     {
         "id": 28,
@@ -95,7 +111,9 @@
             "Le désintérêt croissant du public pour les productions indépendantes.",
             "Les nombreux échecs des projections proposées le weekend."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Les distributeurs indépendants. s'inquiètent de voir les salles de cinéma offrir de plus en plus de séances au spectacle vivant (opéras, ballets) ou au sport. Ces distributeurs sont le maillon le plus fragile du paysage cinématographique: ils prennent des risques sur la sortie des films et c'est à eux de financer la majeure partie de la numérisation des salles. Ils voient donc d'un mauvais œil que l'équipement numérique des grands complexes serve à passer autre chose que leurs films surtout quand les séances ont lieu le week-end, à l'heure où pour préserver la salle, le cinéma est interdit d'antenne à la télévision.",
+        "query": "Qu’apprend-on sur les concours?"
     },
     {
         "id": 29,
@@ -106,7 +124,9 @@
             "Rechercher l’âme sœur.",
             "Travailler sur soi-même."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Soyez vous-même, ou sinon, devenez-le ! La rentrée de septembre voit s’afficher dans les couloirs du métro parisien et les vitrines des libraires les couvertures de livres de développement personnel et autres introductions à la méditation, destinés à faire passer la pilule du retour au bureau des corps vacanciers. Le nouveau film de Cédric Klapisch participe à sa manière à cette vague de bien-être sur fond de grisaille. Vous y verrez défiler votre vie monotone, heureusement suspendue à la promesse d'un grand bonheur croisé in extremis. La référence principale du film reste la psychanalyse. La sérénité est au bout du chemin, avec son secret apprendre à s'aimer pour aimer quelqu'un d'autre.",
+        "query": "Quelle tendance est dans l’air du temps?"
     },
     {
         "id": 30,
@@ -117,7 +137,9 @@
             "Il formule une plainte.",
             "Il raconte une anecdote."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Parcourir les routes d’Europe l’été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays. Ce qu’il faut savoir, c’est qu’il existe des différences qui peuvent être notables selon les législations. Alors que la vitesse maximal sur autoroute est de 130km/h en France, elle n’est que de 120km/h en Belgique, en Espagne ou au Portugal. Quant au taux d’alcoolémie toléré, il varie de 0,8g/l en Irlande à zéro en République tchèque.",
+        "query": "Que fait l’auteur de cet article?"
     },
     {
         "id": 31,
@@ -128,7 +150,9 @@
             "Bâtir des locaux commerciaux.",
             "Développer l’activité de recyclage."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "L'association Bois & Cie est pensée au départ comme un atelier de partage de savoir-faire autour du bois. Pendant plus d'une décennie, des passionnés se réunissaient pour fabriquer meubles et autres objets en réutilisant des rebuts de bois. II y a quelques années, l'association a pris un tournant : créer des habitats démontables en bois pour des publics précaires. En effet, Bois & Cie accueille des salariés en contrat d'insérer professionnellement et à trouver un toit sont liées. L'association décide alors de faire de la construction d'habitations son cœur d'activité et lance le projet Toits & Cie.",
+        "query": "Quelle décision cette association a-t-elle prise?"
     },
     {
         "id": 32,
@@ -139,7 +163,9 @@
             "La précarité du monde professionnel.",
             "Le désir de vivre en communauté."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Les néo-nomades ont souvent moins de 30 ans et vivent dans leur camion ou d'anciens cars scolaires transformés en caravane ou camping-car. Ces nouveaux voyageurs intermittents vont d'un lieu à l'autre, au gré des impératifs de leur travail, souvent saisonnier et forment une population hétérogène. Ils résolvent la difficulté d'accéder à un logement lorsque l'on n'a pas de travail permanent en se posant en marge de notre paysage contemporain: aux abords des routes secondaires, dans la périphérie des villes, le long des rails, sur des friches ou des terrains privés. Les néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
+        "query": "Selon le journaliste, quelle est l’origine du néo-natalisme?"
     },
     {
         "id": 33,
@@ -150,7 +176,9 @@
             "Il propose des questions inadaptées aux enfants.",
             "Il remet en question des traditions profondément ancrées."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Dans les écoles, le mode d'évaluation classique est en passe d'être remplacé par une évaluation comporte des dizaines d'items, considérés comme « acquis », « pas acquis » ou « en cours d'acquisition » par l'enseignant. Cependant, certains items qui manquent de précision. Ils pensent qu'il est très difficile d'évaluer des compétences sur le savoir-être et que cela n'a aucun intérêt. En outre, le système demande trois fois plus de temps en correction. D'autres professeurs que certains élèves se sentent plus encouragés et valorisés. Ils progressent, car ils savent après chaque évaluation quelle est la compétence à retravailler, car cela est plus précis qu'une note. La suppression du mode traditionnel d'évaluation suscite des réactions fortes, aussi bien chez les parents et enseignants que chez les simples citoyens: réactions qui traduisent à la fois le sentiment de ne plus comprendre les objectifs de l'école, de ne plus maîtriser les attentes de l'institution envers les enfants.",
+        "query": "En quoi ce nouveau système d’évaluation peut-il être déstabilisant?"
     },
     {
         "id": 34,
@@ -161,18 +189,22 @@
             "Les autorités universitaires s’en préoccupent peu.",
             "Lutter contre elles peut nuire à certaines libertés."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Un nouveau mot se banalise sur les campus américains: « microagression » Qualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d'expression. Forgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi : des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé. Des universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions, mais certains redoutent que l'excès de précaution ne vienne tuer le débat d'idées.",
+        "query": "Qu’apprend-on sur les microagressions?"
     },
     {
         "id": 35,
         "testId": "178",
         "options": [
             "Il apaise les tensions de la société.",
-            "Il insiste sur le pont de vue matériel.",
+            "Il insiste sur le point de vue matériel.",
             "Il propose des programmes utopiques.",
             "Il traite les problèmes liés aux sols."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Le discours écologique actuel est très factuel, “pratico-practique” comme si on n’osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C’est peut-être l’une des raisons pour laquelle l’écologie politique ne rallie pas tant que ça. Si on n’est pas sensible à la terre, aux végétaux, on devient un technicien de l’écologie, on emploie un langague neutre et rassurant, fait d’environement et de développement durable. Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
+        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel?"
     },
     {
         "id": 36,
@@ -183,7 +215,9 @@
             "Proposer des anecdotes amusantes.",
             "Recenser les dérives de la société."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article. La plupart du temps, les découvertes que nous faisons sont comme de grands bols d'air : elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons. Nous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves ; leur utopie, et comment ils s'y prennent pour, à leur échelle, faire évoluer le monde. C'est simple, c'est lent, c'est « proprement humain ». Il est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés!",
+        "query": "Quel est le parti pris de ces journalistes?"
     },
     {
         "id": 37,
@@ -194,7 +228,9 @@
             "Elle permet de moderniser le lexique.",
             "Elle reflète les clivages de la société."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Défenseur-e-s et détracteur-e-s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s'écharpent sur cet épineux sujet. Pour Eliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroit que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui : il y a eu une masculinisation délibérée du langage à partir du XVIle siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
+        "query": "Que pense Éliane Viennot de l’écriture inclusive?"
     },
     {
         "id": 38,
@@ -205,7 +241,9 @@
             "Ils sont remplacés par des pathologies professionnelles.",
             "Ils sont source de traumatismes musculaires."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Le recul est considérable: les accidents de travail ont diminué de plus de 7 % cette année. Cette chute est due en partie aux campagnes médicales menées auprès du public. Mais elle révèle aussi une situation économique, avec la baisse d'activité, notamment dans les secteurs industriels - bâtiment et travaux publics. Mais si les accidents sont moins nombreux, les maladies professionnelles, elles, ne cessent de progresser, avec une hausse de 5% en 2009. Et les troubles des muscles et des os sont particulièrement concernés: leur fréquence a ainsi augmenté de plus de 7 % en un an. En cause, le stress, mais aussi les activités physiques à répétition.",
+        "query": "Qu’apprend-on sur les accidents du travail?"
     },
     {
         "id": 39,
@@ -216,6 +254,8 @@
             "À répéter les dérivés issus de la robotique dans le quotidien.",
             "À vérifier l’empathie ressentie envers les robots."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Peu à peu, les robots entrent dans notre vie de tous les jours, que ce soit sous forme de jouets pour enfants, pour faire le ménage, pour tenir compagnie aux personnes souffrant d'isolement ou pour combattre certaines pathologies. Cette problématique a interpellé des scientifiques qui se sont interrogés sur la perception que nous avions des rebots. Peut-on s'y attacher et en faire des compagnons? Ou les considérons-nous comme de vulgaires objets? Leur étude, plaçant robots puis humains en difficulté, montre que ces machines ne nous laissent pas insensibles, mais l'émotion semble malgré tout plus intense lorsqu'un humain rencontre un obstacle.",
+        "query": "Que cherchent à faire ces scientifiques?"
     }
 ]
