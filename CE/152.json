@@ -210,7 +210,7 @@
         "id": 36,
         "testId": "152",
         "text": "Le discours écologique actuel est très factuel, “pratico-practique” comme si on n’osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C’est peut-être l’une des raisons pour laquelle l’écologie politique ne rallie pas tant que ça. Si on n’est pas sensible à la terre, aux végétaux, on devient un technicien de l’écologie, on emploie un langague neutre et rassurant, fait d’environement et de développement durable. Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
-        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel",
+        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel?",
         "options": [
             "Il apaise les tensions de la société.",
             "Il insiste sur le point de vue matériel.",
