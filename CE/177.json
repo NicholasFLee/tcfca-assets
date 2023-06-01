@@ -7,7 +7,9 @@
             "Les grands chefs livrent leurs secrets sur des sites.",
             "Les traditions culinaires peuvent se perpétuer grâce au numérique."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas. Sur la toile, la cuisine est devenue, l'univers le plus plébiscité avec le voyage. Et même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger. « Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse. Pour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.",
+        "query": "Qu’apprend-on dans cet article?"
     },
     {
         "id": 21,
@@ -18,7 +20,9 @@
             "Pour améliorer leurs revenus.",
             "Parce qu’ils ne veulent plus être seuls."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "SOCIÉTÉ. Plus que jamais peut-être, des lycéens, étudiants, jeunes travailleurs sont nombreux à consacrer une partie de leur activité, souvent bénévolement, aux plus âgés. Tout au long de la semaine, ils passent faire un brin de causette, histoire de tenir compagnie à ces personnes isolées, délaissées par leur famille. Rencontrer des jeunes n'est-il pas le plus sûr moyen de conserver un semblant de la vie sociale?",
+        "query": "Pourquoi certaines jeunes consacrent-ils du temps aux personnes âgées?"
     },
     {
         "id": 22,
@@ -29,7 +33,9 @@
             "Fournir un support.",
             "Sélectionner un souvenir."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit : coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi!",
+        "query": "Quel est le rôle des participants à cette expérience?"
     },
     {
         "id": 23,
@@ -40,7 +46,9 @@
             "Il a invité le groupe suivant à partir.",
             "Il l’a retenue prisonnière toute la nuit."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Hier soir, lors du dernier concert du Festival de jazz organisé par la ville de Nancy, une chanteuse lorraine, Mell, a enthousiasmé le public lors de la première partie. À tel point que le groupe prévu ensuite a dû décaler son horaire. En effet, lorsque la chanteuse a quitté la scène, la salle, noire de monde, s'est mise à hurler afin de l'empêcher de partir.",
+        "query": "Comment le public a-t-il réagi lors du concert de Mell?"
     },
     {
         "id": 24,
@@ -51,7 +59,9 @@
             "D’organiser des contrôles pour surveiller la pêche.",
             "De créer des taxes sur les produits de la pêche."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique. “Il est temps que la planète franchisse une nouvelle étape dans la protection des océans” a déclaré le ministre australien de l’environement. La création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d’euros en contrepartie. La fondation australienne pour la protection de l’environement a qualifié cette annonce d’historique mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+        "query": "Que projette le gouvernement australien?"
     },
     {
         "id": 25,
@@ -62,7 +72,9 @@
             "D’encourager la création d’emplois.",
             "D’éviter la discrimination à l’embauche."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Comment recruter la bonne personne, baby-sitter ou collaborateur? Si le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d'être sûr à 100% que la personne choisie soit vraiment la bonne. C'est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux : grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes. Cependant, l'usage de l'intelligence artificielle pour la sélection de candidats a rapidement montré ses limites. L'entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+        "query": "Que devrait permettre l’intelligence artificielle dans le monde professionnel?"
     },
     {
         "id": 26,
@@ -73,7 +85,9 @@
             "Une mise en valeur de l’autre.",
             "Une technique de retouche."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "La rétrospective Mali Twist montre comment, par sa diversité et son éclat, l'œuvre de Malick Sidibé s'inscrit dans le champ contemporain de la photographie. Tour à tour reporter et portraitiste, Malick Sidibé a construit, depuis l'ouverture de son studio à Bamako en 1962, un ensemble photographique en noir et blanc exceptionnel. Mali Twist révèle son regard attentif et son talent pour mettre en lumière le meilleur de chacun, sa singularité. Malick Sidibé a fait de la photographie un art de l'échange. S'il a eu pour règle d'or d'embellir ses modèles. Il témoigne aussi de la joie de vivre de la jeunesse bamakoise, peu après l'indépendance du Mali. Entre visages anonymes et corps en mouvement, poseurs élégants et flâneurs, Mali Twist offre plus de 250 photographies.",
+        "query": "Sur quoi repose le travail photographique de Malick Sidibé?"
     },
     {
         "id": 27,
@@ -84,7 +98,9 @@
             "Elle provoque la fin du courrier postal.",
             "Elle transforme le geste graphique."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "En écrivant à la main, chacun trouve sa manière de tracer son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui, est celui d'une communication homogène. Avec la numérisation des échanges, on ne connaît plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami un SMS pour prévenir qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé, un autre si on est en retard. Bienvenue dans un monde sans attente, où tous les vides doivent être comblés.",
+        "query": "Qu’apprend-on sur la communication numérique?"
     },
     {
         "id": 28,
@@ -95,7 +111,9 @@
             "Réussir au sein d’une société.",
             "Transmettre des connaissances."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance. « Je m'en vais et je pense que vous devriez me rejoindre. ». La journaliste Kelly H. annonçait trois choses : qu'elle démissionnait après une longue carrière dans un prestigieux quotidien, qu'elle devenait professeure de mathématiques et qu'elle créait une fondation pour encourager d'anciens entrepreneurs à devenir enseignant. « Vous avez eu une carrière à succès. Maintenant faites quelque chose de plus important! Enseignez!». En tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs en ridiculisant le plus souvent l'engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
+        "query": "Quelle est la nouvelle priorité de Kelly H.?"
     },
     {
         "id": 29,
@@ -106,7 +124,9 @@
             "Que ses écrits permettent de mieux cerner qu’il était.",
             "Que ses textes confortent l’image que l’on avait de lui."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Vincent Van Gogh (1853-1890), un fou génial et sans le sou, s'est coupé l'oreille ; il n'a pas été reconnu de son vivant. Voilà à peu près l'image qu'on se fait du célèbre peintre néerlandais, du moins à en croire les livres, les films et les anecdotes dont il est le héros. Un mythe difficile à effacer s'est construit autour du peintre à partir d'une histoire romancée. Or une étude approfondie de l'ensemble de la correspondance de Vincent Van Gogh - échangée essentiellement avec son frère Théo, mais aussi avec Gauguin - donne une impression beaucoup plus nuancée. Van Gogh n'était pas si pauvre, il n'était pas si fou et il a bénéficié d'une certaine notoriété de son vivant, même si ce n'était pas auprès du grand public. Forte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l'occupait et pourquoi il peignait un suiet de telle ou telle manière.",
+        "query": "Qu’explique ce texte sur Vincent Van Gogh?"
     },
     {
         "id": 30,
@@ -117,7 +137,9 @@
             "Elles modifient le rapport au temps.",
             "Elles nourrissent une curiosité naissance."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Les chaînes d'information en continu nous montrent la vie en temps réel, comme si nous y étions. Les informations y sont plus vraies que nature, elles palpitent et nous prennent aux tripes, analyse le journaliste Hubert Huertas. Avec le direct, nous pouvons imaginer qu'il peut toujours se passer quelque chose. C'est plus fort que le différé et plus fort que la fiction: nous sommes dans le concret, en contact avec le monde, et cela devient addictif, ajoute Virginie Spies, spécialiste des médias. À cela s'ajoute une impression d'insécurité. Le direct présente dans ces moments un côté hypnotique et tient le téléspectateur en haleine.",
+        "query": "Qu’explique cet article à propos des chaines d’informations en continu?"
     },
     {
         "id": 31,
@@ -128,7 +150,9 @@
             "Sur la pollution atmosphérique.",
             "Sur la progression des cultures tropicales."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Quarante terrains de football. C'est la superficie que les forêts perdent chaque minute à travers le monde. La destruction de la forêt tropicale provoque chaque année plus de rejet dans l'atmosphère que l'ensemble du secteur des transports. L'imaginaire collectif rendrait volontiers le commerce du bois principal responsable de la déforestation, alors qu'il n'en est rien. L'acteur majeur de ce phénomène est l'agriculture, responsable à 80% des déboisements dans les zones tropicales. Le marché illégal du bois a aussi sa part de responsabilité. Il est un facteur déclenchant, et s'alimente des autres activités. Quelque 1.6 milliard d'habitants dépendent directement des forêts, et contribuent pourtant à sa raréfaction, voire à sa disparition.",
+        "query": "Selon cet article, sur quoi la déforestation a-t-elle un impact?"
     },
     {
         "id": 32,
@@ -139,7 +163,9 @@
             "Instaurer des rapports de réciprocité.",
             "Répondre à l’allongement de la durée de vie."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Dans le monde de l'entreprise, les jeunes et les seniors éprouvent des sentiments analogues d'éviction et de dévalorisation. Pourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années. Plus étonnant, est apparu récemment le mentorat renverse, où les jeunes habitués aux outils numériques initient les seniors à leur usage. Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau. En période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales. Favoriser les échanges intergénérationnels, c'est contribuer à établir des relations où chacun prend conscience qu'il peut apporter quelque chose à l'autre.",
+        "query": "Quel est l’intérêt des mentorats décrits?"
     },
     {
         "id": 33,
@@ -150,7 +176,9 @@
             "Les méthodes d’enseignement.",
             "Les moqueries de leurs camarades."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Le désintérêt pour la lecture chez un grand nombre d'enfants peut être expliqué par plusieurs facteurs. Tout d'abord, beaucoup d'enfants abandonnent la lecture lorsqu'ils réalisent que d'autres élèves sont plus avancés qu'eux. De plus, lorsqu'on demande à l'enfant non seulement de lire, mais aussi de comprendre, il peut perdre son intérêt. En général, l'absence de compréhension est associée à un manque de plaisir. Selon certains psychologues, les enfants ont du mal à comprendre parce qu'ils ont des lacunes en culture générale. Cependant, la culture générale s'acquiert justement en lisant. Cela crée un cercle vicieux difficile à briser. Pour sortir de ce cercle vicieux, les psychologues recommandent de mettre à la disposition des enfants des livres adaptés à leur niveau de compréhension et à leurs centres d'intérêt. De plus, il est important de proposer des méthodes d'enseignement de la lecture qui encouragent l'interaction entre les élèves et qui renforcent la confiance en soi. Enfin, il est important que les parents et les enseignants encouragent la lecture chez les enfants en leur offrant des livres adaptés à leur âge et à leur niveau de compréhension.",
+        "query": "Selon ce texte, quel est l’une des raisons qui découragent les enfants de lire?"
     },
     {
         "id": 34,
@@ -161,7 +189,9 @@
             "Son développement est ralenti les premiers mois.",
             "Son fonctionnement est encore mystérieux."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "De plus en plus de scientifiques s'intéressent au fonctionnement du cerveau des tout-petits. En effet, comprendre le développement normal du cerveau permettra d'aider les bébés touchés par des troubles. Au-delà, l'ambition est de découvrir les racines de l'intelligence humaine : pourquoi l'homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l'espace. Pendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale. Une idée finalement battue en brèche : le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux. Et pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n'importe quel animal ou même que les adultes.",
+        "query": "Qu’apprend-on sur le cerveau humain?"
     },
     {
         "id": 35,
@@ -172,7 +202,9 @@
             "Il dénonce la médiocrité de la presse écrite.",
             "Il doute de l’intérêt des médias traditionnels."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Il faut se rendre à l’évidence: le “jour” n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les “news” des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme “le journal de la veille” perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+        "query": "Quelle est la position de l’auteur de l’article?"
     },
     {
         "id": 36,
@@ -183,7 +215,9 @@
             "Proposer des anecdotes amusantes.",
             "Recenser des dérives de la société."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article. La plupart du temps, les découvertes que nous faisons sont comme de grands bols d'air : elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons. Nous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves ; leur utopie, et comment ils s'y prennent pour, à leur échelle, faire évoluer le monde. C'est simple, c'est lent, c'est « proprement humain ». Il est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés!",
+        "query": "Quel est le parti pris de ces journalistes?"
     },
     {
         "id": 37,
@@ -194,7 +228,9 @@
             "Elle permet de moderniser le lexique.",
             "Elle reflète les clivages de la société."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Défenseur-e-s et détracteur-e-s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s'écharpent sur cet épineux sujet. Pour Eliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroit que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui : il y a eu une masculinisation délibérée du langage à partir du XVIle siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
+        "query": "Que pense Éliane Viennot de l’écriture inclusive?"
     },
     {
         "id": 38,
@@ -205,7 +241,9 @@
             "La présentation de particularités régionales.",
             "L’émancipation des héros au cours du récit."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "query": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig?"
     },
     {
         "id": 39,
@@ -216,6 +254,8 @@
             "La transformation des savoirs fondamentaux.",
             "Le maintien du patrimoine culturel."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu'en leur temps l'invention de l'écriture, puis celle de l'imprimerie. Les notions de temps et d'espace en sont transformées et les façons d'accéder à la connaissance profondément modifiées. À cet égard, chaque grande rupture dans l'histoire de l'humanité conduit à priver l'homme de facultés («il perd »), mais chaque révolution lui en apporte de nouvelles («il gagne »). Pour chaque perte d'une part de mémoire et de capacité de traitement de l'information liée à la diffusion des technologies numériques, l'homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu'une faculté décuplée d'invention et de création.",
+        "query": "Sur quoi Michel Serres attire-t-il l’attention?"
     }
 ]
