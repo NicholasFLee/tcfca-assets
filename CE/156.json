@@ -248,8 +248,8 @@
     {
         "id": 39,
         "testId": "156",
-        "text": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuse écoles d’animation, ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique. S’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’oeuvre d’un “apparenté surréaliste” dont la notoriété est souvent, hélas, réduite au seul et incontournable poème liberté. Sa délicatesse, en amour commen en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
-        "query": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages?",
+        "text": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuse écoles d’animation, ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique. S’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’oeuvre d’un « apparenté surréaliste » dont la notoriété est souvent, hélas, réduite au seul et incontournable poème liberté. Sa délicatesse, en amour commen en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
+        "query": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages ?",
         "options": [
             "Il constitue une création artistique novatrice.",
             "Il établit des ponts avec d'autres auteurs",
