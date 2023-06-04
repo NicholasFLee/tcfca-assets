@@ -2,7 +2,7 @@
         "id": 20,
         "testId": "155",
         "text": "Madame, Monsieur, Ce courrier fait suite à mon achat d’un téléphone le 4 mars dernier. Après réflexion, je souhaiterais le rendre car j’ai finalement décidé d’acheter un appareil avec messagerie intégrée. Ainsi, je vous prie de bien vouloir me restituer la somme de 75 euros, correspondant à la somme versée le 5 mars par chèque. Dans l’attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations. André Cellier.",
-        "query": "Quel est l’objet de la lettre de monsieur Cellier ?",
+        "query": "Quel est l’objet de la lettre de monsieur Cellier?",
         "options": [
             "Le remboursement de son article.",
             "L'échange de son téléphone.",
@@ -15,7 +15,7 @@
         "id": 21,
         "testId": "155",
         "text": "Pendant un an, la journaliste allemande Gret Taubert décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer: elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. “Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile mais je cherche à intégrer dans mon quotidien ce que j’ai appris”, explique-t-elle.",
-        "query": "Quel est le constat de Gret Taubert après cette expérience ?",
+        "query": "Quel est le constat de Gret Taubert après cette expérience?",
         "options": [
             "C'est possible à la campagne,",
             "C'est possible avec du temps.",
@@ -28,7 +28,7 @@
         "id": 22,
         "testId": "155",
         "text": "L’année dernière, une étude publiée par la revue Nature faisait grand bruit. Menée par une équipe de l’université de Zurich, l’étude montrait qu’une odeur d’ocytocine diffusée lors d’un entretien avec un banquier pousse les gens à lui confier leur argent! L’expérience portait sur 56 personnes qui acceptaient de jouer à un jeu d’argent. On leur donnait une somme et ils devaient dire s’ils acceptaient ou non de la confier à un banquier après un entretien avec lui. Avant la discussion, la moitié des personnes avaient respiré un spray d’ocytocine, hormone connue pour jouer un rôle dans l’établissement des relations interpersonnelles.",
-        "query": "Quel est le but de cette expérience ?",
+        "query": "Quel est le but de cette expérience?",
         "options": [
             "Apprendre à gérer une entrevue importante avec un banquier",
             "Déterminer le lien, positif ou non, que les gens ont avec l’argent",
@@ -54,7 +54,7 @@
         "id": 24,
         "testId": "155",
         "text": "On réserve trop facilement le covoiturage aux étudiants sans un sou. Les clichés sont tenaces. Pourtant, le temps de la petite annonce papier accrochée près de la machine à café est bel et bien terminé, les nouveaux moyens de communication ont changé les choses. L’organisation d’un trajet entre plusieurs personnes qui se rendent dans la même direction est devenue si simple et si efficace avec les sites spécialisés que le covoiturage est en train d’élargir son public de gagner son statut de mode de transport à part entière.",
-        "query": "Quel développement connaît le covoiturage ?",
+        "query": "Quel développement connaît le covoiturage?",
         "options": [
             "II devient la solution idéale des voyages organisés à la dernière minute.",
             "II est accessible à un nombre croissant d'utilisateurs grâce à Internet.",
@@ -67,7 +67,7 @@
         "id": 25,
         "testId": "155",
         "text": "Le temps des cerises. Pièce de théâtre de Niels Arestrup. Un vieil homme, dérangé dans sa vieille maison par unejeune femme: disputes, goût de la vie retrouvé, moments de tendresse. La comédienne Cécile de France joue avec autant de talent qu'au cinéma. Le comédien Eddy Mitchell, dans le rôle du vieux peintre, manque de noirceur. Dommage que le metteur en scène n'interprète pas lui-même le personnage principal. On passe un bon moment mais pas un grand moment.",
-        "query": "Sur quel aspect de la pièce porte la critique ?",
+        "query": "Sur quel aspect de la pièce porte la critique?",
         "options": [
             "La mise en scène.",
             "La qualité des décors.",
@@ -80,7 +80,7 @@
         "id": 26,
         "testId": "155",
         "text": "Les auteurs européens ont persuadé la maison d'édition Livresque d'aller plus loin que la simple numérisation des livres universitaires: au lieu de ne scanner des livres qu'à des fins de recherche, les écrivains ont demandé à ce qu'ils soient remis dans le circuit commercial. Grâce à cet accord, ces millions de livres épuisés vont reprendre vie. Les bénéfices générés par la publicité et les droits de licence iront en partie à Livresque, mais la grande majorité de l'argent gagné par cette mise à disposition des ouvrages sera directement remise aux auteurs puisqu'ils toucheront leurs droits.",
-        "query": "D’après le texte, quel avantage les auteurs tireront-ils de la numérisation des livres ?",
+        "query": "D’après le texte, quel avantage les auteurs tireront-ils de la numérisation des livres?",
         "options": [
             "Elle augmentera le nombre de lecteurs.",
             "Elle développera la visibilité des œuvres.",
@@ -93,7 +93,7 @@
         "id": 27,
         "testId": "155",
         "text": "Depuis plusieurs années, Thierry Marx, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrire à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d’espoir, de montrer “qu’après”, il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
-        "query": "Pourquoi Thierry Marx intervient-il dans les prisons ?",
+        "query": "Pourquoi Thierry Marx intervient-il dans les prisons?",
         "options": [
             "Pour améliorer les méthodes de travail de la cantine.",
             "Pour encourager la création de formations professionnelles.",
@@ -145,7 +145,7 @@
         "id": 31,
         "testId": "155",
         "text": "Cher tous, Amis, techniciens, auditeurs, animateurs, président de notre radio, vous qui avez toujours été là pour des Airs, je voulais vous dire un très grand merci! Je le répéterai le 1er juillet pour la dernière fois sur les ondes à l’occasion de la 200e: notre radio été pour moi un merveilleux espace de liberté! Laissez-moi remercier encore notre président qui continue à la faire vivre. Quel bonheur de vous avoir eu tous autour de mois samedi! Merci encore.",
-        "query": "Qu’ont-ils tous fêté samedi ?",
+        "query": "Qu’ont-ils tous fêté samedi?",
         "options": [
             "L’anniversaire d’une radio.",
             "La 200e édition d’une émission",
@@ -158,7 +158,7 @@
         "id": 32,
         "testId": "155",
         "text": "La première difficulté, qu’il avait en réalisté sous-estimée, fut de réussir à atteindre l’extrémité du trottoir, c’est-à-dire de franchir la masse mouvante et compacte des hommes et des femmes qui marchaient devant lui, frange large de deux ou trois mètres mais dont la texture était dense, mobile, paisiblement hostile. Il eut beau dans un premier temps prononcer à haute voix de nombreuses paroles d’excuse, expliquant avec des gestes modestes qu’il voulait passer, se montrer on ne peut plus poli et plus encore, personne ne s’arrêta, ni ne se poussa afin de lui permettre de se faufiler entre les corps. Les hommes et les femme qui marchaient ne le regardaient pas et beaucoup avaient sur les oreilles des écouteurs.",
-        "query": "Dans quelle situation se trouve le personnage principal ?",
+        "query": "Dans quelle situation se trouve le personnage principal?",
         "options": [
             "II du mal à se déplacer dans la foule.",
             "II est emporté par une foule pressée.",
@@ -184,7 +184,7 @@
         "id": 34,
         "testId": "155",
         "text": "x",
-        "query": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille ?",
+        "query": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille?",
         "options": [
             "Ils correspondent à des programmes scolaires obsolètes.",
             "Ils méconnaissent l'existence des familles recomposées.",
@@ -210,7 +210,7 @@
         "id": 36,
         "testId": "155",
         "text": "La bioéthique fait l’objet d’une polémique qui confronte deux écoles. Pour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité. La recherche entraîner l’éradication des maladie génétiques et permettre même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorer l’espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastique, affirme ses craintes en ce qui concerne la pratique d’un eugénisme scientifique: il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques. Pour eux, il est impossible de déterminer les tares inconciliables avec humain, puisque certains indidvidus en ont fait l’origine même de leur génie.",
-        "query": "Sur quoi portent les réserves des partisans de la seconde école ?",
+        "query": "Sur quoi portent les réserves des partisans de la seconde école?",
         "options": [
             "Le coût social élevé de prise en charge des maladies gins",
             "Le développement de traitements curatifs de pathologies génétiques.",
@@ -223,7 +223,7 @@
         "id": 37,
         "testId": "155",
         "text": "Mozart est le compositeur le plus joué, le plus aimé et le plus exploité. Ainsi, en 1993, la psychologue américaine Frances Rauscher annonçait que l’écoute de la sonate pour deux pianos en ré majeur développait l’intelligence. En effet, après avoir écouté ce morceau, 36 étudiants avaient obtenu de meilleur résultats à un test de localisation spatiale. L’étude eut un retentissement fracassant. On examina la teneur en haute fréquence de la sonate. On la fit écouter à des rats de laboratoire avant de les perdre dans un labyrinthe. On évoqua l’influence des gènes. En 1999, une nouvelle étude venait contredire les conlusion de Frances Rauscher.",
-        "query": "À quelle conclusion est arrivée Frances Raucher concernant l’écoute de la sonate de Mozart ?",
+        "query": "À quelle conclusion est arrivée Frances Raucher concernant l’écoute de la sonate de Mozart?",
         "options": [
             "Elle un effet négligeable sur l'intellect.",
             "Elle accroît la capacité de concentration.",
@@ -236,7 +236,7 @@
         "id": 38,
         "testId": "155",
         "text": "Prévoir le temps. L’énorme masse de données météorologiques collectées tous les jours par les satellites est traitée par les plus gros ordinateurs du monde. le résultat de ces calculs est fourni sous forme de cartes des vents, des pluies ou des températures. Ces cartes peuvent être animées par l’ordinateur, ce qui donne l’impression de voir se dérouler en accéléré les mouvement de l’atmosphère. Les ordinateur font des calculs que le météorologue doit compléter. Au vu des informations, il prépare un scénario sur le temps le plus probable dans un, deux, ou trois, voire dix jours dans certains centres.",
-        "query": "En quoi consiste la profession décrite ?",
+        "query": "En quoi consiste la profession décrite?",
         "options": [
             "Concevoir des prévisions à court terme.",
             "Élaborer des programmes de calcul,",

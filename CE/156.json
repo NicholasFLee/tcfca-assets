@@ -2,7 +2,7 @@
         "id": 20,
         "testId": "156",
         "text": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme. Avec l'âge le vieillissement du cerveau semble inévitable. Pourtant notre mode de vie. Il est ainsi primordial, après la soixantaine de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d'interactions avec les autres et également de cultiver les activités associatives ou sportives par exemple.",
-        "query": "Quel est l’objectif des conseils donnés dans cet article ?",
+        "query": "Quel est l’objectif des conseils donnés dans cet article?",
         "options": [
             "Améliorer les capacités physiques.",
             "Découvrir de nouveaux types de sports.",
@@ -15,7 +15,7 @@
         "id": 21,
         "testId": "156",
         "text": "Madame Bertrand, Je vous écris suite à votre message électronique du 13 avril dernier au sujet de l'offre d'emploi n°23. Votre formation universitaire et votre expérience nous semblent particulièrement intéressantes. M. Martin, attaché culturel de l'ambassade de France, accepte de vous recevoir pour un entretien au consulat de New York pour discuter avec vous des possibilités d'emploi. Je suis à votre disposition pour envisager ensemble quelques dates. Laëtitia Xavel Secrétariat du service culturel",
-        "query": "Quel est le but de ce message ?",
+        "query": "Quel est le but de ce message?",
         "options": [
             "Annoncer la signature d'un accord de coopération",
             "Communiquer une offre de stage de fin d'études.",
@@ -28,7 +28,7 @@
         "id": 22,
         "testId": "156",
         "text": "La voie est libre pour la maire de Paris, mais pas sans embûches. Décidée à déployer 700 km de nouvelles pistes cyclables à Paris d'ici 2020, elle n'entend pas laisser le préfet de police lui mettre des bâtons dans les roues. Or, le préfet tire la sonnette d'alarme, car le projet municipal met en péril la capacité d'intervention de ses services en cas de crise majeure dans certains secteurs de la capitale. Sans nier l'intérêt certain d'une piste cyclable, il estime que restreindre la circulation automobile à une seule file au lieu de deux dans certaines rues aboutira « à des phénomènes de congestion inquiétants en cas d'urgence. »",
-        "query": "Que reproche le préfet de police au projet de la maire de Paris ?",
+        "query": "Que reproche le préfet de police au projet de la maire de Paris?",
         "options": [
             "Il néglige les commerces dans les rues piétonnes.",
             "Il rend difficile l'accès aux secteurs touristiques",
@@ -41,7 +41,7 @@
         "id": 23,
         "testId": "156",
         "text": "Le smartphone participe à l'entretien d'un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d'adolescence confronte les parents au désir d'autonomie de l'adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu'ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
-        "query": "Quel constat fait l’auteur à propos des smartphones ?",
+        "query": "Quel constat fait l’auteur à propos des smartphones?",
         "options": [
             "Ils éloignent les jeunes du monde des adultes.",
             "Ils entraînent des comportements de type addictif.",
@@ -54,7 +54,7 @@
         "id": 24,
         "testId": "156",
         "text": "Dans le monde de l'éducation, la mode est au « Ludique ». Pas une description d'un nouveau matériel informatique sans l'utilisation de cet adjectif miraculeux. N'ayant rien de mieux à offrir, les publicitaires insistent sur le côté « ludique » et neutre de leur matériel, sous-entendant ainsi que les difficultés des enfants sont liées uniquement au côté poussiéreux de la présentation d'exercices et à l'ennui qu'ils suscitent. En changeant l'apparence, on suscitera l'intérêt et la réussite sera assurée. La rééducation risque d'être perçue comme la modernisation de la pédagogie sans autre questionnement sur l'échec de la pédagogie traditionnelle.",
-        "query": "Que reproche l’auteur du texte à la mode du ludique ?",
+        "query": "Que reproche l’auteur du texte à la mode du ludique?",
         "options": [
             "Elle demande des connaissances techniques poussées.",
             "Elle empêche les jeunes utilisateurs de se concentrer.",
@@ -67,7 +67,7 @@
         "id": 25,
         "testId": "156",
         "text": "Suite au peu d'intérêt porté à la formation professionnelle à Montréal, cinq comités scolaires ont décidé de lancer un projet pour encourager les élèves à choisir cette vois plutôt que celle des études longues. Ils ont ainsi créé un guide organisationnel et pédagogique régional, un outil qui servira aux enseignants à faire connaitre aux élèves les différentes possibilités de carrière dans la formation en apprentissage « d'ici dix ans 30% des besoins de main-d'œuvre vont exiger des compétences professionnelles. Pas des diplômes universitaires a rappelé Antonio Bernard, l'un des principaux créateurs du projet.",
-        "query": "Quel est l’objectif de ce guide ?",
+        "query": "Quel est l’objectif de ce guide?",
         "options": [
             "Faire la promotion de l'apprentissage d'un métier auprès des jeunes.",
             "Former les professeurs à de nouvelles méthodes d'enseignement.",
@@ -80,7 +80,7 @@
         "id": 26,
         "testId": "156",
         "text": "Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs. En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considères. Pourtant si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression “Les occidentaux sont-ils prêts à en faire un produit courant?” quetionne le docteur Arnaud Cocaul. Pas sûr. “Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée” estime ce nutritionniste.",
-        "query": "Quelle place occupent les algues en France ?",
+        "query": "Quelle place occupent les algues en France?",
         "options": [
             "Elles font partie de la gastronomie régionale.",
             "Les gens en mangent plus que par le passé.",
@@ -93,7 +93,7 @@
         "id": 27,
         "testId": "156",
         "text": "Renaissance: un mot porteur de sens à de nombreux égards. Historiquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente. Un retour aux sources et des artistes humanistes nourris par l'idée de temps nouveaux faits d'espoir et de confiance en l'homme. Ces multiples lectures ont été source d'inspiration pour la nouvelle collection. C'est aussi l'énergie nouvelle, un regain de vitalité. Avec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l'hiver avec sourire et imagination.",
-        "query": "D’où est tiré ce texte ?",
+        "query": "D’où est tiré ce texte?",
         "options": [
             "D'un catalogue de styliste.",
             "D'un dictionnaire philosophique.",
@@ -106,7 +106,7 @@
         "id": 28,
         "testId": "156",
         "text": "Avez-vous déjà observé des familles en train de remplir des sachets de bonbons sur un stand de confiserie? Un chercheur américain, a montré qu’elles en achètent plus quand les bonbons sont de couleurs différentes. De nombreuses observations similaires prouvent que les entreprises agroalimentaires connaissent nos comportements et la manière dont nous prenons certaines de nos décision. Par exemple, elles exploitent notre préférence innée pour le sucre, à tous les âges. Elles savent que l’éducation nutritionnelle des enfants et des jeunes est défaillante dans certaines familles et en profitent.",
-        "query": "Que dénonce l’auteur de cet article ?",
+        "query": "Que dénonce l’auteur de cet article?",
         "options": [
             "La manipulation des clients par les industriels.",
             "L'attitude imprévisible des consommateurs.",
@@ -119,7 +119,7 @@
         "id": 29,
         "testId": "156",
         "text": "L'abandon de l'énergie nucléaire ne peut s'entreprendre sur la base de motivations uniquement idéologiques et politiques. La question de la substitution des énergies doit être posée préalablement, et particulièrement pour la filière bois. Cette dernière, à condition d'y être préparée, a vraisemblablement les moyens d'assurer une partie importante de la transition énergétique au moment de l'arrêt progressif des centrales nucléaires. Dans le cas contraire, la sortie du nucléaire pourrait s'apparenter, contrairement à l'idée communément admise, à un mal pour un mal",
-        "query": "Quelle est l’idée développée par l’auteur ?",
+        "query": "Quelle est l’idée développée par l’auteur?",
         "options": [
             "Le recours à l'énergie nucléaire sera toujours indispensable.",
             "Le développement d'autres énergies que le nucléaire est superflu.",
@@ -132,7 +132,7 @@
         "id": 30,
         "testId": "156",
         "text": "Ils sont dix et ils sont “dys”. Comme dyslexiques, dysphasiques… Agés de 11 à 13 ans, ces enfants souffrant de troubles du langage sont accueillis depuis la rentrée au collège Petite-Lande dans une class intégrée, entourés d’une équipe de professionnels, “Les enfants ne suivent pas une formation classique mais, durant quatre ans, ils vont donc acquérir les bases scolaires, de l’autonomie au quotidien, et choisir une orientation professionnelle grâce à des stages en entreprise”. Au sein du collège, ils peuvent fréquenter des jeunes de leur âge, participer à certaines activités et projets en commun( cours de sport, sorties…)",
-        "query": "Que peuvent faire ces jeunes grâce à ce projet ?",
+        "query": "Que peuvent faire ces jeunes grâce à ce projet?",
         "options": [
             "Guérir de leurs troubles du langage.",
             "Intégrer une classe traditionnelle.",
@@ -145,7 +145,7 @@
         "id": 31,
         "testId": "156",
         "text": "Paul Bocuse n’était pas la plus créatif, ni le meilleur technicien de cette génération de chefs d’exception qui a vu éclore des cuisiniers de renommée internationale. Mais il avait une vision, du culot et une véritable talent de meneur. Histoire de donner une stature plus imposante aux cuisiniers, il a lancé la mode de la fameuse veste blanche “grand chef, avec le nom brodé sur la poitrine et le port de la toque démesurée qui évoque la coiffe des pharaons.” Dès ses débuts, sa personnalité et son sens de la formule ont fait mouche auprès de la presse, qui a publié de nombreux portraits flatteurs, faisant affluer les clients dans son restaurant.",
-        "query": "D’après ce journaliste, quelle a été la clé du succès de Paul Bocuse ?",
+        "query": "D’après ce journaliste, quelle a été la clé du succès de Paul Bocuse?",
         "options": [
             "Sa connaissance des médias.",
             "Ses méthodes ancestrales.",
@@ -158,7 +158,7 @@
         "id": 32,
         "testId": "156",
         "text": "Au début de l’adolescence, vers 11-12 ans, les enfants aspirent à l’autonomie. C’est à cette période que les écrans jouent un rôle important au niveau de leur intégration social mais aussi que les risques d’excès se profilent. “Les parents doivent abandonner leur position de prescription et passer à une position d’accompagnement”. Le docteur Huerre leur recommande donc d’explorer avec leur enfant les jeux qui l’intéressent et la manière qu’il a de circuler sur la toile, afin de faciliter les échanges. “Au lieu d’avoir peur des jeux vidéo, demandez-lui de vous les montrer et n’hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique” conseille-t-il.",
-        "query": "Que préconise le médecin aux parents ?",
+        "query": "Que préconise le médecin aux parents?",
         "options": [
             "De participer à l'exploration du monde numérique.",
             "De restreindre le temps consacré aux jeux vidéo.",
@@ -171,7 +171,7 @@
         "id": 33,
         "testId": "156",
         "text": "C’est un joli coup de peinture… avant fermeture! Le vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes. Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes. L’occasion était belle pour le collectif associatif “Espace provisoire” d’envahir les salles et de leur redonner une seconde vie. Plus de 2000 m2 ont été occupés par une soixantaine d’artistes: musiciens, peintres, sculpteurs, photographes…, tous prêts à accueillir des visiteurs, des curieux. L’objectif, non avoué, est de prouver que la culture est à sa place partout.",
-        "query": "Que cherche à faire le collectif « Espace provisoire » ?",
+        "query": "Que cherche à faire le collectif « Espace provisoire »?",
         "options": [
             "Convertir les lieux en maison de la culture.",
             "Diffuser l'art dans des endroits inattendus.",
@@ -184,7 +184,7 @@
         "id": 34,
         "testId": "156",
         "text": "Je ne connais pas son prénom, mais il y a dans les Alpes, une personne à la verve savoureuse. Elle émaille la visite des gravures rupestres, dont les plus anciennes datent du Néolithique, de remises en perspective sur les prémices préhistoriques du capitalisme et de la domination masculine. Elle chantera peut-être, à condition que vous ne l’applaudissiez pas, pour vous permettre de ressentir l’acoustique d’un cirque rocheux. Elle vous proposera aussi de vous allonger et de fermer les yeux pour percevoir les vibrations du sol, riche en uranium. Bref, elle guidera les êtres minuscules que vous êtes à travers les plis grandioses de l’écorce terrestre.",
-        "query": "Où exerce la personne décrite ?",
+        "query": "Où exerce la personne décrite?",
         "options": [
             "Dans un centre de relaxation.",
             "Dans un laboratoire.",
@@ -197,7 +197,7 @@
         "id": 35,
         "testId": "156",
         "text": "Le discours écologique actuel est très factuel, “pratico-practique” comme si on n’osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C’est peut-être l’une des raisons pour laquelle l’écologie politique ne rallie pas tant que ça. Si on n’est pas sensible à la terre, aux végétaux, on devient un technicien de l’écologie, on emploie un langague neutre et rassurant, fait d’environement et de développement durable. Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
-        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel ?",
+        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel?",
         "options": [
             "Il apaise les tensions de la société.",
             "Il insiste sur le point de vue matériel.",
@@ -210,7 +210,7 @@
         "id": 36,
         "testId": "156",
         "text": "On connaît Cézanne surtout pour ses paysages, mais le Musée d’Orsay montre, pour la première fois, une partie méconnue de l’oeuvre de l’artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l’objet d’une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès des débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu’une autre forme de paysage.",
-        "query": "Que souligne cette exposition sur Paul Cézanne ?",
+        "query": "Que souligne cette exposition sur Paul Cézanne?",
         "options": [
             "L'influence de ses contemporains.",
             "La singularité de ses portraits.",
@@ -223,7 +223,7 @@
         "id": 37,
         "testId": "156",
         "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d’obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu’un scientifique, Anthony Van der Hent, a prouvé que des “super-plantes” avaient la faculté d’extraire du sol des métaux économiquement exploitables. C’est donc la possibilité d’allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.",
-        "query": "Sur quel point porte le scepticisme du journaliste ?",
+        "query": "Sur quel point porte le scepticisme du journaliste?",
         "options": [
             "La capacité des plantes à nettoyer les sols.",
             "La rentabilité d'un nouveau système d'extraction.",
@@ -236,7 +236,7 @@
         "id": 38,
         "testId": "156",
         "text": "Une époque inimaginable pour un enfant d’auhourd’hui: ce temps où les parents n’avaient pas Internet et leur progéniture, pas de portable. Les parents les plus au fait s’informaient sur le monde une, voire deux fois par jour. Maintenant nous savons qu’il va mal tout le temps. Chaque seconde, une mauvaise nouvelle tombe de l’autre bout du globe dans notre smartphone. En quelques années, nous avons basculé dans un nouveau monde, plus grand, immense même, tissé de rencontres improbables et d’opportunités fabuleuses, mais aussi surpeuplé de contrées hostiles et de tribus numériques agressives. Notre nouvelle vie est absolument excitante, vertigineuse même. Mais, justement, il tient à nous de dompter ce vertige.",
-        "query": "Que constate ce journaliste ?",
+        "query": "Que constate ce journaliste?",
         "options": [
             "La dégradation des relations sociales à cause d'internet.",
             "La multiplication des sources d'information.",
@@ -249,7 +249,7 @@
         "id": 39,
         "testId": "156",
         "text": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuse écoles d’animation, ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique. S’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’oeuvre d’un « apparenté surréaliste » dont la notoriété est souvent, hélas, réduite au seul et incontournable poème liberté. Sa délicatesse, en amour commen en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
-        "query": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages ?",
+        "query": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages?",
         "options": [
             "Il constitue une création artistique novatrice.",
             "Il établit des ponts avec d'autres auteurs",
