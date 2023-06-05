@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "162",
-        "text": "Il veut réhabiliter la charcuterie. Le métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire! On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de puriste : la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur? C'est un non-sens! »",
+        "text": "Il veut réhabiliter la charcuterie. Le métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire! On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de puriste: la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur? C'est un non-sens! »",
         "query": "Quel message cet homme veut-il transmettre?",
         "options": [
             "L'avenir de son travail est menacé par l'industrie agroalimentaire.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "162",
-        "text": "L'huile de palme est l'huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois : la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+        "text": "L'huile de palme est l'huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
         "query": "Pourquoi l’huile de palme est-elle produite massivement?",
         "options": [
             "C'est un produit recherché par les consommateurs.",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "162",
-        "text": "Deux mondes s'affrontent : ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire : l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.",
+        "text": "Deux mondes s'affrontent: ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire: l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.",
         "query": "Que défend le journaliste?",
         "options": [
             "L'accès universel à des aliments bon marché.",

@@ -34,7 +34,7 @@
             "Sélectionner un souvenir."
         ],
         "answer": 3,
-        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit : coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi!",
+        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit: coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi!",
         "query": "Quel est le rôle des participants à cette expérience?"
     },
     {
@@ -73,7 +73,7 @@
             "D’éviter la discrimination à l’embauche."
         ],
         "answer": 1,
-        "text": "Comment recruter la bonne personne, baby-sitter ou collaborateur? Si le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d'être sûr à 100% que la personne choisie soit vraiment la bonne. C'est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux : grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes. Cependant, l'usage de l'intelligence artificielle pour la sélection de candidats a rapidement montré ses limites. L'entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+        "text": "Comment recruter la bonne personne, baby-sitter ou collaborateur? Si le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d'être sûr à 100% que la personne choisie soit vraiment la bonne. C'est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux: grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes. Cependant, l'usage de l'intelligence artificielle pour la sélection de candidats a rapidement montré ses limites. L'entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
         "query": "Que devrait permettre l’intelligence artificielle dans le monde professionnel?"
     },
     {
@@ -112,7 +112,7 @@
             "Transmettre des connaissances."
         ],
         "answer": 3,
-        "text": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance. « Je m'en vais et je pense que vous devriez me rejoindre. ». La journaliste Kelly H. annonçait trois choses : qu'elle démissionnait après une longue carrière dans un prestigieux quotidien, qu'elle devenait professeure de mathématiques et qu'elle créait une fondation pour encourager d'anciens entrepreneurs à devenir enseignant. « Vous avez eu une carrière à succès. Maintenant faites quelque chose de plus important! Enseignez!». En tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs en ridiculisant le plus souvent l'engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
+        "text": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance. « Je m'en vais et je pense que vous devriez me rejoindre. ». La journaliste Kelly H. annonçait trois choses: qu'elle démissionnait après une longue carrière dans un prestigieux quotidien, qu'elle devenait professeure de mathématiques et qu'elle créait une fondation pour encourager d'anciens entrepreneurs à devenir enseignant. « Vous avez eu une carrière à succès. Maintenant faites quelque chose de plus important! Enseignez!». En tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs en ridiculisant le plus souvent l'engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
         "query": "Quelle est la nouvelle priorité de Kelly H.?"
     },
     {
@@ -190,7 +190,7 @@
             "Son fonctionnement est encore mystérieux."
         ],
         "answer": 3,
-        "text": "De plus en plus de scientifiques s'intéressent au fonctionnement du cerveau des tout-petits. En effet, comprendre le développement normal du cerveau permettra d'aider les bébés touchés par des troubles. Au-delà, l'ambition est de découvrir les racines de l'intelligence humaine : pourquoi l'homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l'espace. Pendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale. Une idée finalement battue en brèche : le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux. Et pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n'importe quel animal ou même que les adultes.",
+        "text": "De plus en plus de scientifiques s'intéressent au fonctionnement du cerveau des tout-petits. En effet, comprendre le développement normal du cerveau permettra d'aider les bébés touchés par des troubles. Au-delà, l'ambition est de découvrir les racines de l'intelligence humaine: pourquoi l'homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l'espace. Pendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale. Une idée finalement battue en brèche: le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux. Et pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n'importe quel animal ou même que les adultes.",
         "query": "Qu’apprend-on sur le cerveau humain?"
     },
     {
@@ -216,7 +216,7 @@
             "Recenser des dérives de la société."
         ],
         "answer": 1,
-        "text": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article. La plupart du temps, les découvertes que nous faisons sont comme de grands bols d'air : elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons. Nous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves ; leur utopie, et comment ils s'y prennent pour, à leur échelle, faire évoluer le monde. C'est simple, c'est lent, c'est « proprement humain ». Il est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés!",
+        "text": "Il est rare que les journalistes de notre mensuel ou moi-même rentrions de reportage en renonçant à rédiger un article. La plupart du temps, les découvertes que nous faisons sont comme de grands bols d'air: elles annihilent tout défaitisme, font disparaître la fatalité ambiante et ouvrent de nouveaux horizons. Nous rencontrons des hommes et des femmes qui nous expliquent leurs envies, leurs rêves ; leur utopie, et comment ils s'y prennent pour, à leur échelle, faire évoluer le monde. C'est simple, c'est lent, c'est « proprement humain ». Il est tellement jouissif de pouvoir se dire que nous allons pouvoir partager tous ces « petits riens » avec nos abonnés!",
         "query": "Quel est le parti pris de ces journalistes?"
     },
     {
@@ -229,7 +229,7 @@
             "Elle reflète les clivages de la société."
         ],
         "answer": 0,
-        "text": "Défenseur-e-s et détracteur-e-s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s'écharpent sur cet épineux sujet. Pour Eliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroit que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui : il y a eu une masculinisation délibérée du langage à partir du XVIle siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
+        "text": "Défenseur-e-s et détracteur-e-s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s'écharpent sur cet épineux sujet. Pour Eliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroit que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui: il y a eu une masculinisation délibérée du langage à partir du XVIle siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
         "query": "Que pense Éliane Viennot de l’écriture inclusive?"
     },
     {
@@ -242,7 +242,7 @@
             "L’émancipation des héros au cours du récit."
         ],
         "answer": 3,
-        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre: rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
         "query": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig?"
     },
     {
