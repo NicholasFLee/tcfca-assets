@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": 20,
         "testId": "182",
         "options": [
@@ -8,7 +9,8 @@
             "Il va souvent danser en discothèque."
         ],
         "audio": "/mp3/182/20.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Rémi, vous avez deux activités. Ce n'est pas trop difficile ? Non, ça va. Vous êtes 35 heures, ce n'est pas pour moi. Alors, vous êtes cuisinier le jour et vous travaillez dans une discothèque, Rémi. Vous arrivez à tout faire sans problème ? Oui, mais je dois préciser que pour me sentir bien, 4 heures de soleil me suffisent et je fais du sport dès que je peux. Question 20. Qu'est-ce qu'on fait sur Rémi ?"
     },
     {
         "id": 21,
@@ -20,7 +22,8 @@
             "Une mise en valeur par les producteurs eux-mêmes."
         ],
         "audio": "/mp3/182/21.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "C'est-à-dire qu'en mule justement, nous élevons les deux types d'insectes. Qu'est-ce que vous pensez de ces chefs qui justement se mettent à approbner ces insectes et non pas en mule ? Alors déjà je pense que c'est très intéressant que les chefs commencent à réfléchir comment pouvoir importer des insectes dans l'alimentation européenne. Mais justement la condition c'est que les insectes les investissent en plein nombre du sens pour entrer dans l'alimentation européenne. On ne les consomme pas pour les consommer, comme on le consomme de par ailleurs en Asie, en Afrique, en Amérique du Sud. Donc il faut vraiment des voiles décreatives, des chefs qui vont être capables d'adapter les insectes à la cuisine européenne. Question 21. Que recommande Cédric Orgel pour développer la consommation d'insectes en Europe ? Merci."
     },
     {
         "id": 22,
@@ -32,7 +35,8 @@
             "Que l’homme se soit mis à faire du sport"
         ],
         "audio": "/mp3/182/22.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "Allô Denis ? Bonjour Anne, merci pour ta carte. Alors, tu es maintenant en télévotage. Tu es parti tout seul faire du golf, c'est ça ? Oui, j'avais envie de te mettre le golf. C'était super. Fantastique mais super. Non, ah bon ? Mais tu n'étais pas vraiment trop petite, le golf. Tu as reçu ta carte, mais on ne revenait pas. Non, mais j'ai bien l'intention de recommencer. Pas toute l'année, hein. Un stage été, c'est tout ce qu'il faut. Eh ben, à la rythme. Tu vas pas être bon très très vite, hein ? Qu'est-ce que tu crois ? Je suis pas si mauvais. Et tu as un matinée ? Qu'est-ce qui fait rire la femme ? Merci d'avoir regardé cette vidéo !"
     },
     {
         "id": 23,
@@ -44,7 +48,8 @@
             "La reconnaissance d’un patrimoine culturel unique par sa richesse"
         ],
         "audio": "/mp3/182/23.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "C'est lui qui nous plait plus particulièrement dans votre travail ? En tant que responsable du multimédia, je suis également conseilleprise de formation en ligne, journaliste de formateur et enseignant de français dans l'étranger. C'est cette dernière fois qui m'attire. Un de mes centres d'intérêt en français dans l'étranger conserve le développement d'une politique linguistique en faveur du français comme langue de communication, et pas seulement comme symbole d'une certaine culture, d'idée des droits de l'homme ou comme langue de l'amour. J'essaye de montrer que l'apprentissage des langues est une partelle entre le peuple et les cultures. Question 23 Quel objectif c'est-il poursuit-elle en enseignant le français dans l'étranger ?"
     },
     {
         "id": 24,
@@ -56,7 +61,8 @@
             "lls souhaitent rencontrer des soignants."
         ],
         "audio": "/mp3/182/24.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "La question du jour, Valérie Cantigne, pourquoi l'établissement français du centre prend la peine d'y nos étudiants ? Les jeunes donnent plus facilement leur sang, il faut le savoir, nous voici dans notre premier acte de citoyenneté, un acte solidaire, distille, un jet de budget, c'est ce qu'est le temps des sondages, un donneur sur 5, 40, 18 et 24 ans en France, mais souvent il déclare ne pas donner parce qu'ils ne sont pas sollicités par un CROC ou bien parce qu'ils ne savent pas où aller. Du coup, la semaine prochaine, l'établissement français du centre lance une campagne pour mobiliser les étudiants plus moulants, on est plus qu'amis, on est donneurs de sang. Question 24. Quelle est l'attitude des jeunes face au bon du sang ?"
     },
     {
         "id": 25,
@@ -68,7 +74,8 @@
             "Quelqu’un qui idéalise le monde."
         ],
         "audio": "/mp3/182/25.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Vous savez sans doute ce que signifie le mot « poète ». Le mot « poète » est un grand dégâts dans sa Selon intervenant, qu'est-ce qu'un poète ?"
     },
     {
         "id": 26,
@@ -80,7 +87,8 @@
             "Parce qu’il manque du personnel aujourd’hui."
         ],
         "audio": "/mp3/182/26.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "Eh, monsieur, vous voyez bien qu'ils viennent dans le cadre ? Vous ne pouvez pas aller voir ces tableaux-là. En plus, il y a une alarme qui peut se mettre à sonner. Oui, mais je ne voulais rien voler. Excusez-moi, habituellement, on peut visiter cette salle. Vous êtes en train de la faire ? Non, non, mais aujourd'hui, nous ne sommes pas assez nombreux pour écouter une salle. J'ai beaucoup d'idées à donner. Ah, que bien, je comprends mieux. Au moins, il n'y aura pas besoin d'y faire le ménage aujourd'hui. Question 26. Pourquoi le visiteur ne peut-il pas accéder à cette salle d'inédit ?"
     },
     {
         "id": 27,
@@ -92,7 +100,8 @@
             "Il lui interdisait les activités intellectuelles."
         ],
         "audio": "/mp3/182/27.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Quel rapport avez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que j'ai n'en ai pas. Il s'énervait de me voir à longueur le jour où j'étais dans les livres. Je crois qu'il pensait que j'étais malheureuse. Comment se comportait-il avec vous face aux mains d'Extérieur, devant la famille, les clients et de la jeune ? Presque de la honte que je ne vienne pas encore ma vie à 17 ans. Il craignait qu'on me prenne pour une barrisseuse et lui pour un crâneur. Il disait que j'apprenais bien, mais jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c'était seulement travailler de seuls. Question 20, qu'est-ce ? Quelle relation auteure entre toi et lui ?"
     },
     {
         "id": 28,
@@ -104,7 +113,8 @@
             "Parce qu’elles y sont contraintes par la mondialisation."
         ],
         "audio": "/mp3/182/28.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Les entreprises cv-coop ont fait beaucoup pour l'intégration des miniers, mais elles doivent faire davantage. Je pense qu'on peut toujours faire mieux, on a encore besoin d'être sensibilisé, d'être ouvert. Donc je pense que c'est un défi de tous les jours. Si on ne sait pas, on lui perd, parce qu'il y a tellement de gains à l'intégration. On n'a qu'à parler de sourire vers d'autres cultures, on lui gagne. On apprend sur un autre, on apprend sur les autres, et pour le milieu du travail, il y a une affaire qui est la richesse, la diversité que d'autres cultures peuvent nous apporter. Quand on parle d'un contexte et de deux variations, on travaille à l'échelle de notre monde. Il faut avoir un regard beaucoup plus large. Question 20, puis. Ce n'est la personne interrogée. Pour quelle raison les entreprises vidécoises doivent-elles continuer leurs efforts pour l'intégration des inégalités ?"
     },
     {
         "id": 29,
@@ -116,7 +126,8 @@
             "Elle présente une nouveauté à des clients."
         ],
         "audio": "/mp3/182/29.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Après deux années de recherche, nous allons lancer le dernier modèle de notre programme et votre rôle va être essentiel. Le marché sur lequel votre équipe va intervenir est en plein fin sens. C'est pourquoi nous avons besoin de personnes prêtes à prendre la pension rapidement. Nous allons maintenant examiner les étapes, et nous allons les suivre pour être les meilleures pendant la période de vente. Question 29 Que fait cette abonnante?"
     },
     {
         "id": 30,
@@ -128,7 +139,8 @@
             "Traiter un problème de poids."
         ],
         "audio": "/mp3/182/30.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Bonjour docteur, je voudrais faire de l'escalade et j'ai besoin de votre autorisation pour m'inscrire dans un fur de sport. De l'escalade, mais c'est très monté pour votre dos. Je vous conseille plutôt de faire de la natation. La natation, ce n'est pas mon genre d'appui. Et puis j'adore la montagne. Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée c'est une idée. Ça peut m'aider à maigrir. Question 3. Que doit faire le médecin?"
     },
     {
         "id": 31,
@@ -140,7 +152,8 @@
             "Le peu d’informations des banques sur les crédits."
         ],
         "audio": "/mp3/182/31.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Apprendre à gérer son argent n'est pas une priorité éducative alors que l'argent nous accompagne toute notre vie. Construire un budget, ça s'apprend, mais trop souvent le sujet est considéré tabou par les adultes, donc la question d'en parler avec les enfants ne rassure de l'école aucune séance de travail dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les frais, les taux d'intérêt, leurs dettes d'embaîtement, l'économie à l'échelle des individus, voilà un domaine qui touche chaque Français, sans que jamais celui-ci soit vraiment initié. Question 31. Que dénonce cet journaliste ? Merci d'avoir regardé !"
     },
     {
         "id": 32,
@@ -152,7 +165,8 @@
             "Elles représentent une charge pour leur famille."
         ],
         "audio": "/mp3/182/32.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Vous dénoncez un peu ces verres de famille au foyer qui ne vivent que par et pour leurs enfants. Diriez-vous que ce sont des points mort économiques entre guillemets pour la société ou qu'elles contribuent à leur façon à l'économie du pays ? Je me moque des femmes humiliées par leurs enfants au point de penser qu'ils sont le centre du monde et au point de faire de l'impasse sur leur propre délire. Cela dit, les femmes au foyer ne sont pas des points mort, au contraire. Le système ne tient que par le travail invisible de manuel Méré, de personnes, souvent des femmes, qui s'occupent de leur flanc, des vieux, des malades, etc. Question 30. Quelle est la conclusion de cette interdémande sur les femmes au foyer ? Merci."
     },
     {
         "id": 33,
@@ -164,7 +178,8 @@
             "Les distances à parcourir pour trouver des indices."
         ],
         "audio": "/mp3/182/33.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Prenez une botte, carte, boussole, je vous emmène à la chasse aux plaisirs, à la recherche de la chaise d'or, une sculpture qui vaut aujourd'hui 150000 euros. Les inventeurs de ce jeu diabolique ont concrété 11 énigmes bien difficiles du genre. Le bon sens, c'est le sens du grand co-sens et inversement, suivi d'une série de chiffres d'un dessin. Ils pensaient que l'énigme allait être raisonnable dans un bébé du bout à 14 mois. Et 15 ans plus tard, malgré l'engouement suscité par le jeu, la chaise d'or n'a toujours pas été retrouvée. Enfin, du moins ça a été interterfuit. L'original doit en être fait dans le poids de une borne. Question France 3. D'après ces journalistes, quel aspect du jeu des créateurs de la chaise d'or ont-ils mal évalué ? Merci d'avoir regardé cette vidéo !"
     },
     {
         "id": 34,
@@ -176,7 +191,8 @@
             "Leur réticence à travailler en collaboration avec le système éducatif."
         ],
         "audio": "/mp3/182/34.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Cette association qui se définit elle-même comme militante est fixée comme objectif de favoriser l'éducation et l'insertion par le biais du sport, en particulier dans le quartier difficile. Elle défend l'idée que le sport est social et citoyen et qu'il peut s'inscrire dans un projet politique d'éducation et d'insertion sociale et professionnelle. L'idée générale du mais elle ne va pas forcément de soi. Dans une éthique menée avec le soutien de CID, le comité ministériel pour la ville, un groupe de chercheurs a mis en évidence le peu d'implication des clubs sportifs dans les réalités sociales des quartiers où ils sont pourtant très plantés. Seule une minorité de ces clubs, souvent égagés par des passionnés combatifs, cherchent à utiliser le sport comme un outil d'apprentissage de compétences sociales et professionnelles. Question 3-15. Que reproche le comité ministériel pour la ville au club sportif ?"
     },
     {
         "id": 35,
@@ -188,7 +204,8 @@
             "Le nombre de fraudes constatées augmente."
         ],
         "audio": "/mp3/182/35.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Est-ce qu'il est irréformable ce baccalaamus ? On y arrivera bien un jour pour moi. C'est obligatoire de toute façon parce qu'on voit bien que c'est un examen qui coûte cher, ça tout le monde le sait, qui a beaucoup d'inconvénients. En plus il n'apporte plus aujourd'hui et il n'y a pas plus de sélection. Parce qu'au fond c'est ça le bac. Si il y a un examen c'est bien pour sélectionner ceux qui ne sont pas jugés capables de sortir de ce système et d'aller vers l'enseignement supérieur. Donc à partir du moment où il n'y a plus cette garantie, il faut le faire à voulu. Pourquoi le baccalauréat devrait être réformé selon celui qui s'explique ?"
     },
     {
         "id": 36,
@@ -200,7 +217,8 @@
             "Ils s’en remettent trop à l’autorité du praticien."
         ],
         "audio": "/mp3/182/36.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "Nous avons interrogé les français bien sûr et les médecins afin de voir si la santé connectée nous a permis un résultat qui nous a paru surprenant. Ce serait le cas que nous avons des médecins qui considèrent que le contrat de la médecine soit efficace. Ils font que le patient intervienne le plus de ces processus. Soit, il n'y a pas de médecins qui considèrent le médecin comme le sachant et lui, il peut déposer de savoir. Alors que les français peuvent le vivre, alors que ces médecins se dévouent."
     },
     {
         "id": 37,
@@ -212,7 +230,8 @@
             "Maintenir des tarifs compétitifs."
         ],
         "audio": "/mp3/182/37.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "La qualité, vous savez la qualité, surtout la très grande qualité, tout ça a un prix. Si on veut trouver des tables sur le marché, il faut donc, et c'est tout un exercice, arriver à produire des éléments avec eux qui sont quand même abordables. Et c'est l'exercice qui offre en soi ce filet d'avis des paroliniers, qui sont des petits tablés de farce et de sauce qui viennent de faire sa revoix à mon boulot d'hélogie. Question 35. Que cherche-t-on à faire avec votre pris?"
     },
     {
         "id": 38,
@@ -224,7 +243,8 @@
             "Les génériques parce qu’ils sont plus innovants que les médicaments de référence."
         ],
         "audio": "/mp3/182/38.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Bien sûr, ce ne sont pas les médicaments génériques qui font directement progresser la santé, puisqu'ils ont la même efficacité thérapeutique que les médicaments de référence et ils sont fabriqués avec les mêmes molécules. Ceci dit, comme ils coûtent 30% moins cher que les médicaments de référence qu'ils peuvent comporter, ils font peur de l'économie et de la collectivité, et l'économie ainsi réalisée permet à la collectivité de prendre en charge les remboursements des nouveaux médicaments qui sont innovants et en chagre. Les médicaments générés font ainsi une rotation de fonds des publics. Ils permettent en quelque sorte de constituer une réverb de fonds donnant accès à tous et sans affliction aux traitements innovants de demain. Question 38. Qu'est-ce qui fait progresser l'Assemblée publique selon la chronique médicale de ce journaliste ?"
     },
     {
         "id": 39,
@@ -236,6 +256,7 @@
             "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
         ],
         "audio": "/mp3/182/39.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Bon, vraiment, je suis un petit peu curé sur tous les éléments. J'ai envie d'amener les gens à une espèce qui pourrait être créée par les éthnologues internationels. Les petits peu curés sont très très séparés. J'aimerais qu'ils soient plus jeunes, qu'ils soient maîtres, ou jeunes, de se retrouver sur le terrain. Le fait est que ça c'est vrai que les citoyens du Soudan et du Moulin sont tous les deux ensemble, et ça, il y a un risque d'affrontement. Et ça, ça m'a envie de trouver. Même dans les films, il y a plein de cinémas, même dans les films, les petits peu sont moques selon les films. Les films ne sont pas les mêmes, les petits moeurs. Cela permet à des gens de se retrouver, mais ce sont des gens souvent qui vont dans les parties que les citoyens. La partie compléhension orale est terminée. Répondez maintenant aux questions de la partie 2."
     }
 ]

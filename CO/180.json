@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": 20,
         "testId": "180",
         "options": [
@@ -8,7 +9,8 @@
             "Elle se sent fatiguée."
         ],
         "audio": "/mp3/180/20.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Vous venez ? On va faire un volet et après on ira nager. Tu viens Véro ? Mais ce n'est pas possible par ce temps. Vous avez vu ce vent ? Vous n'attraperai jamais le ballon. N'exagère pas, ce n'est pas grave. Allez viens, tu adores ça. Non, allez-y sans moi. J'aime mieux aller me baigner. Pour quelle raison la fille refuse-t-elle de jouer au volet ?"
     },
     {
         "id": 21,
@@ -20,7 +22,8 @@
             "D’une sortie au cinéma."
         ],
         "audio": "/mp3/180/21.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Salut, ça va ? Ça va, mais mon petit ami est parti pour trois mois pour réaliser un documentaire sur la Gaspésie, une région assez sauvage du Québec. Ah oui, je connais, quelle chance ! J'adorerais y retourner. Et tu vas y aller aussi ? J'aimerais bien, mais j'ai des missions prévues prochainement, mais bon, je vaux mon patron demain, je lui demanderai si je peux prendre des vacances. Bonne chance ! Tu m'écriras pour me raconter ton expérience là-bas. Et préviens-moi quand le film sortira. Question 21. De quoi parlent ces personnes ?"
     },
     {
         "id": 22,
@@ -32,7 +35,8 @@
             "Leur talent est dévalorisé."
         ],
         "audio": "/mp3/180/22.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Et donc les compositeurs ont un autre métier, c'est à dire que où ils sont chefs d'orchestre, où ils sont directeurs de conservatoires, où ils sont enseignants, chercheurs, directeurs artistiques parfois parce que leur métier de compositeur ne leur permet pas de pouvoir avoir suffisamment de rémunération pour vivre correctement. Je pense qu'il doit y avoir à peu près que 2 ou 3 % de compositeurs aujourd'hui qui vivent réellement de leur musique, c'est vraiment très très peu. Question 22."
     },
     {
         "id": 23,
@@ -44,7 +48,8 @@
             "Les équipements."
         ],
         "audio": "/mp3/180/23.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "Oui, différents modèles de véhicules sans conducteur étaient à essayer dans les rues de Las Vegas la semaine dernière. Pour le moment, il s'agit seulement d'expérimentations. En attendant une réglementation, le secteur s'intéresse à ce que l'on fera dans ses voitures quand elles conduiront vraiment toutes seules, persuadées que c'est l'intérieur de la voiture et les services proposés qui feront la différence de main bien plus que le moteur. Plusieurs concepts d'habitacle futuristes étaient présentés sur le salon. Des voitures avec des écrans partout intégrées dans les vitres ou faisant toute la largeur du tableau de bord. Des véhicules qui se personnaliseront en fonction de leur passager. Question 23. Sur quel aspect travaillent les concepteurs des voitures autonomes ?"
     },
     {
         "id": 24,
@@ -56,7 +61,8 @@
             "Il veut éviter toute publicité personnelle."
         ],
         "audio": "/mp3/180/24.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "Psychologue, vous animer une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions? J'ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l'image de quelqu'un qui va plus vite que les autres. Question 24. Pour quelle raison ce psychologue a-t-il interrompu ses consultations?"
     },
     {
         "id": 25,
@@ -68,7 +74,8 @@
             "Introduire la plantation de nouvelles espèces."
         ],
         "audio": "/mp3/180/25.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Souvent, on les surnomme les médecins de la terre. Claude et Lydia Bourguignon auscultent les sols. Ils tentent de leur rendre la santé quand les méthodes agressives de l'agriculture intensive ont fortement abîmé les terres cultivables, au point parfois d'en faire disparaître toute trace de vie. Engrais chimiques et pesticides ne sont pas les amis de ce couple de scientifiques. Claude et Lydia Bourguignon invitent les paysans à mieux connaître leurs champs ou leurs vies, à les travailler autrement sans pour autant sacrifier les rendements à ne pas nuire à l'environnement. De cette révolution verte qu'ils défendent, dépend selon eux la qualité de l'offre faite aux consommateurs, ainsi que la survie des agriculteurs et des terres qu'ils cultivent. Sous-titrage par M. Jean-Pierre C."
     },
     {
         "id": 26,
@@ -80,7 +87,8 @@
             "D’un projet de visites culturelles."
         ],
         "audio": "/mp3/180/26.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Tu viens à l'anniversaire de Bertrand samedi ? Je ne sais pas encore. J'ai un examen lundi prochain. Tu es prête ? Plus ou moins. Mes cousins de Toulouse sont venus passer une partie des vacances à la maison. Et j'ai dû leur faire visiter les monuments et les musées de Paris. Tu as pu travailler un peu ? Oui, mais je dois encore étudier les maths. Question 26. De quoi parlent les deux jeunes filles ?"
     },
     {
         "id": 27,
@@ -92,7 +100,8 @@
             "Aller acheter des livres pour réviser avec son ami avant leurs examens"
         ],
         "audio": "/mp3/180/27.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "T'as vu la fiche dans le hall d'université ? Ce week-end, les Finsa organisent une bourse aux livres sur les programmes qu'ils ont étudiés. On y va ? Ah tu sais, ce genre de ventes ne m'intéresse pas parce que les manuels changent tous les ans, surtout en économie. Il faut se tenir au courant de tout. Non, vas-y toute seule. Ah tu me déçois. On va rencontrer des étudiants qui ont déjà travaillé sur notre futur programme. C'est aussi important de pouvoir discuter sur ce que l'on va rencontrer l'an prochain. Le cursus, les profs, le diplôme. Allez, viens ! Non, j'ai pas envie. Je dois revoir mes cours pour mes partiels. Question 27. Que souhaite la jeune fille ?"
     },
     {
         "id": 28,
@@ -104,7 +113,8 @@
             "Elle a vu un mauvais film."
         ],
         "audio": "/mp3/180/28.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Salut Marie, alors finalement qu'est ce que tu as fait samedi soir ? J'avais pas le moral, j'étais invité chez ma sœur, je n'y suis pas allé. Il y a des amis qui m'ont appelé pour aller danser au dernier moment, j'ai pas eu envie. Tu as fait quoi alors ? Finalement j'ai voulu aller au cinéma, la séance était annulée pour raison technique, alors je suis rentrée, je me suis couchée. Si j'avais su je serais venu te chercher, on est allé jouer au bowling, on a passé une super soirée. Question 28. Comment la jeune fille a-t-elle passé sa soirée ?"
     },
     {
         "id": 29,
@@ -116,7 +126,8 @@
             "Une reconnaissance rapide de leurs supérieurs sur les résultats obtenus."
         ],
         "audio": "/mp3/180/29.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Quels sont les objectifs de carrière des étudiants ? Vous savez, hommes et femmes aspirent à utiliser salaires et promotions non seulement pour pouvoir utiliser une entreprise comme un nom sur un CV mais aussi pour obtenir un réel accélérateur de carrière. Plus simplement, ce qui attire hommes et femmes, c'est d'envisager de pouvoir gagner beaucoup plus. Les kilos euros de leur premier salaire ne sauraient donc être un frein à leur entrée dans une société tant que ces jeunes diplômés peuvent se projeter dans une globalité liant augmentation salariale et promotion interne rapide. Question 29. Que désirent les jeunes en commençant leur carrière ? Question 30. Que désirent les jeunes en commençant leur carrière ?"
     },
     {
         "id": 30,
@@ -128,7 +139,8 @@
             "Mener une politique d’aménagement des villes."
         ],
         "audio": "/mp3/180/30.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Si demain vous viviez dans une oasis, je ne vous parle pas d'un lac avec des petits palmiers au milieu du désert mais d'une communauté, une petite communauté en France, en ville ou à la campagne, où vos voisins seraient comme vous, décidés à vivre de façon plus écolo. C'est ça les oasis, 500 petits groupes aujourd'hui, des familles qui vivent côte à côte mais aussi ensemble. Et c'est peut-être avant-gardiste. Prenez par exemple en Aréloir l'écho à mots du Plessis. 28 familles soit 60 personnes qui vivent dans des bâtiments bio-climatiques dont le chauffage, pour faire simple, ne polluent pas. Qui, toutes, ont renoncé à se brancher au tout à l'égout ? Leurs eaux grises sont traitées dans des bassins plantés de roseaux qui dépolluent, c'est parfaitement légal et ça marche. Question 30. Que recherchent les habitants de ces oasis ? Merci d'avoir regardé cette vidéo !"
     },
     {
         "id": 31,
@@ -140,7 +152,8 @@
             "D’une rénovation d’un monument."
         ],
         "audio": "/mp3/180/31.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "La vieille dame de fer dans tous ses états, ou comment les jeunes sont complexes, se sont mesurés à cette forme unique qu'est la tour Eiffel. Pour ce concours organisé par la Fondation Eiffel, adressé aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le Champ de Mars à Paris, à distance, à coller ou à la place de la tour Eiffel. Trois étudiants suppriment donc carrément la tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable, en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. Question 31. De quoi traite ce reportage ?"
     },
     {
         "id": 32,
@@ -152,7 +165,8 @@
             "Elle nécessite un service très rapide."
         ],
         "audio": "/mp3/180/32.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Des commentaires sur la gastronomie de Toronto? On y mange très bien, mais c'est impossible d'y manger la même chose 4 ans plus tard. Comme à Québec, la gastronomie est très tendance. Qu'est-ce qui se passe aujourd'hui? Qu'est-ce qui se passera demain? Mais qu'est-ce qui s'est passé hier? On ne veut plus rien savoir. Qu'est-ce qu'un restaurateur doit faire si sa cuisine n'est pas tendance mais tout aussi bonne? À Toronto, il doit la changer. C'est différent à Québec. J'ai l'impression qu'à Toronto, la capitale des affaires, on gère tout au dépend des valeurs sûres. Question 32. Que constate ce journaliste sur la gastronomie à Toronto? La question est la plus simple. La question est la plus simple. La question est la plus simple. La question est la plus simple. La question est la plus simple."
     },
     {
         "id": 33,
@@ -164,7 +178,8 @@
             "Respecter le goût des consommateurs."
         ],
         "audio": "/mp3/180/33.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Il y a certains légumes qui sont moins bien connus que d'autres. Oui, la courge entre autres, c'est quelque chose que vraiment les gens la regardent avec un point d'étorogation. Qu'est-ce que je vais faire avec ça? Donc, il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n'ont pas le temps. Donc, il faut essayer de leur trouver des trucs. Question 33. Que doit faire cette personne pour vendre ses légumes?"
     },
     {
         "id": 34,
@@ -176,7 +191,8 @@
             "Elle varie selon les contextes."
         ],
         "audio": "/mp3/180/34.mp3",
-        "answer": 1
+        "answer": 1,
+        "text": "Mais c'est important la langue que l'on parle aujourd'hui en 2018 alors que l'on a des traducteurs sur tous les téléphones ? Ah oui c'est important parce que la langue véhicule autre chose. La langue véhicule, de manière de regarder le monde, véhicule aussi des solidarités. Des gens qui ont fait leurs études en France qui se sont imprégnés des systèmes par exemple juridiques, français, n'ont pas la même façon de raisonner et vont créer avec nous un espace très important. Et puis j'ajoute que la francophonie c'est pas seulement la France. Vous voyez bien les membres de l'OIF, de l'Organisation Internationale de la Francophonie, viennent de très nombreux horizons, de continents différents. Question 34. Que dit cet intervenant sur la langue française ?"
     },
     {
         "id": 35,
@@ -188,7 +204,8 @@
             "L’importation de pieds de vigne."
         ],
         "audio": "/mp3/180/35.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange Gardien, en face du fleuve Saint-Laurent. Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit On va se lancer ! Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre début janvier. Question 35 Qu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité ?"
     },
     {
         "id": 36,
@@ -200,7 +217,8 @@
             "De bateaux de pêche traditionnels."
         ],
         "audio": "/mp3/180/36.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Un chantier de construction naval ici, pour qui ? Pour l'export principalement. La politique sénégalaise depuis quelques années avec le changement de gouvernement favorise l'implantation d'investisseurs étrangers, dans le sens où elle nous permet d'exporter et d'importer hors taxe ordoine. Donc nos bateaux sont évidemment des bateaux de plaisance et notre clientèle est à l'étranger, donc on travaille uniquement sur de l'exportation. Qu'est-ce que vous construisez comme bateau ? Un catamaran de 12 mètres, dessiné par Eric Lerouge, en collaboration avec les ateliers du 4 Verts, pour un couple de français qui partira voyager dans un an et demi, faire un tour du monde avec. Question 36. De quel type de bateau est-il question ?"
     },
     {
         "id": 37,
@@ -212,7 +230,8 @@
             "Une protection accrue des données personnelles."
         ],
         "audio": "/mp3/180/37.mp3",
-        "answer": 2
+        "answer": 2,
+        "text": "Dans mon cabinet de recrutement, internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce aux logiciels de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après 10 minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tels logiciels offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme."
     },
     {
         "id": 38,
@@ -224,7 +243,8 @@
             "Intégrer de préférence des étudiants anglophones."
         ],
         "audio": "/mp3/180/38.mp3",
-        "answer": 0
+        "answer": 0,
+        "text": "Les grandes écoles accueillent plus de 36 000 étudiants étrangers, soit 17% de leurs effectifs. Ce chiffre est en progression avec une hausse très importante en provenance de deux régions du monde. La première, c'est la zone Asie-Pacifique. La deuxième région d'origine, c'est le Maghreb. La conférence des grandes écoles fait quelques propositions pour que la France soit plus attractive. Elle propose par exemple la possibilité d'enseigner en anglais. Mais là, on se heurte à la loi Toubon de défense de la langue française. Autre idée est que le niveau de français de l'étranger ne soit plus une cause d'inadmissibilité dans une école, mais que l'on exige plutôt un niveau minimum de français en fin de cursus."
     },
     {
         "id": 39,
@@ -236,6 +256,7 @@
             "Les réhabilitations ont une portée limitée."
         ],
         "audio": "/mp3/180/39.mp3",
-        "answer": 3
+        "answer": 3,
+        "text": "La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers, selon Renaud Epstein, sociologue spécialiste des politiques urbaines. La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme, c'est fait au dépend d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça ne change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour réaliser leur mission. Il en va de même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plus d'eau d'améliorer la qualité de service dans ces quartiers ? Question 39 Quelle réserve le sociologue Renaud Epstein aimait-il ?"
     }
 ]
