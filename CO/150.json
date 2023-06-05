@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "150",
-        "text": "",
+        "text": "Hélène Carrère d'Ancos, votre article nous informe du danger qui menace l'existence et le développement des lycées français de l'étranger. Oui, ces lycées étaient payants. Ils sont devenus gratuits en 2007. Cette décision au départ généreuse se retourne finalement contre les lycées, car les entreprises qui payaient ne le font plus. C'est l'État seul qui soutient les lycées, donc, quand cela deviendra trop lourd pour l'État, il risque de vouloir enfermer certains. Pour Hélène Carrère d'Ancos, quels sont les problèmes des lycées français de l'étranger ?",
         "audio": "/mp3/150/20.mp3",
         "options": [
             "Le nombre d'élèves est en baisse.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "150",
-        "text": "",
+        "text": "Quelle froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui? Le soleil est un peu plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil.",
         "audio": "/mp3/150/21.mp3",
         "options": [
             "Il fait plus beau qu'hier.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "150",
-        "text": "",
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier. Enfin, c'était une espèce de chanson que j'avais finie de recopier dans le bistrot en face de l'impasse Florimont, où il habitait. Et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite. Et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « J'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé.",
         "audio": "/mp3/150/22.mp3",
         "options": [
             "Lui apporter un livre.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "150",
-        "text": "",
+        "text": "Isabelle Olivier, en tant que directrice d'une agence de voyage, en quoi votre agence est-elle différente des autres ? Tout d'abord, je travaille toujours avec des gens qui garantissent le respect des partenaires locaux. Ensuite, je cherche à définir les motivations des personnes qui viennent me voir afin de les orienter vers des formules auxquelles ils n'ont pas forcément pensé. En général, après une discussion avec ces personnes sur la destination souhaitée, ils s'aperçoivent qu'un séjour classique ne coûte pas moins cher qu'un séjour sur mesure. Que propose cette agence de voyage ?",
         "audio": "/mp3/150/23.mp3",
         "options": [
             "Des circuits respectueux de l'environnement.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "150",
-        "text": "",
+        "text": "Jusqu'en 1974, l'année où Anifra Tellini et Pierre Etek sont créés la première école de cirque en Europe, il fallait être né dans une famille pour apprendre ce métier. C'était obligatoire. Mais eux ont voulu justement créer une école pour permettre aux jeunes qui n'étaient pas issus des familles de cirque d'apprendre ce métier du cirque. Depuis, ça s'est énormément professionnalisé. De quelle évolution du monde du cirque parlent les intervenants ? C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie.",
         "audio": "/mp3/150/24.mp3",
         "options": [
             "La création de numéros innovants.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "150",
-        "text": "",
+        "text": "Les agronomes travaillent beaucoup sur l'agroécologie. Notre modèle est très dépendant du pétrole et du gaz pour les engrais, le transport des denrées, l'énergie pour l'irrigation. Et avec un pétrole qui devient plus rare et plus cher, il s'agit donc de trouver des techniques moins gourmandes, comme l'explique Olivier Descuteurs, rapporteur spécial des Nations unies pour l'alimentation. Dans beaucoup de zones qui ne sont pas encore développées selon les méthodes agro-industriels de production, il faut effectivement mettre l'accent sur des pratiques agroécologiques qui par exemple permettent de recycler les déchets dans le champ pour fertiliser le champ ou qui permettent de combiner l'agroforesterie avec des cultures alimentaires pour économiser les engrais chimiques grâce à la fertilisation des sols par les arbres. Quelle piste est envisagée pour améliorer la production agricole ? Merci d'avoir regardé cette vidéo !",
         "audio": "/mp3/150/25.mp3",
         "options": [
             "Augmenter les espaces de terres cultivables.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "150",
-        "text": "",
+        "text": "À peine a-t-on le temps de s'habituer à être parents, que l'on doit préparer nos enfants à devenir autonomes puis à partir ? Ce moment où le jeune adulte quitte la maison est difficile effectivement ? Ce moment est difficile tant pour le parent que pour l'enfant. Les adolescents qui ont attendu parfois très longtemps ce temps de liberté, eux-mêmes, peuvent se retrouver démunis au moment de franchir la porte de la maison. Aujourd'hui les jeunes adultes vivent de plus en plus longtemps chez leurs parents. Tout à fait, on invoque des raisons économiques pour rester à la maison plus longtemps. Ceci est parfois lié aussi à une question d'immaturité. On est bien à la maison, maman et papa prennent soin de tout. Pratique quand même, loger nourri blanchi. Exactement. Selon la personne interrogée, qu'est-ce qui retient les jeunes adultes chez leurs parents ?",
         "audio": "/mp3/150/26.mp3",
         "options": [
             "La peur de faire de la peine à leur entourage familial.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "150",
-        "text": "",
+        "text": "Comment les jeunes français envisagent-ils leur avenir ? La réponse est à lire dans le sondage publié aujourd'hui par le tout nouvel observatoire des jeunes et des familles. 1000 jeunes de 18 à 25 ans et 1000 familles ont été interrogées. Première surprise, les jeunes ont plutôt confiance en l'avenir à 52% et même si les difficultés économiques les angoissent, 8 sur 10 estiment qu'ils obtiendront ce qu'ils veulent mais les principaux obstacles seront le travail et le logement. Qu'apprend-on sur l'attitude des jeunes français face à leur avenir ?",
         "audio": "/mp3/150/27.mp3",
         "options": [
             "Ils espèrent obtenir une allocation de l'Etat.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "150",
-        "text": "",
+        "text": "Léonard reçoit une éducation relativement libre, comme l'était celle de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui très jeune aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis en quelque sorte à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure, et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements.",
         "audio": "/mp3/150/28.mp3",
         "options": [
             "Sa mémoire exceptionnelle.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "150",
-        "text": "",
+        "text": "Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant « ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilité, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refaire un certificat. Que conseillez-vous alors ? En tant qu'enseignant à l'université, je lui dis « tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ». Que recommande cet universitaire pour trouver un travail au Québec ?",
         "audio": "/mp3/150/29.mp3",
         "options": [
             "De devenir entrepreneur en créant son entreprise.",

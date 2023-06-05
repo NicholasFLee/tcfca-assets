@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "149",
-        "text": "",
+        "text": "Allô, bonjour, je suis Madame Leroy. J'ai passé une commande de vêtements par téléphone il y a dix jours avec une livraison à domicile. Et pourtant, rien n'est arrivé pour l'instant. Donnez-moi votre numéro client Blanche Maison, s'il vous plaît. Je vais vérifier. En effet, la livraison n'a pas été faite. La neige a interrompu le trafic. Le transporteur ne pourra vous livrer que demain. Pourquoi y a-t-il un retard de livraison ?",
         "audio": "/mp3/149/20.mp3",
         "options": [
             "La circulation routière est coupée.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "149",
-        "text": "",
+        "text": "Régis Soliverrez bonjour. Bonjour, bonjour FIC. Régis vous lancez une aventure, enfin vous lisez un dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux. Oui, à l'occasion du festival de l'UFON, j'ai rencontré François, je lui ai dit que je voulais faire un film. Quel est le projet de Régis Soliverrez et de ses élèves ?",
         "audio": "/mp3/149/21.mp3",
         "options": [
             "Interviewer un réalisateur.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "149",
-        "text": "",
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier, enfin, c'était une espèce de chanson que j'avais fini de recopier dans le bistrot en face de l'impasse Florimont, où il habitait. Et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite. Et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant, j'ai lu vos chansons et j'aimerais bien vous en parler, ça m'aurait intéressé. Qu'aurait souhaité cette personne en allant chez Georges Brassens ?",
         "audio": "/mp3/149/22.mp3",
         "options": [
             "Visiter des studios de cinéma.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "149",
-        "text": "",
+        "text": "La question du jour, Valérie Cantier, pourquoi l'établissement français du sang, en appelle-t-il aux étudiants ? Les jeunes donnent plus facilement leur sang, il faut le savoir, ils voient ça comme un premier acte de citoyenneté, un acte solidaire, disent-ils, un geste utile, c'est ce qui ressort des sondages, un donneur sur cinq à entre 18 et 24 ans en France, mais souvent ils déclarent ne pas donner parce qu'ils ne sont pas sollicités, pas assez en tout cas, ou bien parce qu'ils ne savent pas où aller. Du coup, la semaine prochaine, l'établissement français du sang lance une campagne pour mobiliser les étudiants, le slogan « On est plus qu'amis, on est donneurs de sang ».",
         "audio": "/mp3/149/23.mp3",
         "options": [
             "Ils déplorent un manque d'information.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "149",
-        "text": "",
+        "text": "Charlotte, tu as trouvé une place pour te garer ? Oui, mais j'ai mis au moins un quart d'heure entre les emplacements réservés et les heures et minutes. Et tu t'es garé où ? Rue Colbert, après l'intersection avec la rue en sens interdit. Tu as pensé à prendre un ticket de stationnement ? Non, c'est gratuit dans ce quartier. Plus maintenant, la réglementation vient de changer. Bon, j'y retourne avant le passage des policiers municipaux. Quel est le problème soulevé ?",
         "audio": "/mp3/149/24.mp3",
         "options": [
             "La voiture est interdite en centre-ville.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "149",
-        "text": "",
+        "text": "Christelle Nolot, directrice d'une salle de cinéma, nous parle du festival Le printemps du cinéma. Je décide moi-même des films que nous présentons. Le but est de proposer le maximum de diversité, qu'il y en ait pour tous les goûts. C'est l'occasion de mettre en avant des films qui ont bien marché, mais qui n'ont pas assez été exploités. Pour les amateurs de cinéma d'auteur, il y a aussi une sélection de 15 films à réessai, déjà récompensés. Qu'est-ce qui est important pour Christelle Nolot ?",
         "audio": "/mp3/149/25.mp3",
         "options": [
             "L'organisation d’ateliers vidéo.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "149",
-        "text": "",
+        "text": "Camille, à ton arrivée à Québec, dans quel type de logement résidais-tu ? J'ai d'abord habité un appartement en colocation dans le quartier de Mont-Calme. Au bout de six mois à peine, j'ai emménagé à debaç du centre-ville. Oh, c'est très simple de trouver un logement ici. Ça se fait en quelques jours. Hum. Comment as-tu trouvé ton premier appartement ? Avant de quitter la France sur un site internet regroupant les annonces de colocation. Mais je conseille de chercher sur place. Il y a tout ce qu'il faut pour trouver facilement. On peut découvrir le quartier, voir si les pièces sont spacieuses, lumineuses, et surtout bien insonorisées. Ce n'était pas le cas de mon premier logement, malgré le nom du quartier. D'après Camille, quel est le point fort de l'immobilier à Québec ? Sous-titrage ST'501",
         "audio": "/mp3/149/26.mp3",
         "options": [
             "La recherche d'un appartement est rapide.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "149",
-        "text": "",
+        "text": "Dans toutes les écoles primaires de France, 815 900 élèves du cours élémentaire vont passer des évaluations nationales en français et mathématiques. Alors ces évaluations nationales sont-elles utiles ? L'évaluation est un acte de quotidien pour tous les enseignants. Là c'est une évaluation institutionnelle que propose le ministère de l'éducation nationale. Ça a déjà été effectué au mois de janvier pour les élèves du cours moyen et, à l'époque, on l'avait d'ailleurs fortement critiqué puisque c'était une évaluation qui intervenait au mois de janvier alors qu'une grande partie des programmes n'avaient pas été effectués. Pour quelle raison ces évaluations ont-elles été critiquées ? C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation.",
         "audio": "/mp3/149/27.mp3",
         "options": [
             "Parce qu'elles étaient difficiles à mettre en œuvre.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "149",
-        "text": "",
+        "text": "S'il est normal que des espèces apparaissent et disparaissent au gré de l'évolution, il est par contre inédit qu'une seule espèce, la nôtre, met en danger l'existence de l'ensemble du vivant. Les spécialistes sont en effet unanimes pour dire que la biodiversité est aujourd'hui menacée par les activités humaines. Une récente étude britannique estime ainsi qu'une plante sur cinq dans le monde est menacée. L'ONU affirme de son côté que le rythme annuel des disparitions d'espèces est désormais 100 fois plus élevé que ce qu'il devrait être naturellement. Il y a donc urgence à réagir pour préserver la vie sur Terre et préserver l'existence de notre propre espèce. Sous-titrage ST'501",
         "audio": "/mp3/149/28.mp3",
         "options": [
             "L'état actuel de la biodiversité.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "149",
-        "text": "",
+        "text": "Imagine pouvoir faire le tour du monde sans avoir à payer pour te loger. Imagine partager des cultures différentes avec des guides personnalisés, totalement gratuits. Arrête d'imaginer, ça existe. Depuis l'an 2000, près de 300 000 personnes l'ont fait, à bon marché et hors des circuits touristiques programmés grâce à l'hospitalité des membres d'un réseau social qui s'étend sur les 5 continents. Son fondateur, jeune étudiant allemand de 22 ans, assure que l'objectif final est de promouvoir la paix par l'échange interculturel.",
         "audio": "/mp3/149/29.mp3",
         "options": [
             "D'apprendre à élaborer des itinéraires de visites.",

@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "161",
-        "text": "",
+        "text": "Vous avez vu l'heure? Oui, je sais, il est un peu tard. C'est la troisième fois que vous arrivez en retard cette semaine. Je m'excuse. Écoutez-moi bien, votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais.",
         "audio": "/mp3/161/20.mp3",
         "options": [
             "Il est possible qu’il soit renvoyé.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "161",
-        "text": "",
+        "text": "Bonjour! Ah! C'est joli toutes ces fleurs! Oui, je suis en train de préparer des bouquets pour demain. Ah bon? Il y a une fête en ville demain? Non, nous avons un repas de mariage. Il faut que tout soit prêt pour midi. Ah! Alors vous serez complets, je suppose. On voulait vous réserver une table. Je ne sais pas. Il faut voir avec la patronne. Que fait cette femme?",
         "audio": "/mp3/161/21.mp3",
         "options": [
             "Elle organise des fêtes au village.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "161",
-        "text": "",
+        "text": "Et vous, Jeanne, avez-vous des phobies? Peut-être la même que vous, les requins. En réalité, la vie sous-marine dans son ensemble. Parfois, je n'ose même pas aller me baigner par peur de ce qu'il y a dans l'eau. Et si on vous disait qu'il y a des prédateurs dans toutes les mers, et même ici, au Canada? J'éviterais les mers et j'irais dans les lacs. Mais la menace est la même dans les lacs! D'autres espèces aquatiques qui grouillent, ça ne vous gêne pas? C'est vrai. Je crois que je vais me contenter des piscines. Pourquoi Jeanne évite-t-elle de se baigner?",
         "audio": "/mp3/161/22.mp3",
         "options": [
             "Elle déteste les bains de mer.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "161",
-        "text": "",
+        "text": "Je me souviens très bien du premier livre, pas du premier livre lu, mais du premier à avoir provoqué en moi la joie de la lecture. Celui qui fait que je ne lis plus que des romans, parce que la lecture est pour moi le plaisir du récit qui construit de nouveaux mondes. C'était un volume du club D5 d'Eneed Blyton. Je ressens encore dans mon corps la qualité et l'intensité de cette lecture. S'absorber totalement dans le texte, devenir sourd et aveugle au monde, vivre l'action, avoir la vie pétillée et se teinter de nouvelles couleurs, nommer des sensations inconnues, entrevoir des passions nouvelles, refermer le livre avec bonheur et regret, et attendre le prochain avec une fièvreuse impatience.",
         "audio": "/mp3/161/23.mp3",
         "options": [
             "Pour comprendre la société.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "161",
-        "text": "",
+        "text": "Eve Panofsky, vous êtes musicienne. Est-ce que vous avez toujours voulu jouer du violoncelle ? Quand j'étais petite, il y avait un piano chez des amis sur lequel je pianotais. Ensuite, j'ai essayé le banjo, la guitare, je m'approchais des cordes. Je recherchais en fait un instrument avec lequel je puisse faire durer le son. Un jour, je jouais avec mes copains d'école chez moi et j'ai mis un disque au hasard. C'était du violoncelle. Et là, ça m'a totalement aimanté. J'ai arrêté de jouer, j'étais aspirée par ce son. Pourquoi cette musicienne a-t-elle choisi le violoncelle ?",
         "audio": "/mp3/161/24.mp3",
         "options": [
             "Elle a été habituée très tôt par ses parents à écouter des œuvres pour violoncelle.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "161",
-        "text": "",
+        "text": "Autoriser les magasins à ouvrir le dimanche en France serait-ce la solution pour développer la croissance et l'emploi ? Le directeur de la revue 60 millions de consommateurs s'explique au micro d'Emmanuel Kessler. Le secrétaire d'État à la consommation relevait, en visitant un dimanche un centre commercial de la région parisienne, que les boutiques y réalisent sur ce seul jour plus du tiers du chiffre d'affaires de toute la semaine. Oui mais voilà, ce qu'on achète le dimanche, on ne l'achète pas les autres jours et vice versa. Attention aux illusions d'optique. Les consommateurs dépensent d'abord en fonction de leurs revenus et non en fonction des jours d'ouverture des magasins. C'est simplement une autre répartition du temps d'achat. Donc, quel impact pour la croissance et l'emploi en général ? Je crains que ça ne change pratiquement rien. D'après le directeur de la revue, pourquoi l'ouverture des magasins le dimanche aurait-elle peu d'influence sur l'économie française ?",
         "audio": "/mp3/161/25.mp3",
         "options": [
             "Parce que la consommation dépend avant tout du pouvoir d’achat.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "161",
-        "text": "",
+        "text": "Lui récemment par le magazine Business Week, parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société sismique. Qui n'est pas un coup d'essai, ce diplômé de l'école des hautes études commerciales de Paris est devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi, il était commerçant. J'ai jamais eu vraiment envie de travailler pour qu'il soit d'autre que moi, y compris peu importe la taille de ce que je faisais, je pense que je serais volontiers, indépendants. J'ai toujours voulu créer ma propre entreprise dans l'internet, donc c'est les deux passions que j'ai toujours.",
         "audio": "/mp3/161/26.mp3",
         "options": [
             "Avoir la liberté d’être son propre patron.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "161",
-        "text": "",
+        "text": "On s'est rendu compte que quand les oiseaux sont en V, celui qui est à la pointe du V dépense beaucoup d'énergie parce qu'il est le premier et qu'il doit percer l'air. Mais par contre, les autres qui sont tous derrière lui, bien alignés, un peu décalés, profitent des turbulences qu'il a créées et donc font des économies. Et l'idée, c'est que plus on est nombreux, plus on peut partager chacun son tour. Et donc, le premier, au bout d'un certain temps, quand il en a un peu assez, se décale et se met en bout de chaîne pour prendre la place de celui qui était derrière. Et c'est un nouveau qui va prendre sa place et qui fera l'effort initial. Quel est le rôle d'un oiseau de tête dans un vol groupé ? Merci d'avoir regardé cette vidéo !",
         "audio": "/mp3/161/27.mp3",
         "options": [
             "Il diminue les efforts de ceux qui le suivent.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "161",
-        "text": "",
+        "text": "La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, on adoua un médecin, en fait, suisse, qui observait les abeilles en prenant son petit déjeuner à la terrasse de son chalet. Elles étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même à l'heure où il prenait son petit déjeuner, à l'heure normale. Donc c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. La première chose que je vais faire, c'est de faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre.",
         "audio": "/mp3/161/28.mp3",
         "options": [
             "Elles ont la notion du temps chronologique.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "161",
-        "text": "",
+        "text": "Nous informons nos auditeurs qu'en raison d'un arrêt de travail observé par certaines catégories de personnel, l'ensemble de nos journaux et de nos émissions de la journée sera remplacé par un programme musical continu. Deux bulletins d'information assurés par des personnels non grévistes seront diffusés à 13h et à 20h. Nous prions nos auditeurs de nous excuser de cette situation. C'était un communiqué de la direction de la station. Quel est le but de ce communiqué ?",
         "audio": "/mp3/161/29.mp3",
         "options": [
             "Annoncer la diffusion exceptionnelle, en direct, d’un festival de musique.",

@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "157",
-        "text": "",
+        "text": "Quelle froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui? C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec. C'est un peu comme le froid sec.",
         "audio": "/mp3/157/20.mp3",
         "options": [
             "Il fait plus beau qu'hier.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "157",
-        "text": "",
+        "text": "Tu as entendu les informations ? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon ? Il va vraiment le faire ? Pour l'instant il est obligé d'affronter les écologistes et même l'union européenne. Que se passe-t-il dans la région ? La réserve naturelle de la région",
         "audio": "/mp3/157/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "157",
-        "text": "",
+        "text": "Voici l'initiative originale d'une société spécialisée dans les cours de bricolage et qui accueille les femmes jeunes ou moins jeunes, mariées, divorcées, célibataires, étudiantes ou même retraitées. Celles qui s'inscrivent n'ont qu'un désir, ne plus se sentir démunies face à une chasse d'eau qui fuit. Marie-Hélène a assisté aux cours du samedi matin, le B.A.B.A de la plomberie. Le plus dur au départ, c'est le vocabulaire. Téflon, joint, siphon, une langue étrangère pour Marie-Hélène qui nous explique sa motivation. Pour être plus indépendante et savoir changer un joint, éventuellement des robinets. Est-ce que c'est rassurant qu'il n'y ait que des femmes? Peut-être. Parce qu'on se dit que les hommes risqueraient de se moquer de nous. C'est plus... oui, rassurant. Sous-titrage ST'501",
         "audio": "/mp3/157/22.mp3",
         "options": [
             "Pour apprendre les termes spécifiques de la plomberie.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "157",
-        "text": "",
+        "text": "Bonjour, ravi de vous retrouver dans Grand Bien Vous Fasse. La pauvreté dans le monde recule, la démocratie avance, la couche d'ozone se reconstitue, ou encore le monde n'a jamais connu aussi peu de violence. Ce matin, nous recevons un rameur à contre-courant de certaines idées reçues. Le spécialiste en psychologie positive, Jacques Lecompte, nous donne à voir ce matin une humanité en progrès. En s'appuyant sur une série de chiffres, de statistiques et de rapports internationaux fiables, Jacques Lecompte nous invite à regarder notre monde avec un optimisme réaliste. Il appelle ça l'optirréalisme, loin des discours catastrophistes des prophètes de malheur.",
         "audio": "/mp3/157/23.mp3",
         "options": [
             "Un point de vue sur la situation mondiale aujourd'hui.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "157",
-        "text": "",
+        "text": "Alors Sarah, comment se passe la vie en colocation ? Ah écoute tu sais, une seule douche pour quatre, ça n'est vraiment pas commode, surtout le matin. Mais bon, faut s'organiser un peu, c'est tout. C'est toujours mieux que la chambre de bonne que tu avais avant, non ? T'as raison, 9 mètres carrés pour 750 euros c'est exagéré, même avec une vue sur la tour Eiffel. Au moins maintenant le loyer est divisé par 4. Et pour les courses, vous faites aussi caisse commune ? Ah non, là c'est chacun pour soi, et c'est aussi bien d'ailleurs, sinon le frigo serait toujours vide. Qu'est-ce que Sarah regrette ?",
         "audio": "/mp3/157/24.mp3",
         "options": [
             "De disposer d'une petite surface.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "157",
-        "text": "",
+        "text": "En Allemagne, Cattel a profité d'études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ce qu'on connaît en France. Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n'a pas vraiment le choix. Là j'ai pu choisir mes matières, j'ai pris des cours sur la presse, sur Napoléon. Napoléon c'est original ça ? Oui Napoléon, c'est marrant de voir la vision. Par exemple eux ils disent pas la défaite de Waterloo mais la victoire de Waterloo. Pourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
         "audio": "/mp3/157/25.mp3",
         "options": [
             "Elle a changé de cursus universitaire.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "157",
-        "text": "",
+        "text": "Oui, il est récemment élu par le magazine Business Week. Parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société sismique, qui n'est pas un coup d'essai. Se diplômé de l'école des hautes études commerciales de Paris et devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi. J'étais commerçant. J'ai jamais eu vraiment envie de travailler pour qu'il soit d'autre que moi, y compris peu importe la taille de ce que je faisais. Je pense que je serais volontiers, indépendants. J'ai toujours voulu créer ma propre entreprise dans l'Internet. Donc c'est les deux passions que j'ai toujours.",
         "audio": "/mp3/157/26.mp3",
         "options": [
             "Avoir la liberté d'être son propre patron.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "157",
-        "text": "",
+        "text": "Et si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça. En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voire que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ? C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé. C'est une question de la santé.",
         "audio": "/mp3/157/27.mp3",
         "options": [
             "Des besoins énergétiques des jeunes.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "157",
-        "text": "",
+        "text": "Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant « ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilité, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refaire un certificat. Que conseillez-vous alors ? En tant qu'enseignant à l'université, je lui dis « tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ». Merci d'avoir regardé cette vidéo !",
         "audio": "/mp3/157/28.mp3",
         "options": [
             "De devenir entrepreneur en créant son entreprise.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "157",
-        "text": "",
+        "text": "Monsieur Rinault, vous êtes architecte et vous allez nous présenter une avenue à Paris datant de la fin du 19e siècle. La façade osmanienne est-elle toujours en pierre ? Oui, c'était une obligation qui figurait dans l'acte de vente. C'était la manière finalement dont Haussmann légiférait puisqu'il n'y avait pas de loi. Pourquoi ? Le permis de construire n'existait pas ? Le permis de construire en effet viendra plus tard. Donc on leur disait simplement vous devez utiliser de la pierre pour les façades ? C'est ça. Quand les propriétaires achetaient le terrain pour construire, on leur imposait une pierre de taille. Dans les belles avenues comme celle de l'Opera, on indiquait aussi que les lignes devaient filer pour donner une certaine harmonie, une certaine homogénéité, une certaine monotonie pour ceux qui n'apprécient pas cette esthétique. L'idée d'Haussmann, c'était qu'à partir du moment où on construisait un immeuble dans une avenue, les immeubles suivants devaient le prendre comme modèle. Quel principe retrouve-t-on dans l'architecture haussmannienne ?",
         "audio": "/mp3/157/29.mp3",
         "options": [
             "L'absence d'éléments ornementaux.",

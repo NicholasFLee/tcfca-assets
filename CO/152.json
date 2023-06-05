@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "152",
-        "text": "",
+        "text": "En période de grande bousculade dans les magasins pour les achats de fin d'année, si la perspective des difficultés de circulation ou de stationnement vous angoisse, voici une initiative qui va peut-être vous intéresser. La Ville d'Angers a mis en place un service original pour que les particuliers puissent faire leur course de Noël sans subir le stress des transports en commun. De 14h à 19h, un chauffeur vient vous chercher à votre domicile et vous conduit en centre-ville à proximité des magasins dans lesquels vous souhaitez vous rendre. Ce service est gratuit, à condition d'avoir de nombreux achats à effectuer.",
         "audio": "/mp3/152/20.mp3",
         "options": [
             "Il associe tourisme et shopping.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "152",
-        "text": "",
+        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l'instant, il est obligé d'affronter les écologistes et même le ministère des Transports. Que se passe-t-il dans la région? Tu as dit que tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région?",
         "audio": "/mp3/152/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "152",
-        "text": "",
+        "text": "Cette nouvelle façon de faire l'info immédiate par rapport à celle que vous faisiez à l'époque dans l'envoyé spécial vous fascine-t-elle ou vous fait-elle peur ? Elle m'inquiète. Elle m'inquiète parce que j'ai l'impression qu'on a tendance à oublier le rôle du journaliste. Nous, vous, nous sommes là pour trier l'information, pour savoir ce qui est vrai de ce qui ne l'est pas. Aujourd'hui avec la valence d'informations que nous avons, en particulier sur les réseaux sociaux, on ne sait plus ce qui est vrai, ce qui n'est pas vrai. Les rumeurs les plus folles courent et ensuite on met des jours et des jours à rattraper une information qui était fausse au départ. Je pense que le journaliste, les journalistes en général, devraient être beaucoup plus présents dans cette course à l'information et faire attention, c'est-à-dire faire leur métier. Que critique ce journaliste dans la pratique actuelle de son métier ?",
         "audio": "/mp3/152/22.mp3",
         "options": [
             "La formation professionnelle des jeunes.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "152",
-        "text": "",
+        "text": "Docteur, je ne sais pas ce que j'ai. J'ai très mal au ventre et il est tout gonflé. Je me sens épuisée. Pourtant je rentre de vacances et jusque là je me sentais en forme. Allongez-vous, je vais prendre votre attention. Bon, tout est normal. Je pense que c'est juste un problème de digestion, peut-être des repas trop lourds. Alors ce n'est pas grave docteur, je peux manger tout ce que je veux ? Il faut faire attention pendant quelques jours. Il va falloir maigrir un peu. Pourquoi la patiente consulte-t-elle le médecin ?",
         "audio": "/mp3/152/23.mp3",
         "options": [
             "Parce qu'elle a toujours très faim.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "152",
-        "text": "",
+        "text": "Près de la moitié des meilleurs longs-métrages canadiens produits cette année proviennent du Québec. La liste a été établie par 10 experts nationaux, parmi lesquels on peut citer la productrice Nicole Robert, seule personne représentant le Québec. Ce choix permet de mettre en vedette un groupe de nouveaux jeunes réalisateurs passionnants. Ils ont fait un travail audacieux. Des projections auront lieu dans de nombreuses salles à travers tout le pays, du 14 au 21 janvier, en présence de certains d'entre eux.",
         "audio": "/mp3/152/24.mp3",
         "options": [
             "D'une collection de haute-couture.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "152",
-        "text": "",
+        "text": "Psychologue, vous animer une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions? J'ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l'image de quelqu'un qui va plus vite que les autres. Pour quelle raison ce psychologue a-t-il interrompu ces consultations?",
         "audio": "/mp3/152/25.mp3",
         "options": [
             "Il a répondu à une demande de ses patients.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "152",
-        "text": "",
+        "text": "Quel rapport aviez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse. Comment se comportait-il avec vous face au monde extérieur ? Devant la famille, les clients, de la gêne. Presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c'était seulement travailler de ses mains. Quelle relation le père entretenait-il avec sa fille ? Sous-titrage ST'501",
         "audio": "/mp3/152/26.mp3",
         "options": [
             "Il avait du mal à accepter ses choix.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "152",
-        "text": "",
+        "text": "Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l'image est-elle plus importante que le texte ? Il y a des albums sans texte qui sont très forts. La Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l'image tout en laissant l'auteur et l'illustrateur s'exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu'ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d'œuvre. Quel est le point de vue de la libraire interrogée ? C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire.",
         "audio": "/mp3/152/27.mp3",
         "options": [
             "La création d'un livre pour enfant de qualité est un travail d'équipe.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "152",
-        "text": "",
+        "text": "Si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça. En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voir que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ?",
         "audio": "/mp3/152/28.mp3",
         "options": [
             "Des besoins énergétiques des jeunes.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "152",
-        "text": "",
+        "text": "Alors Patrick, ce stage d'informatique à la tulipe? Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu ça. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé. Eh bien bravo! Pour prendre le bon air, c'est réussi. Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde. Qu'est-ce que Patrick était le seul à vouloir faire? Merci d'avoir regardé cette vidéo.",
         "audio": "/mp3/152/29.mp3",
         "options": [
             "Jouer aux cartes.",

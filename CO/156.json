@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "156",
-        "text": "",
+        "text": "Je suis en mer depuis les années 80, j'ai commencé le métier marin 15 ans et demi. Vous avez fait la suite de quelqu'un ? Non, j'ai commencé dans les années 80 à la pêche et puis ça a rapporté. Il y avait de l'emploi ici, là c'est le hasard. Mais vous êtes d'ici ? Oui, je suis d'ici, ça aide mais je n'étais vraiment pas attiré par la mer. C'est vrai ? Et pourtant vous avez franchi le pas pour faire pêcheur ? J'avais pas le choix, il fallait bien que je gagne ma vie, j'avais arrêté mes études. Par la pêche, il n'y a pas grand chose comme vous voulez, l'économie c'est pratiquement que la pêche.",
         "audio": "/mp3/156/20.mp3",
         "options": [
             "L'envie de changer de profession.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "156",
-        "text": "",
+        "text": "Vous pratiquez un sport ? Je n'ai plus le temps à cause de mon travail. C'est dommage. Ça permet de garder une bonne hygiène de vie, d'être en forme et de rester en bonne santé. Vous devriez essayer de trouver du temps. D'accord. Je vais y réfléchir. Tenez, voici votre ordonnance. Prenez ces deux médicaments matin et soir pendant huit jours. Que fait la doctoresse ? Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance.",
         "audio": "/mp3/156/21.mp3",
         "options": [
             "Elle conseille une activité physique.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "156",
-        "text": "",
+        "text": "être éco-éducateur c'est être à cheval entre l'éducateur et le pédagogue puisqu'on va sensibiliser le public aux problématiques environnementales mais en même temps expliquer ces problématiques et puis les solutions qui sont actuellement préconisées la plupart du temps on accueille un public d'enfants ou de scolaire ou de centre de loisirs mais en vérité on touche tous les publics puisqu'on est ouvert le week-end néanmoins notre journée ne se cantonne pas à ça on a aussi le montage de tous les projets d'événementiel ou d'animation future qui nécessite de de créer des supports d'élaborer des déroulements pédagogiques ici au clôt des blancs-manteaux notre entrée thématique c'est l'écologie au quotidien les éco-gestes les astuces qu'on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète que propose le site dans lequel cet intervenant travaille",
         "audio": "/mp3/156/22.mp3",
         "options": [
             "Des activités en faveur du développement durable.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "156",
-        "text": "",
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier. Enfin, c'était une espèce de chanson que j'avais finie de recopier dans le bistrot en face de l'impasse Florimont où il habitait. Et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite. Et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « j'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé.",
         "audio": "/mp3/156/23.mp3",
         "options": [
             "Lui apporter un livre.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "156",
-        "text": "",
+        "text": "Isabelle Olivier, en tant que directrice d'une agence de voyage, en quoi votre agence est-elle différente des autres ? Tout d'abord, je travaille toujours avec des gens qui garantissent le respect des partenaires locaux. Ensuite, je cherche à définir les motivations des personnes qui viennent me voir, afin de les orienter vers des formules auxquelles ils n'ont pas forcément pensé. En général, après une discussion avec ces personnes sur la destination souhaitée, ils s'aperçoivent qu'un séjour classique ne coûte pas moins cher qu'un séjour sur mesure. Que propose cette agence de voyage ?",
         "audio": "/mp3/156/24.mp3",
         "options": [
             "Des circuits respectueux de l'environnement.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "156",
-        "text": "",
+        "text": "Qu'est-ce que tu veux faire pour les prochaines vacances? Il faut qu'on s'organise. Ah oui, sinon ce sera difficile de trouver un chalet disponible. J'aimerais bien aller dans les Laurentides. Les Vaillancours y seront tout le mois d'août. Oh non, on y passe tous nos étés depuis dix ans. Pourquoi la femme refuse-t-elle d'aller dans les Laurentides? Qu'est-ce que tu veux faire pour les prochaines vacances? Je veux que les gens puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi?",
         "audio": "/mp3/156/25.mp3",
         "options": [
             "Parce qu'elle craint les grosses chaleurs de l'été.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "156",
-        "text": "",
+        "text": "Montréal est une ville dynamique. Beaucoup de personnes sont attirées par les hautes technologies, le domaine des jeux vidéo, l'aéronautique ou l'industrie textile. Tous ces secteurs recrutent périodiquement. Les jeunes pensent qu'une participation au forum de recrutement, une formation professionnelle et plusieurs stages suffisent à décrocher un contrat. Or, les entreprises cherchent des personnes réellement motivées et passionnées. Un travail de bénévole dans des organisations humanitaires à l'étranger peut faire la différence. Alors il ne faut pas hésiter à mettre ces expériences caritatives sur son CV. Selon cet intervenant, comment est-il possible d'augmenter ses chances d'obtenir un emploi ?",
         "audio": "/mp3/156/26.mp3",
         "options": [
             "En collaborant à des activités de bénévolat.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "156",
-        "text": "",
+        "text": "Monsieur Gosselin, pouvez-vous nous parler des jardins communautaires de Verdun ? Oui, ce sont des jardins mis à la disposition des chômeurs par la ville de Montréal. Donc les chômeurs retrouvent une activité par la même occasion ? Oui, et ils peuvent se nourrir des légumes cultivés. Qu'apprend-on sur les jardins communautaires ? Oui, nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal.",
         "audio": "/mp3/156/27.mp3",
         "options": [
             "Ils appartiennent à des demandeurs d'emploi.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "156",
-        "text": "",
+        "text": "Léonard reçoit une éducation relativement libre, comme l'était celle de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Evidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements.",
         "audio": "/mp3/156/28.mp3",
         "options": [
             "Sa mémoire exceptionnelle.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "156",
-        "text": "",
+        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence TGV avec un retard de 45 minutes. Nous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document à remplir et à retourner à l'adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train à titre de dédommagement. Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée. Assurez-vous de n'avoir rien oublié à vos places. Bonne fin de journée.",
         "audio": "/mp3/156/29.mp3",
         "options": [
             "Ils devront demander le remboursement de leur billet par écrit.",
