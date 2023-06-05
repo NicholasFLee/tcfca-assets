@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "162",
-        "text": "",
+        "text": "Bonjour, je suis un client de l'Hôtel Royal et j'aimerais découvrir Montréal. Le plus simple est de vous inscrire sur une des listes suivantes. Ce sont des itinéraires touristiques dans les différents quartiers. Vous avez le choix entre plusieurs thèmes, comme par exemple histoire, architecture… D'accord. J'écris donc mon nom et mon numéro de téléphone, c'est bien ça? Oui. Vous pouvez aussi nous donner votre courriel. Parfait. Je m'inscris donc au circuit gastronomie. À demain.",
         "audio": "/mp3/162/20.mp3",
         "options": [
             "Acheter un guide.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "162",
-        "text": "",
+        "text": "Bonjour, c'est bien ici le bureau des relations internationales ? Oui, c'est à quel sujet ? Je suis en master. Je voudrais des informations sur les échanges internationaux proposés aux étudiants. Demandez d'abord la liste des universités partenaires au secrétariat de votre département. Ici, nous nous occupons seulement du transfert de votre demande à l'étranger. Revenez quand le dossier sera complet et validé par le directeur de votre département. Vers qui la femme dirige-t-elle l'étudiant ?",
         "audio": "/mp3/162/21.mp3",
         "options": [
             "Le bureau des relations internationales.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "162",
-        "text": "",
+        "text": "Té, café, trois cafés les garçons! Julie, café aussi? Euh non, je préférerais un thé. Nature? Citron, bergamote? Ce que tu veux, avec un peu de lait. Trois cafés et deux thé au lait. Je n'en ai pas pour longtemps. Continuez à jouer, distribuez sans moi. Que font les amis? Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas.",
         "audio": "/mp3/162/22.mp3",
         "options": [
             "Ils dînent au restaurant.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "162",
-        "text": "",
+        "text": "Est-ce que c'est toujours compatible ça d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier les études aussi ? Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs de rigueur, de saines habitudes de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs deux trois fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire donc on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires. Qu'est-ce qui inquiète cette mère de famille ?",
         "audio": "/mp3/162/23.mp3",
         "options": [
             "La fréquence des compétitions sportives.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "162",
-        "text": "",
+        "text": "Bonjour à tous, aujourd'hui nous recevons Philippe Bouchard, sociologue, qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu'est-ce qui provoque ces conflits ? Ils sont de toute nature, de l'habillement à l'argent de poche, en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ? C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie.",
         "audio": "/mp3/162/24.mp3",
         "options": [
             "Elles entrent dans la vie active avant les jeunes garçons.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "162",
-        "text": "",
+        "text": "CDV formation, bonjour. Bonjour. Je suis intéressé par votre formation en vente. Oui ? Quel est votre parcours ? Je suis déménageur depuis 4 ans. Je voudrais me réorienter. Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente. Je vois. Mais j'y pense. J'ai travaillé deux étés comme question en supermarché. C'est suffisant ? Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature. Je m'en occupe. Merci. Au revoir. Au revoir. Pour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ? Sous-titrage ST'501",
         "audio": "/mp3/162/25.mp3",
         "options": [
             "Il a quatre ans d'expérience.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "162",
-        "text": "",
+        "text": "C'était Gérard Pasquier qui avait fait un concours. J'avais gagné ce concours pour aller dans le Michigan faire des tests de prête à porter. Dans une belle ford Mustang, je crapaillutais un peu partout. Je me suis pris un maximum de portes fermées. Puis à un moment, j'ai trouvé quand même que dans la collection, au lieu d'avoir les 5 valises, il y avait 7-8 modèles qui se vendaient. Donc j'ai fait ma petite valise avec les 7-8 modèles. J'ai trouvé les endroits où ça se vendait. C'était les boutiques qui étaient dans les universités. Parce qu'il y a des centres commerciaux dans les universités. Et là, je suis devenu un super-bandeur de Gérard Pasquier dans les universités.",
         "audio": "/mp3/162/26.mp3",
         "options": [
             "Il a créé un partenariat avec une marque de voiture.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "162",
-        "text": "",
+        "text": "Delphine Mansot, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ? On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça, ça prend ? Alors, comment rend-on un étudiant innovant, par exemple ? Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ? Merci d'avoir regardé cette vidéo !",
         "audio": "/mp3/162/27.mp3",
         "options": [
             "En les incitant à travailler de manière collaborative.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "162",
-        "text": "",
+        "text": "Bonjour docteur, je voudrais faire de l'escalade et j'ai besoin de votre autorisation pour m'inscrire dans un club de sport. De l'escalade, mais c'est très mauvais pour votre dos. Je vous conseille plutôt de faire de la natation. La natation ce n'est pas bon pour ma peau. Et puis j'adore la montagne. Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée c'est une idée. Ça peut m'aider à maigrir. Que doit faire le médecin ?",
         "audio": "/mp3/162/28.mp3",
         "options": [
             "Conseiller des médicaments.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "162",
-        "text": "",
+        "text": "Au coup de sifflet, elle commence à se rassembler les femmes de Tienaba avec leurs outils et la ferme intention de barrer la route aux moustiques. Cela s'appelle une séance de nettoyage. El Adjidiop, le président de l'association Sopé Mohamed, a de quoi être satisfait. De 3 459 cas de paludisme à Tienaba, il n'y en a aujourd'hui plus que 52. Les habitants se sont organisés en comité de salubrité chargés de mettre en place les séances de nettoyage mais aussi les séances d'information dans les lieux publics. À force d'être sensibilisés, la population a pris l'habitude d'utiliser les moustiquaires imprégnés, des moustiquaires que certains s'offrent même désormais en cadeau de mariage ou lors d'une naissance. Le véritable succès de cette initiative est que toute la localité s'est mobilisée pour lutter contre le paludisme. C'est-à-dire pour éviter l'élément décisif dans la lutte contre le paludisme dans le village de Tienaba.",
         "audio": "/mp3/162/29.mp3",
         "options": [
             "L'obligation d'acheter des moustiquaires.",

@@ -1,7 +1,8 @@
-[{
+[
+    {
         "id": 20,
         "testId": "155",
-        "text": "",
+        "text": "On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai ? Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin, comment dire… de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22, 23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.",
         "audio": "/mp3/155/20.mp3",
         "options": [
             "Le recrutement se fonde sur l'expérience.",
@@ -14,7 +15,7 @@
     {
         "id": 21,
         "testId": "155",
-        "text": "",
+        "text": "Bonjour monsieur, je viens transférer ma ligne téléphonique. J'emménage demain dans les logements neufs de la rue de l'université. Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendrons son autorisation pour installer le réseau. Dix jours ? Mais comment je fais sans téléphone ? Moi j'en ai besoin pour mon travail. Je suis désolé monsieur, mais vous n'êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux. Pourquoi le client n'obtient-il pas le transfert de sa ligne téléphonique ?",
         "audio": "/mp3/155/21.mp3",
         "options": [
             "Le promoteur a oublié de prévenir la compagnie de téléphone.",
@@ -27,7 +28,7 @@
     {
         "id": 22,
         "testId": "155",
-        "text": "",
+        "text": "être éco-éducateur c'est être à cheval entre l'éducateur et le pédagogue puisqu'on va sensibiliser le public aux problématiques environnementales mais en même temps expliquer ces problématiques et puis les solutions qui sont actuellement préconisées la plupart du temps on accueille un public d'enfants ou de scolaire ou de centre de loisirs mais en vérité on touche tous les publics puisqu'on est ouvert le week-end néanmoins notre journée ne se cantonne pas à ça on a aussi le montage de tous les projets d'événementiel ou d'animation future qui nécessite de de créer des supports d'élaborer des déroulements pédagogiques ici au clôt des blancs-manteaux notre entrée thématique c'est l'écologie au quotidien les éco-gestes les astuces qu'on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète que propose le site dans lequel cet intervenant travaille",
         "audio": "/mp3/155/22.mp3",
         "options": [
             "Des activités en faveur du développement durable.",
@@ -40,7 +41,7 @@
     {
         "id": 23,
         "testId": "155",
-        "text": "",
+        "text": "Bonjour, je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu'il soit ramassé ? Vous n'avez qu'à déneiger devant chez vous et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grand votre arbre ? Regardez, je l'ai mis dans le jardin. Il fait bien trois mètres de haut. Alors, il faut le couper en deux. Et puis aussi enlever tout ce qui est dessus. Qu'est-ce que cette personne cherche à savoir ?",
         "audio": "/mp3/155/23.mp3",
         "options": [
             "Comment protéger ses végétaux.",
@@ -53,7 +54,7 @@
     {
         "id": 24,
         "testId": "155",
-        "text": "",
+        "text": "Bonjour, monsieur. J'ai vu votre annonce. Vous cherchez toujours une vendeuse? Oui. Cela vous intéresse? Vous avez de l'expérience? J'ai été vendeuse 15 ans à Québec, mais mon petit ami a été muté à Montréal, alors j'ai dû démissionner. Vous habitez encore là-bas? Non. Nous sommes chez mes parents en attendant de trouver un logement. Vous parlez anglais? Bien sûr. Bien. Vous pouvez revenir demain pour un essai? Avec plaisir.",
         "audio": "/mp3/155/24.mp3",
         "options": [
             "Pour changer de profession.",
@@ -66,7 +67,7 @@
     {
         "id": 25,
         "testId": "155",
-        "text": "",
+        "text": "Gros plan sur les français qui partent pour réussir. Oui tous ces français que l'on dit nuls en anglais, eh bien ils n'ont plus peur de partir à la conquête du monde. En fait il est toujours un peu difficile de cerner leur motivation profonde entre ceux qui franchissent les frontières pour monter un business, ceux qui cherchent un job, ceux qui s'exilent pour fuir une fiscalité asphyxiante, ou bien ceux qui veulent tout simplement profiter d'une retraite au soleil. Les journalistes évoquent une tendance qui concerne les français. Laquelle ?",
         "audio": "/mp3/155/25.mp3",
         "options": [
             "Ils aiment passer leurs vieux jours dans le sud de la France.",
@@ -79,7 +80,7 @@
     {
         "id": 26,
         "testId": "155",
-        "text": "",
+        "text": "À mes côtés, cette semaine, une philosophe, essaïste et romancière, née à Paris, grande voyageuse passionnée d'Afrique, férue de politique et d'opéra et qui publie ces jours-ci ses mémoires. Si vous aimez la petite et la grande histoire sans vraiment savoir ce que pouvait signifier naître petite fille dans une famille de la bourgeoisie cultivée des années 40, si vous voulez comprendre ce que cela voulait dire à la fin des années 50 d'intégrer la grande fabrique intellectuelle française que sont les grandes écoles, si vous aimez la philosophie, les voyages et la politique, bref, si l'histoire intellectuelle de la seconde moitié du XXe siècle vous passionne, alors vous allez lire comme moi d'une traite le dernier livre de Claire Robert. Selon le journaliste, quel genre d'ouvrage cette philosophe française vient-elle d'écrire ?",
         "audio": "/mp3/155/26.mp3",
         "options": [
             "Un essai historique sur la vie à Paris pendant la Seconde Guerre mondiale.",
@@ -92,7 +93,7 @@
     {
         "id": 27,
         "testId": "155",
-        "text": "",
+        "text": "Salut Géraldine, ça va ? Non, pas trop. Tu sais que je cherchais du travail ? Eh bien, maintenant que je l'ai trouvé, je ne suis pas très contente. Pourquoi ? Tu ne touches pas assez d'argent ? Non ! C'est que deux fois par semaine, je commence à 6 heures du matin et à une heure de chez moi en plus. Oh c'est tôt ! Et comment tu vas faire pour les enfants ? Oh, Gilles va s'en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer. Tu vas dormir les week-ends ? De quoi se plaint Géraldine ?",
         "audio": "/mp3/155/27.mp3",
         "options": [
             "De ses difficultés à se réveiller le matin.",
@@ -105,7 +106,7 @@
     {
         "id": 28,
         "testId": "155",
-        "text": "",
+        "text": "Salut Marie, alors finalement qu'est ce que tu as fait samedi soir ? Ben j'avais pas le moral, j'étais invité chez ma sœur, je n'y suis pas allé. Il y a des amis qui m'ont appelé pour aller danser au dernier moment, j'ai pas eu envie. Tu as fait quoi alors ? Finalement j'ai voulu aller au cinéma, la séance était annulée pour raison technique, alors je suis rentré, je me suis couché. Si j'avais su je serais venu te chercher, on est allé jouer au bowling, on a passé une super soirée. Comment la jeune fille a-t-elle passé sa soirée ?",
         "audio": "/mp3/155/28.mp3",
         "options": [
             "Elle est sortie en boîte de nuit.",
@@ -118,7 +119,7 @@
     {
         "id": 29,
         "testId": "155",
-        "text": "",
+        "text": "Vous avez vu le premier film de Robert Feuillade hier ? Non, ce n'est pas le genre de film que j'aime. Moi, je regarde tous les films. J'adore le cinéma depuis toujours. Sans doute parce que mon père m'emmenait au cinéma alors que j'étais encore au biberon. Je me souviens encore de mon premier western. Dans la petite ville où on habitait, tous les samedis, il y avait le cinéma en plein air gratuit. Moi, ce que je préférais quand j'allais au cinéma avec mon père, c'était la glace à la vanille qu'il m'achetait. Selon cette femme, qu'est-ce qui explique son amour inconditionnel du cinéma ?",
         "audio": "/mp3/155/29.mp3",
         "options": [
             "L'absence de distractions dans le village où elle habitait.",
