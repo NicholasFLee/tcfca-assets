@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "157",
-        "text": "MATCH SÈTE - TOURS Mercredi 12 novembre • Achat des billets aux points de vente habituels : 15 €. • Réduction pour les étudiants et les détenteurs de carte “ Famille nombreuse.” • Vente aux guichets du stade, le soir même : 20 €.",
+        "text": "MATCH SÈTE - TOURS Mercredi 12 novembre • Achat des billets aux points de vente habituels: 15 €. • Réduction pour les étudiants et les détenteurs de carte “ Famille nombreuse.” • Vente aux guichets du stade, le soir même: 20 €.",
         "query": "À quelle condition l’acheteur a-t-il un meilleur prix?",
         "options": [
             "En achetant les billets à l'avance.",
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "157",
-        "text": "En écrivant à la main, chacun trouve son moyen de tracer son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui est celui d'une communication homogène. Avec la numérisation des échanges, on ne connait plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami : un SMS pour qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé un autre si on est en retard. Bienvenu dans un monde sans attente où tous les vides doivent être comblés.",
+        "text": "En écrivant à la main, chacun trouve son moyen de tracer son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui est celui d'une communication homogène. Avec la numérisation des échanges, on ne connait plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami: un SMS pour qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé un autre si on est en retard. Bienvenu dans un monde sans attente où tous les vides doivent être comblés.",
         "query": "Qu’apprend-on sur la communication numérique?",
         "options": [
             "Elle appauvrit le lexique courant.",

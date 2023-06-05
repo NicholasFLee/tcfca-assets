@@ -7,7 +7,9 @@
             "On y dresse un portrait juste de la société.",
             "Son humour fait passer un message sérieux."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Il y a quelque chose de rare dans « Normandie nue »: ce film est résolument léger, tout en ayant du fond. À travers une histoire qui sert de fil conducteur cocasse et insolite - celle d'un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d'humanité, notamment grâce au maire du village qui voit dans la venue du photographe l'occasion de faire valoir sa cause aux yeux de la planète. Parfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+        "query": "Quelle est l’opinion du journaliste sur le film « Normandie nue »?"
     },
     {
         "id": 21,
@@ -18,7 +20,9 @@
             "Réaliser une opération publicitaire.",
             "Vendre des spécialités françaises."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. “Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir”, explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
+        "query": "Quel était l’objectif de Mathieu et Elodie?"
     },
     {
         "id": 22,
@@ -29,7 +33,9 @@
             "Elle masque les problèmes pédagogiques essentiels.",
             "Elle sert sans succès d’argument commercial."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Dans le monde de l'éducation, la mode est au « Ludique ». Pas une description d'un nouveau matériel informatique sans l'utilisation de cet adjectif miraculeux. N'ayant rien de mieux à offrir, les publicitaires insistent sur le côté « ludique » et neutre de leur matériel, sous-entendant ainsi que les difficultés des enfants sont liées uniquement au côté poussiéreux de la présentation d'exercices et à l'ennui qu'ils suscitent. En changeant l'apparence, on suscitera l'intérêt et la réussite sera assurée. La rééducation risque d'être perçue comme la modernisation de la pédagogie sans autre questionnement sur l'échec de la pédagogie traditionnelle.",
+        "query": "Que reproche l’auteur du texte à la mode du ludique?"
     },
     {
         "id": 23,
@@ -40,7 +46,9 @@
             "Entreprendre une rénovation du lieu.",
             "Réhabiliter les logements sociaux existants."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Elle devait être démolie et un nouveau lieu de culte reconstruit à l’arrière de l’église actuelle, le long du boulevard. Le projet, qui prévoyait la restructuration complète de l’îlot avec la création de logements sociaux, ne verra finalement pas le jour. La ville et le diocèse ont pris la décision de conserver l’église Sainte-Madeleine considérant avec certains experts que sa démolition aurait causé la perte regrettable d’un élément important du patrimoine nantais. Des travaux d’urgence vont être réalisés avant le lancement d’un véritable programme de restauration et de mise en valeur du bâtiment.",
+        "query": "Selon cet article, quelle décision a été prise?"
     },
     {
         "id": 24,
@@ -51,7 +59,9 @@
             "Les textes officiels et les règlements sont traduits en langue française.",
             "Très peu de francophones occupent des fonctions à responsabilité."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "La charte des Jeux olympiques est sans ambiguïté: les deux langues officielles du comité international olympique sont le français et l'anglais. Une étude permettant d'identifier la place et le statut de la langue française dans les organisations sportives internationales a été lancée en 2008 : les francophones sont présents dans les instances des fédérations sportives internationales, mais en nombre insuffisant aux postes de décision, les documents officiels étant rarement rédigés en français. Priorité a donc été accordée à l'aide à la traduction des textes et à la mobilisation des francophones dans leur ensemble, afin qu'ils s'entraident à accéder aux postes décisionnels.",
+        "query": "À quel constat a abouti l’enquête sur la place de la francophonie dans le mouvement sportif mondial?"
     },
     {
         "id": 25,
@@ -62,7 +72,9 @@
             "S’ils ont été plantés il y a longtemps.",
             "S’ils se trouvent loin des zones de logement."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Les villes se montrent soucieuses d'améliorer leur qualité de l'air. Une solution: la plantation d'arbres. En effet, les arbres filtrent les particules contenues dans l'atmosphère. Mais la plantation d'arbres doit être réfléchie. Il est pertinent de mettre des arbres le long des axes de circulation pour protéger les habitations des polluants, mais aussi dans les zones piétonnes. Le choix des arbres a aussi son importance. Les espèces d'arbres plantées il y a 50 ans ne répondent pas aux besoins d'aujourd'hui, car elles forment un couvercle retenant au sol la pollution. En revanche, les arbres aux feuilles poilues sont, eux, efficaces.",
+        "query": "À quelle condition les arbres peuvent-ils aider à combattre la pollution urbaine?"
     },
     {
         "id": 26,
@@ -73,7 +85,9 @@
             "Généraliser l’agriculture biologique.",
             "Lutter contre la démographie galopante."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Les bénéfices du bio pour la santé et pour l'environnement sont aujourd'hui prouvés. Mais pour ses détracteurs, ce type de production ne serait pas viable, faute de rendements suffisants pour subvenir aux besoins d'une planète à la démographie galopante. Une idée répandue que réfutent des chercheurs européens qui affirment qu'il est possible de nourrir plus de 9 milliards d'êtres humains en 2050 avec 100% d'agriculture biologique, à deux conditions: réduire le gaspillage alimentaire et limiter la consommation de produits d'origine animale. Un défi de taille, alors que le bio ne représente que 1% de la surface agricole utile dans le monde.",
+        "query": "De quel défi est-il question?"
     },
     {
         "id": 27,
@@ -84,7 +98,9 @@
             "Limiter les dépenses de la ville.",
             "Respecter les normes internationales."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Paris veut réduire de 30% l'exposition aux ondes des antennes-relais pour devenir la métropole la plus protectrice d'Europe. Maîtriser l'exposition des Parisiens aux ondes, tout en continuant à faire de Paris une capitale numérique, c'est le double objectif de la nouvelle charte de téléphonie mobile que la maire soumettra fin mars au Conseil de Paris. Il s'agit de trouver un équilibre entre préoccupations de santé publique et bonne qualité du service de téléphonie mobile.",
+        "query": "Quel est l’objectif de la ville de Paris?"
     },
     {
         "id": 28,
@@ -95,7 +111,9 @@
             "L’amélioration des comportements sanitaires.",
             "Le développement d’une conscience civique."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Les conséquences de l'analphabétisme sont profondes, au point qu'elles peuvent mettre la vie en danger. Elles s'enracinent dans le refus d'un droit humain fondamental: le droit à l'éducation. A l'échelle de la société, dénier le droit à l'éducation s'est hypothéqué le progrès démocratique et social - et par conséquent, la paix et la sécurité internationales. En empêchant les enfants de se développer pleinement, l'analphabétisme sème d'embûches leur chemin vers l'âge adulte et rend encore plus difficile leur compréhension du monde dans sa diversité aussi bien que des valeurs de paix et d'égalité entre les personnes. L'analphabétisme prive également l'individu d'autres joies, comme celles de la culture et de l'art en général.",
+        "query": "Selon ce texte, que favorise le respect du droit à l’éducation?"
     },
     {
         "id": 29,
@@ -106,7 +124,9 @@
             "Les oiseaux prédateurs.",
             "Les politiques publiques."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Plus de 40% des espèces d'insectes sont en déclin et un tiers sont menacés. Leur taux de mortalité est huit fois plus rapide que celui des mammifères. A ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle. Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l'humanité ». « Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s'engagera sur la voie de l'extinction dans quelques décennies », écrivent les chercheurs.",
+        "query": "D’après l’article, qu’est-ce qui est à l’origine de la disparition des insectes?"
     },
     {
         "id": 30,
@@ -117,7 +137,9 @@
             "Le développement du commerce équitable.",
             "Le partage d’expériences traditionnelles."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Deux mondes s'affrontent: ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire : l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.",
+        "query": "Que défend le journaliste?"
     },
     {
         "id": 31,
@@ -128,7 +150,9 @@
             "De solliciter davantage la raison.",
             "De trouver des réponses rapides."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "“Il faut te le dire en quelle langue?” Cette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l’idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
+        "query": "Que permet l’utilisation d’une langue autre que la langue maternelle?"
     },
     {
         "id": 32,
@@ -139,7 +163,9 @@
             "Réaliser une œuvre à plusieurs mains.",
             "Sensibiliser à l’égalité des sexes."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Depuis un an, l'association du théâtre de la poudrerie. Située à vivre à Sevran, à quelques kilomètres de Paris, organise des représentations gratuites à domicile d'une pièce inédite. Pour cela, l'association a convié une auteure professionnelle à venir en résidence pour l'écrire. Elle a recueilli le témoignage d'une trentaine d'habitantes sur le thème du pouvoir féminin, puis écrit son texte à partir de cette matière première. L'enjeu pour cette association est que les spectateurs s'approprient la pièce: quand il y a un phénomène d'identification, la parole se libère lors de la rencontre qui suit la représentation. Ce phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
+        "query": "Quel objectf poursuit cette association avec ce projet?"
     },
     {
         "id": 33,
@@ -150,7 +176,9 @@
             "Il est officiellement reconnu comme une maladie.",
             "Ses effets touchent plus particulièrement les seniors."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Le stress est l'ennemi numéro 1 du bien-être. Quand il prend le dessus, on perd sa motivation et on manque continuellement d'énergie. Les médecins sont formels: le stress est souvent à l'origine de dysfonctionnements physiques. C'est aussi une cause directe du vieillissement prématuré. Une personne stressée se replie sur elle-même et renonce progressivement à profiter de certaines de ses capacités mentales. Voici comment canaliser ce stress pour le transformer en énergie positive: apprendre à bien respirer, ne plus gaspiller ses forces à réfléchir aux actions de passé, changer les mauvaises habitudes et finalement savoir se ménager au quotidien.",
+        "query": "Qu’apprend-on sur le stress dans cet article?"
     },
     {
         "id": 34,
@@ -161,7 +189,9 @@
             "Multiplier le nombre de souscripteurs par internet.",
             "Permettre de voyager extramuros à moindres frais."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "Souvent critiquée pour la qualité de son service, la société berlinoise des transports en commun a fait parler d'elle, en proposant 500 paires de « chaussures-billets » aux couleurs des banquettes du métro berlinois. Vendus 180 euros, ces baskets incluent un abonnement annuel métro - bus - tram (hors trains de banlieue), contre 761 euros pour un forfait classique. Les consommateurs séduits par ce concept commercial qui permet de voyager presque gratuitement sur une partie du réseau ont formé une longue file d'attente. Certains ont même tenté de revendre en ligne leur paire « collecter », à un tarif de base quintuplé.",
+        "query": "Quel est l’objectif de la société berlinoise des transports?"
     },
     {
         "id": 35,
@@ -172,7 +202,9 @@
             "Ils sont nuisibles pour l’environnement.",
             "Ils sont vendus à des prix élevés."
         ],
-        "answer": 0
+        "answer": 0,
+        "text": "« Un produit qui ne s'userait pas serait une tragédie pour les affaires », lisait-on dans une ancienne revue américaine. Des années plus tard, le concept d'obsolescence programmée n'a pas pris une ride! Il s'agit pour les fabricants de réduire volontairement la durée de vie ou d'emploi d'un produit afin d'en augmenter le taux de remplacement. Ici se cache le cœur de la course à la consommation. Le bilan écologique est également sans appel: les matières que contiennent nos appareils finissent en grande partie en déchets incinérés ou enfouis. L'exemple du téléphone portable en dit long: dans un rapport, une sénatrice ne souligne que « la conception des téléphones est délibérément défavorable au réemploi et au recyclage ».",
+        "query": "Que constate ce journaliste à propos des articles proposés par les fabricants?"
     },
     {
         "id": 36,
@@ -183,7 +215,9 @@
             "Protéger les enfants des ondes.",
             "Restreindre l’impact des écrans."
         ],
-        "answer": 3
+        "answer": 3,
+        "text": "Le Sénat a adopté une proposition de loi visant à lutter contre l'exposition précoce des enfants aux écrans. Elle prévoit qu'un message avertissant des dangers des écrans chez les enfants de moins de 3 ans devra apparaître sur les emballages des outils et jeux numériques. Cette initiative salutaire n'a rien d'un gadget : de nombreux psychologues et pédopsychiatres ne considèrent que l'exposition aux écrans avant 3 ans peut être nocive pour un cerveau en construction, notamment parce qu'elle parasite l'interaction avec autrui. Verra-t-on bientôt un autocollant « à utiliser avec modération »? Sur les consoles de jeu et les tablettes?",
+        "query": "D’après cet article, quel est l’objectif de cette loi?"
     },
     {
         "id": 37,
@@ -194,7 +228,9 @@
             "Je découvrais inopinément un spectacle effrayant et inquiétant.",
             "J’éprouvais un sentiment de crainte face à ces troupeaux d’animaux sauvages."
         ],
-        "answer": 1
+        "answer": 1,
+        "text": "Maintenant elles étaient là. Non plus en éveil, en méfiance, et rassemblées sous l'influence de la crainte par troupes, hardes, files et bandes, selon la race, la tribu, la famille, mais confondues et mêlées au sein d'une sécurité ineffable dans la trêve du l'eau, en paix avec la brousse, elles-mêmes et l'aurore. A la distance où je me trouvais, il n'était pas possible de distinguer l'inflexion des mouvements, ou l'harmonie des couleurs, mais cette distance ne m'empêchait pas de voir que les bêtes se comptaient par centaines et centaines, que toutes les espèces voisinaient, et que cet instant de leur vie ne connaissait pas la peur ou la hâte. Gazelles, antilopes, girafes, gnous, zèbres, rhinocéros, buffles, éléphants - les animaux s'arrêtaient ou se déplaçaient au pas du loisir au gré de la soif, au goût du hasard.",
+        "query": "Quelle phrase résume exactement cet extrait de roman?"
     },
     {
         "id": 38,
@@ -205,7 +241,9 @@
             "Les employés sont attachés à l’origine des aliments.",
             "Les salariés ont tendance à la prendre à l’extérieur."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "Les études le montrent: loin de disparaître, la pause-déjeuner reste un moment sacré pour une très grande majorité du personnel. Et pas seulement pour se restaurer et recharger ses batteries. Cette coupure rituelle est aussi l'occasion de partager un moment avec ses collègues, d'échanger, de nouer des liens de convivialité. Immuable, la pause-déjeuner connait pourtant depuis quelques années d'importantes mutations. La crise économique a évidemment eu ses effets, en pesant sur le budget du consommateur. Mais les bouleversements vont au-delà de ces aspects purement financiers et s'étendent au domaine alimentaire. Autrefois prépondérant, le souci de quantité a laissé la place à la sélection, gage selon les consommateurs de plus de qualité. Dans les restaurants d'entreprises, les salariés vont privilégier une offre moins large, mais mieux choisie.",
+        "query": "Qu’apprend-on sur la pause-déjeuner au travail?"
     },
     {
         "id": 39,
@@ -216,6 +254,8 @@
             "Il s’enrichit des connaissances théoriques.",
             "Il semble réservé aux esprits imaginatifs."
         ],
-        "answer": 2
+        "answer": 2,
+        "text": "La créativité instinctive, qui serait naturelle, est souvent opposée à la créativité plus rationalisée, cérébrale éduquée, notamment en musique. Les musiciens ont tendance à surestimer la première, avec l'idée que moins on en sait, mieux c'est. Comme si la connaissance risquait de mettre des œillères et d'enfermer la créativité dans un cadre, à la manière d'un adulte qui s'autoriserait moins à imaginer des choses fantaisistes qu'un enfant. Ce n'est pas impossible, mais la créativité est la capacité du cerveau à faire des associations mentales originales et cohérentes. Une éducation musicale, associée à l'intelligence, peut faciliter ces associations puisqu'elle nourrit le cerveau d'expériences, notamment esthétiques pour les artistes, et d'idées que l'on peut ensuite lier.",
+        "query": "Que souligne ce journaliste à propos du processus de création musicale?"
     }
 ]

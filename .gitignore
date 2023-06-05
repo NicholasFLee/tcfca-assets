@@ -1,7 +1,8 @@
-extractscript.js
 trim.js
 extract
 node_modules
 package-lock.json
 package.json
 .vscode
+__pycache__
+transcrire.py
