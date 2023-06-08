@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "167",
+        "options": [
+            "Il cite un extrait d’une œuvre de Modiano.",
+            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il présente le métier de Modiano à ses débuts.",
+            "Il raconte la rencontre entre Modiano et sa femme."
+        ],
+        "answer": 1,
+        "text": "Dora Bruder, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir: « On recherche une jeune fille, Dora Bruder, 15 ans, 1m55, visage ovale, yeux gris marron, manteau sport gris. Adresse toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris. » Modiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18e arrondissement.",
+        "query": "Que fait le journaliste dans cet extrait?"
+    },
+    {
+        "id": 21,
+        "testId": "167",
+        "options": [
+            "La priorité donnée à l’aspect écologique.",
+            "La prise en compte de l’opinion publique.",
+            "Le caractère provisoire de l’installation.",
+            "Le choix des matériaux de fabrication."
+        ],
+        "answer": 1,
+        "text": "Les bons vieux banc verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la ville de Paris recueille l’avis des usagers et des riverains. Le traditionnel banc en fonte et bois a-t-il encore de l’avenir au milieu de ce mobilier futuriste?",
+        "query": "Quelle est l’originalité de ce projet?"
+    },
+    {
+        "id": 22,
+        "testId": "167",
+        "options": [
+            "Ils éloignent les jeunes du monde des adultes.",
+            "Ils entraînent des comportements de type addictif.",
+            "Ils ont tendance à couper les adolescents du réel.",
+            "Ils peuvent être utilisés comme outils de contrôle."
+        ],
+        "answer": 3,
+        "text": "Le smartphone participe à l’entretien d’un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d’adolescence confronte les parents au désir d’autonomie de l’adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu’ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
+        "query": "Quel constat fait l’auteur à propos des smartphones?"
+    },
+    {
+        "id": 23,
+        "testId": "167",
+        "options": [
+            "D’élargir leurs perspectives professionnelles.",
+            "D’évaluer les possibilités d’évolution de leur carrière.",
+            "De faire un bilan de leurs aptitudes.",
+            "De privilégier leur épanouissement personnel."
+        ],
+        "answer": 2,
+        "text": "Changer de métier: évitez les aléas! Changer de métier ne doit pas être une décision prise à la légère. Il est Important de prendre le temps de déterminer avec précision les raisons qui vous poussent à vouloir faire ce choix. Il est essentiel de bien s'orienter pour la recherche d'un nouveau travail, surtout si vous êtes dans le flou par rapport à vos envies. Faire le point sur vos compétences vous permettra de déterminer vers quels secteurs vous pouvez-vous diriger. Avoir conscience de vos compétences sera également un plus au moment de vous vendre à un employeur potentiel.",
+        "query": "Que conseille cet article à ceux qui désirent changer de métier?"
+    },
+    {
+        "id": 24,
+        "testId": "167",
+        "options": [
+            "Ils élaborent de nouvelles techniques.",
+            "Ils emploient des procédés traditionnels.",
+            "Ils intègrent l’ancien à leurs constructions.",
+            "Ils restaurent à l’identique de vieux édifices."
+        ],
+        "answer": 2,
+        "text": "Une usine textile transformée en musée, un moulin converti en chambres d'hôtes, une gare devenue centrale de production d'énergie. Certains architectes ne manquent pas d'imagination. Et il leur en faut, car leur objectif n'est pas simplement de rénover des bâtiments usés par le temps, mais d'imaginer de nouveaux projets à partir de ce qui reste et qui est volontairement laissé en l'état. À leurs yeux, c'est une façon de conserver l'histoire et de garder des traces de bâtiments qui étaient destinés à disparaître.",
+        "query": "En quoi le travail de ces architectes est-il original?"
+    },
+    {
+        "id": 25,
+        "testId": "167",
+        "options": [
+            "Les courses représentent pour les ménages un budget en augmentation.",
+            "Les grandes surfaces provoquent la fin des petites boutiques de quartier.",
+            "Les prix pratiqués par la grande distribution défient toute concurrence.",
+            "Les relations de voisinage deviennent anonymes et dénuées de politesse."
+        ],
+        "answer": 3,
+        "text": "LES HYPERMARCHÉS ONT 50 ANS. Souvenir d'un internaute. L'ébahissement, tout d'abord en découvrant ces magasins géants, ensuite la sensation d'être sans points de repère, la tendance à acheter à tort et à travers. Et l'euphorie, en analysant à la maison le résultat des emplettes, convaincu d'avoir gagné le gros lot, avant de regarder la facture... Le lendemain, on fait ses emplettes chez les commerçants habituels, où, bien sûr, on est accueilli avec des « Bonjour, M. X. comment va le fiston? », ou « Dites donc, une superbe bavette, ça vous tente? ». Aujourd'hui, ni bonjour, ni merci, on vous passe devant à la caisse, on achète des produits sans savoir ce qu'ils contiennent... Et quand on ressort dans la rue, on remarque: « T'as vu, le boucher a fermé. »",
+        "query": "Quel est le constat de l’auteur?"
+    },
+    {
+        "id": 26,
+        "testId": "167",
+        "options": [
+            "De l’éducation des plus jeunes.",
+            "De la transmission d’un savoir-faire.",
+            "De la volonté d’émancipation.",
+            "Du rapport entre les générations."
+        ],
+        "answer": 2,
+        "text": "FILM DOCUMENTAIRE « TISSEUSES DE RÊVES ». Mères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels. Dans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent. Elles veulent farouchement s'arracher à leur condition et offrir études et avenir à leurs enfants. D'Essaouira sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à elles, qui ont créé des coopératives de production d'huile d'Argan et changé leurs vies. Taaborth et Erkia partent en exploratrices et éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.",
+        "query": "De quoi traite le documentaire sur les femmes berbères?"
+    },
+    {
+        "id": 27,
+        "testId": "167",
+        "options": [
+            "Il déconseille au grand public de les adopter.",
+            "Il estime qu’elles sont insuffisamment promues.",
+            "Il remet en question leurs retombées positives.",
+            "Il révèle qu’elles contribuent au déclin industriel."
+        ],
+        "answer": 2,
+        "text": "Selon plusieurs scientifiques, les nouvelles solutions « écologiques », comme la voiture électrique, tendent en fait à accroître l'activité économique et ne pourront pas préserver notre modèle de développement. Au-delà du double écueil de la fabrication des voitures électriques qui est énergivore et génère beaucoup de déchets, le problème des technologies dites « vertes » est principalement dû à l'effet rebond, c'est-à-dire l'augmentation de l'activité globale qu'entraîne toute découverte ou amélioration technologique. Ainsi, une véritable approche écologique devrait obligatoirement comporter une part de sobriété, grâce à laquelle le progrès technique servirait une réduction de la consommation.",
+        "query": "Que pense l’auteur des nouvelles solutions écologiques?"
+    },
+    {
+        "id": 28,
+        "testId": "167",
+        "options": [
+            "La constitution d’une culture nationale.",
+            "La stimulation de la croissance économique.",
+            "L’amélioration des comportements sanitaires.",
+            "Le développement d’une conscience civique."
+        ],
+        "answer": 3,
+        "text": "Les conséquences de l'analphabétisme sont profondes, au point qu'elles peuvent mettre la vie en danger. Elles s'enracinent dans le refus d'un droit humain fondamental: le droit à l'éducation. A l'échelle de la société, dénier le droit à l'éducation s'est hypothéqué le progrès démocratique et social - et par conséquent, la paix et la sécurité internationales. En empêchant les enfants de se développer pleinement, l'analphabétisme sème d'embûches leur chemin vers l'âge adulte et rend encore plus difficile leur compréhension du monde dans sa diversité aussi bien que des valeurs de paix et d'égalité entre les personnes. L'analphabétisme prive également l'individu d'autres joies, comme celles de la culture et de l'art en général.",
+        "query": "Selon ce texte, que favorise le respect du droit à l’éducation?"
+    },
+    {
+        "id": 29,
+        "testId": "167",
+        "options": [
+            "Faire évoluer les mentalités au sujet du handicap au travail.",
+            "Permettre de modifier la législation sur le handicap au travail.",
+            "Recenser les discriminations dont sont victimes les handicapés.",
+            "Subventionner les entreprises qui recrutent des handicapés."
+        ],
+        "answer": 0,
+        "text": "L'association «Savoir-faire et expérience » a huit ans. Sa philosophie: une personne handicapée n'est pas forcément une personne en fauteuil roulant. Et, de la même manière qu'il y a de nombreuses formes de handicap, il existe une multitude de métiers et de postes qui peuvent leur correspondre. C'est pourquoi cette association souhaite modifier la vision commune du handicap et encourager les entreprises à s'engager dans cette voie. C'est dans ce but qu'elle œuvre pour l'ouverture la plus large possible des dispositifs de formation professionnelle aux handicapés. Pour qu'enfin, on regarde le savoir-faire et l'expérience avant le handicap.",
+        "query": "Quelle est la mission de l’association Savoir-faire et expérience?"
+    },
+    {
+        "id": 30,
+        "testId": "167",
+        "options": [
+            "Ce sont les violons récents qui sont les plus estimés.",
+            "Il est difficile de maîtriser les violons anciens.",
+            "La qualité des violons évolue avec le temps.",
+            "Voir le violon modifier l’appréciation de l’auditeur."
+        ],
+        "answer": 0,
+        "text": "Depuis plus de deux siècles, les violons fabriqués par le célèbre artisan Antonio Stradivari sont réputés pour la supériorité de leur sonorité. Des spécialistes ont voulu le vérifier par une petite expérience. Ils ont demandé à des participants de fermer les yeux et d'écouter des musiciens jouer sur des violons, trois étaient modernes et trois avaient été fabriqués par Stradivari. Que les participants aient ou non une expérience dans le domaine musical, tous ont préféré la sonorité des premiers.",
+        "query": "À quelle conclusion aboutit cette expérience?"
+    },
+    {
+        "id": 31,
+        "testId": "167",
+        "options": [
+            "La multiplication des nuisances sonores sur la commune.",
+            "L’accroissement du taux de chômage de ses administrés.",
+            "L’agrandissement de l’espace consacré aux spectacles",
+            "L’augmentation du prix des entrées pour les spectateurs."
+        ],
+        "answer": 1,
+        "text": "Les organisateurs du festival Rock Werchter envisagent de le déplacer dans la région de Limbourg. Cette perspective inquiète le maire de la ville de Rotselaar, où le festival se tient depuis 1975. « La question d'un déménagement pèse sur la plaine du festival, comme un nuage sombre, a affirmé le maire. Toutes les personnes impliquées dans le festival s'interrogent sur leur avenir. C'est très ennuyeux pour les professionnels du spectacle de la région qui s'investissent depuis des années et qui risquent d'être renvoyés. J'espère que la clarté sera faite rapidement. Moi-même, je ne vois pas pourquoi le festival devrait déménager, cela se passe très bien ici. Il est même prévu de réviser le plan d'aménagement du territoire pour permettre d'accueillir plus de podiums et plus de monde. »",
+        "query": "Qu’est-ce qui inquiète le maire dans le projet d’évolution du festival?"
+    },
+    {
+        "id": 32,
+        "testId": "167",
+        "options": [
+            "Ils apprennent à être patients.",
+            "Ils évoluent selon l’ancienneté.",
+            "Ils saisissent toutes les occasions.",
+            "Ils tâchent de conserver leur emploi."
+        ],
+        "answer": 2,
+        "text": "Désormais c'est soi, son plaisir et les relations avec son environnement qui comptent. Tel est le nouveau schéma de pensée des jeunes vis-à-vis de la société et de l'entreprise en particulier. Un jeune a appris à d'abord miser sur lui. Ce n'est qu'en accumulant des compétences et des expériences qu'il pense pouvoir tirer son épingle du jeu. L'entreprise peut espérer le séduire en lui proposant un vrai métier et une stratégie d'accroissement de ses compétences, mais il sera de toute façon difficile de compter sur ca fidélité: le jour où vous ne lui proposez plus d'évoluer rapidement, il n'hésitera pas à vérifier si l'herbe n'est pas plus verte chez le voisin. Il a l'image de l'entreprise qui dans un contexte économique difficile ne s'engage plus envers le salarié. Il s'approprie cette logique de rentabilité et d'efficacité en la retournant à son avantage. Désormais il ne compte plus sur une entreprise pour mener sa carrière. Son obiectif sera de développer ses compétences en multipliant ses expériences afin de se valoriser sur le marché de travail. Profitant de toutes les opportunités, il quittera une entreprise sans aucun remords.",
+        "query": "Quel est le comportement des jeunes dans le monde de l’entreprise?"
+    },
+    {
+        "id": 33,
+        "testId": "167",
+        "options": [
+            "Des méthodes innovantes sur l’usage des TIC.",
+            "Des pistes de recherche sur l’apprentissage.",
+            "Un état des lieux des ressources pédagogiques.",
+            "Une analyse du contexte socio-éducatif actuel."
+        ],
+        "answer": 3,
+        "text": "L’apprentissage en Europe. À l’heure actuelle, l’utilisation des nouvelles technologies de l’information et de la communication(TIC) dans les salles de classe est rare. Les établissements travaillent encore selon un modèle ancien de l’éducation. Cela signifie que les établissements n’ont pas pu se détacher d’une structure trop rigide. Ils fondent leurs ressources d’enseignement sur des manuels, ont peu recours aux connaissances mises à leur portée. Grâce à la mondialisation et travaillent au sein d’espaces d’apprentissage très spécifiques. Les établissements appliquent toujours une philosophie plus caractéristique de XIXe siècle que du XXIe siècle. L’enseignement se caractérise actuellement par des établissement du XIXe siècle dans lesquels des enseignants du XXe siècle travaillent auprès d’étudiants du XXIe siècle.",
+        "query": "Que présente l’auteur de l’article?"
+    },
+    {
+        "id": 34,
+        "testId": "167",
+        "options": [
+            "Sa structure est identique chez l’homme et l’animal.",
+            "Sa taille influe sur les compétences cognitives.",
+            "Son développement est ralenti les premiers mois.",
+            "Son fonctionnement est encore mystérieux."
+        ],
+        "answer": 3,
+        "text": "De plus en plus de scientifiques s'intéressent au fonctionnement du cerveau des tout-petits. En effet, comprendre le développement normal du cerveau permettra d'aider les bébés touchés par des troubles. Au-delà, l'ambition est de découvrir les racines de l'intelligence humaine: pourquoi l'homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l'espace. Pendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale. Une idée finalement battue en brèche: le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux. Et pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n'importe quel animal ou même que les adultes.",
+        "query": "Qu’apprend-on sur le cerveau humain?"
+    },
+    {
+        "id": 35,
+        "testId": "167",
+        "options": [
+            "Aborder des œuvres réputées difficiles avec leurs élèves.",
+            "Encourager leurs élèves à écrire des textes littéraires.",
+            "Inviter régulièrement des écrivains célèbres dans leur classe.",
+            "Monter des pièces de théâtre d’auteurs classiques."
+        ],
+        "answer": 0,
+        "text": "Je suis persuadée que tous les enfants possèdent en eux la volonté de mettre en route leur imaginaire qui les pousse naturellement vers la littérature. Mais si elle n'est pas stimulée, cette force peut s'éteindre. C'est la mission de l'école que de sensibiliser les élèves aux grands textes classiques. Malheureusement, elle y'a renoncé. Trop souvent, les enseignants ont tendance à penser qu'ils sont réservés à l'élite. Alors qu'au contraire, l'école devrait donner un accès à la haute culture aux élèves qui arrivent avec un bagage moins fourni que les autres.",
+        "query": "Selon l’auteur de ce texte, quelle ambition devraient avoir les enseignants?"
+    },
+    {
+        "id": 36,
+        "testId": "167",
+        "options": [
+            "Elle a été adaptée pour la télévision.",
+            "Elle s’inspire de la vie des jeunes.",
+            "La clé de l’énigme sera éditée plus tard.",
+            "L’auteur a imaginé différents scenarios."
+        ],
+        "answer": 3,
+        "text": "Côté (BD) - Adaptée d'un polar de Pierre Siniac, la bande dessinée « Le secret de l'étrangleur » de Jacques Tardi est un succès : sa version en feuilleton, cet été, sous la forme de cinq journaux, tirés à 50,000 exemplaires chacun, avait intrigué les premiers lecteurs, âgés de 15 à 35 ans. L'album, déjà vendu à 130,000 exemplaires, est remarquable par son originalité. En effet, il faut découper les dernières pages du livre pour en connaître la fin sachant que plusieurs dénouements sont possibles.",
+        "query": "Quelle est la particularité de cette BD?"
+    },
+    {
+        "id": 37,
+        "testId": "167",
+        "options": [
+            "Le coût social élevé de prise en charge des maladies génétiques.",
+            "Le développement de traitements curatifs de pathologies génétiques.",
+            "Le mode de financement de la recherche génétique fondamentale.",
+            "Les dérives induites par l’amélioration du patrimoine génétique."
+        ],
+        "answer": 3,
+        "text": "La bioéthique fait l’objet d’une polémique qui confronte deux écoles. Pour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité. La recherche entraîner l’éradication des maladie génétiques et permettre même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorer l’espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastique, affirme ses craintes en ce qui concerne la pratique d’un eugénisme scientifique: il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques. Pour eux, il est impossible de déterminer les tares inconciliables avec humain, puisque certains individus en ont fait l’origine même de leur génie.",
+        "query": "Sur quoi portent les réserves des partisans de la seconde école?"
+    },
+    {
+        "id": 38,
+        "testId": "167",
+        "options": [
+            "L’alternance entre le comique et le drame.",
+            "L’atmosphère énigmatique et inquiétante.",
+            "La présentation de particularités régionales.",
+            "L’émancipation des héros au cours du récit."
+        ],
+        "answer": 3,
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre: rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "query": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig?"
+    },
+    {
+        "id": 39,
+        "testId": "167",
+        "options": [
+            "Ils permettraient à des adolescents de renouer avec elle.",
+            "Ils pourraient servir à enseigner certaines disciplines.",
+            "Ils résoudraient des problèmes de violence en classe.",
+            "Ils seraient appropriés pour se détendre lors des pauses."
+        ],
+        "answer": 0,
+        "text": "Les jeux vidéo sont souvent la hantise des parents craignant qu'ils éloignent leurs enfants de la vie réelle et notamment de la scolarité. À contre-courant, une expérience qui vise à utiliser ces jeux pour ramener à l'école les « décrocheurs scolaires » vient de commencer à Bordeaux. Le choix des jeux vidéo est une idée intéressante, parce qu'elle inscrit l'école dans l'univers de jeunes qui ont souvent l'impression que cette dernière se situe sur une planète à laquelle ils n'ont pas accès. Pour autant, en matière de décrochage scolaire, il n'y a pas de gadget miracle: un outil n'est efficace que s'il s'inscrit dans le cadre d'une prise en charge des causes profondes du décrochage de chaque élève.",
+        "query": "Qu’exprime l’auteur de cet article à propos des jeux vidéo à l’école?"
+    }
+]
