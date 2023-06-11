@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "153",
-        "text": "Elle a 27 ans et a trouvé sa vocation: restauratrice de meubles. Stéphanie reçoit, à ce titre, le prix du jeune artisan d’art: “La dotation va me permettre d’ouvrir mon atelier. J’ai déjà trouvé le lieu, dans un village entre Narbonne et Carcassonne.” Son compagnon y a créé une menuserie. Stéphanie a déjà touché à tout, au fil de sa formation, dont un BTS en alternance, obtenu dans son Auvergne natale. Nos voeux de réussite!",
+        "text": "Elle a 27 ans et a trouvé sa vocation: restauratrice de meubles. Stéphanie reçoit, à ce titre, le prix du jeune artisan d’art: «La dotation va me permettre d’ouvrir mon atelier. J’ai déjà trouvé le lieu, dans un village entre Narbonne et Carcassonne.» Son compagnon y a créé une menuserie. Stéphanie a déjà touché à tout, au fil de sa formation, dont un BTS en alternance, obtenu dans son Auvergne natale. Nos voeux de réussite!",
         "query": "Quel projet cette personne vt-elle réaliser?",
         "options": [
             "Démarrer une activité professionnelle",
@@ -14,7 +14,7 @@
     {
         "id": 21,
         "testId": "153",
-        "text": "Le rire pour soulager les enfants à l’hôpital. Les “docteurs rêves” apportent joie et mieux-être aux enfants hospitalisés. Pour que le petit malade puisse oublier un peu ses souffrances et retrouver le sourire, de gentils “docteurs” viennent à sa rencontre. Ils visitent les jeunes enfants, vêtus d’une blouse blanche, stéthoscope autour du cou, comme de vrais médecins. On les appelle les “docteurs rêves”. C’est en artistes professionnels spécialement formés qu’ils interviennent dans les hôpitaux pédiatriques tout en travaillant en synergie avec l’équipe médicale. Les enfants s’échappent un instant, grâce à eux, du monde hospitalier.",
+        "text": "Le rire pour soulager les enfants à l’hôpital. Les «docteurs rêves» apportent joie et mieux-être aux enfants hospitalisés. Pour que le petit malade puisse oublier un peu ses souffrances et retrouver le sourire, de gentils «docteurs» viennent à sa rencontre. Ils visitent les jeunes enfants, vêtus d’une blouse blanche, stéthoscope autour du cou, comme de vrais médecins. On les appelle les «docteurs rêves». C’est en artistes professionnels spécialement formés qu’ils interviennent dans les hôpitaux pédiatriques tout en travaillant en synergie avec l’équipe médicale. Les enfants s’échappent un instant, grâce à eux, du monde hospitalier.",
         "query": "Quelle est la fonction des « docteurs rêves »?",
         "options": [
             "Mettre en place une autre thérapie",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "153",
-        "text": "La ville chinoise de Chongqing vient d’inaugurer des voies réservées aux “accros” du portable sur les trottoirs. Les piétons sont en effet nombreux à ne prêter aucune attention leur entourage, au risque de provoquer des accidents. Un parcours délimité par des lignes blanches peintes au sol invite ceux qui ne quittent pas des yeux leur écran à les emprunter. L’idée de ce marquage n’est pas d’encourager l’usage des portables mais d’inciter chacun à réfléchir à la place qu’il leur donne dans son quotidien et à faire attention aux autres.",
+        "text": "La ville chinoise de Chongqing vient d’inaugurer des voies réservées aux «accros» du portable sur les trottoirs. Les piétons sont en effet nombreux à ne prêter aucune attention leur entourage, au risque de provoquer des accidents. Un parcours délimité par des lignes blanches peintes au sol invite ceux qui ne quittent pas des yeux leur écran à les emprunter. L’idée de ce marquage n’est pas d’encourager l’usage des portables mais d’inciter chacun à réfléchir à la place qu’il leur donne dans son quotidien et à faire attention aux autres.",
         "query": "Quel est l’objectif de cette initiative concernant les portables?",
         "options": [
             "Faciliter leur utilisation dans l’ensemble de la commune",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "153",
-        "text": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique. “Il est temps que la planète franchisse une nouvelle étape dans la protection des océans” a déclaré le ministre australien de l’environement. La création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d’euros en contrepartie. La fondation australienne pour la protection de l’environement a qualifié cette annonce d’historique mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+        "text": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique. «Il est temps que la planète franchisse une nouvelle étape dans la protection des océans» a déclaré le ministre australien de l’environement. La création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d’euros en contrepartie. La fondation australienne pour la protection de l’environement a qualifié cette annonce d’historique mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
         "query": "Que projette le gouvernement australien?",
         "options": [
             "D’aménager des réserves restreignant la pêche",
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "153",
-        "text": "L’Éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation informatique, appelée “code”. Le but n’est pas de faire tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif consitituera, par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, la vitesse à laquelle les technologies numériques ont changé a été bien supérieure à celle de l’évolution de la formation des équipes pédagogiques.",
+        "text": "L’Éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation informatique, appelée «code». Le but n’est pas de faire tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif consitituera, par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, la vitesse à laquelle les technologies numériques ont changé a été bien supérieure à celle de l’évolution de la formation des équipes pédagogiques.",
         "query": "Qu’apprend-on au sujet de l’enseignement du code à l’école?",
         "options": [
             "Les enfants ont des difficultés de concentration dans ce domaine.",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "153",
-        "text": "Futur manager, soyez gentil! Depuis les scandales des traders, les grandes écoles ont été mises au ban des accusés: ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est quetion que de “social business” ou de “développement durable”. À côté des activités associatives tradionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+        "text": "Futur manager, soyez gentil! Depuis les scandales des traders, les grandes écoles ont été mises au ban des accusés: ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est quetion que de «social business» ou de «développement durable». À côté des activités associatives tradionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
         "query": "D’après ce texte, Quelle est la nouvelle orientation des grandes écoles?",
         "options": [
             "Créer des partenaires avec le milieu associatif",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "153",
-        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la “société civile” n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
+        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
         "query": "Quelle est l’opinion de l’auteur?",
         "options": [
             "L’ambiance de l’école doit être calquée sur le modelé familial",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "153",
-        "text": "“Pendant des millénaires, les chercheurs du mon entier ont jalousement gardé leurs données. Essentiellement parce qu’ils pensaient que le contrôle de l’information donnait le pouvoir” déclare le conservateur en paléontologie au musée d’histoire naturelle de Londres. Les mentalités ont changé depuis quelques années à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l’information. Cependant, vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes, c’est ce que constatent les invités d’une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
+        "text": "«Pendant des millénaires, les chercheurs du mon entier ont jalousement gardé leurs données. Essentiellement parce qu’ils pensaient que le contrôle de l’information donnait le pouvoir» déclare le conservateur en paléontologie au musée d’histoire naturelle de Londres. Les mentalités ont changé depuis quelques années à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l’information. Cependant, vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes, c’est ce que constatent les invités d’une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
         "query": "Que souhaitent actuellement les chercheurs?",
         "options": [
             "Mettre en commun les données.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "153",
-        "text": "L’opération “Voile à l’école” permet chaque année à des centaines d’enfants d’apprendre à faire du bateau pendant l’école. Au départ, la voile fait peur. Pour rassurer les élèves débutants les leçons sont très progressives. Les enseignants reçoivent des cahiers avec des explications et des information techniques. Ils peuvent ainsi développer en classe un programme de prévention pour identifier et éviter les dangers.",
+        "text": "L’opération «Voile à l’école» permet chaque année à des centaines d’enfants d’apprendre à faire du bateau pendant l’école. Au départ, la voile fait peur. Pour rassurer les élèves débutants les leçons sont très progressives. Les enseignants reçoivent des cahiers avec des explications et des information techniques. Ils peuvent ainsi développer en classe un programme de prévention pour identifier et éviter les dangers.",
         "query": "Quel est le but de l’opération « voile à l’école »?",
         "options": [
             "Expérimenter une nouvelle technologie par le sport",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "153",
-        "text": "Christian Hincker, dessinateur consacré, né en 1967 à Strasbourg, est devenu “Blutch” très tôt, et pas seulement parce que dans la cour de récréation il était le portait craché du caporal du même nom, l’un des héros de la célèbres bande dessinée “Les Tuniques Bleues”… C’est aussi grâce au dessin que “Le petit Christian” se protégeait. “Je me coupais du monde, ça m’arrangeait bien car je fuyais le sport, j’avais la terreur de devenir un souffre-douleur. Le dessin m’a donné une stature au sein de la classe et m’a aidé à survivre…”. Doué, il puise dans ses lectures d’enfant de quoi développer le don: “J’étais tellement emballé par les BD que je lisais que j’essayais de perpétuer le plaisir en reproduisant les ambiances de Tartine, Picsou ou Lucky Luke”.",
+        "text": "Christian Hincker, dessinateur consacré, né en 1967 à Strasbourg, est devenu «Blutch» très tôt, et pas seulement parce que dans la cour de récréation il était le portait craché du caporal du même nom, l’un des héros de la célèbres bande dessinée «Les Tuniques Bleues»… C’est aussi grâce au dessin que «Le petit Christian» se protégeait. «Je me coupais du monde, ça m’arrangeait bien car je fuyais le sport, j’avais la terreur de devenir un souffre-douleur. Le dessin m’a donné une stature au sein de la classe et m’a aidé à survivre…». Doué, il puise dans ses lectures d’enfant de quoi développer le don: «J’étais tellement emballé par les BD que je lisais que j’essayais de perpétuer le plaisir en reproduisant les ambiances de Tartine, Picsou ou Lucky Luke».",
         "query": "Comment s’explique l’engouement de Christian Hincker pour le dessin?",
         "options": [
             "il dessinait sans relâche",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "153",
-        "text": "C’est un joli coup de peinture… avant fermeture! Le vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes. Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes. L’occasion était belle pour le collectif associatif “Espace provisoire” d’envahir les salles et de leur redonner une seconde vie. Plus de 2000 m2 ont été occupés par une soixantaine d’artistes: musiciens, peintres, sculpteurs, photographes…, tous prêts à accueillir des visiteurs, des curieux. L’objectif, non avoué, est de prouver que la culture est à sa place partout.",
+        "text": "C’est un joli coup de peinture… avant fermeture! Le vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes. Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes. L’occasion était belle pour le collectif associatif «Espace provisoire» d’envahir les salles et de leur redonner une seconde vie. Plus de 2000 m2 ont été occupés par une soixantaine d’artistes: musiciens, peintres, sculpteurs, photographes…, tous prêts à accueillir des visiteurs, des curieux. L’objectif, non avoué, est de prouver que la culture est à sa place partout.",
         "query": "Que cherche à faire le collectif « Espace provisoire »?",
         "options": [
             "Convertir les lieux en maison de culture",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "153",
-        "text": "L’ambition de cet auteur: Changer l’art d’écrire, rien de moins. Mais cela est dit sans emphase, d’un ton dubitatif, fataliste presque “Changer l’art d’écrire, chaque écrivain le fait à sa façon. Je voudrais le faire de façon absolue, radicale, en abolissant totalement les histoires, l’intrigue, bien qu’il y ait toujours, en fait, des sortes de micros-narrations dans mes livres. J’ai l’idée qu’il est encore trop tôt pour savoir ce que j’ai apporté ou pas. Cela dit, lorsque vous écrivez, vous êtes tellement occupé à essayer de resoudre les problemes techniques qui se posent à chaque instant que vous n’avez pas le temps d’avoir beaucoup d’idées générales.”",
+        "text": "L’ambition de cet auteur: Changer l’art d’écrire, rien de moins. Mais cela est dit sans emphase, d’un ton dubitatif, fataliste presque «Changer l’art d’écrire, chaque écrivain le fait à sa façon. Je voudrais le faire de façon absolue, radicale, en abolissant totalement les histoires, l’intrigue, bien qu’il y ait toujours, en fait, des sortes de micros-narrations dans mes livres. J’ai l’idée qu’il est encore trop tôt pour savoir ce que j’ai apporté ou pas. Cela dit, lorsque vous écrivez, vous êtes tellement occupé à essayer de resoudre les problemes techniques qui se posent à chaque instant que vous n’avez pas le temps d’avoir beaucoup d’idées générales.»",
         "query": "De quelle manière cet auteur veut-il réaliser son ambition?",
         "options": [
             "En abandonnant les codes traditionnels du roman",
@@ -222,7 +222,7 @@
     {
         "id": 37,
         "testId": "153",
-        "text": "Une scolarisation précoce permet une meilleure adaptation à l’univers scolaire et peut donc être le gage d’une réussite scolaire ultérieure. “La scolarisation avant 3 ans, écrit Agnès Florin(professeur de psychologie), trouve des justifications dans les résultas de plusieurs recherches, au moins pour les enfants des milieux défavorisés et sur certains aspects de leur développement congnitif et langagier. Par ailleurs, l’entrée précoce à l’école permet d’éviter l’apparition de troubles ou de perturbations et joue donc un rôle préventif. On trouve en effet de nombreux exemples de jeunes enfants dont on a pu détecter certains problèmes psychologieques ou physiologiques grâce à leur entrée à l’école.",
+        "text": "Une scolarisation précoce permet une meilleure adaptation à l’univers scolaire et peut donc être le gage d’une réussite scolaire ultérieure. «La scolarisation avant 3 ans, écrit Agnès Florin(professeur de psychologie), trouve des justifications dans les résultas de plusieurs recherches, au moins pour les enfants des milieux défavorisés et sur certains aspects de leur développement congnitif et langagier. Par ailleurs, l’entrée précoce à l’école permet d’éviter l’apparition de troubles ou de perturbations et joue donc un rôle préventif. On trouve en effet de nombreux exemples de jeunes enfants dont on a pu détecter certains problèmes psychologieques ou physiologiques grâce à leur entrée à l’école.»",
         "query": "Selon l’auteur, que permet la scolarité précoce des enfants?",
         "options": [
             "Développer leurs capacités de socialisation",
@@ -248,7 +248,7 @@
     {
         "id": 39,
         "testId": "153",
-        "text": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique. Le voilier va mettre le cap en septembre prochain sur l’Amérique du sud et ses grands fleuves. Il se consacrera “aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable”, selon la “lettre de mission” adressée à son commandant, signée du ministre d’État aux Transport et à l’Écologie. Cette “lettre de mission” de la République assigne à l’équipage un audacieux programme concernant la protection de l’environement.",
+        "text": "Le trois-mâts d’exploration La Boudeuse va reprendre le large pour une nouvelle mission à caractère scientifique. Le voilier va mettre le cap en septembre prochain sur l’Amérique du sud et ses grands fleuves. Il se consacrera «aux études scientifiques et humaines concernant la biosphère, le réchauffement climatique et le développement durable», selon la «lettre de mission» adressée à son commandant, signée du ministre d’État aux Transport et à l’Écologie. Cette «lettre de mission» de la République assigne à l’équipage un audacieux programme concernant la protection de l’environement.",
         "query": "Selon l’article, que va faire l’équipage du voilier La Boudeuse?",
         "options": [
             "Former des scientifiques a la prévention des risques écologiques",

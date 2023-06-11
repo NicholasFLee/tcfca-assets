@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "150",
-        "text": "LE DINEMENT D’ESPELETTE. le piment d’Espelette, qui célèbre actuellement sa fête, est probablement aujourd’hui le produit le plus emblématique de Pays basque. Il a pourtant failli devenir un produit banal, c’est-à-dire le contraire absolu de ce qu’il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d’Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n’aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 l’appellation d’origine contrôlée (AOC) interdisant tout plagiat. Aujourd’hui le diamant rouge d’Espelette est particulièrement apprécié de certains grands chefs qui l’utilisent pour faire “exploser” les saveurs.",
+        "text": "LE DINEMENT D’ESPELETTE. le piment d’Espelette, qui célèbre actuellement sa fête, est probablement aujourd’hui le produit le plus emblématique de Pays basque. Il a pourtant failli devenir un produit banal, c’est-à-dire le contraire absolu de ce qu’il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d’Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n’aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 l’appellation d’origine contrôlée (AOC) interdisant tout plagiat. Aujourd’hui le diamant rouge d’Espelette est particulièrement apprécié de certains grands chefs qui l’utilisent pour faire «exploser» les saveurs.",
         "query": "L’appellation d’origine contrôlée accordée au piment d’Espelette permet aux Basques….",
         "options": [
             "De lutter contre les imitations.",
@@ -14,8 +14,8 @@
     {
         "id": 21,
         "testId": "150",
-        "text": "Théo, la poupée “inter-affective”. Théo a deux ans. Il mesure 52 cm et communique spontanément avec sa maman. Lancé par Berchet, ce robot est bourré d’électronique et de capteurs pour interagir avec l’enfant. Ainsi, Théo dort lorsqu’il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot. Sa voix numérisée est d’un naturel confondant. Surtout, il s’adapte aux capacités de jeux de chaque enfant: plus il manifestera son désir de jouer, plus le jouet sera réactif.",
-        "query": "La voix numérisée de Théo est d’un « naturel confondant », ce qui signifie qu’elle",
+        "text": "Théo, la poupée «inter-affective». Théo a deux ans. Il mesure 52 cm et communique spontanément avec sa maman. Lancé par Berchet, ce robot est bourré d’électronique et de capteurs pour interagir avec l’enfant. Ainsi, Théo dort lorsqu’il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot. Sa voix numérisée est d’un naturel confondant. Surtout, il s’adapte aux capacités de jeux de chaque enfant: plus il manifestera son désir de jouer, plus le jouet sera réactif.",
+        "query": "La voix numérisée de Théo est d’un « naturel confondant », ce qui signifie qu’elle..",
         "options": [
             "A un timbre qui n'existe pas naturellement.",
             "Se confond avec la voix de l'enfant qui joue.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "150",
-        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. “À la fin, j’ai manqué de lucidité et j’ai commis des erreurs”, avoue-t-il après sa défaite.",
+        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
         "query": "Quel conseil donne le journaliste pour remporter la course?",
         "options": [
             "Connaître ses adversaires.",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "150",
-        "text": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret. Surnommé “le château des Pêcheurs” il possède des collections d’objets rares sur la pêche. Sans oublier un superbe parc. Aujourd’hui, ce monument est confronté à un fléau: un champignon ronge ses édifices. Les propriétaires ont déjà lancé une campagne de restauration mais le champignon s’attaque aussi à d’autres parties du domaine. Les maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15 euros, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un diner avec les propriétaires.",
+        "text": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret. Surnommé «le château des Pêcheurs» il possède des collections d’objets rares sur la pêche. Sans oublier un superbe parc. Aujourd’hui, ce monument est confronté à un fléau: un champignon ronge ses édifices. Les propriétaires ont déjà lancé une campagne de restauration mais le champignon s’attaque aussi à d’autres parties du domaine. Les maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15 euros, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un diner avec les propriétaires.",
         "query": "D’après l’article, à quoi les internautes sont-ils encouragés?",
         "options": [
             "À aider à la rénovation en travaillant au château.",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "150",
-        "text": " Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs. En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considères. Pourtant si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression “Les occidentaux sont-ils prêts à en faire un produit courant?” quetionne le docteur Arnaud Cocaul. Pas sûr. “Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée” estime ce nutritionniste.",
+        "text": " Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs. En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considères. Pourtant si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression «Les occidentaux sont-ils prêts à en faire un produit courant?» quetionne le docteur Arnaud Cocaul. Pas sûr. «Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée» estime ce nutritionniste.",
         "query": "Quelle place occupent les algues en France?",
         "options": [
             "Elles font partie de la gastronomie régionale.",
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "150",
-        "text": "Depuis plusieurs années, Thierry Marc, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrire à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d’espoir, de montrer “qu’après”, il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
+        "text": "Depuis plusieurs années, Thierry Marc, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrire à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d’espoir, de montrer «qu’après», il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
         "query": "Pourquoi Thierry Marc intervient-il dans les prisons?",
         "options": [
             "Pour améliorer les méthodes de travail de la cantine.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "150",
-        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la “société civile” n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
+        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
         "query": "Quelle est l’opinion de l’auteur?",
         "options": [
             "L'ambiance de l'école doit être calquée sur le modèle familial.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "150",
-        "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernment peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du premier ministre mais il n’y a pas non plus eu de fâcherie comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants “les retraites en tête” personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
+        "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernment peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du premier ministre mais il n’y a pas non plus eu de fâcherie comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants «les retraites en tête» personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
         "query": "Quel a été l’aboutissement de la conférence?",
         "options": [
             "L'affrontement entre partenaires sociaux.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "150",
-        "text": "“Des taxes vertes” ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
+        "text": "«Des taxes vertes» ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
         "query": "Quel est le paradoxe de la taxe carbone?",
         "options": [
             "Elle concerne uniquement les économies fortes.",
@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "150",
-        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes “Et alors…” a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers “partagés” au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’oeil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au millieu de toiture végétalisées et de jardins.",
+        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers «partagés» au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’oeil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au millieu de toiture végétalisées et de jardins.",
         "query": "Quel projet est présenté comme réaliste?",
         "options": [
             "L'extension d'un système de climatisation à tout un quartier.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "150",
-        "text": "Il faut se rendre à l’évidence: le “jour” n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les “news” des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme “le journal de la veille” perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+        "text": "Il faut se rendre à l’évidence: le «jour» n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme «le journal de la veille» perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
         "query": "Quelle est la position de l’auteur de l’article?",
         "options": [
             "Il conteste la fiabilité des sources d'Internet.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "150",
-        "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne falicitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une “fausse bonne idée” qui “induit des déplacements inutiles, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent”. Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
+        "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne falicitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une «fausse bonne idée» qui «induit des déplacements inutiles, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent». Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
         "query": "Pourquoi la gratuité des transports publics est-elle critiquée?",
         "options": [
             "Ce choix creuse les inégalités sociales.",

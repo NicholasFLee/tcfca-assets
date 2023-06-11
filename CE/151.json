@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "151",
-        "text": "Le terme “famille monoparentale” évoque le plus souvent les mères qui élèvent seuls leurs enfants, éludant la réalité des pères confrontés à cette situation. Le développement de la garde alternée a conduit les pères à faire face à des situations auxquelles Ils n’étaient pas forcément préparés. De même que les femmes qui élèvent seuls leurs enfants sont parfois démunies par l’absence du père, notamment pour exercer leur notorité, certains hommes ont du mal à trouver leur juste place. Ces hommes font encore l’objet d’un regard particulier de la société. Contrairement aux mères ils doivent très souvent justifier leur statut. On considère encore qu’un enfant, dans les premières années de sa vie, ne peut grandir correctement qu’en présence d’un figure maternelle.",
+        "text": "Le terme «famille monoparentale» évoque le plus souvent les mères qui élèvent seuls leurs enfants, éludant la réalité des pères confrontés à cette situation. Le développement de la garde alternée a conduit les pères à faire face à des situations auxquelles Ils n’étaient pas forcément préparés. De même que les femmes qui élèvent seuls leurs enfants sont parfois démunies par l’absence du père, notamment pour exercer leur notorité, certains hommes ont du mal à trouver leur juste place. Ces hommes font encore l’objet d’un regard particulier de la société. Contrairement aux mères ils doivent très souvent justifier leur statut. On considère encore qu’un enfant, dans les premières années de sa vie, ne peut grandir correctement qu’en présence d’un figure maternelle.",
         "query": "Quelle est l’idée abordée par le texte?",
         "options": [
             "L’absence du père oblige les mères à mettre leur vie affective entre parenthèse.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "151",
-        "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. “Il faut laisser le temps scolaire”, estime une experte. ",
+        "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. «Il faut laisser le temps scolaire», estime une experte. ",
         "query": "Que reprochent les députés à la semaine de quatre jours?",
         "options": [
             "De laisser trop de temps à l'oisiveté.",
@@ -222,7 +222,7 @@
     {
         "id": 37,
         "testId": "151",
-        "text": "Le monde de l’éducation a atteint son ambition, devenir la référence nationale en matière d’enseignement. Un succès confirmé par une récente enquête qui nous crédite d’un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires… Où le Monde de l’éducation est le magazine français le plus “photocopillé”. Environ 4000 exemplaires vendus pour plus d’un million cent mille lecteurs! Un écart vente-lectorat devenu insupportable. Depuis 1974, le Monde de l’éducation a accompli de nombreuses transformations. Après 34 ans au service de l’éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
+        "text": "Le monde de l’éducation a atteint son ambition, devenir la référence nationale en matière d’enseignement. Un succès confirmé par une récente enquête qui nous crédite d’un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires… Où le Monde de l’éducation est le magazine français le plus «photocopillé». Environ 4000 exemplaires vendus pour plus d’un million cent mille lecteurs! Un écart vente-lectorat devenu insupportable. Depuis 1974, le Monde de l’éducation a accompli de nombreuses transformations. Après 34 ans au service de l’éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
         "query": "Qu’est-ce qui a justifié la transformation du Monde de l’éducation?",
         "options": [
             "Une adéquation avec l'attente des lecteurs.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "151",
-        "text": "Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsable des établissements, les usagers de la nuit aux nuisances sonores? telle est la mission des pierrots de la nuit, ces nouvelles “brigades d’intervention artistique nocturnes” qui sensibilisent le public de nuit. L’originalité de la méthode interpelle les noctambules s’interrogent: qui sont les pierrots de la nuit? que font-ils et pourquoi? L’art de rue n’est pas ressenti comme une agression, en revanche il force l’écoute et le respecte. Le silence n’est pas une répression mais une forme de partage.",
+        "text": "Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsable des établissements, les usagers de la nuit aux nuisances sonores? telle est la mission des pierrots de la nuit, ces nouvelles «brigades d’intervention artistique nocturnes» qui sensibilisent le public de nuit. L’originalité de la méthode interpelle les noctambules s’interrogent: qui sont les pierrots de la nuit? que font-ils et pourquoi? L’art de rue n’est pas ressenti comme une agression, en revanche il force l’écoute et le respecte. Le silence n’est pas une répression mais une forme de partage.",
         "query": "Quel est l’objectif poursuivi par les Pierrots de la nuit?",
         "options": [
             "Améliorer la cohabitation entre les habitants et les noctambules",
@@ -248,7 +248,7 @@
     {
         "id": 39,
         "testId": "151",
-        "text": "Si vous pensez pouvoir comprendre un poème, pourvu que l’on vous laisse le temps d’y réfléchir, ou que l’on vous laisse en paix pour vous y absorber, et si vous refusez de voir les choses autrement, alors vous pourriez bien vous priver d’un texte qui a peut-être été écrit expressément pour n’être lu ou réciter que dans des circonstances bien précises, qui elles-mêmes peuvent réclamer l’absence des conditions que vous vous efforcez d’imposer. Ce qu’on appelle “l’usage” que vous l’ayez instituée ou adopté par imitation, peut ainsi aller à l’encontre de l’efficacité. Il ne suffit pas d’affirmer que “ses règles sont “sacro-saintes” elles ne le sont pas, ne peuvent pas l’être et personne l’apportera la preuve qu’elles le sont.",
+        "text": "Si vous pensez pouvoir comprendre un poème, pourvu que l’on vous laisse le temps d’y réfléchir, ou que l’on vous laisse en paix pour vous y absorber, et si vous refusez de voir les choses autrement, alors vous pourriez bien vous priver d’un texte qui a peut-être été écrit expressément pour n’être lu ou réciter que dans des circonstances bien précises, qui elles-mêmes peuvent réclamer l’absence des conditions que vous vous efforcez d’imposer. Ce qu’on appelle «l’usage» que vous l’ayez instituée ou adopté par imitation, peut ainsi aller à l’encontre de l’efficacité. Il ne suffit pas d’affirmer que «ses règles sont «sacro-saintes» elles ne le sont pas, ne peuvent pas l’être et personne l’apportera la preuve qu’elles le sont.",
         "query": "Quelles règles établies sont dénoncées dans ce texte?",
         "options": [
             "Celles des critiques.",
