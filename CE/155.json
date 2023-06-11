@@ -14,8 +14,8 @@
     {
         "id": 21,
         "testId": "155",
-        "text": "Pendant un an, la journaliste allemande Gret Taubert décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer: elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. “Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile mais je cherche à intégrer dans mon quotidien ce que j’ai appris”, explique-t-elle.",
-        "query": "Quel est le constat de Gret Taubert après cette expérience?",
+        "text": "Pendant un an, la journaliste allemande Greta Taubert décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer: elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. « Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile mais je cherche à intégrer dans mon quotidien ce que j’ai appris », explique-t-elle.",
+        "query": "Quel est le constat de Greta Taubert après cette expérience?",
         "options": [
             "C'est possible à la campagne,",
             "C'est possible avec du temps.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "155",
-        "text": "Éducation numérique. Il n’y presque plus aujourd’hui de manuel scolaire qui paraisse sans avoire une double traduction, numérique et en ligne. C’est devenu le standard de la production au terme d’une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l’équipement de la très grande majorité des établissements. Autrement dit, les conditions d’un changement d’ensemble ne sont pas réunies.",
+        "text": "Éducation numérique. Il n’y presque plus aujourd’hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C’est devenu le standard de la production au terme d’une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l’équipement de la très grande majorité des établissements. Autrement dit, les conditions d’un changement d’ensemble ne sont pas réunies.",
         "query": "Quelle est la position de cet éditeur de manuels sur la croissance du support numérique?",
         "options": [
             "Il considère que l'ère du support papier est définitivement terminée.",

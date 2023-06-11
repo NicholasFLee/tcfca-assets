@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "166",
+        "options": [
+            "La réputation de restaurants touristiques est menacée par internet.",
+            "La technologie modifie la relation à la gastronomie.",
+            "Les grands chefs livrent leurs secrets sur des sites.",
+            "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+        ],
+        "answer": 1,
+        "text": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas. Sur la toile, la cuisine est devenue, l'univers le plus plébiscité avec le voyage. Et même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger. « Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse. Pour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.",
+        "query": "Qu’apprend-on dans cet article?"
+    },
+    {
+        "id": 21,
+        "testId": "166",
+        "options": [
+            "Le remboursement de son article.",
+            "L’échange de son téléphone.",
+            "L’envoi de son téléphone par la poste.",
+            "Une réclamation sur son achat."
+        ],
+        "answer": 0,
+        "text": "Madame, Monsieur, Ce courrier fait suite à mon achat d’un téléphone le 4 mars dernier. Après réflexion, je souhaiterais le rendre car j’ai finalement décidé d’acheter un appareil avec messagerie intégrée. Ainsi, je vous prie de bien vouloir me restituer la somme de 75 euros, correspondant à la somme versée le 5 mars par chèque. Dans l’attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations. André Cellier.",
+        "query": "Quel est l’objet de la lettre de monsieur Cellier?"
+    },
+    {
+        "id": 22,
+        "testId": "166",
+        "options": [
+            "C’est possible à la campagne.",
+            "C’est possible avec du temps.",
+            "C’est possible, mais pénible.",
+            "C’est possible pour tous."
+        ],
+        "answer": 2,
+        "text": "Pendant un an, la journaliste allemande Greta Taubert décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer: elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. « Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile mais je cherche à intégrer dans mon quotidien ce que j’ai appris », explique-t-elle.",
+        "query": "Quel est le constat de Greta Taubert après cette expérience?"
+    },
+    {
+        "id": 23,
+        "testId": "166",
+        "options": [
+            "Il considère que l’ère du support papier est définitivement terminée.",
+            "Il estime qu’il reste du travail à faire pour mieux préparer cette évolution.",
+            "Il juge indispensable de n’utiliser que les supports électroniques.",
+            "Il pense qu’il faut privilégier le contact des élèves avec l’outil internet."
+        ],
+        "answer": 1,
+        "text": "Éducation numérique. Il n’y presque plus aujourd’hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C’est devenu le standard de la production au terme d’une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l’équipement de la très grande majorité des établissements. Autrement dit, les conditions d’un changement d’ensemble ne sont pas réunies.",
+        "query": "Quelle est la position de cet éditeur de manuels sur la croissance du support numérique?"
+    },
+    {
+        "id": 24,
+        "testId": "166",
+        "options": [
+            "D’aménager des réserves restreignant la pêche.",
+            "D’encourager une politique mondiale de la pêche.",
+            "D’organiser des contrôles pour surveiller la pêche.",
+            "De créer des taxes sur les produits de la pêche."
+        ],
+        "answer": 0,
+        "text": "Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique. “Il est temps que la planète franchisse une nouvelle étape dans la protection des océans” a déclaré le ministre australien de l’environement. La création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d’euros en contrepartie. La fondation australienne pour la protection de l’environement a qualifié cette annonce d’historique mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+        "query": "Que projette le gouvernement australien?"
+    },
+    {
+        "id": 25,
+        "testId": "166",
+        "options": [
+            "Ils influencent les élèves au-delà de la classe.",
+            "Ils instillent le goût du travail en équipe.",
+            "Ils permettent au système de se maintenir.",
+            "Ils suscitent de nombreuses vocations."
+        ],
+        "answer": 2,
+        "text": "Dans cette belle institution qu'est l'Éducation nationale, ce sont les profs qui font tourner la boutique. Ce sont eux qui, chaque jour, nourrissent intellectuellement ceux qui feront la France de demain. Sans eux et leur amour du métier, l'école française se serait effondrée depuis belle lurette et ferait encore moins bien que ses résultats actuels. Notre journal veut donc leur dire merci en publiant quelques portraits et en vous demandant de nous signaler d'autres « héros de l'école». ENVOYEZ-NOUS VOS MESSAGES, NOUS LES PUBLIERONS.",
+        "query": "D’après le texte, quel rôle jouent les enseignants dans l’institution scolaire?"
+    },
+    {
+        "id": 26,
+        "testId": "166",
+        "options": [
+            "Ils alternent les supports selon le type d’activité.",
+            "Ils hésitent à utiliser les techniques informatiques.",
+            "Ils optent toujours pour des ouvrages imprimés.",
+            "Ils tiennent compte des progrès des apprenants."
+        ],
+        "answer": 0,
+        "text": "Une enquête réalisée auprès de professeurs révèle que le manuel scolaire numérique est préféré pour l'étude d'images, de photos de cartes. Au contraire le papier est privilégié pour la réalisation d'exercices l'étude de textes et les évaluations. Les professeurs choisissent ainsi l'outil le mieux adapté à leurs besoins. Par ailleurs, les enseignants voient le manuel numérique comme un moyen de capter l'attention des élèves et d'améliorer la participation en classe.",
+        "query": "Quelle information donne cette enquête sur les pratiques des enseignants?"
+    },
+    {
+        "id": 27,
+        "testId": "166",
+        "options": [
+            "D’un catalogue de styliste.",
+            "D’un dictionnaire philosophique.",
+            "D’un manuel d’histoire de l’art.",
+            "D’une présentation de musée."
+        ],
+        "answer": 0,
+        "text": "Renaissance: un mot porteur de sens à de nombreux égards. Historiquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente. Un retour aux sources et des artistes humanistes nourris par l'idée de temps nouveaux faits d'espoir et de confiance en l'homme. Ces multiples lectures ont été source d'inspiration pour la nouvelle collection. C'est aussi l'énergie nouvelle, un regain de vitalité. Avec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l'hiver avec sourire et imagination.",
+        "query": "D’où est tiré ce texte?"
+    },
+    {
+        "id": 28,
+        "testId": "166",
+        "options": [
+            "C’est un produit recherché par les consommateurs.",
+            "Elle valorise des méthodes agricoles traditionnelles.",
+            "Ses qualités nutritionnelles sont reconnues.",
+            "Son exploitation génère des revenus élevés."
+        ],
+        "answer": 3,
+        "text": "L'huile de palme est l'huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+        "query": "Pourquoi l’huile de palme est-elle produite massivement?"
+    },
+    {
+        "id": 29,
+        "testId": "166",
+        "options": [
+            "Les changements de climat.",
+            "Les méthodes de culture.",
+            "Les oiseaux prédateurs.",
+            "Les politiques publiques."
+        ],
+        "answer": 1,
+        "text": "Plus de 40% des espèces d'insectes sont en déclin et un tiers sont menacés. Leur taux de mortalité est huit fois plus rapide que celui des mammifères. A ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle. Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l'humanité ». « Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s'engagera sur la voie de l'extinction dans quelques décennies », écrivent les chercheurs.",
+        "query": "D’après l’article, qu’est-ce qui est à l’origine de la disparition des insectes?"
+    },
+    {
+        "id": 30,
+        "testId": "166",
+        "options": [
+            "Sa connaissance des médias.",
+            "Ses méthodes ancestrales.",
+            "Ses recettes originales.",
+            "Son charisme incroyable."
+        ],
+        "answer": 3,
+        "text": "Paul Bocuse n’était pas la plus créatif, ni le meilleur technicien de cette génération de chefs d’exception qui a vu éclore des cuisiniers de renommée internationale. Mais il avait une vision, du culot et une véritable talent de meneur. Histoire de donner une stature plus imposante aux cuisiniers, il a lancé la mode de la fameuse veste blanche “grand chef, avec le nom brodé sur la poitrine et le port de la toque démesurée qui évoque la coiffe des pharaons.” Dès ses débuts, sa personnalité et son sens de la formule ont fait mouche auprès de la presse, qui a publié de nombreux portraits flatteurs, faisant affluer les clients dans son restaurant.",
+        "query": "D’après ce journaliste, quelle a été la clé du succès de Paul Bocuse?"
+    },
+    {
+        "id": 31,
+        "testId": "166",
+        "options": [
+            "Amélie a déménagé récemment.",
+            "Amélie a invité Florence.",
+            "Florence a beaucoup de travail.",
+            "Florence aime le bord de mer."
+        ],
+        "answer": 2,
+        "text": "Ma chère Amélie, Merci pour la lettre. Je suis contente que tu te plaises dans la nouvelle résidence. Il faut dire que le soleil et à proximité de la mer rendent la vie plus agréable. Ta proposition me fait plaisir et je pense pouvoir te rejoindre bientôt. Cela ne me gêne pas que les travaux ne soient pas terminés dans la maison et je me réjouis de pouvoir profiter de la plage et de ton jardin. Encore mille mercis. Florence.",
+        "query": "Quelle information est absente de la lettre?"
+    },
+    {
+        "id": 32,
+        "testId": "166",
+        "options": [
+            "Il a plus d’illustrations que d’écrit.",
+            "Il préserve l’imaginaire des enfants.",
+            "Il touche également les adultes.",
+            "Il valorise le patrimoine littéraire."
+        ],
+        "answer": 2,
+        "text": "Dans le monde de la littérature jeunesse, Michèle Moreau est une référence. Les bénévoles de l'association lire et faire lire, l'ont écoutée raconter son parcours et son engagement au service de cette littérature, au cours d'un « atelier comptines» Michèle Moreau a montré les constantes, l'universalité des comptines et histoires qu'elle a éditées. Elle a aussi défendu l'idée que la littérature jeunesse n'était pas « une sous-culture »: « L'idée qu'il existerait un répertoire réservé aux enfants m'est inconnues. Si l'on n'est pas d'abord ému en tant qu'adulte, les enfants ne le seront pas non plus. Un livre ou un livre-disque doit savoir parler autant aux enfants qu'aux adultes, c'est pour cela que musiques, textes et illustrations sont particulièrement soignés.»",
+        "query": "Selon Michèle Moreau, à quoi reconnaît-on un bon livre jeunesse?"
+    },
+    {
+        "id": 33,
+        "testId": "166",
+        "options": [
+            "D’anciens artistes ont l’occasion de monter sur scène.",
+            "Les financements publics contribuent à leur expansion.",
+            "Les organisateurs s’adaptent aux nouvelles tendances.",
+            "Les tarifs proposés dépendent de la programmation."
+        ],
+        "answer": 1,
+        "text": "Cette année encore, les adeptes de la culture ne savent plus où donner de la tête et du porte-monnaie. En nombre sans cesse croissant - notamment depuis que les collectivités territoriales (régions, départements...) ont compris le parti qu'elles pouvaient tirer de leur investissement en matière de communication les festivals de musique foisonnent et les indicateurs sont au beau fixe, avec des rendez-vous emblématiques comme les Francofolies de La Rochelle et les Vieilles Charrues. L'année dernière, ils assuraient avoir battu des records de fréquentation.",
+        "query": "Dans cet article, qu’apprend-on sur les festivals?"
+    },
+    {
+        "id": 34,
+        "testId": "166",
+        "options": [
+            "Il constitue un bienfait autant qu’un problème.",
+            "Il est menacé d’assèchement.",
+            "Il pollue les terres avoisinantes.",
+            "Il représente un attrait touristique essentiel."
+        ],
+        "answer": 0,
+        "text": "Sur la côte de la Tanzanie, la petite bourgade de Pangani s'organise autour de son fleuve éponyme dont l'eau est de plus en plus viciée. Même s'il participe à lui donner des allures d'éden. Le fleuve a pourtant été depuis des décennies, la principale raison de vivre dans la région fournissant eau fraîche et travail aux pêcheurs. Dans son reportage, Federico Romano dévoile son ambivalence. Alors que Pangani est paradisiaque, calme et bordée de palmiers. Il y a comme un ennemi invisible: les gens y boivent tous l'eau du fleuve, parce qu'ils n'ont tout simplement pas d'autre solution, alors que celle-ci n'a plus rien à voir avec de l'eau douce.",
+        "query": "Que révèle-t-on sur ce fleuve?"
+    },
+    {
+        "id": 35,
+        "testId": "166",
+        "options": [
+            "Sa technique puise dans divers mouvements artistiques.",
+            "Ses œuvres se fondent dans leur environnement.",
+            "Son inspiration provient de ses nombreuses lectures.",
+            "Son savoir-faire met en valeur des procédés connus."
+        ],
+        "answer": 1,
+        "text": "L'homme est de noir vêtu. Son crâne, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
+        "query": "Quelle particularité de Jean Nouvel est louée dans cet article?"
+    },
+    {
+        "id": 36,
+        "testId": "166",
+        "options": [
+            "L’influence de ses contemporains.",
+            "La singularité de ses portraits.",
+            "Son engouement pour la nature.",
+            "Son travail post-impressionniste."
+        ],
+        "answer": 1,
+        "text": "On connaît Cézanne surtout pour ses paysages, mais le Musée d’Orsay montre, pour la première fois, une partie méconnue de l’oeuvre de l’artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l’objet d’une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès des débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu’une autre forme de paysage.",
+        "query": "Que souligne cette exposition sur Paul Cézanne?"
+    },
+    {
+        "id": 37,
+        "testId": "166",
+        "options": [
+            "Une adéquation avec l’attente des lecteurs.",
+            "Une diffusion abusive de copies illégales.",
+            "Une offre promotionnelle provisoire.",
+            "Une perte croissante du nombre d’abonnés."
+        ],
+        "answer": 1,
+        "text": "Le monde de l’éducation a atteint son ambition, devenir la référence nationale en matière d’enseignement. Un succès confirmé par une récente enquête qui nous crédite d’un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires… Où le Monde de l’éducation est le magazine français le plus “photocopillé”. Environ 4000 exemplaires vendus pour plus d’un million cent mille lecteurs! Un écart vente-lectorat devenu insupportable. Depuis 1974, le Monde de l’éducation a accompli de nombreuses transformations. Après 34 ans au service de l’éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
+        "query": "Qu’est-ce qui a justifié la transformation du Monde de l’éducation?"
+    },
+    {
+        "id": 38,
+        "testId": "166",
+        "options": [
+            "C’est un accessoire d’élégance masculine.",
+            "C’est un signe de reconnaissance entre pairs.",
+            "C’est une coutume en réunion.",
+            "C’est une marque de courtoisie."
+        ],
+        "answer": 1,
+        "text": "Inexorablement, la cravate perd de sa superbe. Un abandon progressif constaté par Serge Carreira maître de conférences à Sciences Po Paris et spécialiste du luxe et du mode: on l'impose de moins en moins de manière systématique à tout le monde au sein d'une entreprise. Toutefois, il existe des secteurs qui résistent à la tendance. Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira. C'est un symbole d'autorité et de respect vis-à-vis de ses interlocuteurs, de ses clients... Un formalisme qui n'est pas toujours très bien compris par les principaux intéressés: Josselin travaille pour une banque d'entreprise, il n'est pas en contact ave les clients et pourtant il doit se plier à la règle.",
+        "query": "Pourquoi certains continuent-ils à porter la cravate au travail ?"
+    },
+    {
+        "id": 39,
+        "testId": "166",
+        "options": [
+            "Il reconnaît ses aspects pratiques.",
+            "Il remet en cause ses bienfaits.",
+            "Il s’inquiète de son usage abusif.",
+            "Il s’émerveille de sa technologie."
+        ],
+        "answer": 2,
+        "text": "J'ai la naïveté de penser qu'un peu d'imagination n'est pas totalement absurde lorsqu'on écrit des romans. Or, à mon sens, l'imagination est le but de deux choses fondamentales: l'ennui, à qui on donne trop souvent un mauvais rôle et l'observation, qui n'est pas seulement un terme médical. II s'avère que le téléphone intelligent, ce charmant objet, si nécessaire, si vital, fait peu à peu disparaître ces deux activités de fainéants du cerveau humain que sont l'ennui et l'observation. Pourquoi s'ennuyer quand on peut regarder des vidéos de chaton ou des notifications Facebook de la plus haute importance dans une salle d'attente? En somme, grâce à ce téléphone intelligent. Vous pouvez regarder en permanence le résultat de l'imagination brillante des autres (au détriment de la vôtre).",
+        "query": "Quelle est l'attitude de l'auteur vis-à-vis du téléphone intelligent?"
+    }
+]

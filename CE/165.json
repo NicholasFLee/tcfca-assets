@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "165",
+        "options": [
+            "Il est facile de s’identifier aux personnages.",
+            "Les lieux de tournage sont authentiques.",
+            "On y dresse un portrait juste de la société.",
+            "Son humour fait passer un message sérieux."
+        ],
+        "answer": 3,
+        "text": "Il y a quelque chose de rare dans « Normandie nue »: ce film est résolument léger, tout en ayant du fond. À travers une histoire qui sert de fil conducteur cocasse et insolite - celle d'un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d'humanité, notamment grâce au maire du village qui voit dans la venue du photographe l'occasion de faire valoir sa cause aux yeux de la planète. Parfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+        "query": "Quelle est l’opinion du journaliste sur le film « Normandie nue »?"
+    },
+    {
+        "id": 21,
+        "testId": "165",
+        "options": [
+            "Découvrir de recettes locales.",
+            "Entrer en contact avec les gens.",
+            "Réaliser une opération publicitaire.",
+            "Vendre des spécialités françaises."
+        ],
+        "answer": 1,
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. “Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir”, explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
+        "query": "Quel était l’objectif de Mathieu et Elodie?"
+    },
+    {
+        "id": 22,
+        "testId": "165",
+        "options": [
+            "Des adaptations télévisées de Maupassant.",
+            "Des programmes d’études littéraires.",
+            "Une exposition consacrée à Maupassant.",
+            "Un ouvrage critique récemment paru."
+        ],
+        "answer": 0,
+        "text": "Non, Maupassant n’est pas qu’un écrivain pour cours de français. Comme tout bon auteur culte, ses thématiques sont percutantes, grinçantes, toutjours d’actualité. Et tellement vraies dans le fond: hypocrisie de la bourgeoisie, monde paysan décrit sans artifice, rapports humains aliénés par le contexte social et culturel… Du pain bénit pour les auteurs de «Chez Maupassant», une collection de huit téléfilms tirés des contes et nouvelles du grand Guy.",
+        "query": "Que présente l’auteur de l’article?"
+    },
+    {
+        "id": 23,
+        "testId": "165",
+        "options": [
+            "La faible qualité de la production française.",
+            "Le manque d’innovation dans son entreprise.",
+            "Les contraintes des contrôles financiers.",
+            "L’expansion de la concurrence internationale."
+        ],
+        "answer": 3,
+        "text": "Le PDG de la société SEB a avoué « ne plus espérer avoir une croissance importante » sur les marchés occidentaux, arrivés à saturation. Lui qui a toujours défendu la valeur ajoutée et le savoir-faire des usines tricolores, n'a pas pu faire face à l'arrivée des pays émergents dans le petit électroménager: 80% des grille-pains vendus en France coûtent désormais moins de 30€. Résultat, les ventes de l'inventeur de la cocotte-minute ont reculé de 5.6% en France et de 2.6% dans les autres pays de l'Union Européenne.",
+        "query": "Que regrette le PDG de la société SEB ?"
+    },
+    {
+        "id": 24,
+        "testId": "165",
+        "options": [
+            "Ils ont plus de facilités d’apprentissage.",
+            "Ils ont une idée claire de leur futur métier.",
+            "Ils sont déterminés à travailler beaucoup.",
+            "Ils sont plus sûrs de leur nouveau choix."
+        ],
+        "answer": 3,
+        "text": "Lors de l'inscription à la faculté de médecine de Boston, les professeurs privilégient les candidats... ayant déjà connu des échecs. Ils considèrent en effet que ces erreurs d'orientation permettent de grandir plus vite, de se rapprocher plus rapidement de sa vocation - bref, de mieux se connaître. Plus simplement, ils réduisent aussi le risque de recruter des élevés qui vont se rendre compte au bout de quelques mois qu'ils ne veulent plus devenir médecins: ils ont déjà changé de voie une fois, il est moins probable qu'ils en changent une seconde fois.",
+        "query": "Pourquoi les candidates qui se réorientent sont-ils privilégiés dans cette faculté?"
+    },
+    {
+        "id": 25,
+        "testId": "165",
+        "options": [
+            "Découvrir le travail de recherche en laboratoire.",
+            "Faire découvrir les formations pour devenir ingénieur.",
+            "Inaugurer l’ouverture d’un campus universitaire.",
+            "Obtenir des conseils afin de créer une association."
+        ],
+        "answer": 1,
+        "text": "Journée Portes Ouvertes à PolyInTours. Venez renconter les étudiants, enseignants et association de PolytechTours. Le samedi 12 février, de 9h à 10h. Sans interruption. Espaces d’information présents sur les trois sites de l’école. Présentation des modes et des métiers d’ingénieur par les responsable des spécialités sur chaque site. Visites guidées des salles de travaux pratiques, des centres de documentation, des laboratoires de recherche et de langues. Démonstration de projets réalisés dans nos cursus. Présentation des associations étudiantes.",
+        "query": "Quel est l’objectif de cette journée?"
+    },
+    {
+        "id": 26,
+        "testId": "165",
+        "options": [
+            "Un engagement politique.",
+            "Une contemplation abstraite.",
+            "Une mise en valeur de l’autre.",
+            "Une technique de retouche."
+        ],
+        "answer": 2,
+        "text": "La rétrospective Mali Twist montre comment, par sa diversité et son éclat, l'œuvre de Malick Sidibé s'inscrit dans le champ contemporain de la photographie. Tour à tour reporter et portraitiste, Malick Sidibé a construit, depuis l'ouverture de son studio à Bamako en 1962, un ensemble photographique en noir et blanc exceptionnel. Mali Twist révèle son regard attentif et son talent pour mettre en lumière le meilleur de chacun, sa singularité. Malick Sidibé a fait de la photographie un art de l'échange. S'il a eu pour règle d'or d'embellir ses modèles. Il témoigne aussi de la joie de vivre de la jeunesse bamakoise, peu après l'indépendance du Mali. Entre visages anonymes et corps en mouvement, poseurs élégants et flâneurs, Mali Twist offre plus de 250 photographies.",
+        "query": "Sur quoi repose le travail photographique de Malick Sidibé?"
+    },
+    {
+        "id": 27,
+        "testId": "165",
+        "options": [
+            "Des conservateurs de musée.",
+            "Des élus européens.",
+            "De simples citoyens.",
+            "Des militants associatifs."
+        ],
+        "answer": 2,
+        "text": "Dixième anniversaire du musée de l'Europe. Il y a maintenant près de dix ans, le musée de l'Europe n'était encore qu'un projet lancé par un petit groupe d'historiens et de promoteurs culturels issus de la société civile. Avec pour ambition de faire découvrir aux Européens les racines de leur civilisation commune. Installé dans la ville de Bruxelles siège des institutions européennes, celui-ci sera le «lieu de mémoire» dont l'Europe a besoin. C'est là que le parcours permanent et les expositions temporaires offriront à tous les Européens (et à leurs hôtes) une histoire raisonnée de l'union, entendue comme une civilisation diverse mais unique.",
+        "query": "Quelles sont les personnes à l'origine de ce projet?"
+    },
+    {
+        "id": 28,
+        "testId": "165",
+        "options": [
+            "De la concurrence des autres générations.",
+            "De la course à la compétitive.",
+            "De la situation économique tendue.",
+            "Des critiques émanant de leurs parents."
+        ],
+        "answer": 2,
+        "text": "La désillusion de la jeunesse française d'aujourd'hui est un fait préoccupant. Elle est surtout due à la crise internationale, qui réduit les offres d'emploi, fait pression sur les salaries et raréfie les possibilités de promotion. Mais on peut également l'attribuer à un conflit de génération larvée: il oppose la classe d'âge de «baby-boomers», devenus aujourd'hui «papy-boomers» triomphants tout au long de leurs parcours, à celle de leurs enfants et maintenant de leurs petits-enfants.",
+        "query": "D'où vient la désillusion des jeunes en France?"
+    },
+    {
+        "id": 29,
+        "testId": "165",
+        "options": [
+            "Les données des malades sont transmises aux fabricants.",
+            "Les incidents dus aux erreurs de diagnostic augmentent.",
+            "Les patients se méfient des innovations technologiques.",
+            "Les recherches sont limitées par le manque d’informations."
+        ],
+        "answer": 3,
+        "text": "Les implants médicaux (prothèses mammaires, de hanche, etc.) sont censés vous améliorer la vie. Mais des lacunes dans leur contrôle seraient à l'origine d'incidents en nombre croissant. C'est ce que révèle la dernière enquête du Consortium international des journalistes d'investigation. On y apprend que, en France, le nombre d'incidents lié à ces implants aurait doublé en dix ans. Le problème souligne l'enquête, c'est que les informations sur les patients restent globalement très incomplètes et leurs données sont souvent confidentielles. Il est donc difficile de dénombrer avec précision les incidents, de connaître la marque et le modèle des implants posés, et de retrouver les patients en cas de problème.",
+        "query": "Quel problème révélé cet article à propos des implants médicaux?"
+    },
+    {
+        "id": 30,
+        "testId": "165",
+        "options": [
+            "Sur l’industrie des bois rares.",
+            "Sur la démographie dans ces zones.",
+            "Sur la pollution atmosphérique.",
+            "Sur la progression des cultures tropicales."
+        ],
+        "answer": 2,
+        "text": "Quarante terrains de football. C'est la superficie que les forêts perdent chaque minute à travers le monde. La destruction de la forêt tropicale provoque chaque année plus de rejet dans l'atmosphère que l'ensemble du secteur des transports. L'imaginaire collectif rendrait volontiers le commerce du bois principal responsable de la déforestation, alors qu'il n'en est rien. L'acteur majeur de ce phénomène est l'agriculture, responsable à 80% des déboisements dans les zones tropicales. Le marché illégal du bois a aussi sa part de responsabilité. Il est un facteur déclenchant, et s'alimente des autres activités. Quelque 1.6 milliard d'habitants dépendent directement des forêts, et contribuent pourtant à sa raréfaction, voire à sa disparition.",
+        "query": "Selon cet article, sur quoi la déforestation a-t-elle un impact?"
+    },
+    {
+        "id": 31,
+        "testId": "165",
+        "options": [
+            "L’addiction liée à certains aliments.",
+            "L’inévitable uniformisation du goût.",
+            "La difficulté à décrire les saveurs.",
+            "La multiplication des termes culinaires."
+        ],
+        "answer": 2,
+        "text": "Salé, sucré, acide, amer, quatre termes - tels les points cardinaux - qui définissent le territoire d'expression du goût. Nous serions en droit de penser que c'est un peu court pour dépeindre toutes les nuances de la palette aromatique et les émotions qu'elle suscite. Les Japonais y ont d'ailleurs ajouté la notion d'umami, cette saveur qui littéralement signifie «goût délicieux», enrobante, qui tapisse le palais, très addictive. Dans l'imaginaire collectif, le sucre évoque douceur, gourmandise, réconfort. L'on peut cependant imaginer une douceur à la lecture moins immédiate que celle apportée par le sucre, une douceur qui soit synonyme de complexité aromatique, qui joue sur les notes amères, piquantes ou acidulées.",
+        "query": "Quel problème soulevé cet article?"
+    },
+    {
+        "id": 32,
+        "testId": "165",
+        "options": [
+            "Créer de nouvelles sources d’emploi.",
+            "Éviter la solitude des personnes âgées.",
+            "Instaurer des rapports de réciprocité.",
+            "Répondre à l’allongement de la durée de vie."
+        ],
+        "answer": 2,
+        "text": "Dans le monde de l'entreprise, les jeunes et les seniors éprouvent des sentiments analogues d'éviction et de dévalorisation. Pourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années. Plus étonnant, est apparu récemment le mentorat renverse, où les jeunes habitués aux outils numériques initient les seniors à leur usage. Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau. En période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales. Favoriser les échanges intergénérationnels, c'est contribuer à établir des relations où chacun prend conscience qu'il peut apporter quelque chose à l'autre.",
+        "query": "Quel est l’intérêt des mentorats décrits?"
+    },
+    {
+        "id": 33,
+        "testId": "165",
+        "options": [
+            "Les familles sont opposées à toute modification.",
+            "Les impacts financiers demeurent insurmontables.",
+            "Les intérêts en jeu sont difficilement compatibles.",
+            "Les opinions des experts sont en total désaccord."
+        ],
+        "answer": 2,
+        "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la “conférence” installée aujourd’hui par le ministre de l’éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire. C’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits “atypique”. C’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine. C’est encore accueillr l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme… Autant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel du compromis.",
+        "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaire?"
+    },
+    {
+        "id": 34,
+        "testId": "165",
+        "options": [
+            "La liberté accordée aux visiteurs.",
+            "La simplicité des moyens artistiques",
+            "Le classicisme de sa présentation.",
+            "Le discours politique des plasticiens."
+        ],
+        "answer": 0,
+        "text": "Une exposition de l'institut d'Art Contemporain de Villeurbanne est consacrée à l'Américain Jimmie Durham et la Brésilienne Maria Thereza Alvez. Depuis vingt ans, ils parcourent, au fil de leurs déplacements, le territoire méditerranéen et sont réunis au sein de cette exposition à la forme inédite. Le parcours se veut éloigné de tout didactisme, laissant assez d'espace au spectateur pour construire son propre récit autour d'une mer connue pour être le berceau fertile des civilisations. Dans un jeu de matières, de couleurs et d'objets, tous tangibles, Durham et Alvez tentent de décrypter une certaine pensée historique et mythologique notamment en déjouant les codes classiques utilisés dans les musées.",
+        "query": "Qu’est-ce qui fait la singularité de cette exposition?"
+    },
+    {
+        "id": 35,
+        "testId": "165",
+        "options": [
+            "Aborder des œuvres réputées difficiles avec leur élevés.",
+            "Encourager leurs élèves à écrire des textes littéraires.",
+            "Inviter régulièrement des écrivains célèbres dans leur classe.",
+            "Monter des pièces de théâtre d’auteurs classiques."
+        ],
+        "answer": 0,
+        "text": "Je suis persuadée que tous les enfants possèdent en eux la volonté de mettre en route leur imaginaire qui les pousse naturellement vers la littérature. Mais si elle n'est pas stimulée, cette force peut s'éteindre. C'est la mission de l'école que de sensibiliser les élèves aux grands textes classiques. Malheureusement, elle y'a renoncé. Trop souvent, les enseignants ont tendance à penser qu'ils sont réservés à l'élite. Alors qu'au contraire, l'école devrait donner un accès à la haute culture aux élèves qui arrivent avec un bagage moins fourni que les autres.",
+        "query": "Selon l’auteur de ce texte, quelle ambition devraient avoir les enseignants?"
+    },
+    {
+        "id": 36,
+        "testId": "165",
+        "options": [
+            "La quasi-absence d’héroïnes.",
+            "L’appel constant à la violence.",
+            "L’atténuation des clichés.",
+            "L’uniformité des scénarios."
+        ],
+        "answer": 0,
+        "text": "Sexistes, les jeux vidéo? Peur-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l’oeil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure plaire à masculins. Pour le reste, circulez, il n’y a presque rien d’autre à voir, si l’on balaye d’un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les calls girls de mafioso. Pourtant, l’industrie du jeu vidéo a pris conscience ces dernière années du potentiel du marché des joueuse.",
+        "query": "Quel constat est dressé sur les jeux vidéo?"
+    },
+    {
+        "id": 37,
+        "testId": "165",
+        "options": [
+            "Elle favorise l’évolution des mentalités.",
+            "Elle incarne une première historique.",
+            "Elle permet de moderniser le lexique.",
+            "Elle reflète les clivages de la société."
+        ],
+        "answer": 0,
+        "text": "Défenseur-e-s et détracteur-e-s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s'écharpent sur cet épineux sujet. Pour Eliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroit que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui: il y a eu une masculinisation délibérée du langage à partir du XVIle siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
+        "query": "Que pense Éliane Viennot de l’écriture inclusive?"
+    },
+    {
+        "id": 38,
+        "testId": "165",
+        "options": [
+            "Il donne satisfaction aux employés interrogés.",
+            "Il est délicat à mettre en œuvre.",
+            "Il impose une restructuration des services.",
+            "Il nuit à la performance des cadres."
+        ],
+        "answer": 1,
+        "text": "Non, tous les salariés ne sont pas faits pour le télétravailleur. Le rapport Obergo le prouve à travers soixante-quinze entretiens approfondis avec des télétravailleurs. Les autres tordent le cou à une idée reçue le télétravail serait l'organisation de demain car elle est bonne pour la productivité des entreprises et la qualité de vie des salariés. En effet, tous les métiers et les personnalités ne sont pas adaptés a télétravail. La réussite du télétravail exige des profils de salariés très spécifiques. Parmi les conditions sine qua non: vouloir aimer travailler seul, disposer d'une grande autonomie et posséder un logement pouvant accueillir un bureau isolé. «Autant de conditions difficiles à rassembler» constate Jean-Paul Boucher, commanditaire du rapport.",
+        "query": "Qu'est-ce qui resort du rapport Obergo concernant le télétravail?"
+    },
+    {
+        "id": 39,
+        "testId": "165",
+        "options": [
+            "Embaucher des parents défavorisés.",
+            "Faciliter l’intégration professionnelle.",
+            "Proposer des tarifs préférentiels en crèche.",
+            "Trouver un accueil provisoire pour les enfants."
+        ],
+        "answer": 1,
+        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne “un parent sans emploi doit être prioritaire pour obtenir une place en crèche. Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, s’engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
+        "query": "Quel est l’objectif de l’IEPC?"
+    }
+]
