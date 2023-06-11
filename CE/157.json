@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "157",
-        "text": "MATCH SÈTE - TOURS Mercredi 12 novembre • Achat des billets aux points de vente habituels: 15 €. • Réduction pour les étudiants et les détenteurs de carte “ Famille nombreuse.” • Vente aux guichets du stade, le soir même: 20 €.",
+        "text": "MATCH SÈTE - TOURS Mercredi 12 novembre • Achat des billets aux points de vente habituels: 15 €. • Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse.» • Vente aux guichets du stade, le soir même: 20 €.",
         "query": "À quelle condition l’acheteur a-t-il un meilleur prix?",
         "options": [
             "En achetant les billets à l'avance.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "157",
-        "text": "Vincent Van Gogh, un illuminé miséreux à l’oreille coupée et méconnu de son vivant? Ce mythe tenace s’est construit autour du peintre à partir d’une histoire romancée. Or une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh “échangée essentiellement avec son frère Théo, mais aussi avec Gauguin” donne une impression beaucoup plus nuancée. Van Gogh n’était pas si pauvre, il n’était pas si fou et il a bénéficié d’une certaine notoriété de son vivant, même si ce n’était pas auprès de grand public. Forte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un sujet de telle ou telle manière.",
+        "text": "Vincent Van Gogh, un illuminé miséreux à l’oreille coupée et méconnu de son vivant? Ce mythe tenace s’est construit autour du peintre à partir d’une histoire romancée. Or une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh «échangée essentiellement avec son frère Théo, mais aussi avec Gauguin» donne une impression beaucoup plus nuancée. Van Gogh n’était pas si pauvre, il n’était pas si fou et il a bénéficié d’une certaine notoriété de son vivant, même si ce n’était pas auprès de grand public. Forte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un sujet de telle ou telle manière.",
         "query": "Que révèle la correspondance de Van Gogh?",
         "options": [
             "Il appréciait de lire les récits d'écrivains de sa génération.",
@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "157",
-        "text": "Le terme “famille monoparentale” évoque le plus souvent les mères qui élèvent seuls leurs enfants, éludant la réalité des pères confrontés à cette situation. Le développement de la garde alternée a conduit les pères à faire face à des situations auxquelles Ils n’étaient pas forcément préparés. De même que les femmes qui élèvent seuls leurs enfants sont parfois démunies par l’absence du père, notamment pour exercer leur notorité, certains hommes ont du mal à trouver leur juste place. Ces hommes font encore l’objet d’un regard particulier de la société. Contrairement aux mères ils doivent très souvent justifier leur statut. On considère encore qu’un enfant, dans les premières années de sa vie, ne peut grandir correctement qu’en présence d’un figure maternelle.",
+        "text": "Le terme «famille monoparentale» évoque le plus souvent les mères qui élèvent seuls leurs enfants, éludant la réalité des pères confrontés à cette situation. Le développement de la garde alternée a conduit les pères à faire face à des situations auxquelles Ils n’étaient pas forcément préparés. De même que les femmes qui élèvent seuls leurs enfants sont parfois démunies par l’absence du père, notamment pour exercer leur notorité, certains hommes ont du mal à trouver leur juste place. Ces hommes font encore l’objet d’un regard particulier de la société. Contrairement aux mères ils doivent très souvent justifier leur statut. On considère encore qu’un enfant, dans les premières années de sa vie, ne peut grandir correctement qu’en présence d’un figure maternelle.",
         "query": "Quelle est l’idée abordée par le texte?",
         "options": [
             "L'absence du père oblige les mères à mettre leur vie affective entre parenthèses.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "157",
-        "text": "Il me semble pertinent de ne pas confondre, même si le fait d’être un intellectuel renvoie banalement à une certaine aptitude au maniement des idées, les intellectuels avec les catégories proches. Les écrivains, notamment les romanciers, ne constituent pas naturellement des “intellectuels” dans la mesure où précisément le genre romanesque, pour être parfaitement réussi, a toujours exigé une distance par rapport à l’univers théorique. La qualité fondamentale de la fiction est l’imagination, alors que le brassage d’idées et de concepts s’oppose à la liberté et à l’imprévisibilité du roman. Ainsi, si dans telle ou telle oeuvre de fiction, un auteur peut apparître plus “intellectuel” que romancier, c’est parce que le second a capitulé devant le premier ou n’est jamais parvenu à s’en libérer. Cela ne fait pas forcément de mauvais livres mais empêche qu’ils soient à mon sens de grands romans. Ils font penser, mais je ne suis pas persuadé qu’ils fassent rêver le lecteur.",
+        "text": "Il me semble pertinent de ne pas confondre, même si le fait d’être un intellectuel renvoie banalement à une certaine aptitude au maniement des idées, les intellectuels avec les catégories proches. Les écrivains, notamment les romanciers, ne constituent pas naturellement des «intellectuels» dans la mesure où précisément le genre romanesque, pour être parfaitement réussi, a toujours exigé une distance par rapport à l’univers théorique. La qualité fondamentale de la fiction est l’imagination, alors que le brassage d’idées et de concepts s’oppose à la liberté et à l’imprévisibilité du roman. Ainsi, si dans telle ou telle oeuvre de fiction, un auteur peut apparître plus «intellectuel» que romancier, c’est parce que le second a capitulé devant le premier ou n’est jamais parvenu à s’en libérer. Cela ne fait pas forcément de mauvais livres mais empêche qu’ils soient à mon sens de grands romans. Ils font penser, mais je ne suis pas persuadé qu’ils fassent rêver le lecteur.",
         "query": "Quelle est la thèse défendue par cet auteur?",
         "options": [
             "L'écriture requiert les mêmes qualités pour une fiction ou un essai.",

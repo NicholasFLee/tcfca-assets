@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "154",
-        "text": "Plus de peur que de mal pour ce petit garçon, près de Lorient, qui, dimanche soir, mangeait une part de fromage. “Papa, le fromage, il est dur!” Dimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale. Ses parents, occupés dans la pièce d’à côté, l’entendent tousser. “Comme s’il voulait vomir”, raconte Yann, son père. En fait, l’enfant est en train de recracher… un bout de plastique qui aurait pu l’étouffer. ",
+        "text": "Plus de peur que de mal pour ce petit garçon, près de Lorient, qui, dimanche soir, mangeait une part de fromage. «Papa, le fromage, il est dur!» Dimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale. Ses parents, occupés dans la pièce d’à côté, l’entendent tousser. «Comme s’il voulait vomir», raconte Yann, son père. En fait, l’enfant est en train de recracher… un bout de plastique qui aurait pu l’étouffer. ",
         "query": "Qu’est-il arrivé à Youenn?",
         "options": [
             "il a avalé un mauvais morceau de fromage",
@@ -14,7 +14,7 @@
     {
         "id": 21,
         "testId": "154",
-        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. “Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir”, explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. «Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir», explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
         "query": "Quel était l’objectif de Mathieu et Elodie?",
         "options": [
             "découvrir des recettes locales",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "154",
-        "text": "Monsieur Lereux, J’ai l’honneur de vous informer que votre nom a été sélectionné pour “Magasins en fête”! Dès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d’achat! C’est la dernière étape, alors n’attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l’un de nos nombreux autres cadeaux.",
+        "text": "Monsieur Lereux, J’ai l’honneur de vous informer que votre nom a été sélectionné pour «Magasins en fête»! Dès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d’achat! C’est la dernière étape, alors n’attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l’un de nos nombreux autres cadeaux.",
         "query": "Pourquoi Monsieur Lereux doit-il se rendre en magasin?",
         "options": [
             "pour bénéficier d'une promotion",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "154",
-        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. “À la fin, j’ai manqué de lucidité et j’ai commis des erreurs”, avoue-t-il après sa défaite.",
+        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
         "query": "Quel conseil donne le journaliste pour remporter la course?",
         "options": [
             "connaître ses adversaires",
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "154",
-        "text": "Dans une interview, le ministre de l’Écologie proposait ces quelques conseils, mis en pratique par lui-même au quotidien, afin de mieux contribuer au respect de l’environement: “Ma famille et moi-même avons d’abord installé des économiseurs sur tous les robinets de la maison. D’autre part, nous faisons très attention à ne consommer que des produits de saison afin de réduire au maximum les emballages inutiles que produisent les techniques de congélation et de mise en conserve des aliments. Bref, nous essayons d’appliquer tous ces petits gestes qui doivent devenir de vrais féflexes.",
+        "text": "Dans une interview, le ministre de l’Écologie proposait ces quelques conseils, mis en pratique par lui-même au quotidien, afin de mieux contribuer au respect de l’environement: «Ma famille et moi-même avons d’abord installé des économiseurs sur tous les robinets de la maison. D’autre part, nous faisons très attention à ne consommer que des produits de saison afin de réduire au maximum les emballages inutiles que produisent les techniques de congélation et de mise en conserve des aliments. Bref, nous essayons d’appliquer tous ces petits gestes qui doivent devenir de vrais féflexes.»",
         "query": "Quelle pratique, entre autres, le ministre de l’Ecologie cherche-t-il à limiter?",
         "options": [
             "La consommation de produits importés par avion",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "154",
-        "text": "“Il faut te le dire en quelle langue?” Cette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l’idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
+        "text": "«Il faut te le dire en quelle langue?» Cette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l’idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
         "query": "Que permet l’utilisation d’une langue autre que la langue maternelle?",
         "options": [
             "d'attirer l'attention de l'interlocuteur",
@@ -209,7 +209,7 @@
     {
         "id": 36,
         "testId": "154",
-        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d’obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu’un scientifique, Anthony Van der Hent, a prouvé que des “super-plantes” avaient la faculté d’extraire du sol des métaux économiquement exploitables. C’est donc la possibilité d’allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.",
+        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d’obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu’un scientifique, Anthony Van der Hent, a prouvé que des «super-plantes» avaient la faculté d’extraire du sol des métaux économiquement exploitables. C’est donc la possibilité d’allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.",
         "query": "Sur quel point porte le scepticisme du journaliste?",
         "options": [
             "la capacité des plantes à nettoyer les sols",

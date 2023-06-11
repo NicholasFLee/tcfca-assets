@@ -21,7 +21,7 @@
             "Vendre des spécialités françaises."
         ],
         "answer": 1,
-        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. “Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir”, explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. «Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir», explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
         "query": "Quel était l’objectif de Mathieu et Elodie?"
     },
     {
@@ -177,7 +177,7 @@
             "Les opinions des experts sont en total désaccord."
         ],
         "answer": 2,
-        "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la “conférence” installée aujourd’hui par le ministre de l’éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire. C’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits “atypique”. C’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine. C’est encore accueillr l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme… Autant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel du compromis.",
+        "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la «conférence» installée aujourd’hui par le ministre de l’éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire. C’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits «atypique». C’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine. C’est encore accueillr l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme… Autant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel du compromis.",
         "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaire?"
     },
     {
@@ -255,7 +255,7 @@
             "Trouver un accueil provisoire pour les enfants."
         ],
         "answer": 1,
-        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne “un parent sans emploi doit être prioritaire pour obtenir une place en crèche. Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, s’engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
+        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne «un parent sans emploi doit être prioritaire pour obtenir une place en crèche ». Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, s’engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
         "query": "Quel est l’objectif de l’IEPC?"
     }
 ]

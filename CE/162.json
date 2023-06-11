@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "162",
-        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. “Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir”, explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. «Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir», explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
         "query": "Quel était l’objectif de Mathieu et Élodie?",
         "options": [
             "Découvrir des recettes locales.",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "162",
-        "text": "Près de 500 écrans alignés sur deux étages et 1200 m2 La plus grande salle de jeux vidéo en réseau d'Europe a ouvert ses portes au public à Paris. Baignée dans une ambiance bleu métal et noire, cette salle de jeux à l'ambition de devenir à la fois un stade numérique “ où les professionnels et amateurs de jeux vidéo pourront s'affronter à l'occasion de joutes virtuelles, et une école de jeux “ pour les débutants. Une quinzaine d'animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
+        "text": "Près de 500 écrans alignés sur deux étages et 1200 m2 La plus grande salle de jeux vidéo en réseau d'Europe a ouvert ses portes au public à Paris. Baignée dans une ambiance bleu métal et noire, cette salle de jeux à l'ambition de devenir à la fois un stade numérique « où les professionnels et amateurs de jeux vidéo pourront s'affronter à l'occasion de joutes virtuelles, et une école de jeux « pour les débutants ». Une quinzaine d'animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
         "query": "En quoi cette salle de jeux est-elle un événement?",
         "options": [
             "Du fait de sa taille.",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "162",
-        "text": "L’amour à la retraite au théâtre du Splendid. Claire Nadeau, très drôle, et Gérard Rinaldi, très inattendu dans le rôle d’un petit retraité maltraité par sa femme, jouent “Après l’amour” cette comédie, créée il y a dix ans, est reprise au Splendid. L’auteur met en scène un couple de petites gens qui sont passées à côté de belles choses. Leur amour est à la retraite. Le paradoxe, c’est qu’on rit beaucoup des mésaventures de Jeanne et Henri dans cette comédie grainçante.",
+        "text": "L’amour à la retraite au théâtre du Splendid. Claire Nadeau, très drôle, et Gérard Rinaldi, très inattendu dans le rôle d’un petit retraité maltraité par sa femme, jouent «Après l’amour» cette comédie, créée il y a dix ans, est reprise au Splendid. L’auteur met en scène un couple de petites gens qui sont passées à côté de belles choses. Leur amour est à la retraite. Le paradoxe, c’est qu’on rit beaucoup des mésaventures de Jeanne et Henri dans cette comédie grainçante.",
         "query": "Quel est le sujet de la pièce?",
         "options": [
             "Une histoire d'amour splendide.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "162",
-        "text": "La langue française n’a pas besoin de se défendre. Elle a surtout besoin de se détendre. Aimons-la et laissons-la flâner, adopter des mots d’argot ou étrangers. Laissons-la respirer et s’inspirer comme elle veut. Avec elle, essayons juste d’être cool! En utilisant ce mot, j’imagine déjà l’indignation de ceux qui considère l’anglais comme un adversaire. Pour nous, la langue anglaise est peut-être une rivale, mais sûrement pas une ennemie. Elle nous a emprunté nos “rendez-vous”, “savoir-faire”, “déshabillé”, “bureau de change”, “maître d’hôtel”. il n’y a aucune contradiction entre, d’une part, encourager la pratique de l’anglais et, d’autre part, adopter une stratégie volontariste en faveur de la francophonie.",
+        "text": "La langue française n’a pas besoin de se défendre. Elle a surtout besoin de se détendre. Aimons-la et laissons-la flâner, adopter des mots d’argot ou étrangers. Laissons-la respirer et s’inspirer comme elle veut. Avec elle, essayons juste d’être cool! En utilisant ce mot, j’imagine déjà l’indignation de ceux qui considère l’anglais comme un adversaire. Pour nous, la langue anglaise est peut-être une rivale, mais sûrement pas une ennemie. Elle nous a emprunté nos «rendez-vous», «savoir-faire», «déshabillé», «bureau de change», «maître d’hôtel». il n’y a aucune contradiction entre, d’une part, encourager la pratique de l’anglais et, d’autre part, adopter une stratégie volontariste en faveur de la francophonie.",
         "query": "Selon ce journaliste, comment la langue française pourrait-elle évoluer?",
         "options": [
             "En diversifiant sa politique linguistique.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "162",
-        "text": "Les anomalies ne doivent pas masquer le degré de cohérence qui fonde le code graphique. S’il y a plusieurs graphies pour un même son, leur distribution n’est pas aléatoire: le choix est souvent corrélé à des critères de position ou à des correspondances morphologiques. Les lettre muettes, à l’occasion, soulignent les flexions ou les dérivations. Certaines consonnes doubles sont clairement interprétables. De plus, certaines graphies étymologiques ne sont pas dépourvues de toute signification. Et bien d’autres observations iraient dans le même sens. Dès lors, pourquoi renoncer à enseigner ce noyau intelligible de notre écriture? L’orthographe, dans ses fondements, peut faire l’objet d’un apprentissage raisonné. Une pédagogie fondée sur la réflexion est plus valorisante qu’une acquisition basée sur le “par coeur” et la répétition, en même temps qu’elle assure des connaissances plus solides. En outre, elle permet de mieux cerner, par contraste, les zones d’ombre et les bizzarreries: la perception des exceptions sera d’autant plus aisée qu’on aura pris conscience des régularités.",
+        "text": "Les anomalies ne doivent pas masquer le degré de cohérence qui fonde le code graphique. S’il y a plusieurs graphies pour un même son, leur distribution n’est pas aléatoire: le choix est souvent corrélé à des critères de position ou à des correspondances morphologiques. Les lettre muettes, à l’occasion, soulignent les flexions ou les dérivations. Certaines consonnes doubles sont clairement interprétables. De plus, certaines graphies étymologiques ne sont pas dépourvues de toute signification. Et bien d’autres observations iraient dans le même sens. Dès lors, pourquoi renoncer à enseigner ce noyau intelligible de notre écriture? L’orthographe, dans ses fondements, peut faire l’objet d’un apprentissage raisonné. Une pédagogie fondée sur la réflexion est plus valorisante qu’une acquisition basée sur le «par coeur» et la répétition, en même temps qu’elle assure des connaissances plus solides. En outre, elle permet de mieux cerner, par contraste, les zones d’ombre et les bizzarreries: la perception des exceptions sera d’autant plus aisée qu’on aura pris conscience des régularités.",
         "query": "Que pense l’auteur de l’orthographe française?",
         "options": [
             "Elle devrait être réformée de fond en comble.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "162",
-        "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. “Il faut laisser le temps scolaire”, estime une experte. ",
+        "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. «Il faut laisser le temps scolaire», estime une experte. ",
         "query": "Que reprochent les députés à la semaine de quatre jours?",
         "options": [
             "De laisser trop de temps à l'oisiveté.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "162",
-        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne “un parent sans emploi doit être prioritaire pour obtenir une place en crèche. Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, s’engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
+        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne «un parent sans emploi doit être prioritaire pour obtenir une place en crèche ». Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, s’engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
         "query": "Quel est l’objectif de l’IEPC?",
         "options": [
             "Embaucher des parents défavorisés.",
