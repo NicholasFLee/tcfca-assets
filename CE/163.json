@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "163",
+        "options": [
+            "Moderniser les installations anti-pollution.",
+            "Modifier les circuits de production.",
+            "Organiser des formations sur le sujet.",
+            "Responsabiliser les acteurs concernés."
+        ],
+        "answer": 3,
+        "text": "Pour lutter efficacement contre le changement climatique, il est essentiel de trouver des réponses technologiques à notre consommation d'énergie. Néanmoins, il est également nécessaire de concilier mesures environnementales et activités économiques. Si nous ne respectons pas ce point, nous n'atteindrons pas nos objectifs. Ainsi, le futur Plan Climat devra être mis en place en concertation avec les habitants mais également avec les entreprises implantées dans la région, afin que chacun ait un objectif à atteindre dans la lutte contre le changement climatique.",
+        "query": "Que faudrait-il faire pour lutter efficacement contre le changement climatique."
+    },
+    {
+        "id": 21,
+        "testId": "163",
+        "options": [
+            "À accueillir des artistes ainsi que leurs œuvres.",
+            "À créer des ateliers d’arts pour les habitants du quartier.",
+            "À former une nouvelle génération d’artistes.",
+            "À transformer des ateliers d’artistes en logement."
+        ],
+        "answer": 0,
+        "text": "Le CENTQUATRE a overt ses portes Samedi denier, voisins et passants, artistes et curieux, professionnels et amateurs, ont été invités à pénétrer dans le novel établissement artistique de la ville de Paris : le CENTQUATRE. Ce lieu de résidence et de création artistiques, unique au monde, s'étend sur près de 40 000 m2 entre le 104 rue d'Aubervilliers et le 5, rue Curial à Paris (19°).",
+        "query": "D'après cette annonce, à quoi servir le «CENTQUATRE»?"
+    },
+    {
+        "id": 22,
+        "testId": "163",
+        "options": [
+            "Le progrès passe par les nouvelles technologies.",
+            "L’attrait de la nouveauté est incontournable.",
+            "L’homme se laisse dominer par la technologie.",
+            "La technologie est le reflet de la modernité."
+        ],
+        "answer": 2,
+        "text": "Dans un monde rationnel, l'innovation technologies devrait découler d'un besoin et y apporter une solution. Depuis quelques décennies, nous observons l'inverse, aussi bien dans le monde professionnel que dans celui de la vie privée. Nous nous voyons proposer un nouveau type de produit à la technologie révolutionnaire, nous lui trouvons avec jubilation une place dans notre vie, puis nous en devenons souvent prisonniers. De cette manière, ce que nous appelons le progrès devient incontrôlable et nous en devenons les suiveurs inconscients. Mon propos n'est certainement pas de condamner ni le progrès ni la consommation, mais de faire un plaidoyer pour que nous en soyons les maîtres et non les esclaves.",
+        "query": "Quelle est l'idée de ce texte?"
+    },
+    {
+        "id": 23,
+        "testId": "163",
+        "options": [
+            "L’envoi d’un bilan de ses lectures.",
+            "La fin des modifications sur sa thèse.",
+            "Le retard pris dans ses recherches.",
+            "La date de leur prochaine rencontre."
+        ],
+        "answer": 2,
+        "text": "Madame, Je vous remercie pour les fiches de lecture que vous m'avez envoyées pour enrichir ma thèse. À première vue, elles viennent à point appuyer le concept de ma troisième partie. Cependant, des événements d'ordre privé ayant perturbé mon emploi du temps, je ne serai pas en mesure d'achever mes lectures avant notre prochain rendez-vous. Dans ces conditions, je pense qu'il est préférable de le reporter. Je vous demande de bien vouloir m'excuser pour ce contretemps. J'espère reprendre contact avec vous très prochainement pour enfin pouvoir échanger avec vous mes impressions sur ces lectures. Cordialement, Géraldine Dupont",
+        "query": "Qu'annonce Géraldine dans son message ?"
+    },
+    {
+        "id": 24,
+        "testId": "163",
+        "options": [
+            "Il a écrit une œuvre abondante et variée.",
+            "Il a toujours rêve de devenir médecin.",
+            "Il est emballé par les histoires d’épouvante.",
+            "Il peine à écrire depuis quelques temps."
+        ],
+        "answer": 0,
+        "text": "Il change le clavier de ses deux ordinateurs tous les six mois. Les touches cèdent sous ses mains qui, telles des araignées possédées, tissent roman après roman. En vingt ans, il a écrit près de mille cent titres. C'est un touche-à-tout: il pond aussi bien de la littérature pour herboristes que de la pharmacopée policière. Cet ancien chirurgien a abandonné le festin sanglant des blocs opératoires pour les joies de la graphomanie. « Je me suis lassé de la médecine. Mais j'écris mes romans avec toute la passion que j'avais pour la chirurgie », explique-t-il.",
+        "query": "Quelle est la particularité de cet écrivain?"
+    },
+    {
+        "id": 25,
+        "testId": "163",
+        "options": [
+            "Les sports à risque.",
+            "Le sport sans douleur.",
+            "Les dangers du sport.",
+            "Les bienfaits du sport."
+        ],
+        "answer": 1,
+        "text": "Le sport est avant tout un loisir et doit le rester. Pour chacun, quelle que soit sa pratique. Pour que celle-ci reste toujours agréable, une règle de base: se préparer. Avant tout, assurez-vous que vous êtes apte à faire du sport. Les interdictions son essentiellement liées à l'âge ou à des pathologies préexistantes. L'entraînement doit être régulier. Il faut progresser lentement dans la durée et dans l'intensité. C'est la meilleure garantie pour ne pas souffrir en faisant du sport, à condition aussi de savoir s'échauffer avant chaque séance. Il va sans dire que le matériel doit être bien adapté à votre taille et à vote niveau sportif.",
+        "query": "Quel titre convient le mieux à cet article?"
+    },
+    {
+        "id": 26,
+        "testId": "163",
+        "options": [
+            "Découvrir le travail de recherche en laboratoire.",
+            "Faire découvrir les formations pour devenir ingénieur.",
+            "Inaugurer l’ouverture d’un campus universitaire.",
+            "Obtenir des conseils afin de créer une association."
+        ],
+        "answer": 1,
+        "text": "Journée Portes Ouvertes à PolyInTours. Venez renconter les étudiants, enseignants et association de PolytechTours. Le samedi 12 février, de 9h à 10h. Sans interruption. Espaces d’information présents sur les trois sites de l’école. Présentation des modes et des métiers d’ingénieur par les responsable des spécialités sur chaque site. Visites guidées des salles de travaux pratiques, des centres de documentation, des laboratoires de recherche et de langues. Démonstration de projets réalisés dans nos cursus. Présentation des associations étudiantes.",
+        "query": "Quel est l’objectif de cette journée?"
+    },
+    {
+        "id": 27,
+        "testId": "163",
+        "options": [
+            "Ils alternent les supports selon le type d’activité.",
+            "Ils hésitent à utiliser les techniques informatiques.",
+            "Ils optent toujours pour des ouvrages imprimés.",
+            "Ils tiennent compte des progrès des apprenants."
+        ],
+        "answer": 0,
+        "text": "Une enquête réalisée auprès de professeurs révèle que le manuel scolaire numérique est préféré pour l'étude d'images, de photos de cartes. Au contraire le papier est privilégié pour la réalisation d'exercices l'étude de textes et les évaluations. Les professeurs choisissent ainsi l'outil le mieux adapté à leurs besoins. Par ailleurs, les enseignants voient le manuel numérique comme un moyen de capter l'attention des élèves et d'améliorer la participation en classe.",
+        "query": "Quelle information donne cette enquête sur les pratiques des enseignants?"
+    },
+    {
+        "id": 28,
+        "testId": "163",
+        "options": [
+            "en grande majorité New York.",
+            "rarement ailleurs qu’à Francfort.",
+            "en Russie et aux États-Unis.",
+            "à Paris et partout en Europe."
+        ],
+        "answer": 3,
+        "text": "L'inverse de George Balanchine, maitre du ballet russe qui gagna New York pour réviser ses classiques, William Forsythe quitta les États-Unis pour jouer les électrons libres de la scène chorégraphique européenne. À la tête du Ballet de Francfort, William Forsythe s'attache depuis quinze ans à décomposer le ballet, ses codes et ses rites. Son écriture flirte avec le virtuel - le chorégraphe n'hésitant pas à utiliser des logiciels pour composer ses pièces de danse - autant qu'avec le théâtre, dont les textes répondant aux préoccupations des interprètes. Il nous revient avec un travail visionnaire autour du corps en mouvement. Réinventant les pointes ou déconstruisant la ligne du buste. II n'est jamais vraiment là où on l'attend. Paris, qui le suit depuis une décennie lui passe beaucoup de choses, sauf une : son absence. Le voici donc sur la scène.",
+        "query": "Ses œuvres sont représentées…"
+    },
+    {
+        "id": 29,
+        "testId": "163",
+        "options": [
+            "Que sa candidature est sélectionnée.",
+            "Que sa proposition est acceptée.",
+            "Que son dossier est examiné.",
+            "Que son recrutement est retardé."
+        ],
+        "answer": 1,
+        "text": "Monsieur, Nous avons bien reçu vote offre de collaboration. Nous allons l'étudier dans les prochains jours. Sans nouvelles de notre part d'ici trois semaines, vous pourrez considérer que vote candidature n'aura pas été retenue. Néanmoins, et sauf avis contraire de votre part, nous la conserverons au cas où de nouvelle opportunités se présentent. Nous tenons à vous remercier de l'intérêt que vous avez porté à notre société. Sincères salutations. Le Service Recrutement",
+        "query": "Qu'apprend le destinataire de ce courrier?"
+    },
+    {
+        "id": 30,
+        "testId": "163",
+        "options": [
+            "Ils finissent par maîtriser l’ensemble des matières.",
+            "Ils font des efforts dans les autres matières étudiées.",
+            "Ils négligent les matières trop faciles pour eux.",
+            "Ils se fixent des objectifs élevés dans ces matières."
+        ],
+        "answer": 3,
+        "text": "Les recherches actuelles sur la motivation indiquant que la confiance en ses capacité permet d'agir efficacement et joue un rôle crucial dans l'engagement et les performances d'un élève. Cette confiance peut varier d'un domaine à l'autre ainsi que d'une matière scolaire à l'autre. Tout comme on peut se sentir très à l'aise avec des instruments de musique, mais maladroits sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques. Les recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent en préférence des activités présentant pour eux un défi et leur donnant l'occasion de développer leurs habiletés. Inversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+        "query": "Comment réagissent les élèves qui sont à l’aise dans certaines disciplines?"
+    },
+    {
+        "id": 31,
+        "testId": "163",
+        "options": [
+            "C’est la photographie qui est la forme d’art la moins valorisée.",
+            "Il y a peu d’événements culturels consacrés à la photographie.",
+            "Les photographies sont commercialisées à bas prix.",
+            "N’importe qui peut s’improviser photographe."
+        ],
+        "answer": 0,
+        "text": "Il ne viendrait à personne l'idée d'entrer dans un cinéma ou un théâtre sans payer sa place, ni à ces industries de ne pas rémunérer leurs auteurs. De nombreux festivals ou lieux dédiés à la photographie se targuent pourtant de la gratuité de leurs expositions. D'autant plus que, dans la majorité des cas, il est admis qu'aucun budget ni aucun droit d'auteur ne soient prévus pour le photographe. Même si le motif initial de rendre la photographie accessible à tous est plus que légitime, ce qui choquerait pour tout autre secteur ou corps de métier n'offusque personne dès lors qu'il s'agit du photographe, pourtant producteur de la matière première de ces activités.",
+        "query": "Que constate l’auteur de l’article?"
+    },
+    {
+        "id": 32,
+        "testId": "163",
+        "options": [
+            "Encourager le dialogue avec le public.",
+            "Former des acteurs en banlieue.",
+            "Réaliser une œuvre à plusieurs mains.",
+            "Sensibiliser à l’égalité des sexes."
+        ],
+        "answer": 0,
+        "text": "Depuis un an, l'association du théâtre de la poudrerie. Située à vivre à Sevran, à quelques kilomètres de Paris, organise des représentations gratuites à domicile d'une pièce inédite. Pour cela, l'association a convié une auteure professionnelle à venir en résidence pour l'écrire. Elle a recueilli le témoignage d'une trentaine d'habitantes sur le thème du pouvoir féminin, puis écrit son texte à partir de cette matière première. L'enjeu pour cette association est que les spectateurs s'approprient la pièce: quand il y a un phénomène d'identification, la parole se libère lors de la rencontre qui suit la représentation. Ce phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
+        "query": "Quel objectf poursuit cette association avec ce projet?"
+    },
+    {
+        "id": 33,
+        "testId": "163",
+        "options": [
+            "Elle concerne uniquement les économies fortes.",
+            "Elle freine l’utilisation de ressources renouvelables.",
+            "Elle permet le dépassement des normes édictées.",
+            "Elle ralentit le progrès dans les États émergents."
+        ],
+        "answer": 2,
+        "text": "«Des taxes vertes» ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
+        "query": "Quel est le paradoxe de la taxe carbone?"
+    },
+    {
+        "id": 34,
+        "testId": "163",
+        "options": [
+            "L’extension d’un système de climatisation à tout un quartier.",
+            "L’installation de parcs sur les toits des bâtiments parisiens.",
+            "La construction de pistes cyclables au sommet des immeubles.",
+            "La création de jardins communs pour planter des légumes."
+        ],
+        "answer": 0,
+        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers «partagés» au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’oeil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au millieu de toiture végétalisées et de jardins.",
+        "query": "Quel projet est présenté comme réaliste?"
+    },
+    {
+        "id": 35,
+        "testId": "163",
+        "options": [
+            "Il aimerait que sa région soit plus combative et engagée face aux problèmes locaux.",
+            "Il réclame de nouvelles dispositions tarifaires pour que les factures soient moins élevées.",
+            "Il s’indigne en estimant que les reproches faits aux consommateurs sont injustifiés.",
+            "Il trouve inquiétantes les conséquences de la mauvaise gestion des sources d’énergie."
+        ],
+        "answer": 2,
+        "text": "Bonjour, Vous parlez dans votre article du risque de coupure générale d'électricité pour la Bretagne du fait d'une surconsommation. Or, cette région ne possède pas de source de production locale, ce qui implique une dépendance vis-à-vis du réseau et des lignes à haute tension! La pression est forte à chaque épisode de grand froid... Le risque est réel, cependant les Bretons se serrent la ceinture! La Bretagne s'est toujours montrée en avance dans l'action, comme un village d'irréductibles Gaulois entouré par les Romains! Ce qui est agaçant, c'est que, pendant qu'ils jettent la pierre aux particuliers, les médias ne dénoncent pas l'absence d'efforts des milieux industriels! C'est même écœurant de le constater, ils ne subissent aucune restriction à ce jour! Qui consomme réellement plus?",
+        "query": "Quelle est la réaction dont ce lecteur fait part?"
+    },
+    {
+        "id": 36,
+        "testId": "163",
+        "options": [
+            "Il se sentait trop vieux pour les tournées.",
+            "Il voulait fuir son image d’idole des jeunes.",
+            "Le public préférait l’écrivain au chanteur.",
+            "Ses chansons étaient passées de mode."
+        ],
+        "answer": 0,
+        "text": "Ceux qui l’ont vu cet été aux Francofolies n’en sont pas revenus. Trente ans après ses débuts, le chanteur Joseph Many subjugué l’assitance. Il lui fallu du temps pour se convaincre que monter sur scène pour y pousser la chansonnette était encore de son âge. Les ritournelles des années 1970 l’avaient propulsé à son époque sur le devant de la scène, avec l’image d’un artiste terriblement proche de la jeunesse d’alors. Puis sa brillante carrière d’écrivain l’avait convaincu de se consacrer à l’écriture, jusqu’à ce que l’inspiration musicale revienne. Preuve en est son nouvel album. Une ode à la vie, à l’amour, aux femmes. Les atmosphères sont délicieuses. Au fil des ballades, on redevient, pour quelques minutes, adolescent.",
+        "query": "Pourquoi Joseph Many a-t-il tardé à revenir sur scène?"
+    },
+    {
+        "id": 37,
+        "testId": "163",
+        "options": [
+            "Le coût social élevé de prise en charge des maladies génétiques.",
+            "Le développement de traitements curatifs de pathologies génétiques.",
+            "Le mode de financement de la recherche génétique fondamentale.",
+            "Les dérives induites par l’amélioration du patrimoine génétique."
+        ],
+        "answer": 3,
+        "text": "La bioéthique fait l’objet d’une polémique qui confronte deux écoles. Pour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité. La recherche entraîner l’éradication des maladie génétiques et permettre même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorer l’espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastique, affirme ses craintes en ce qui concerne la pratique d’un eugénisme scientifique: il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques. Pour eux, il est impossible de déterminer les tares inconciliables avec humain, puisque certains individus en ont fait l’origine même de leur génie.",
+        "query": "Sur quoi portent les réserves des partisans de la seconde école?"
+    },
+    {
+        "id": 38,
+        "testId": "163",
+        "options": [
+            "La pratique de la peinture murale a pris naissance à l’ère gallo-romaine.",
+            "Les archéologues refusent de reconnaître la valeur des graffitis gallo-romains.",
+            "Les tagueurs d’aujourd’hui se sont inspirés des œuvres gallo-romaines.",
+            "L’expression picturale populaire existait durant l’époque gallo-romaine."
+        ],
+        "answer": 3,
+        "text": "Les tagueurs (1) pourront en prendre de la graine. Ils n'ont rien inventé. Universelle, l'envie de laisser une trace de son passage ou d'apostropher l'autre à travers les siècles. Alix Barbet, fondatrice du Centre d'étude des peintures murales gallo-romaines, en apporte une preuve éclatante en explorant les tags (2) d'il y a... deux mille ans. Ces témoignages fragiles constituent, selon l'auteur, un matériau archéologique d'autant plus exceptionnel qu'ils sont « tout ce qui nous reste de l'humeur de l'écriture et du langage quotidien, des petites gens pour la plupart, et qui contrebalance la vision que l'on pourrait avoir de la culture gallo-romaine dans les provinces à travers les documents officiels qui nous sont parvenus. » \\n(1) Tagueur : personne qui dessine des tags, graffiteur. (2) Tag : signature codée formant un dessin d'intention décorative sur une surface (mur, voiture de métro...); graffiti",
+        "query": "Que dit cet article?"
+    },
+    {
+        "id": 39,
+        "testId": "163",
+        "options": [
+            "Pour découvrir de nouvelles références.",
+            "Pour posséder une bibliothèque fournie.",
+            "Pour s’évader vers des horizons lointains.",
+            "Pour trouver les remèdes à ses maux."
+        ],
+        "answer": 0,
+        "text": "Depuis l’adolescence, je fréquente assidûment les dictionnaires. Chaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m’apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d’autre ouvrages. Je possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par example, guano vous cherchez le mot juste, rien de tel qu’un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on brait la notice d’un produit pharmaceutique destiné à soigner ceci ou cela est le self-service de la pensée.",
+        "query": "Pourquoi Jean-Claude Simoén aime-t-il les dictionnaires?"
+    }
+]
