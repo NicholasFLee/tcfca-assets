@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "151",
-        "text": "Des chercheurs mettent en doute l’idée répandue, que la langue que nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventées par des locuteurs sourds.",
+        "text": "Des chercheurs mettent en doute l’idée répandue, que la langue dont nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventées par des locuteurs sourds.",
         "query": "Quel est le résultat de l’article présenté par ce texte?",
         "options": [
             "Les gestes révèleraient systématiquement la langue maternelle des locuteurs.",
