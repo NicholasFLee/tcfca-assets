@@ -1,0 +1,261 @@
+[{
+        "id": 20,
+        "testId": "158",
+        "options": [
+            "Le temps chronologique est impossible à représenter.",
+            "La notion de projection spatiale a disparu au fil du temps.",
+            "Les différentes expressions du temps ont la même forme linguistique.",
+            "L’expression du temps est opposée à la représentation habituelle."
+        ],
+        "answer": 3,
+        "text": "Pour exprimer notre conception du temps, nous utilisons des métaphores spatiales. Dans toutes les langues connues, le passé sont associés à l'espace situé derrière l'individu, et le futur à l'espace situé devant lui. Sauf dans la langue aymara, parlée dans une partie de la Bolivie, du Pérou et du Chili associé à ce qui est connu par la vue, le passé est situé devant, tandis que le futur, inconnu, est derrière soi. Une enquête de terrain, qui a recoupé les mots et les gestes des locuteurs, a permis de confirmer qu'il s'agit bien d'une façon de penser inverse de la nôtre.",
+        "query": "De quelle particularité de la langue aymara est-il question dans ce texte?"
+    },
+    {
+        "id": 21,
+        "testId": "158",
+        "options": [
+            "Leur conception de la cuisine est passée de mode.",
+            "Leur créativité leur assure une célébrité mondiale.",
+            "Leur nom s’est transformé en Label de prestige.",
+            "Leurs établissements sont cotés en bourse."
+        ],
+        "answer": 2,
+        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l'entreprise d'un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu'avoir de la nostalgie pour les temps héroïques ou une bande de copains inventait les codes de la nouvelle cuisine. Aujourd'hui, n'importe quel jeune cuisinier est prêt à payer très cher pour le privilège d'un stage de six mois chez un «Grand chef». Il rentabilisera vite cet Investissement en s'autoproclamant élève de car les marques des grands chefs ne cessent de prendre de la valeur.",
+        "query": "Qu’apprend-on sur les grands chefs?"
+    },
+    {
+        "id": 22,
+        "testId": "158",
+        "options": [
+            "Pour bénéficier d’une promotion.",
+            "Pour participer à la finale d’un jeu.",
+            "Pour recevoir un coupon de voyage.",
+            "Pour retirer un chèque cadeau."
+        ],
+        "answer": 1,
+        "text": "Monsieur Lereux, J’ai l’honneur de vous informer que votre nom a été sélectionné pour «Magasins en fête»! Dès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d’achat! C’est la dernière étape, alors n’attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l’un de nos nombreux autres cadeaux.",
+        "query": "Pourquoi Monsieur Lereux doit-il se rendre en magasin?"
+    },
+    {
+        "id": 23,
+        "testId": "158",
+        "options": [
+            "De lutter contre la saleté dans la capitale.",
+            "De proposer plus de moyens à l’avenir.",
+            "De récompenser le civisme des gens.",
+            "D’écouter les plaintes des riverains."
+        ],
+        "answer": 0,
+        "text": "Où en est la propreté de Paris? Selon le maire, la propreté est un enjeu majeur de la vie quotidienne: « Depuis plusieurs mois, de gros efforts ont été entrepris, car nous avons davantage de moyens humains et techniques que par le passé. Néanmoins, il y a toujours trop de salissures en tous genres. Le civisme n'est pas toujours au rendez-vous. En dehors de la capacité à nettoyer, il est fondamental de dissuader les gens de salir. Pendant quatre jours, nous serons sur le terrain pour aller à la rencontre des riverains pour les sensibiliser aux enjeux de la propreté.»",
+        "query": "Le maire de paris a décidé…"
+    },
+    {
+        "id": 24,
+        "testId": "158",
+        "options": [
+            "Ce sont des réseaux de commerçants qui les ont créés.",
+            "Ils sont financés discrètement par des entreprises.",
+            "Les prestations qu’ils proposent sont payantes.",
+            "Leur maintenance est assurée par des bénévoles."
+        ],
+        "answer": 1,
+        "text": "Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite... Les cartes fleurissent sur le web et les internautes y sont accros. Plus de 13 millions de Français consultent régulièrement des sites de localisation sur Internet. Sans oublier le succès phénoménal des photos-satellites mises en ligne. Ces services gratuits pour les internautes cachent un véritable business. De grandes sociétés rémunèrent les sites de localisation pour être bien placées sur les cartes. C'est d'autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
+        "query": "Qu’apprend-on sur les services de localisation sur internet?"
+    },
+    {
+        "id": 25,
+        "testId": "158",
+        "options": [
+            "Créer des partenariats avec le milieu associatif.",
+            "Former des jeunes défavorisés au management.",
+            "Intégrer des valeurs sociales et environnementales.",
+            "Préparer des techniques aux dangers de la finance."
+        ],
+        "answer": 2,
+        "text": "Futur manager, soyez gentil! Depuis les scandales des traders, les grandes écoles ont été mises au ban des accusés: ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est question que de «social business» ou de «développement durable». À côté des activités associatives tradionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+        "query": "D’après ce texte, Quelle est la nouvelle orientation des grandes écoles?"
+    },
+    {
+        "id": 26,
+        "testId": "158",
+        "options": [
+            "Augmenter la surface des terres agricoles.",
+            "Garantir la qualité des aliments pour animaux.",
+            "Généraliser l’agriculture biologique.",
+            "Lutter contre la démographie galopante."
+        ],
+        "answer": 2,
+        "text": "Les bénéfices du bio pour la santé et pour l'environnement sont aujourd'hui prouvés. Mais pour ses détracteurs, ce type de production ne serait pas viable, faute de rendements suffisants pour subvenir aux besoins d'une planète à la démographie galopante. Une idée répandue que réfutent des chercheurs européens qui affirment qu'il est possible de nourrir plus de 9 milliards d'êtres humains en 2050 avec 100% d'agriculture biologique, à deux conditions: réduire le gaspillage alimentaire et limiter la consommation de produits d'origine animale. Un défi de taille, alors que le bio ne représente que 1% de la surface agricole utile dans le monde.",
+        "query": "De quel défi est-il question?"
+    },
+    {
+        "id": 27,
+        "testId": "158",
+        "options": [
+            "Un obstacle pour les bateaux de pêche.",
+            "Un réchauffement dramatique des eaux.",
+            "Un risque d’intoxication des populations du pacifique.",
+            "Une diminution de la diversité de la faune océanique."
+        ],
+        "answer": 3,
+        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du pacifique nord a été multipliée par cent en quarante ans. Ce constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l’océan Pacifique, épaisse par endroits de plusieurs y dizaines de mètres, constitue un milieu favorable à la reproduction d’une espèce d’araignée d’eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l’écosystème du Pacifique.",
+        "query": "Quel danger représentent ces déchets?"
+    },
+    {
+        "id": 28,
+        "testId": "158",
+        "options": [
+            "Un marché traditionnel.",
+            "Un spectacle de cirque.",
+            "Une cérémonie officielle.",
+            "Une manifestation culturelle."
+        ],
+        "answer": 3,
+        "text": "DRAGONS CHINOIS À PARIS. C'est avec enthousiasme que le départ des festivités pour célébrer le Nouvel An chinois a été donné hier à 14h30 sur la place de l'Hôtel de Ville devant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leurs danses rythmées par les tambours. Si vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd'hui, car il y en a un autre de prévu à 11h30 au métro Belleville.",
+        "query": "Qu'a-t-on pu voir place de l'Hôtel de Ville?"
+    },
+    {
+        "id": 29,
+        "testId": "158",
+        "options": [
+            "Pour améliorer la qualité des documentaires.",
+            "Pour dissimuler la pauvreté des contenus.",
+            "Pour moderniser leurs méthodes de travail.",
+            "Pour piége les gens visés par les enquêtes."
+        ],
+        "answer": 1,
+        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n’est aussi qu’un cache-misère, un moyen de compenser l’absence d’informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C’est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler?",
+        "query": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées?"
+    },
+    {
+        "id": 30,
+        "testId": "158",
+        "options": [
+            "Ils finissent par maîtriser l’ensemble des matières.",
+            "Ils font des efforts dans les autres matières étudiées.",
+            "Ils négligent les matières trop faciles pour eux.",
+            "Ils se fixent des objectifs élevés dans ces matières."
+        ],
+        "answer": 3,
+        "text": "Les recherches actuelles sur la motivation indiquant que la confiance en ses capacité permet d'agir efficacement et joue un rôle crucial dans l'engagement et les performances d'un élève. Cette confiance peut varier d'un domaine à l'autre ainsi que d'une matière scolaire à l'autre. Tout comme on peut se sentir très à l'aise avec des instruments de musique, mais maladroits sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques. Les recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent en préférence des activités présentant pour eux un défi et leur donnant l'occasion de développer leurs habiletés. Inversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+        "query": "Comment réagissent les élèves qui sont à l’aise dans certaines disciplines?"
+    },
+    {
+        "id": 31,
+        "testId": "158",
+        "options": [
+            "Ils résistent aux comportements de la société du tout numérique.",
+            "Ils se remettent à niveau pour utiliser les téléphones portables.",
+            "Ils se sentent désorientés face aux outils technologies.",
+            "Ils sont parfaitement à l’aise avec les derniers outils multimédias."
+        ],
+        "answer": 3,
+        "text": "Le jeunisme n'est certes pas un concept nouveau. Il y a toujours eu des adultes pour croire qu'ils pouvaient jouer en douce dans la cour des « jeunes ». On s'en moquait alors et ils ne trompaient personne, à commencer par eux-mêmes. La nouvelle donne est différente: les intéressés ne cherchent même pas à « faire jeune ». Ils le sont. Sans effort apparent ni ridicule particulier. Finies, les demandes humbles et ringardes aux enfants d'internet, pour se faire expliquer telle ou telle subtilité d'internet. Tout va bien, merci, les ex-vieux ont appris à se servir de leurs joujoux technos, tous seuls comme des grands! Ils se tiennent d'ailleurs parfois aussi mal que des ados, envoyant des SMS à table ou bondissant, à la moindre sonnerie.",
+        "query": "Dans quel sens évoluent les adultes d'après l'auteur?"
+    },
+    {
+        "id": 32,
+        "testId": "158",
+        "options": [
+            "L’inauguration d’une exposition temporaire.",
+            "L’inscription d’une œuvre au patrimoine mondial.",
+            "L’ouverture au public d’une zone dangereuse.",
+            "L’accès réglementé à un emplacement protégé."
+        ],
+        "answer": 3,
+        "text": "Après avoir été fermé au public pendant douze ans, la grotte préhisotique d’Altatnira, située en Espagne doit rouvrir ses portes, mais de manière expérimentale. Il s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
+        "query": "Qu’évoque-t-on dans cet article?"
+    },
+    {
+        "id": 33,
+        "testId": "158",
+        "options": [
+            "À gagner du temps.",
+            "À minimiser les aléas.",
+            "À réduire les frais.",
+            "À simplifier les procédures."
+        ],
+        "answer": 1,
+        "text": "Plutôt que de multiplier les tests et les mise en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement à leurs salariés. «Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu’il vous amène un autre bon élément, ça permet de limiter les risques.» Signe des temps, la «cooptation» est aujourd’hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime: 4000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
+        "query": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises?"
+    },
+    {
+        "id": 34,
+        "testId": "158",
+        "options": [
+            "Parce que des tests sur les réacteurs nucléaires sont en cours.",
+            "Parce que l’approvisionnement en électricité est compromis.",
+            "Parce que la production française couvre à peine les besoins nationaux.",
+            "Parce que la régulation de la consommation d’énergie est inefficace."
+        ],
+        "answer": 1,
+        "text": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l'hexagone. En effet, l'Allemagne, qui approvisionne la France en électricité, née sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires. Le gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique Des foyers, qui atteignent des pics quotidiens autour de 19 h, Pourtant, la France possède l'un des plus grands parcs nucléaires du monde, mais elle exporte la Quasi-totalité de l'énergie produite.",
+        "query": "Pourquoi y a-t-il des risques de coupures de courant?"
+    },
+    {
+        "id": 35,
+        "testId": "158",
+        "options": [
+            "La quasi-absence d’héroïnes.",
+            "L’appel constant à la violence.",
+            "L’atténuation des clichés.",
+            "L’uniformité des scénarios."
+        ],
+        "answer": 0,
+        "text": "Sexistes, les jeux vidéo? Peur-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l’oeil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure plaire à masculins. Pour le reste, circulez, il n’y a presque rien d’autre à voir, si l’on balaye d’un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les calls girls de mafioso. Pourtant, l’industrie du jeu vidéo a pris conscience ces dernière années du potentiel du marché des joueuse.",
+        "query": "Quel constat est dressé sur les jeux vidéo?"
+    },
+    {
+        "id": 36,
+        "testId": "158",
+        "options": [
+            "Il permet d’apprendre à lire et à écrire de façon ludique.",
+            "Il raconte les aventures d’un professeur d’histoire.",
+            "Il ravive l’intérêt des littéraires pour les matières scientifiques.",
+            "Il retrace l’improbable parcours de vie d’un ancien cancre."
+        ],
+        "answer": 3,
+        "text": "Histoires d’école\\n Bernard Martin\\n Longtemps, l’auteur de ce livre fut un objet de stupeur pour sa famille: incapable d’apprendre l’alphabet, détestant les majuscules, les noms propres et les listes de vocabulaire à retenir. « D'où venait mon ânerie? », se demande-t-il dans cet ouvrage qui en réconfortera plus d'un. Car ce romancier jubilatoire fut un mauvais élève, terrassé par l'école. Il fut aussi professeur de français, histoire de contredire le destin. Ce récit est à la fois un manuel de pédagogie et un recueil de souvenirs. Un beau témoignage à offrir à tous ceux qui n'ont pas la science infuse. À tout le monde, donc.",
+        "query": "Selon l'auteur de cette critique, en quoi ce livre est-il réjouissant?"
+    },
+    {
+        "id": 37,
+        "testId": "158",
+        "options": [
+            "La démesure du complexe imaginé.",
+            "La flambée des prix de l’immobilier.",
+            "La lenteur de la construction du centre.",
+            "Le manque d’inventivité des promoteurs."
+        ],
+        "answer": 3,
+        "text": "Dans le Val-d'Oise, une grande entreprise immobilière envisage de bâtir un complexe commercial sur des terres agricoles parmi les plus fertiles de la région parisienne. Ce serait ainsi 80 hectares de champs qui disparaîtraient sous le béton pour laisser place à un grand temple de la consommation: locaux destinés à la culture (salle de spectacle. etc.). Aux loisirs (manèges. etc.) et aux magasins en tout genre. L'ouvrage pharaonique ne devra son succès qu'à son gigantisme: les promoteurs expliquent en effet qu'ils pensent attirer les clients du fait que ce centre commercial sera encore plus grand que ses cousins... Ce n'est pas avec ce genre de raisonnement que le rythme d'artificialisation des terres vont baisser, ni que la France diminuera ses émissions de CO2.",
+        "query": "Que déplore l'auteur?"
+    },
+    {
+        "id": 38,
+        "testId": "158",
+        "options": [
+            "Redonner un côté ludique aux mathématiques.",
+            "Inventer un nouveau langage mathématique.",
+            "Rendre intelligible le langage mathématique.",
+            "Trouver une explication logique aux erreurs."
+        ],
+        "answer": 2,
+        "text": "Stella Baruk est une fée des chiffres. Une magicienne aux pouvoirs d'autant plus étonnants qu'ils donnent vie à la matière la plus redoutée - ou la plus détestée - par beaucoup d'entre nous: les mathématiques. Haut fait de cette enseignante: l'invention d'une méthode simple qui donne aux enfants le goût de cette discipline réputée austère et leur permet de réussir. Principe de base: si les maths, comme tout savoir, font appel à une langue spécifique, il faut aider les enfants qui n'entendent pas ce que dit le prof ou entendent autre chose - sans comprendre souvent l'énoncé du problème - à entrer dans le sens de cette langue, en multipliant les ponts avec le langage ordinaire. Comme tout scientifique, c'est sur le terrain que lui vient une révélation. « J'avais préparé un cours que je pensais très bien. À la fin, un élève m'a fait cette remarque qui m'a sidérée: « 6 est le double de 5 parce que le 6, tu comprendre, il double le 5. II lui passe juste devant. » Comment avait-il pu entendre cela ? » De cet incident nait une démarche patiente, exigeante et iconoclaste. Stella Baruk cerne l'inefficacité de nos méthodes et construit la sienne, fondée sur les mots, la langue, le sens, une vraie compréhension des opérations et des nombres, car les mathématiques sont un langage spécifique. C'est l'incapacité à le comprendre qui fonde les raisons plausibles et logiques des erreurs des élèves.",
+        "query": "Quelle est la solution à l'échec en mathématiques selon Stella Baruk?"
+    },
+    {
+        "id": 39,
+        "testId": "158",
+        "options": [
+            "La concurrence de reportages en direct.",
+            "La défaillance récurrente de l’arbitrage.",
+            "La diminution du nombre de fans.",
+            "Le rajeunissement des spectateurs."
+        ],
+        "answer": 0,
+        "text": "C'est un fait: le football en France ne fait pas déplacer grand monde. Certains s'en étonnent; or c'est l'inverse qui devrait étonner. Au fond, quel intérêt y est-il à aller au stade? Pour de véritables supporters, c'est le désir de manifester son amour à une équipe soutenue, de se fondre dans une masse plus ou moins chaleureuse et grégaire. Mais pour les autres? En fait, d'un point de vue strictement footballistique, on ne vois pas. Les tribunes font ressentir le drôle de paradoxe de se trouver très près de l'événement, plus près qu'on ne l'a jamais été au point d'entendre les joueurs s'exclamer contre une décision arbitrale, tout en se sentant complément à l'écart de l'action, orphelin des plans serrés et des ralentis étoffés de commentaires parfois éclaircissants.",
+        "query": "Selon cet article, qu'est-ce qui explique la baisse de fréquentation des stades?"
+    }
+]
