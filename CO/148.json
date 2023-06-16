@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 20,
         "testId": "148",
         "text": "Bonjour monsieur, je cherche le dernier livre de Michel Tellier sur la France rurale du 19e siècle. Oui, attendez un moment, je demande à mon collègue. Bien, en fait il ne nous reste que son dernier roman. L'ouvrage que vous cherchez est en rupture de stock. Nous en recevrons quelques-uns dans deux semaines, je peux vous en garder un si vous voulez. Oui, très bien, merci, je reviendrai, gardez-moi un. Voilà madame, c'est noté. Merci beaucoup, à bientôt. Que propose le vendeur à la cliente ?",
@@ -15,7 +14,7 @@
     {
         "id": 21,
         "testId": "148",
-        "text": "Quel froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui? Merci d'avoir regardé cette vidéo. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire. Si vous avez aimé, n'hésitez pas à le faire.",
+        "text": "Quel froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui?",
         "audio": "/mp3/148/21.mp3",
         "options": [
             "Il fait plus beau qu'hier.",
@@ -28,7 +27,7 @@
     {
         "id": 22,
         "testId": "148",
-        "text": "Sylvie, qu'est-ce qui vous plaît plus particulièrement dans votre travail ? En tant que responsable multimédia, je suis également conceptrice de formation en ligne, formatrice de formateurs et enseignante de français langue étrangère. C'est ce dernier point qui m'attire. Un de mes centres d'intérêt en français langue étrangère concerne le développement d'une politique linguistique en faveur du français comme langue de communication, et pas seulement comme symbole d'une certaine culture et du pays des droits de l'homme ou comme langue de l'amour. J'essaie de montrer que l'apprentissage des langues est une passerelle entre les peuples et les cultures. Quel objectif Sylvie poursuit-elle en enseignant le français langue étrangère ? La question est, est-ce que vous avez une idée de ce que vous voulez faire ? Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère. Je pense que c'est une idée de la langue étrangère.",
+        "text": "Sylvie, qu'est-ce qui vous plaît plus particulièrement dans votre travail ? En tant que responsable multimédia, je suis également conceptrice de formation en ligne, formatrice de formateurs et enseignante de français langue étrangère. C'est ce dernier point qui m'attire. Un de mes centres d'intérêt en français langue étrangère concerne le développement d'une politique linguistique en faveur du français comme langue de communication, et pas seulement comme symbole d'une certaine culture et du pays des droits de l'homme ou comme langue de l'amour. J'essaie de montrer que l'apprentissage des langues est une passerelle entre les peuples et les cultures. Quel objectif Sylvie poursuit-elle en enseignant le français langue étrangère ?",
         "audio": "/mp3/148/22.mp3",
         "options": [
             "La diffusion d'une langue qui exprime les nuances des sentiments.",
@@ -41,7 +40,7 @@
     {
         "id": 23,
         "testId": "148",
-        "text": "Bonjour à tous, aujourd'hui nous recevons Philippe Bouchard sociologue qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu'est-ce qui provoque ces conflits ? Ils sont de toute nature, de l'habillement à l'argent de poche en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ? C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie.",
+        "text": "Bonjour à tous, aujourd'hui nous recevons Philippe Bouchard sociologue qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu'est-ce qui provoque ces conflits ? Ils sont de toute nature, de l'habillement à l'argent de poche en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ?",
         "audio": "/mp3/148/23.mp3",
         "options": [
             "Elles entrent dans la vie active avant les jeunes garçons.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "148",
-        "text": "Bonjour monsieur, puis-je vous renseigner ? Bonjour, je souhaiterais visiter le sud de la France avec mon épouse. Eh bien, nous pouvons vous proposer un séjour sur la côte d'Azur. Vous pourriez acheter un forfait qui comprend le transport, les retours ainsi que les nuits d'hôtel et les trajets de bus entre les villes. Voici la brochure des séjours. Je vais en parler à ma femme et je reviendrai demain. Merci. Quelle est l'intention de cette personne ?",
+        "text": "Bonjour monsieur, puis-je vous renseigner ? Bonjour, je souhaiterais visiter le sud de la France avec mon épouse. Eh bien, nous pouvons vous proposer un séjour sur la côte d'Azur. Vous pourriez acheter un forfait qui comprend le transport, aller-retours, ainsi que les nuits d'hôtel et les trajets de bus entre les villes. Voici la brochure des séjours. Je vais en parler à ma femme et je reviendrai demain. Merci. Quelle est l'intention de cette personne ?",
         "audio": "/mp3/148/24.mp3",
         "options": [
             "Découvrir une région de France.",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "148",
-        "text": "La vieille dame de fer dans tous ces états ou comment les jeunes sont complexes se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours organisé par la Fondation Eiffel, adressé aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le Champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable, en comblant ces vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ? Sous-titres réalisés para la communauté d'Amara.org",
+        "text": "La vieille dame de fer dans tous ces états ou comment les jeunes sont complexes se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours organisé par la Fondation Eiffel, adressé aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le Champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable, en comblant ces vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
         "audio": "/mp3/148/29.mp3",
         "options": [
             "D'un appel à projets imaginaires.",
@@ -184,7 +183,7 @@
     {
         "id": 34,
         "testId": "148",
-        "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France, et ce nombre a vocation à grossir. Aujourd'hui, les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emplois qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance(opportunities). Dans ce reportage, qu'apprend-on sur les seniors?",
+        "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France, et ce nombre a vocation à grossir. Aujourd'hui, les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emplois qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance. Dans ce reportage, qu'apprend-on sur les seniors?",
         "audio": "/mp3/148/34.mp3",
         "options": [
             "Ils consomment plus que la jeune génération.",
@@ -223,7 +222,7 @@
     {
         "id": 37,
         "testId": "148",
-        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin, elle est connue comme telle. Elle a beaucoup reçu de Rodin mais elle s'en est servie pour créer une oeuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l'or mais l'or qu'elle trouvait bien à elle ». C'est très flagrant quand on compare plusieurs oeuvres à côté du Penseur qui est, c'est vrai, d'une puissance ramassée(compact), tout en muscles, qui dégage(exude) une force presque brute. L'homme penché lui est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l'attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l'intervention?",
+        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin, elle est connue comme telle. Elle a beaucoup reçu de Rodin mais elle s'en est servie pour créer une oeuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l'or mais l'or qu'elle trouvait bien à elle ». C'est très flagrant quand on compare plusieurs oeuvres à côté du Penseur qui est, c'est vrai, d'une puissance ramassée, tout en muscles, qui dégage une force presque brute. L'homme penché lui est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l'attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l'intervention?",
         "audio": "/mp3/148/37.mp3",
         "options": [
             "La relation liant Camille Claudel et Rodin.",
@@ -236,7 +235,7 @@
     {
         "id": 38,
         "testId": "148",
-        "text": "Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique. De toute évidence, les retombées économiques(economic benefits) pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers. Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'à leur vierge. Comment réagissent les populations indigènes concernées par ce projet?",
+        "text": "Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique. De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers. Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'à leur vierge. Comment réagissent les populations indigènes concernées par ce projet?",
         "audio": "/mp3/148/38.mp3",
         "options": [
             "Elles demandent un nouveau statut juridique.",
