@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 20,
         "testId": "149",
         "text": "Allô, bonjour, je suis Madame Leroy. J'ai passé une commande de vêtements par téléphone il y a dix jours avec une livraison à domicile. Et pourtant, rien n'est arrivé pour l'instant. Donnez-moi votre numéro client Blanche Maison, s'il vous plaît. Je vais vérifier. En effet, la livraison n'a pas été faite. La neige a interrompu le trafic. Le transporteur ne pourra vous livrer que demain. Pourquoi y a-t-il un retard de livraison ?",
@@ -41,7 +40,7 @@
     {
         "id": 23,
         "testId": "149",
-        "text": "La question du jour, Valérie Cantier, pourquoi l'établissement français du sang, en appelle-t-il aux étudiants ? Les jeunes donnent plus facilement leur sang, il faut le savoir, ils voient ça comme un premier acte de citoyenneté, un acte solidaire, disent-ils, un geste utile, c'est ce qui ressort des sondages, un donneur sur cinq à entre 18 et 24 ans en France, mais souvent ils déclarent ne pas donner parce qu'ils ne sont pas sollicités, pas assez en tout cas, ou bien parce qu'ils ne savent pas où aller. Du coup, la semaine prochaine, l'établissement français du sang lance une campagne pour mobiliser les étudiants, le slogan « On est plus qu'amis, on est donneurs de sang ».",
+        "text": "La question du jour, Valérie Cantier, pourquoi l'établissement français du sang, en appelle-t-il aux étudiants ? Les jeunes donnent plus facilement leur sang, il faut le savoir, ils voient ça comme un premier acte de citoyenneté, un acte solidaire, disent-ils, un geste utile, c'est ce qui ressort des sondages, un donneur sur cinq à entre 18 et 24 ans en France, mais souvent ils déclarent ne pas donner parce qu'ils ne sont pas sollicités, pas assez en tout cas, ou bien parce qu'ils ne savent pas où aller. Du coup, la semaine prochaine, l'établissement français du sang lance une campagne pour mobiliser les étudiants, le slogan « On est plus qu'amis, on est donneurs de sang ». Quelle est l'attitude des jeunes face au don du sang ?",
         "audio": "/mp3/149/23.mp3",
         "options": [
             "Ils déplorent un manque d'information.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "149",
-        "text": "Camille, à ton arrivée à Québec, dans quel type de logement résidais-tu ? J'ai d'abord habité un appartement en colocation dans le quartier de Mont-Calme. Au bout de six mois à peine, j'ai emménagé à debaç du centre-ville. Oh, c'est très simple de trouver un logement ici. Ça se fait en quelques jours. Hum. Comment as-tu trouvé ton premier appartement ? Avant de quitter la France sur un site internet regroupant les annonces de colocation. Mais je conseille de chercher sur place. Il y a tout ce qu'il faut pour trouver facilement. On peut découvrir le quartier, voir si les pièces sont spacieuses, lumineuses, et surtout bien insonorisées. Ce n'était pas le cas de mon premier logement, malgré le nom du quartier. D'après Camille, quel est le point fort de l'immobilier à Québec ? Sous-titrage ST'501",
+        "text": "Camille, à ton arrivée à Québec, dans quel type de logement résidais-tu ? J'ai d'abord habité un appartement en colocation dans le quartier de Mont-Calme. Au bout de six mois à peine, j'ai emménagé à deux pas du centre-ville. Oh, c'est très simple de trouver un logement ici. Ça se fait en quelques jours. Hum. Comment as-tu trouvé ton premier appartement ? Avant de quitter la France sur un site internet regroupant les annonces de colocation. Mais je conseille de chercher sur place. Il y a tout ce qu'il faut pour trouver facilement. On peut découvrir le quartier, voir si les pièces sont spacieuses, lumineuses, et surtout bien insonorisées. Ce n'était pas le cas de mon premier logement, malgré le nom du quartier. D'après Camille, quel est le point fort de l'immobilier à Québec ?",
         "audio": "/mp3/149/26.mp3",
         "options": [
             "La recherche d'un appartement est rapide.",
@@ -93,7 +92,7 @@
     {
         "id": 27,
         "testId": "149",
-        "text": "Dans toutes les écoles primaires de France, 815 900 élèves du cours élémentaire vont passer des évaluations nationales en français et mathématiques. Alors ces évaluations nationales sont-elles utiles ? L'évaluation est un acte de quotidien pour tous les enseignants. Là c'est une évaluation institutionnelle que propose le ministère de l'éducation nationale. Ça a déjà été effectué au mois de janvier pour les élèves du cours moyen et, à l'époque, on l'avait d'ailleurs fortement critiqué puisque c'était une évaluation qui intervenait au mois de janvier alors qu'une grande partie des programmes n'avaient pas été effectués. Pour quelle raison ces évaluations ont-elles été critiquées ? C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation. C'est une évaluation de la qualité de l'évaluation.",
+        "text": "Dans toutes les écoles primaires de France, 815 900 élèves du cours élémentaire vont passer des évaluations nationales en français et mathématiques. Alors ces évaluations nationales sont-elles utiles ? L'évaluation est un acte de quotidien pour tous les enseignants. Là c'est une évaluation institutionnelle que propose le ministère de l'éducation nationale. Ça a déjà été effectué au mois de janvier pour les élèves du cours moyen et, à l'époque, on l'avait d'ailleurs fortement critiqué puisque c'était une évaluation qui intervenait au mois de janvier alors qu'une grande partie des programmes n'avaient pas été effectués. Pour quelle raison ces évaluations ont-elles été critiquées ?",
         "audio": "/mp3/149/27.mp3",
         "options": [
             "Parce qu'elles étaient difficiles à mettre en œuvre.",
@@ -106,7 +105,7 @@
     {
         "id": 28,
         "testId": "149",
-        "text": "S'il est normal que des espèces apparaissent et disparaissent au gré de l'évolution, il est par contre inédit qu'une seule espèce, la nôtre, met en danger l'existence de l'ensemble du vivant. Les spécialistes sont en effet unanimes pour dire que la biodiversité est aujourd'hui menacée par les activités humaines. Une récente étude britannique estime ainsi qu'une plante sur cinq dans le monde est menacée. L'ONU affirme de son côté que le rythme annuel des disparitions d'espèces est désormais 100 fois plus élevé que ce qu'il devrait être naturellement. Il y a donc urgence à réagir pour préserver la vie sur Terre et préserver l'existence de notre propre espèce. Sous-titrage ST'501",
+        "text": "S'il est normal que des espèces apparaissent et disparaissent au gré de l'évolution, il est par contre inédit qu'une seule espèce, la nôtre, met en danger l'existence de l'ensemble du vivant. Les spécialistes sont en effet unanimes pour dire que la biodiversité est aujourd'hui menacée par les activités humaines. Une récente étude britannique estime ainsi qu'une plante sur cinq dans le monde est menacée. L'ONU affirme de son côté que le rythme annuel des disparitions d'espèces est désormais 100 fois plus élevé que ce qu'il devrait être naturellement. Il y a donc urgence à réagir pour préserver la vie sur Terre et préserver l'existence de notre propre espèce. Quel est le sujet de cette émission ?",
         "audio": "/mp3/149/28.mp3",
         "options": [
             "L'état actuel de la biodiversité.",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "149",
-        "text": "Imagine pouvoir faire le tour du monde sans avoir à payer pour te loger. Imagine partager des cultures différentes avec des guides personnalisés, totalement gratuits. Arrête d'imaginer, ça existe. Depuis l'an 2000, près de 300 000 personnes l'ont fait, à bon marché et hors des circuits touristiques programmés grâce à l'hospitalité des membres d'un réseau social qui s'étend sur les 5 continents. Son fondateur, jeune étudiant allemand de 22 ans, assure que l'objectif final est de promouvoir la paix par l'échange interculturel.",
+        "text": "Imagine pouvoir faire le tour du monde sans avoir à payer pour te loger. Imagine partager des cultures différentes avec des guides personnalisés, totalement gratuits. Arrête d'imaginer, ça existe. Depuis l'an 2000, près de 300 000 personnes l'ont fait, à bon marché et hors des circuits touristiques programmés grâce à l'hospitalité des membres d'un réseau social qui s'étend sur les 5 continents. Son fondateur, jeune étudiant allemand de 22 ans, assure que l'objectif final est de promouvoir la paix par l'échange interculturel. Que propose ce reportage ?",
         "audio": "/mp3/149/29.mp3",
         "options": [
             "D'apprendre à élaborer des itinéraires de visites.",
@@ -171,7 +170,7 @@
     {
         "id": 33,
         "testId": "149",
-        "text": "Le monde bouge, partout, trop lentement, certes, mais enfin il bouge même quand on parle de sport féminin. Non que nous ne célébrions depuis longtemps nos championnes, une médaille d'or au JO n'a pas de sexe, c'est une médaille d'or pour la France, un point c'est tout(that’s all, period), mais dès qu'il s'agit de s'intéresser à l'actualité des équipes féminines de sport collectif et de retransmettre leur compétition, bah là, les médias ont souvent tendance à détourner caméras et micros. Et quand on scrute d'un peu près les instances dirigeantes des clubs et des fédérations, là encore, beaucoup de testostérone et encore bien peu de parité. Que dénonce cette journaliste?",
+        "text": "Le monde bouge, partout, trop lentement, certes, mais enfin il bouge même quand on parle de sport féminin. Non que nous ne célébrions depuis longtemps nos championnes, une médaille d'or au JO n'a pas de sexe, c'est une médaille d'or pour la France, un point c'est tout, mais dès qu'il s'agit de s'intéresser à l'actualité des équipes féminines de sport collectif et de retransmettre leur compétition, bah là, les médias ont souvent tendance à détourner caméras et micros. Et quand on scrute d'un peu près les instances dirigeantes des clubs et des fédérations, là encore, beaucoup de testostérone et encore bien peu de parité. Que dénonce cette journaliste?",
         "audio": "/mp3/149/33.mp3",
         "options": [
             "La télévision touche des droits importants sur les compétitions.",
@@ -184,7 +183,7 @@
     {
         "id": 34,
         "testId": "149",
-        "text": "Dans le cadre du CRAD, je coordonne un projet de recherche justement sur l'adaptation du milieu urbain aux changements climatiques. L'adaptation, ça veut dire non pas l'atténuation nécessairement des gaz à effet de serre, mais plutôt, puisque le climat change, il faut s'y adapter, il faut voir à ce que(we need to make sure) la ville s'y adapte pour anticiper les changements plutôt qu'y réagir et avoir à payer pour tout ce que ça veut dire, comme bris et catastrophes et désorganisation, déstructuration. Alors ce qu'on fait nous, c'est depuis trois ans, on mène une démarche participative pour savoir sur quoi se fonder pour justement planifier l'adaptation. Sur quoi porte le projet de recherche mentionné par l’intervenante? ",
+        "text": "Dans le cadre du CRAD, je coordonne un projet de recherche justement sur l'adaptation du milieu urbain aux changements climatiques. L'adaptation, ça veut dire non pas l'atténuation nécessairement des gaz à effet de serre, mais plutôt, puisque le climat change, il faut s'y adapter, il faut voir à ce que la ville s'y adapte pour anticiper les changements plutôt qu'y réagir et avoir à payer pour tout ce que ça veut dire, comme bris et catastrophes et désorganisation, déstructuration. Alors ce qu'on fait nous, c'est depuis trois ans, on mène une démarche participative pour savoir sur quoi se fonder pour justement planifier l'adaptation. Sur quoi porte le projet de recherche mentionné par l’intervenante? ",
         "audio": "/mp3/149/34.mp3",
         "options": [
             "Un aménagement territorial en fonction des données météorologiques.",
@@ -257,6 +256,6 @@
             "L'insuffisance de repos.",
             "Le manque d'action."
         ],
-        "answer": 2
+        "answer": 0
     }
 ]
