@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 20,
         "testId": "151",
         "text": "Lucy a trois enfants. Pour Noël, ils ont reçu des jeux de société. Ces jeux les passionnent. Ils jouent beaucoup avec leurs copains ou encore avec leurs cousins. Mais, nous dit Lucy, mon fils de 6 ans provoque régulièrement des drames parce qu'il triche. Une situation à laquelle tous les parents de jeunes enfants sont un jour ou l'autre confrontés. Quel problème cette mère rencontre-t-elle ?",
@@ -15,7 +14,7 @@
     {
         "id": 21,
         "testId": "151",
-        "text": "Chers auditeurs, au volant, restez vigilants, l'hiver peut vous surprendre. Que vous soyez expérimentés ou non, surtout quand il neige beaucoup comme aujourd'hui, ralentissez et avant de prendre la route, n'oubliez pas de consulter Québec 511 sur le web. Et pour les jeunes conducteurs, nous rappelons que le concours « Des routes l'hiver » vous offre la possibilité de gagner un cours de conduite préventive en conditions hivernales. N'hésitez pas à participer.",
+        "text": "Chers auditeurs, au volant, restez vigilants, l'hiver peut vous surprendre. Que vous soyez expérimentés ou non, surtout quand il neige beaucoup comme aujourd'hui, ralentissez et avant de prendre la route, n'oubliez pas de consulter Québec 511 sur le web. Et pour les jeunes conducteurs, nous rappelons que le concours « Des routes l'hiver » vous offre la possibilité de gagner un cours de conduite préventive en conditions hivernales. N'hésitez pas à participer. Que conseille l'animateur radio aux automobilistes ?",
         "audio": "/mp3/151/21.mp3",
         "options": [
             "De changer leurs pneus",
@@ -28,7 +27,7 @@
     {
         "id": 22,
         "testId": "151",
-        "text": "Parmi les victimes de la folie destructrice de l'homme, les abeilles. En cause, l'utilisation dans l'agriculture de pesticides très puissants, qui sont des poisons mortels pour les essains d'abeilles, et conséquences inattendues, c'est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C'est le monde à l'envers. Aujourd'hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l'apiculteur n'a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d'essains et les apiculteurs demandent au gouvernement d'interdire tous les pesticides qui peuvent nuire à la santé des abeilles. Sous-titrage ST'501",
+        "text": "Parmi les victimes de la folie destructrice de l'homme, les abeilles. En cause, l'utilisation dans l'agriculture de pesticides très puissants, qui sont des poisons mortels pour les essaims d'abeilles, et conséquences inattendues, c'est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C'est le monde à l'envers. Aujourd'hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l'apiculteur n'a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d'essaims et les apiculteurs demandent au gouvernement d'interdire tous les pesticides qui peuvent nuire à la santé des abeilles.",
         "audio": "/mp3/151/22.mp3",
         "options": [
             "La chute de la production de miel.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "151",
-        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n'est plus seulement choisi pour de simples raisons économiques, puisque l'on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d'ailleurs à laisser la place à hôtelleries de plein air. Les loisirs de plein air sont des loisirs de plein air. Les loisirs de plein air sont des loisirs de plein air. Les loisirs de plein air sont des loisirs de plein air. Les loisirs de plein air sont des loisirs de plein air. Les loisirs de plein air sont des loisirs de plein air.",
+        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n'est plus seulement choisi pour de simples raisons économiques, puisque l'on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d'ailleurs à laisser la place à hôtelleries de plein air. Qu’apprend-on sur le camping ?",
         "audio": "/mp3/151/24.mp3",
         "options": [
             "Il intéresse très peu les vacanciers.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "151",
-        "text": "Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n'est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête. On peut changer de prénom à condition de justifier d'un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu'il a un caractère quelque peu ridicule, qui rencontre des difficultés. Pourquoi changer de prénom peut-il s'avérer difficile ? La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple. La question est simple.",
+        "text": "Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n'est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête. On peut changer de prénom à condition de justifier d'un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu'il a un caractère quelque peu ridicule, qui rencontre des difficultés. Pourquoi changer de prénom peut-il s'avérer difficile ?",
         "audio": "/mp3/151/26.mp3",
         "options": [
             "Il faut obtenir l'accord de la famille.",
@@ -106,7 +105,7 @@
     {
         "id": 28,
         "testId": "151",
-        "text": "On est aujourd'hui à Saint-Louis du Sénégal, à l'université Gaston-Bergé. C'est la deuxième université du pays avec dix fois moins d'étudiants qu'à Dakar. Elle a échappé à l'arrivée en masse d'étudiants pour une raison simple, c'est ce que nous explique le recteur de l'université. L'université a été créée pour développer l'excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n'est pas seulement local, on vient de partout pour s'inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés.",
+        "text": "On est aujourd'hui à Saint-Louis du Sénégal, à l'université Gaston-Bergé. C'est la deuxième université du pays avec dix fois moins d'étudiants qu'à Dakar. Elle a échappé à l'arrivée en masse d'étudiants pour une raison simple, c'est ce que nous explique le recteur de l'université. L'université a été créée pour développer l'excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n'est pas seulement local, on vient de partout pour s'inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés. Qu'explique la personne interrogée à propos de cette université sénégalaise ?",
         "audio": "/mp3/151/28.mp3",
         "options": [
             "Les critères de sélection sont particulièrement stricts",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "151",
-        "text": "Et on termine avec vous, Jeannick, qui pose une grande question existentielle. Marcher ou courir? Ça dépend. C'est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L'une d'elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c'est la course qui l'emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs, et passer l'âge de 55 ans, c'est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs, et la cause pourrait être l'effet de la course sur l'appétit.",
+        "text": "Et on termine avec vous, Jeannick, qui pose une grande question existentielle. Marcher ou courir? Ça dépend. C'est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L'une d'elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c'est la course qui l'emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs, et passer l'âge de 55 ans, c'est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs, et la cause pourrait être l'effet de la course sur l'appétit. Selon le chroniqueur, que permet la course par rapport à la marche ?",
         "audio": "/mp3/151/29.mp3",
         "options": [
             "De maigrir plus rapidement.",
@@ -132,7 +131,7 @@
     {
         "id": 30,
         "testId": "151",
-        "text": "Bonjour à tous, je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience(try out). Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous, votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
+        "text": "Bonjour à tous, je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous, votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
         "audio": "/mp3/151/30.mp3",
         "options": [
             "Aujourd'hui, être à la mode est une préoccupation superficielle.",
