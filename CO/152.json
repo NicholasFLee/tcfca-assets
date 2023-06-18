@@ -1,8 +1,7 @@
-[
-    {
+[{
         "id": 20,
         "testId": "152",
-        "text": "En période de grande bousculade dans les magasins pour les achats de fin d'année, si la perspective des difficultés de circulation ou de stationnement vous angoisse, voici une initiative qui va peut-être vous intéresser. La Ville d'Angers a mis en place un service original pour que les particuliers puissent faire leur course de Noël sans subir le stress des transports en commun. De 14h à 19h, un chauffeur vient vous chercher à votre domicile et vous conduit en centre-ville à proximité des magasins dans lesquels vous souhaitez vous rendre. Ce service est gratuit, à condition d'avoir de nombreux achats à effectuer.",
+        "text": "En période de grande bousculade dans les magasins pour les achats de fin d'année, si la perspective des difficultés de circulation ou de stationnement vous angoisse, voici une initiative qui va peut-être vous intéresser. La Ville d'Angers a mis en place un service original pour que les particuliers puissent faire leur course de Noël sans subir le stress des transports en commun. De 14h à 19h, un chauffeur vient vous chercher à votre domicile et vous conduit en centre-ville à proximité des magasins dans lesquels vous souhaitez vous rendre. Ce service est gratuit, à condition d'avoir de nombreux achats à effectuer. Qu’est-ce qui caractérise ce service.",
         "audio": "/mp3/152/20.mp3",
         "options": [
             "Il associe tourisme et shopping.",
@@ -15,7 +14,7 @@
     {
         "id": 21,
         "testId": "152",
-        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l'instant, il est obligé d'affronter les écologistes et même le ministère des Transports. Que se passe-t-il dans la région? Tu as dit que tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région?",
+        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l'instant, il est obligé d'affronter les écologistes et même le ministère des Transports. Que se passe-t-il dans la région?",
         "audio": "/mp3/152/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "152",
-        "text": "Près de la moitié des meilleurs longs-métrages canadiens produits cette année proviennent du Québec. La liste a été établie par 10 experts nationaux, parmi lesquels on peut citer la productrice Nicole Robert, seule personne représentant le Québec. Ce choix permet de mettre en vedette un groupe de nouveaux jeunes réalisateurs passionnants. Ils ont fait un travail audacieux. Des projections auront lieu dans de nombreuses salles à travers tout le pays, du 14 au 21 janvier, en présence de certains d'entre eux.",
+        "text": "Près de la moitié des meilleurs longs-métrages canadiens produits cette année proviennent du Québec. La liste a été établie par 10 experts nationaux, parmi lesquels on peut citer la productrice Nicole Robert, seule personne représentant le Québec. Ce choix permet de mettre en vedette un groupe de nouveaux jeunes réalisateurs passionnants. Ils ont fait un travail audacieux. Des projections auront lieu dans de nombreuses salles à travers tout le pays, du 14 au 21 janvier, en présence de certains d'entre eux. De quoi parle cette personne ?",
         "audio": "/mp3/152/24.mp3",
         "options": [
             "D'une collection de haute-couture.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "152",
-        "text": "Quel rapport aviez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse. Comment se comportait-il avec vous face au monde extérieur ? Devant la famille, les clients, de la gêne. Presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c'était seulement travailler de ses mains. Quelle relation le père entretenait-il avec sa fille ? Sous-titrage ST'501",
+        "text": "Quel rapport aviez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse. Comment se comportait-il avec vous face au monde extérieur ? Devant la famille, les clients, de la gêne. Presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c'était seulement travailler de ses mains. Quelle relation le père entretenait-il avec sa fille ?",
         "audio": "/mp3/152/26.mp3",
         "options": [
             "Il avait du mal à accepter ses choix.",
@@ -93,7 +92,7 @@
     {
         "id": 27,
         "testId": "152",
-        "text": "Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l'image est-elle plus importante que le texte ? Il y a des albums sans texte qui sont très forts. La Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l'image tout en laissant l'auteur et l'illustrateur s'exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu'ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d'œuvre. Quel est le point de vue de la libraire interrogée ? C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire.",
+        "text": "Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l'image est-elle plus importante que le texte ? Il y a des albums sans texte qui sont très forts. La Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l'image tout en laissant l'auteur et l'illustrateur s'exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu'ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d'œuvre. Quel est le point de vue de la libraire interrogée ?",
         "audio": "/mp3/152/27.mp3",
         "options": [
             "La création d'un livre pour enfant de qualité est un travail d'équipe.",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "152",
-        "text": "Alors Patrick, ce stage d'informatique à la tulipe? Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu ça. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé. Eh bien bravo! Pour prendre le bon air, c'est réussi. Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde. Qu'est-ce que Patrick était le seul à vouloir faire? Merci d'avoir regardé cette vidéo.",
+        "text": "Alors Patrick, ce stage d'informatique à la tulipe? Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu ça. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé. Eh bien bravo! Pour prendre le bon air, c'est réussi. Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde. Qu'est-ce que Patrick était le seul à vouloir faire?",
         "audio": "/mp3/152/29.mp3",
         "options": [
             "Jouer aux cartes.",
@@ -132,7 +131,7 @@
     {
         "id": 30,
         "testId": "152",
-        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un bugde ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédier à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont(such as) les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individue. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié.\nq: Que dénonce cette journaliste?",
+        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un bugde ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédier à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individue. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
         "audio": "/mp3/152/30.mp3",
         "options": [
             "L'absence de formation sur l'élaboration d'un budget.",
@@ -145,7 +144,7 @@
     {
         "id": 31,
         "testId": "152",
-        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais.\nq: Quelle est l’hypothèse de la police sur les oeuvres volés.",
+        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. Quelle est l’hypothèse de la police sur les oeuvres volés.",
         "audio": "/mp3/152/31.mp3",
         "options": [
             "Elles ont été revendues.",
@@ -158,7 +157,7 @@
     {
         "id": 32,
         "testId": "152",
-        "text": "La communication est l'une des plus grandes révolutions de notre époque moderne. Elle a bouleversé nos existences et la société. Ainsi parle Dominique Volton, sociologue très médiatique. Dominique Volton a passé sa vie à valoriser une conception originale de la communication. Il s'est penché sur les mouvements de libération de la femme, les syndicats, les médias, la politique. Une question obsède Dominique Volton. Comment réussir à cohabiter avec l'autre? Et un paradoxe l'étonne. Malgré les techniques de communication de plus en plus performantes, les hommes, les sociétés ou les cultures ne se comprennent pas mieux qu'il y a 2000 ans.\nq: Comment ce sociologue étudie-t-il la communication?",
+        "text": "La communication est l'une des plus grandes révolutions de notre époque moderne. Elle a bouleversé nos existences et la société. Ainsi parle Dominique Volton, sociologue très médiatique. Dominique Volton a passé sa vie à valoriser une conception originale de la communication. Il s'est penché sur les mouvements de libération de la femme, les syndicats, les médias, la politique. Une question obsède Dominique Volton. Comment réussir à cohabiter avec l'autre? Et un paradoxe l'étonne. Malgré les techniques de communication de plus en plus performantes, les hommes, les sociétés ou les cultures ne se comprennent pas mieux qu'il y a 2000 ans. Comment ce sociologue étudie-t-il la communication?",
         "audio": "/mp3/152/32.mp3",
         "options": [
             "En écoutant les gens dans la sphère privée.",
@@ -171,13 +170,13 @@
     {
         "id": 33,
         "testId": "152",
-        "text": "Il faut passer devant plusieurs tableaux de la collection permanente avant d'arriver à un seuil métallique qui marque l'entrée dans un espace entièrement vide. Il s'agit de l'exposition VIDE, une rétrospective présentée actuellement à Paris. 50 ans auparavant, un artiste lessivait pour la première fois une salle de musée. C'était en 1958. Yves Klein, célèbre notamment pour ses monochromes, avait alors présenté une salle de musée déserte. L'an dernier, le VIDE, en art contemporain, a donc soufflé ses 50 bougies(celebrated its 50th anniversary), l'occasion de faire le point sur cette histoire particulière. Le musée parisien consacre donc une rétrospective aux artistes qui depuis un demi-siècle ont proposé une autre approche du lieu d'exposition. \nq: Sur quels registres cette rétrospective joue-t-elle?",
+        "text": "Il faut passer devant plusieurs tableaux de la collection permanente avant d'arriver à un seuil métallique qui marque l'entrée dans un espace entièrement vide. Il s'agit de l'exposition VIDE, une rétrospective présentée actuellement à Paris. 50 ans auparavant, un artiste lessivait pour la première fois une salle de musée. C'était en 1958. Yves Klein, célèbre notamment pour ses monochromes, avait alors présenté une salle de musée déserte. L'an dernier, le VIDE, en art contemporain, a donc soufflé ses 50 bougies, l'occasion de faire le point sur cette histoire particulière. Le musée parisien consacre donc une rétrospective aux artistes qui depuis un demi-siècle ont proposé une autre approche du lieu d'exposition. Sur quels registres cette rétrospective joue-t-elle?",
         "audio": "/mp3/152/33.mp3",
         "options": [
             "L'humour: elle met en scène des produits ménagers.",
             "La provocation: elle présente des tableaux scandaleux.",
             "La répétition: elle montre des toiles absolument identiques.",
-            "Le paradoxe: elle expose une absence d'ceuvres."
+            "Le paradoxe: elle expose une absence d'œuvres."
         ],
         "answer": 3
     },
@@ -257,6 +256,6 @@
             "Elle réunit plusieurs générations au sein d'un même lectorat.",
             "Elle soutient la popularité du français auprès des enfants."
         ],
-        "answer": 3
+        "answer": 0
     }
 ]
