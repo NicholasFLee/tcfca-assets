@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 20,
         "testId": "150",
         "text": "Hélène Carrère d'Ancos, votre article nous informe du danger qui menace l'existence et le développement des lycées français de l'étranger. Oui, ces lycées étaient payants. Ils sont devenus gratuits en 2007. Cette décision au départ généreuse se retourne finalement contre les lycées, car les entreprises qui payaient ne le font plus. C'est l'État seul qui soutient les lycées, donc, quand cela deviendra trop lourd pour l'État, il risque de vouloir enfermer certains. Pour Hélène Carrère d'Ancos, quels sont les problèmes des lycées français de l'étranger ?",
@@ -15,7 +14,7 @@
     {
         "id": 21,
         "testId": "150",
-        "text": "Quelle froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui? Le soleil est un peu plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil. Il est plus grand que le soleil.",
+        "text": "Quel froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui?",
         "audio": "/mp3/150/21.mp3",
         "options": [
             "Il fait plus beau qu'hier.",
@@ -28,7 +27,7 @@
     {
         "id": 22,
         "testId": "150",
-        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier. Enfin, c'était une espèce de chanson que j'avais finie de recopier dans le bistrot en face de l'impasse Florimont, où il habitait. Et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite. Et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « J'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé.",
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier, enfin, c'était une espèce de chanson que j'avais fini de recopier dans le bistrot en face de l'impasse Florimont, où il habitait. Et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite. Et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « J'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé. Qu'aurait souhaité cette personne en allant chez Georges Brassens ?",
         "audio": "/mp3/150/22.mp3",
         "options": [
             "Lui apporter un livre.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "150",
-        "text": "Jusqu'en 1974, l'année où Anifra Tellini et Pierre Etek sont créés la première école de cirque en Europe, il fallait être né dans une famille pour apprendre ce métier. C'était obligatoire. Mais eux ont voulu justement créer une école pour permettre aux jeunes qui n'étaient pas issus des familles de cirque d'apprendre ce métier du cirque. Depuis, ça s'est énormément professionnalisé. De quelle évolution du monde du cirque parlent les intervenants ? C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie.",
+        "text": "Jusqu'en 1974, l'année où Anifra Tellini et Pierre Etek sont créés la première école de cirque en Europe, il fallait être né dans une famille pour apprendre ce métier. C'était obligatoire. Mais eux ont voulu justement créer une école pour permettre aux jeunes qui n'étaient pas issus des familles de cirque d'apprendre ce métier du cirque. Depuis, ça s'est énormément professionnalisé. De quelle évolution du monde du cirque parlent les intervenants ?",
         "audio": "/mp3/150/24.mp3",
         "options": [
             "La création de numéros innovants.",
@@ -67,7 +66,7 @@
     {
         "id": 25,
         "testId": "150",
-        "text": "Les agronomes travaillent beaucoup sur l'agroécologie. Notre modèle est très dépendant du pétrole et du gaz pour les engrais, le transport des denrées, l'énergie pour l'irrigation. Et avec un pétrole qui devient plus rare et plus cher, il s'agit donc de trouver des techniques moins gourmandes, comme l'explique Olivier Descuteurs, rapporteur spécial des Nations unies pour l'alimentation. Dans beaucoup de zones qui ne sont pas encore développées selon les méthodes agro-industriels de production, il faut effectivement mettre l'accent sur des pratiques agroécologiques qui par exemple permettent de recycler les déchets dans le champ pour fertiliser le champ ou qui permettent de combiner l'agroforesterie avec des cultures alimentaires pour économiser les engrais chimiques grâce à la fertilisation des sols par les arbres. Quelle piste est envisagée pour améliorer la production agricole ? Merci d'avoir regardé cette vidéo !",
+        "text": "Les agronomes travaillent beaucoup sur l'agroécologie. Notre modèle est très dépendant du pétrole et du gaz pour les engrais, le transport des denrées, l'énergie pour l'irrigation. Et avec un pétrole qui devient plus rare et plus cher, il s'agit donc de trouver des techniques moins gourmandes, comme l'explique Olivier Descuteurs, rapporteur spécial des Nations unies pour l'alimentation. Dans beaucoup de zones qui ne sont pas encore développées selon les méthodes agro-industriels de production, il faut effectivement mettre l'accent sur des pratiques agroécologiques qui par exemple permettent de recycler les déchets dans le champ pour fertiliser le champ ou qui permettent de combiner l'agroforesterie avec des cultures alimentaires pour économiser les engrais chimiques grâce à la fertilisation des sols par les arbres. Quelle piste est envisagée pour améliorer la production agricole ?",
         "audio": "/mp3/150/25.mp3",
         "options": [
             "Augmenter les espaces de terres cultivables.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "150",
-        "text": "À peine a-t-on le temps de s'habituer à être parents, que l'on doit préparer nos enfants à devenir autonomes puis à partir ? Ce moment où le jeune adulte quitte la maison est difficile effectivement ? Ce moment est difficile tant pour le parent que pour l'enfant. Les adolescents qui ont attendu parfois très longtemps ce temps de liberté, eux-mêmes, peuvent se retrouver démunis au moment de franchir la porte de la maison. Aujourd'hui les jeunes adultes vivent de plus en plus longtemps chez leurs parents. Tout à fait, on invoque des raisons économiques pour rester à la maison plus longtemps. Ceci est parfois lié aussi à une question d'immaturité. On est bien à la maison, maman et papa prennent soin de tout. Pratique quand même, loger nourri blanchi. Exactement. Selon la personne interrogée, qu'est-ce qui retient les jeunes adultes chez leurs parents ?",
+        "text": "À peine a-t-on le temps de s'habituer à être parents, que l'on doit préparer nos enfants à devenir autonomes puis à partir ? Ce moment où le jeune adulte quitte la maison est difficile effectivement ? Ce moment est difficile tant pour le parent que pour l'enfant. Les adolescents qui ont attendu parfois très longtemps ce temps de liberté, eux-mêmes, peuvent se retrouver démunis au moment de franchir la porte de la maison. Aujourd'hui les jeunes adultes vivent de plus en plus longtemps chez leurs parents. Tout à fait, on invoque des raisons économiques pour rester à la maison plus longtemps. Ceci est parfois lié aussi à une question d'immaturité. On est bien à la maison, maman et papa prennent soin de tout. Pratique quand même, « nourri, logé, blanchi ». Exactement. Selon la personne interrogée, qu'est-ce qui retient les jeunes adultes chez leurs parents ?",
         "audio": "/mp3/150/26.mp3",
         "options": [
             "La peur de faire de la peine à leur entourage familial.",
@@ -106,7 +105,7 @@
     {
         "id": 28,
         "testId": "150",
-        "text": "Léonard reçoit une éducation relativement libre, comme l'était celle de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui très jeune aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis en quelque sorte à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure, et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements.",
+        "text": "Léonard reçoit une éducation relativement libre, comme l'était celle de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui très jeune aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis en quelque sorte à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure, et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements. Qu’est-ce que Léonard a de particulier ?",
         "audio": "/mp3/150/28.mp3",
         "options": [
             "Sa mémoire exceptionnelle.",
@@ -158,7 +157,7 @@
     {
         "id": 32,
         "testId": "150",
-        "text": "En fait, comme on habite tous le 19e arrondissement de Paris, le canal de Lourdes qui est devenu notre espace de baignade quotidien. Après une journée de travail, généralement on se retrouve au bord du canal, tous ensemble, et on se baigne. Aujourd'hui on est entre 15 et 20 à se baigner régulièrement dans le canal de Lourdes. On est des jeunes étudiants fouchés(poor), qui ont envie de s'amuser, qui n'ont pas forcément les moyens aussi de partir de Paris. Que font les jeunes parisiens dont parle ce reportage?",
+        "text": "En fait, comme on habite tous le 19e arrondissement de Paris, le canal de l'Ourcq qui est devenu notre espace de baignade quotidien. Après une journée de travail, généralement on se retrouve au bord du canal, tous ensemble, et on se baigne. Aujourd'hui on est entre 15 et 20 à se baigner régulièrement dans le canal de l'Ourcq. On est des jeunes étudiants fouchés, qui ont envie de s'amuser, qui n'ont pas forcément les moyens aussi de partir de Paris. Que font les jeunes parisiens dont parle ce reportage?",
         "audio": "/mp3/150/32.mp3",
         "options": [
             "Ils nagent en plein air dans la capitale.",
@@ -166,7 +165,7 @@
             "Ils se retrouvent à la piscine municipale.",
             "Ils sont en vacances au bord de la mer."
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "id": 33,
@@ -205,7 +204,7 @@
             "Il partage la vision catastrophiste des écologistes.",
             "Il s'oppose aux décisions du gouvernement."
         ],
-        "answer": 1
+        "answer": 0
     },
     {
         "id": 36,
@@ -249,7 +248,7 @@
     {
         "id": 39,
         "testId": "150",
-        "text": "Dans les relations d'amitié virtuelle, bien souvent les liens se créent d'un clic, se défont d'un clic. Il y a une précarité de la relation humaine dans ces réseaux-là. Et puis même aussi dans les rencontres, on est appelé à faire sur le mode de l'instantanéité, dans le speed dating ou toutes les formes de speed meeting, qui fait qu'on s'aide à(rely on) l'affect du moment pour décider si on maintient une relation ou pas. Et donc tout le caractère durable et vertueux des amitiés à l'échelle d'une vie, on peut se poser la question de leur existence à l'avenir.",
+        "text": "Dans les relations d'amitié virtuelle, bien souvent les liens se créent d'un clic, se défont d'un clic. Il y a une précarité de la relation humaine dans ces réseaux-là. Et puis même aussi dans les rencontres, on est appelé à faire sur le mode de l'instantanéité, dans le speed dating ou toutes les formes de speed meeting, qui fait qu'on s'aide à l'affect du moment pour décider si on maintient une relation ou pas. Et donc tout le caractère durable et vertueux des amitiés à l'échelle d'une vie, on peut se poser la question de leur existence à l'avenir.",
         "audio": "/mp3/150/39.mp3",
         "options": [
             "La fragilité de l'engagement.",
