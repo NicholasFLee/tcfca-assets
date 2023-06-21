@@ -1,8 +1,7 @@
-[
-    {
+[{
         "id": 20,
         "testId": "161",
-        "text": "Vous avez vu l'heure? Oui, je sais, il est un peu tard. C'est la troisième fois que vous arrivez en retard cette semaine. Je m'excuse. Écoutez-moi bien, votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais.",
+        "text": "Vous avez vu l'heure? Oui, je sais, il est un peu tard. C'est la troisième fois que vous arrivez en retard cette semaine. Je m'excuse. Écoutez-moi bien, votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché. Qu’annonce le directeur à l’emploié?",
         "audio": "/mp3/161/20.mp3",
         "options": [
             "Il est possible qu’il soit renvoyé.",
@@ -41,7 +40,7 @@
     {
         "id": 23,
         "testId": "161",
-        "text": "Je me souviens très bien du premier livre, pas du premier livre lu, mais du premier à avoir provoqué en moi la joie de la lecture. Celui qui fait que je ne lis plus que des romans, parce que la lecture est pour moi le plaisir du récit qui construit de nouveaux mondes. C'était un volume du club D5 d'Eneed Blyton. Je ressens encore dans mon corps la qualité et l'intensité de cette lecture. S'absorber totalement dans le texte, devenir sourd et aveugle au monde, vivre l'action, avoir la vie pétillée et se teinter de nouvelles couleurs, nommer des sensations inconnues, entrevoir des passions nouvelles, refermer le livre avec bonheur et regret, et attendre le prochain avec une fièvreuse impatience.",
+        "text": "Je me souviens très bien du premier livre, pas du premier livre lu, mais du premier à avoir provoqué en moi la joie de la lecture. Celui qui fait que je ne lis plus que des romans, parce que la lecture est pour moi le plaisir du récit qui construit de nouveaux mondes. C'était un volume du club D5 d'Eneed Blyton. Je ressens encore dans mon corps la qualité et l'intensité de cette lecture. S'absorber totalement dans le texte, devenir sourd et aveugle au monde, vivre l'action, avoir la vie pétillée et se teinter de nouvelles couleurs, nommer des sensations inconnues, entrevoir des passions nouvelles, refermer le livre avec bonheur et regret, et attendre le prochain avec une fièvreuse impatience. Pourquoi cette personne aime-t-elle lire?",
         "audio": "/mp3/161/23.mp3",
         "options": [
             "Pour comprendre la société.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "161",
-        "text": "Eve Panofsky, vous êtes musicienne. Est-ce que vous avez toujours voulu jouer du violoncelle ? Quand j'étais petite, il y avait un piano chez des amis sur lequel je pianotais. Ensuite, j'ai essayé le banjo, la guitare, je m'approchais des cordes. Je recherchais en fait un instrument avec lequel je puisse faire durer le son. Un jour, je jouais avec mes copains d'école chez moi et j'ai mis un disque au hasard. C'était du violoncelle. Et là, ça m'a totalement aimanté. J'ai arrêté de jouer, j'étais aspirée par ce son. Pourquoi cette musicienne a-t-elle choisi le violoncelle ?",
+        "text": "Eve Panofsky, vous êtes musicienne. Est-ce que vous avez toujours voulu jouer du violoncelle ? Quand j'étais petite, il y avait un piano chez des amis sur lequel je pianotais. Ensuite, j'ai essayé le banjo, la guitare, je m'approchais des cordes. Je recherchais en fait un instrument avec lequel je puisse faire durer le son. Un jour, je jouais avec mes copains d'école chez moi et j'ai mis un disque au hasard. C'était du violoncelle. Et là, ça m'a totalement aimanté. J'ai arrêté de jouer, j'étais aspirée par ce son. Pourquoi cette musicienne a-t-elle choisi le violoncelle?",
         "audio": "/mp3/161/24.mp3",
         "options": [
             "Elle a été habituée très tôt par ses parents à écouter des œuvres pour violoncelle.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "161",
-        "text": "Lui récemment par le magazine Business Week, parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société sismique. Qui n'est pas un coup d'essai, ce diplômé de l'école des hautes études commerciales de Paris est devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi, il était commerçant. J'ai jamais eu vraiment envie de travailler pour qu'il soit d'autre que moi, y compris peu importe la taille de ce que je faisais, je pense que je serais volontiers, indépendants. J'ai toujours voulu créer ma propre entreprise dans l'internet, donc c'est les deux passions que j'ai toujours.",
+        "text": "Oui, il est récemment élu par le magazine Business Week. Parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société sismique, qui n'est pas un coup d'essai. Se diplômé de l'école des hautes études commerciales de Paris et devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi. J'étais commerçant. J'ai jamais eu vraiment envie de travailler pour qu'il soit d'autre que moi, y compris peu importe la taille de ce que je faisais. Je pense que je serais volontiers, indépendants. J'ai toujours voulu créer ma propre entreprise dans l'Internet. Donc c'est les deux passions que j'ai toujours. Que veut Loïc Lemaire ?",
         "audio": "/mp3/161/26.mp3",
         "options": [
             "Avoir la liberté d’être son propre patron.",
@@ -93,7 +92,7 @@
     {
         "id": 27,
         "testId": "161",
-        "text": "On s'est rendu compte que quand les oiseaux sont en V, celui qui est à la pointe du V dépense beaucoup d'énergie parce qu'il est le premier et qu'il doit percer l'air. Mais par contre, les autres qui sont tous derrière lui, bien alignés, un peu décalés, profitent des turbulences qu'il a créées et donc font des économies. Et l'idée, c'est que plus on est nombreux, plus on peut partager chacun son tour. Et donc, le premier, au bout d'un certain temps, quand il en a un peu assez, se décale et se met en bout de chaîne pour prendre la place de celui qui était derrière. Et c'est un nouveau qui va prendre sa place et qui fera l'effort initial. Quel est le rôle d'un oiseau de tête dans un vol groupé ? Merci d'avoir regardé cette vidéo !",
+        "text": "On s'est rendu compte que quand les oiseaux sont en V, celui qui est à la pointe du V dépense beaucoup d'énergie parce qu'il est le premier et qu'il doit percer l'air. Mais par contre, les autres qui sont tous derrière lui, bien alignés, un peu décalés, profitent des turbulences qu'il a créées et donc font des économies. Et l'idée, c'est que plus on est nombreux, plus on peut partager chacun son tour. Et donc, le premier, au bout d'un certain temps, quand il en a un peu assez, se décale et se met en bout de chaîne pour prendre la place de celui qui était derrière. Et c'est un nouveau qui va prendre sa place et qui fera l'effort initial. Quel est le rôle d'un oiseau de tête dans un vol groupé ?",
         "audio": "/mp3/161/27.mp3",
         "options": [
             "Il diminue les efforts de ceux qui le suivent.",
@@ -106,7 +105,7 @@
     {
         "id": 28,
         "testId": "161",
-        "text": "La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, on adoua un médecin, en fait, suisse, qui observait les abeilles en prenant son petit déjeuner à la terrasse de son chalet. Elles étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même à l'heure où il prenait son petit déjeuner, à l'heure normale. Donc c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. La première chose que je vais faire, c'est de faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre.",
+        "text": "La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, un médecin, en fait, suisse, qui observait les abeilles en prenant son petit déjeuner à la terrasse de son chalet. Elles étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même venues le chercher à l'heure où il prenait son petit déjeuner, à l'heure normale. Donc c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. Quelle conclusion le savant a-t-il tirée en observant les abeilles?",
         "audio": "/mp3/161/28.mp3",
         "options": [
             "Elles ont la notion du temps chronologique.",
@@ -132,7 +131,7 @@
     {
         "id": 30,
         "testId": "161",
-        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. à quel type d’entreprise appartient ce service?",
+        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. À quel type d’entreprise appartient ce service?",
         "audio": "/mp3/161/30.mp3",
         "options": [
             "Un groupe de centres d’appels téléphoniques.",
@@ -145,7 +144,7 @@
     {
         "id": 31,
         "testId": "161",
-        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces oeuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. quelle est l’hypothèse de la police sur les oeuvres volées?",
+        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces oeuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. Quelle est l’hypothèse de la police sur les oeuvres volées?",
         "audio": "/mp3/161/31.mp3",
         "options": [
             "Elles ont été revendues.",
@@ -158,20 +157,20 @@
     {
         "id": 32,
         "testId": "161",
-        "text": "C'est vrai que de temps en temps, on entend parler de nouvelles mesures pour l'emploi des jeunes. Bah c'est bien, mais dans mon entreprise, moi, je suis tout seul à m'occuper de tout et franchement, moi, j'ai pas le temps de remplir toute cette paperasse. Oui, mais il y a du nouveau. Le contrat jeune en entreprise. Si on emploie un jeune peu ou pas diplômé de 16 à 22 ans, c'est zéro charge pour l'entreprise pendant 2 ans et 50% la 3e année avec une simple déclaration à remplir auprès de l'État. Plus de soucis pour les petits patrons. C'est pas mal, non? quel est le public particulèrement visé par cette publicité.",
+        "text": "C'est vrai que de temps en temps, on entend parler de nouvelles mesures pour l'emploi des jeunes. Bah c'est bien, mais dans mon entreprise, moi, je suis tout seul à m'occuper de tout et franchement, moi, j'ai pas le temps de remplir toute cette paperasse. Oui, mais il y a du nouveau. Le contrat jeune en entreprise. Si on emploie un jeune peu ou pas diplômé de 16 à 22 ans, c'est zéro charge pour l'entreprise pendant 2 ans et 50% la 3e année avec une simple déclaration à remplir auprès de l'État. Plus de soucis pour les petits patrons. C'est pas mal, non? Quel est le public particulèrement visé par cette publicité?",
         "audio": "/mp3/161/32.mp3",
         "options": [
             "Les jeunes chefs d’entreprise.",
             "Les responsables de petites entreprises.",
             "Les directeurs d’entreprises publiques.",
-            "33 Les sociétés du secteur tertiaire."
+            "Les sociétés du secteur tertiaire."
         ],
         "answer": 1
     },
     {
         "id": 33,
         "testId": "161",
-        "text": "Lorsque je joue un personnage, j'essaie toujours de trouver un écho à ma propre histoire ou personnalité. J'ai envie d'être le plus sincère possible. Selon moi, jouer la comédie, c'est être dans la vérité de chaque instant. Je ne veux pas créer un personnage médiatique. Beaucoup d'artistes le font. Je ne veux pas vivre dans le mensonge ou la séduction. J'aime les rapports simples, j'aime rigoler, faire l'imbécile sans me soucier de mon image. Lorsque j'étais enfant, je rêvais d'avoir une vie ordinaire, être mariée à un homme normal, avoir des enfants et un peu d'argent aussi. Bref, tout ce que je n'avais pas à la maison. Je ne pensais pas du tout devenir actrice. comment la personne interviewée envisage-t-elle le média d’actrice?",
+        "text": "Lorsque je joue un personnage, j'essaie toujours de trouver un écho à ma propre histoire ou personnalité. J'ai envie d'être le plus sincère possible. Selon moi, jouer la comédie, c'est être dans la vérité de chaque instant. Je ne veux pas créer un personnage médiatique. Beaucoup d'artistes le font. Je ne veux pas vivre dans le mensonge ou la séduction. J'aime les rapports simples, j'aime rigoler, faire l'imbécile sans me soucier de mon image. Lorsque j'étais enfant, je rêvais d'avoir une vie ordinaire, être mariée à un homme normal, avoir des enfants et un peu d'argent aussi. Bref, tout ce que je n'avais pas à la maison. Je ne pensais pas du tout devenir actrice. Comment la personne interviewée envisage-t-elle le média d’actrice?",
         "audio": "/mp3/161/33.mp3",
         "options": [
             "Comme la possibilité de s’évader dans d’autres vies.",
@@ -223,7 +222,7 @@
     {
         "id": 37,
         "testId": "161",
-        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire(to be told) après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu’est-ce que l’utilisation d’Internet apporte au processus de recrutement?",
+        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu’est-ce que l’utilisation d’Internet apporte au processus de recrutement?",
         "audio": "/mp3/161/37.mp3",
         "options": [
             "Une diminution de la longueur des entretiens.",
