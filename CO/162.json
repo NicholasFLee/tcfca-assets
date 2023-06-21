@@ -1,8 +1,7 @@
-[
-    {
+[{
         "id": 20,
         "testId": "162",
-        "text": "Bonjour, je suis un client de l'Hôtel Royal et j'aimerais découvrir Montréal. Le plus simple est de vous inscrire sur une des listes suivantes. Ce sont des itinéraires touristiques dans les différents quartiers. Vous avez le choix entre plusieurs thèmes, comme par exemple histoire, architecture… D'accord. J'écris donc mon nom et mon numéro de téléphone, c'est bien ça? Oui. Vous pouvez aussi nous donner votre courriel. Parfait. Je m'inscris donc au circuit gastronomie. À demain.",
+        "text": "Bonjour, je suis un client de l'Hôtel Royal et j'aimerais découvrir Montréal. Le plus simple est de vous inscrire sur une des listes suivantes. Ce sont des itinéraires touristiques dans les différents quartiers. Vous avez le choix entre plusieurs thèmes, comme par exemple histoire, architecture… D'accord. J'écris donc mon nom et mon numéro de téléphone, c'est bien ça? Oui. Vous pouvez aussi nous donner votre courriel. Parfait. Je m'inscris donc au circuit gastronomie. À demain. Que souhaite ce touriste?",
         "audio": "/mp3/162/20.mp3",
         "options": [
             "Acheter un guide.",
@@ -23,12 +22,12 @@
             "Le secrétariat de son département.",
             "L'université étrangère qui l'intéresse."
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "id": 22,
         "testId": "162",
-        "text": "Té, café, trois cafés les garçons! Julie, café aussi? Euh non, je préférerais un thé. Nature? Citron, bergamote? Ce que tu veux, avec un peu de lait. Trois cafés et deux thé au lait. Je n'en ai pas pour longtemps. Continuez à jouer, distribuez sans moi. Que font les amis? Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas. Je ne sais pas.",
+        "text": "Té, café, trois cafés les garçons! Julie, café aussi? Euh non, je préférerais un thé. Nature? Citron, bergamote? Ce que tu veux, avec un peu de lait. Trois cafés et deux thé au lait. Je n'en ai pas pour longtemps. Continuez à jouer, distribuez sans moi. Que font les amis?",
         "audio": "/mp3/162/22.mp3",
         "options": [
             "Ils dînent au restaurant.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "162",
-        "text": "Bonjour à tous, aujourd'hui nous recevons Philippe Bouchard, sociologue, qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu'est-ce qui provoque ces conflits ? Ils sont de toute nature, de l'habillement à l'argent de poche, en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ? C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie. C'est une question de la vie.",
+        "text": "Bonjour à tous, aujourd'hui nous recevons Philippe Bouchard, sociologue, qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu'est-ce qui provoque ces conflits ? Ils sont de toute nature, de l'habillement à l'argent de poche, en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ?",
         "audio": "/mp3/162/24.mp3",
         "options": [
             "Elles entrent dans la vie active avant les jeunes garçons.",
@@ -67,7 +66,7 @@
     {
         "id": 25,
         "testId": "162",
-        "text": "CDV formation, bonjour. Bonjour. Je suis intéressé par votre formation en vente. Oui ? Quel est votre parcours ? Je suis déménageur depuis 4 ans. Je voudrais me réorienter. Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente. Je vois. Mais j'y pense. J'ai travaillé deux étés comme question en supermarché. C'est suffisant ? Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature. Je m'en occupe. Merci. Au revoir. Au revoir. Pour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ? Sous-titrage ST'501",
+        "text": "CDV formation, bonjour. Bonjour. Je suis intéressé par votre formation en vente. Oui ? Quel est votre parcours ? Je suis déménageur depuis 4 ans. Je voudrais me réorienter. Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente. Je vois. Mais j'y pense. J'ai travaillé deux étés comme guichetier en supermarché. C'est suffisant ? Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature. Je m'en occupe. Merci. Au revoir. Au revoir. Pour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
         "audio": "/mp3/162/25.mp3",
         "options": [
             "Il a quatre ans d'expérience.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "162",
-        "text": "C'était Gérard Pasquier qui avait fait un concours. J'avais gagné ce concours pour aller dans le Michigan faire des tests de prête à porter. Dans une belle ford Mustang, je crapaillutais un peu partout. Je me suis pris un maximum de portes fermées. Puis à un moment, j'ai trouvé quand même que dans la collection, au lieu d'avoir les 5 valises, il y avait 7-8 modèles qui se vendaient. Donc j'ai fait ma petite valise avec les 7-8 modèles. J'ai trouvé les endroits où ça se vendait. C'était les boutiques qui étaient dans les universités. Parce qu'il y a des centres commerciaux dans les universités. Et là, je suis devenu un super-bandeur de Gérard Pasquier dans les universités.",
+        "text": "C'était Gérard Pasquier qui avait fait un concours. J'avais gagné ce concours pour aller dans le Michigan faire des tests de vente de prêt-à-porter. Dans une belle ford Mustang, je crapahutais un peu partout. Je me suis pris un maximum de portes fermées. Puis à un moment, j'ai trouvé quand même que dans la collection, au lieu d'avoir les 5 valises, il y avait 7-8 modèles qui se vendaient. Donc j'ai fait ma petite valise avec les 7-8 modèles. J'ai trouvé les endroits où ça se vendait. C'était les boutiques qui étaient dans les universités. Parce qu'il y a des centres commerciaux dans les universités. Et là, je suis devenu un super-vendeur de Gérard Pasquier dans les universités. Comment cet homme a-t-il développé ces ventes prêt-à-porter ?",
         "audio": "/mp3/162/26.mp3",
         "options": [
             "Il a créé un partenariat avec une marque de voiture.",
@@ -93,7 +92,7 @@
     {
         "id": 27,
         "testId": "162",
-        "text": "Delphine Mansot, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ? On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça, ça prend ? Alors, comment rend-on un étudiant innovant, par exemple ? Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ? Merci d'avoir regardé cette vidéo !",
+        "text": "Delphine Mansot, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ? On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça, ça prend ? Alors, comment rend-on un étudiant innovant, par exemple ? Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
         "audio": "/mp3/162/27.mp3",
         "options": [
             "En les incitant à travailler de manière collaborative.",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "162",
-        "text": "Au coup de sifflet, elle commence à se rassembler les femmes de Tienaba avec leurs outils et la ferme intention de barrer la route aux moustiques. Cela s'appelle une séance de nettoyage. El Adjidiop, le président de l'association Sopé Mohamed, a de quoi être satisfait. De 3 459 cas de paludisme à Tienaba, il n'y en a aujourd'hui plus que 52. Les habitants se sont organisés en comité de salubrité chargés de mettre en place les séances de nettoyage mais aussi les séances d'information dans les lieux publics. À force d'être sensibilisés, la population a pris l'habitude d'utiliser les moustiquaires imprégnés, des moustiquaires que certains s'offrent même désormais en cadeau de mariage ou lors d'une naissance. Le véritable succès de cette initiative est que toute la localité s'est mobilisée pour lutter contre le paludisme. C'est-à-dire pour éviter l'élément décisif dans la lutte contre le paludisme dans le village de Tienaba.",
+        "text": "Au coup de sifflet, elle commence à se rassembler les femmes de Tienaba avec leurs outils et la ferme intention de barrer la route aux moustiques. Cela s'appelle une séance de nettoyage. El Adjidiop, le président de l'association Sopé Mohamed, a de quoi être satisfait. De 3 459 cas de paludisme à Tienaba, il n'y en a aujourd'hui plus que 52. Les habitants se sont organisés en comité de salubrité chargés de mettre en place les séances de nettoyage mais aussi les séances d'information dans les lieux publics. À force d'être sensibilisés, la population a pris l'habitude d'utiliser les moustiquaires imprégnés, des moustiquaires que certains s'offrent même désormais en cadeau de mariage ou lors d'une naissance. Le véritable succès de cette initiative est que toute la localité s'est mobilisée pour lutter contre le paludisme. Quel a été l'élément décisif dans la lutte contre le paludisme dans le village de Tienaba?",
         "audio": "/mp3/162/29.mp3",
         "options": [
             "L'obligation d'acheter des moustiquaires.",
@@ -184,7 +183,7 @@
     {
         "id": 34,
         "testId": "162",
-        "text": "Produire plus et mieux en respectant la capacité de renouvellement de nos ressources alimentaires et en tenant compte des évolutions climatiques, Jacques Arignan, est-ce possible et réaliste? C'est à mon avis possible et réaliste. Toutefois, je ne pense pas qu'il faille(faut sub.) détruire de la forêt pour regagner des terres cultivables. Je pense qu'on peut les reconquérir sur des territoires qui sont actuellement dégradés. C'est ainsi que je vois produire davantage et produire mieux, à condition de bien connaître les milieux auxquels on va s'appliquer et à condition d'être extrêmement vigilant sur les procédures à employer pour produire davantage. Quelle solution propose Jacques Arignan?",
+        "text": "Produire plus et mieux en respectant la capacité de renouvellement de nos ressources alimentaires et en tenant compte des évolutions climatiques, Jacques Arignan, est-ce possible et réaliste? C'est à mon avis possible et réaliste. Toutefois, je ne pense pas qu'il faille détruire de la forêt pour regagner des terres cultivables. Je pense qu'on peut les reconquérir sur des territoires qui sont actuellement dégradés. C'est ainsi que je vois produire davantage et produire mieux, à condition de bien connaître les milieux auxquels on va s'appliquer et à condition d'être extrêmement vigilant sur les procédures à employer pour produire davantage. Quelle solution propose Jacques Arignan?",
         "audio": "/mp3/162/34.mp3",
         "options": [
             "Accroître les zones agricoles en déforestant.",
@@ -197,7 +196,7 @@
     {
         "id": 35,
         "testId": "162",
-        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès.",
+        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu'apprend-on sur l'équipe des Canadiens de Montréal?",
         "audio": "/mp3/162/35.mp3",
         "options": [
             "C'est un exemple de réussite par le sport.",
