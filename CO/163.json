@@ -2,14 +2,14 @@
         "id": 20,
         "testId": "163",
         "options": [
-            "Il fait beau qu’hier.",
+            "Il fait plus beau qu'hier.",
             "Il fait plus mauvais qu’hier.",
             "Il pleut plus qu’hier.",
             "Il y a moins de soleil qu’hier."
         ],
         "audio": "/mp3/163/20.mp3",
         "answer": 0,
-        "text": "Pouh ! Quel froid ce matin ! Ouais, mais au moins il y a du soleil. C'est sûr, à côté de hier, la pluie de ta journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Qu'est-ce qu'on vend ? Qu'est-ce que tu dis aujourd'hui ?"
+        "text": "Quel froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui?"
     },
     {
         "id": 21,
@@ -22,7 +22,7 @@
         ],
         "audio": "/mp3/163/21.mp3",
         "answer": 3,
-        "text": "Vous êtes là ? Bonjour Madame Meynail, est-ce qu'il vous amène pour nous ? Et bien ma voiture a un problème au démarrage de l'hiver. Elle démarre assez bien, oui. Elle s'arrête plus que moi depuis 10 minutes. Vous pouvez voir si ça se passe ? Alors maintenant ? Ce n'est pas possible. Donatez. Oh c'est dommage, j'en ai vraiment besoin bien de Donatez maintenant. Attendez, je regarde mon ingénieur. Donatez. Laissez la voiture toute la nuit et vous la reprennez ce soir. Enchanté. C'est vraiment très gentil Donatez. Alors ce soir, merci. Question 21. Que la chère Fion ? La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ? Oui. La chère Fion ?"
+        "text": "Bonjour Madame Leveil, est-ce qu'il vous amène aujourd'hui ? Eh bien ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien et puis elle s'arrête brusquement au bout de dix minutes. Vous voulez voir ce qui se passe ? Alors, maintenant? C'est pas possible. Demain peut-être. Ah c'est dommage, j'en ai vraiment besoin de demain pour essayer d'avoir. Attendez, je regarde mon agenda. Bon écoutez, laissez la voiture toute l'après-midi et vous la reprendrez ce soir. Elle sera prête. C'est vraiment très gentil de votre part. Alors à ce soir, merci. Que va faire la cliente ?"
     },
     {
         "id": 22,
@@ -35,7 +35,7 @@
         ],
         "audio": "/mp3/163/22.mp3",
         "answer": 1,
-        "text": "T'as pas de gâteau ? Tu as vu ? Je t'ai pris ton gâteau préféré. Tu as pris un nom de quatre ? Tu appelles le nom de quatre ? Prends-en main. Il y en a quatre pour le pays de Troyes. Poula, attention ! Est-ce que je te compte qu'il y a un rat qui me fait des super marchés avec une télé de d'un nom et des mots comme ça ? Qu'est-ce que tu veux dire par des mots comme ça ? Bah, tu achètes un nom de quatre paquets de gâteau en pensant que c'est moins cher que le style que tu achètes séparément. Et après, sinon, c'est du vol. Pardon ? Pardon, je vais aller le vérifier alors. Question 22. Pourquoi les super marchés ont-ils été condamnés à ouvrir les amendes ? Merci d'avoir regardé cette vidéo."
+        "text": "Je t'ai pris ton gâteau préféré. Tu as pris un nom de quatre ? Tu appelles le nom de quatre ? Prends-en main. Il y en a quatre pour le pays de Troyes. Poula, attention ! Est-ce que je te compte qu'il y a un rat qui me fait des super marchés avec une télé de d'un nom et des mots comme ça ? Qu'est-ce que tu veux dire par des mots comme ça ? Bah, tu achètes un nom de quatre paquets de gâteau en pensant que c'est moins cher que le style que tu achètes séparément. Et après, sinon, c'est du vol. Pardon ? Pardon, je vais aller le vérifier alors. Pourquoi les super marchés ont-ils été condamnés à ouvrir les amendes?"
     },
     {
         "id": 23,
@@ -48,7 +48,7 @@
         ],
         "audio": "/mp3/163/23.mp3",
         "answer": 1,
-        "text": "Bonjour, bonjour. Monsieur, bonjour. Bonjour, je voudrais des vies pour la course. Le 3 août, au soir, deux adultes, deux enfants, un chien, une voiture et quatre méos. Je regrette monsieur, mais pour cette date, ce ne sera pas possible. C'est compliqué pour les vies. Il y a une possibilité pour le 5 août, mais on reste une semaine. Pas pour le 5 août en dernier. Je vous règle maintenant. Non, vous êtes vélo de l'emmarchement. Je vous rappelle qu'il faut vous présenter à la gare de rétine de ce rabot et que le chien devra être deux ans à l'est tout le temps du trajet. C'est d'accord ou non s'il vous plaît ? Dernier. Je vous retourne à la question. Bon séjour en Corse. Merci. Question 20, soir, pourquoi le voyage en Corse est-il impossible le 3 août ? Le 3 août, au soir, deux enfants, un chien, un voiture, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien, un chien"
+        "text": "Monsieur, bonjour. Bonjour, je voudrais des vies pour la Corse. Le 3 août, au soir, deux adultes, deux enfants, un chien, une voiture et quatre méos. Je regrette monsieur, mais pour cette date, ce ne sera pas possible. C'est complet pour les véhicules. Il y a une possibilité pour le 5 août, mais on reste une semaine. Pas pour le 5 août en dernier. Je vous règle maintenant. Non, vous êtes vélo de l'emmarchement. Je vous rappelle qu'il faut vous présenter à la gare de rétine de ce rabot et que le chien devra être deux ans à l'est tout le temps du trajet. C'est d'accord ou non s'il vous plaît ? Dernier. Je vous retourne à la question. Bon séjour en Corse. Merci. Pourquoi le voyage en Corse est-il impossible le 3 août ?"
     },
     {
         "id": 24,
@@ -61,7 +61,7 @@
         ],
         "audio": "/mp3/163/24.mp3",
         "answer": 2,
-        "text": "Bonjour ! On a malgré la profité d'études peu dureuses, mais si les cousins ont un rapport aux études supérieures, vous êtes complètement bien compliqués par rapport à ce qu'on connaît et pense. Compréhendant la France, nous on est vraiment dans un programme prédéfini avec une autre chose, portez-nous en commande, vous n'avez pas vraiment le choix. Oui, j'ai plus qu'à le dire, mais merci. Je prie des cours sur la presse, sur mon collègue, sur... Non, c'est horrible. Oui, mais bon, c'est marrant de voir la vision. Par exemple, eux, ils disent pas la vie que t'as de votre carré, mais la vie que toi, de votre carré. Question 24. Pourquoi le Quattel a-t-elle apprécié ses études par l'Allemagne ?"
+        "text": "En Allemagne, Cattel a profité d'études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ce qu'on connaît en France. Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n'a pas vraiment le choix. Là j'ai pu choisir mes matières, j'ai pris des cours sur la presse, sur Napoléon. Napoléon c'est original ça ? Oui Napoléon, c'est marrant de voir la vision. Par exemple eux ils disent pas la défaite de Waterloo mais la victoire de Waterloo. Pourquoi Cattel a-t-elle apprécié ses études en Allemagne ?"
     },
     {
         "id": 25,
@@ -74,7 +74,7 @@
         ],
         "audio": "/mp3/163/25.mp3",
         "answer": 0,
-        "text": "Vous êtes où ? Pour améliorer les apparences, vous n'êtes pas dans une salle de danse, mais dans une école pour le droit innovant et unique à Marseille. Ici, pour l'ancienne bien sûr, vous avez la classe essentielle, mais aussi la côté musicale, la cuisine, ouvrir et réprécier. Cette école farit surtout depuis cinq ans sur la pédagogie active de reutilisation dans la télé de l'ensemble. On écoute cette adresse, Christophe de l'Égalisme. La pédagogie active, c'est une pédagogie qui implique les élèves dans son apprentissage. Il y a des acteurs, c'est-à-dire qu'on va le familialiser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'opinonie tout en prenant le plaisir à apprendre. Selon la directrice de cette école, quel est l'objectif de la pédagogie active ? La pédagogie active, c'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie. C'est une question de la pédagogie."
+        "text": "Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école pour le moins innovante et unique à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de remotivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement. La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un tête ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre. Selon la directrice de cette école, quel est l'objectif de la pédagogie active ?"
     },
     {
         "id": 26,
@@ -87,7 +87,7 @@
         ],
         "audio": "/mp3/163/26.mp3",
         "answer": 1,
-        "text": "Il va faire chaud cette semaine, très chaud. La chaleur va être difficile à supporter. Cette situation fait des affaires des professionnels du tourisme de la montagne. Là-bas, pendant la nuit, les températures vont de 12 à 15 degrés, ce qui permet de mieux se reposer. Pendant la journée, il est possible de faire des activités nautiques dans de l'eau bien fraîche, c'est ce dont tout le monde rêve actuellement. Question ratifique. Ce n'est un reportage que font les touristes pendant les grandes chaleurs."
+        "text": "Il va faire chaud cette semaine, très chaud. La chaleur va être difficile à supporter. Cette situation fait des affaires des professionnels du tourisme de la montagne. Là-bas, pendant la nuit, les températures vont de 12 à 15 degrés, ce qui permet de mieux se reposer. Pendant la journée, il est possible de faire des activités nautiques dans de l'eau bien fraîche, c'est ce dont tout le monde rêve actuellement. Selon le reportage que font les touristes pendant les grandes chaleurs."
     },
     {
         "id": 27,
@@ -100,7 +100,7 @@
         ],
         "audio": "/mp3/163/27.mp3",
         "answer": 2,
-        "text": "Tu me connais ? Salut, chère Digitte, ça va ? Oui, très bien. Tu sais que je cherchais le travail. Eh bien, maintenant que tu es tombée, je ne suis pas très contente. Pourquoi ? Tu ne touche pas assez d'argent ? Non ! C'est que deux fois par semaine, je commence à se faire du bâtard et à l'humeur de chez moi en plus. Ah, c'est beau ! Et comment tu fais le travail pour les enfants ? Non, j'ai une passion logique, mais moi, imagine. Je ne sais pas comment je vais faire pour récupérer. Tu vas dormir la semaine. Question 27. De quoi soutenez-vous la vie ?"
+        "text": "Salut Géraldine, ça va ? Non, pas trop. Tu sais que je cherchais du travail ? Eh bien, maintenant que je l'ai trouvé, je ne suis pas très contente. Pourquoi ? Tu ne touches pas assez d'argent ? Non ! C'est que deux fois par semaine, je commence à 6 heures du matin et à une heure de chez moi en plus. Oh c'est tôt ! Et comment tu vas faire pour les enfants ? Oh, Gilles va s'en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer. Tu vas dormir les week-ends ? De quoi se plaint Géraldine ?"
     },
     {
         "id": 28,
@@ -113,7 +113,7 @@
         ],
         "audio": "/mp3/163/28.mp3",
         "answer": 0,
-        "text": "Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun. Oui, je suis d'accord. D'autant que nous avons eu des incompréhensions entre nous ces derniers mois. D'après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s'arrête dans le projet. Tout à fait d'accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de soufflarder, on ne sera jamais d'accord au sein de ce service. Sans compter que ça ne nous fait pas gagner de temps. Bien. Alors, mettons ça à l'ordre de la régulée d'équipe de demain. Question 21. Quel est l'objet de la discussion ? La question est la question de la question. La question est la question de la question. La question est la question. La question est la question. La question est la question."
+        "text": "Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun. Oui, je suis d'accord. D'autant que nous avons eu des incompréhensions entre nous ces derniers temps. D'après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s'arrête dans le projet. Tout à fait d'accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de tout faire, on ne sera jamais d'accord au sein de ce service. Sans compter que ça ne nous fait pas gagner de temps. Bien. Alors, mettons ça à l'ordre de la réunion d'équipe de demain. Quel est l'objet de la discussion?"
     },
     {
         "id": 29,
@@ -126,7 +126,7 @@
         ],
         "audio": "/mp3/163/29.mp3",
         "answer": 1,
-        "text": "Vous vous rappelez ? Imagine pouvoir faire le tour du monde sans avoir à payer pour te loger. Imagine partager une culture différente avec une personnalité totalement gratuite. À rêve, imaginez, ça existe. Depuis lors au bout du monde, près de 300 000 personnes ont fait à bas marché et hors des services psychogrammés grâce à l'hospitalité des morts ou des réseaux sociaux qui s'étend sur les cinq continents. Son fondateur, de l'étudiant à l'ombre 22 ans, a ce projet final de pouvoir la faire par les changes<|es|> pour la culture. Question passée, Nel. Que propose ce reportage ?"
+        "text": "Imagine pouvoir faire le tour du monde sans avoir à payer pour te loger. Imagine partager des cultures différentes avec des guides personnalisés, totalement gratuits. Arrête d'imaginer, ça existe. Depuis l'an 2000, près de 300 000 personnes l'ont fait, à bon marché et hors des circuits touristiques programmés grâce à l'hospitalité des membres d'un réseau social qui s'étend sur les 5 continents. Son fondateur, jeune étudiant allemand de 22 ans, assure que l'objectif final est de promouvoir la paix par l'échange interculturel. Que propose ce reportage ?"
     },
     {
         "id": 30,
@@ -139,7 +139,7 @@
         ],
         "audio": "/mp3/163/30.mp3",
         "answer": 2,
-        "text": "Tupi-tupi ! Alors François, c'est encore une fois ton rêve de quitter le paysage ? Bien que l'on s'il assigne pour quelqu'un qui s'en arrive au repriseur du paysage pour justifier ses retards du haut. Quoi alors ? Qui, François, a éliminé l'arrêt de travail dans le métro ? Non, pas cette fois-ci, tu vois. Mais comme l'extraterrestre s'arrête comme de souvent, on est même plus d'attente que ça revienne. Et aujourd'hui, si tu veux tout savoir, ça a pris plus de 15 heures. Mais moi, monsieur, je ne pollue pas à matin et soir avec ma voiture. Qu'est-ce que t'en penses ? Pour quelle raison François est-il arrivé dans le plan ?"
+        "text": "Alors François, c'est encore une fois ton rêve de quitter le paysage ? Bien que l'on s'il assigne pour quelqu'un qui s'en arrive au repriseur du paysage pour justifier ses retards du haut. Quoi alors ? Qui, François, a éliminé l'arrêt de travail dans le métro ? Non, pas cette fois-ci, tu vois. Mais comme l'extraterrestre s'arrête comme de souvent, on est même plus d'attente que ça revienne. Et aujourd'hui, si tu veux tout savoir, ça a pris plus de 15 heures. Mais moi, monsieur, je ne pollue pas à matin et soir avec ma voiture. Pour quelle raison François est-il arrivé dans le gare ?"
     },
     {
         "id": 31,
@@ -152,7 +152,7 @@
         ],
         "audio": "/mp3/163/31.mp3",
         "answer": 3,
-        "text": "N'oubliez pas que je dirige ce service et que vous devez faire ce que je vous demande. Je suis prêt à dialoguer avec vous à propos de l'organisation des livraisons. N'hésitez pas à me mettre en pause ma manière de travailler dans votre bureau. Question 31. Que fait ce chef de service ? N'oubliez pas que je vous demande."
+        "text": "N'oubliez pas que je dirige ce service et que vous devez faire ce que je vous demande. Je suis prêt à dialoguer avec vous à propos de l'organisation des livraisons. N'hésitez pas à me mettre en pause ma manière de travailler dans votre bureau. Que fait ce chef de service ?"
     },
     {
         "id": 32,
@@ -165,7 +165,7 @@
         ],
         "audio": "/mp3/163/32.mp3",
         "answer": 3,
-        "text": "C'est pas un problème. C'est pas un problème. Je veux une grande variation sur les façons de gérer l'argent. Mais on voit plus en même deux grands logiques dans lesquels on peut vraiment faire. L'éloge de nous dans la chronologie, dont c'est ce qui touche directement le plus sur l'économie générale, le concept de l'économie générale, envers la politique sociale. C'est vraiment une idée de la chronologie. Ça donne l'impression aussi qu'elle est vue en accélérant et qu'elle est vue aussi par-là de quelle redistribution qu'il demande les terres. Mais enfin, peu le faire, mais de plus en plus de gens gèrent ces paréments, dont les détails de la nationalité, comme vous le disiez justement parce que les lumières ne peuvent être de l'argent ou non à la bonne possibilité à la main de chez cette famille. Qu'est-ce qui en trente-neuf? Selon cette interromante, qu'est-ce qui modifie la gestion de l'argent au sein de la famille?"
+        "text": "Je vois une grande variation sur les façons de gérer l'argent. On retrouve quand même deux grands logiques, dans lesquels il y a tout de suite une montre. L'une, c'est une mise en commun des revues, donc c'est tout à fait en réponse aux revues générales, les concerts de revues générales qu'on veut dans les politiques sociales. C'est la mise en commun des revues, ça donne l'impression aussi qu'elles ont accès à l'argent et que l'on suit par la régulière redistribution qui demande des termes. Mais enfin, peu de fois, mais de plus en plus de gens gèrent séparément. On voit une détente internationale aussi, comme vous disiez, justement parce que les fabricants de l'argent n'ont pas de possibilité en train de gérer ces termes. Selon cette intervente, qu'est-ce qui modifie la gestion de l'argent au sein de la famille?"
     },
     {
         "id": 33,
@@ -178,7 +178,7 @@
         ],
         "audio": "/mp3/163/33.mp3",
         "answer": 0,
-        "text": "Bonjour les élus à Frontier-Lec-Télévue. On va commencer par les opportunités au Téléc. Fillez-lez-vous qu'elle en recherche plus de 300 délimitres pour faire face à une certaine délégation. Chaque année, ce 90 diplômé selon 10 à 15 se consacre aux soins des animaux inférés. C'est qu'elle pratique auprès des animaux évages et particulièrement des tigantes. Le travail demande beaucoup de déplacements ou bon état de cuisine et une disponibilité 24h sur 24 et 17 jours de sept. Pour ces raisons, peu de gens diplômés sont attirés par le travail d'un campagne et les territoires de certain âge continuent sous le genre à ce qu'ils ne puissent pas en passer. Merci d'avoir regardé cette vidéo."
+        "text": "Bonjour et bienvenue à France-Québec TV. On va commencer par les opportunités au Québec. Figurez-vous que l'on recherche plus de 300 vétérinaires pour faire face à une certaine pénurie. Chaque année, sur 90 diplômés, seulement 10 à 15 se consacrent au soin des animaux de ferme. C'est que la pratique auprès des animaux d'élevage est particulièrement exigeante. Le travail demande beaucoup de déplacements, une bonne forme physique et une disponibilité 24 heures sur 24 et 7 jours sur 7. Pour ces raisons, peu de jeunes diplômés sont attirés par le travail à la campagne et les vétérinaires d'un certain âge continuent souvent parce qu'ils n'ont personne pour les remplacer. Quel est le problème exposé?"
     },
     {
         "id": 34,
@@ -191,7 +191,7 @@
         ],
         "audio": "/mp3/163/34.mp3",
         "answer": 3,
-        "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France, et ce nombre a vocation à grossir. Aujourd'hui, les seniors, c'est 23% de la population française. Bientôt, ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent, des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonnet, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance. Dans ce reportage, qu'apprend-on sur les seniors ? Merci d'avoir regardé cette vidéo."
+        "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France, et ce nombre a vocation à grossir. Aujourd'hui, les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emplois qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance. Dans ce reportage, qu'apprend-on sur les seniors?"
     },
     {
         "id": 35,
@@ -204,7 +204,7 @@
         ],
         "audio": "/mp3/163/35.mp3",
         "answer": 0,
-        "text": "20% du bassin arctique canadien est devenu corrosif pour certains de ses habitants. On s'inquiète beaucoup ainsi de l'élargissement de ces fameuses zones mortes dans les océans, là où l'oxygène et la vie se sont retirés. Elles sont particulièrement nombreuses le long de la troisième côte océanique canadienne, donc le long de la province de la Colombie-Britannique. Denis Gilbert est chercheur scientifique au ministère canadien de Pêches et Océans Canada. Dans lui, il faut savoir dépasser les simplement chètes alarmistes des journaux, basés souvent sur les cris d'alarme des environnementalistes. Le phénomène des zones mortes ou de l'hypoxie n'est pas nouveau et ce n'est pas obligatoirement une mauvaise chose. La preuve, en tout cas, reste à faire. Sous-titrage ST'501"
+        "text": "20% du bassin arctique canadien est devenu corrosif pour certains de ses habitants. On s'inquiète beaucoup ainsi de l'élargissement de ces fameuses zones mortes dans les océans, là où l'oxygène et la vie se sont retirées. Elles sont particulièrement nombreuses le long de la troisième côte océanique canadienne, donc le long de la province de la Colombie-Britannique. Denis Gilbert est chercheur scientifique au ministère canadien de pêche et océans Canada. Selon lui, il faut savoir dépasser les simples manchettes alarmistes des journaux, basées souvent sur les cris d'alarme des environnementalistes. Le phénomène des zones mortes ou de l'hypoxie n'est pas nouveau, et ce n'est pas obligatoirement une mauvaise chose. La preuve, en tout cas, reste à faire. Quelle est la position du chercheur Denis Gilbert?"
     },
     {
         "id": 36,
@@ -217,7 +217,7 @@
         ],
         "audio": "/mp3/163/36.mp3",
         "answer": 1,
-        "text": "Bonjour, j'espère bien que vous êtes bien cher pour votre品. On vous conseille de réaliser une étude de marché, mais je dois vous avouer que je ne sais pas exactement comment faire. L'étude de marché consiste à valider votre projet en identifiant sur le terrain vos compétences et clients possibles et à spécifier vos objectifs et vos services. Oui, mais je connais bien le secteur dans lequel je m'engage et je dispose déjà des informations. Quelle est la réaction de cet homme ?"
+        "text": "Bonjour, j'espère bientôt devenir chef entreprise. On me conseille de réaliser une étude de marché, mais je dois vous avouer que je ne sais pas exactement comment le faire. L'étude de marché consiste à valider votre projet en identifiant sur le terrain vos concurrents et vos clients financiers, et à définir que votre organisation a besoin de vos produits ou de vos services. Oui, mais je connais bien le secteur dans lequel je m'engage et je dispose déjà des informations. Ne négligez pas cette étape, elle vous permet de définir vos stratégies commerciales pour atteindre vos objectifs. Quelle est la réaction de cet homme?"
     },
     {
         "id": 37,
@@ -230,7 +230,7 @@
         ],
         "audio": "/mp3/163/37.mp3",
         "answer": 0,
-        "text": "Alors, il y a une nouvelle question qui m'a vraiment intéressée, où je vais aller voir toutes les films que je pense que vous pourrez bien jouer sur le commerce, par exemple les enfants identiques, ou vous aussi ? Je vais arriver au cours des jeux, il existe des références de la piste, notamment sur la question de la capacité d'embauchage, ou alors avec un lit d'embauchage dans le tas de patience. Après, dans tous les cas, il n'y a pas d'automisation pour l'embauchage pour éviter l'embauchage. Question française De quoi s'étend le premier interlocuteur ?"
+        "text": "Bonjour à tous, Noël est passé, et bien maintenant on va s'intéresser aux jouets et à leur conception. Je pensais qu'on ne pouvait pas mettre un jouet sur le commerce s'il n'était pas sain pour les enfants et pour les grands aussi, parce qu'il y a des grands qui jouent aussi un petit peu, normal. Alors il est vrai que pour les jouets, il existe des réglementations qui s'appliquent, notamment sur l'interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n'y a pas d'autorisation de mise sur le marché comme ça existe pour les médicaments. De quoi s’étonne le premier interlocuteur?"
     },
     {
         "id": 38,
@@ -243,7 +243,7 @@
         ],
         "audio": "/mp3/163/38.mp3",
         "answer": 0,
-        "text": "Bonjour Monsieur le secrétaire général, le réseau Alliance Française vous présente en cent d'autres pays du monde, existe depuis plus de 130 ans. Comment expliquez-vous une telle vitalité ? Tout d'abord, cela tient à son mode de fonctionnement original. Alors oui intervivre ceux qui y travaillent n'a pas de but de faire l'édifice. Le repas à son principe venait du pari potacieux de ces mandateurs et faciles ingéniers. Le personnel des alliances est principalement composé d'étrangers, des députés tachés, des expatriés et des progrès à l'univers, grâce à l'appui et au soutien du ministère des Affaires étrangères. Et néanmoins, il n'existe aucune alliance française, strictement française. Et dans chaque pays, il y a un conseil d'administration à caractère local, parfaitement responsable en contact avec la Fondation, mais dans une grande autonomie. Et pourtant que les principes mêmes de l'Alliance française dans le pays soient affectés."
+        "text": "Bonjour, Monsieur le Secrétaire Général. Le réseau de l'Agence française, présent dans 128 pays du monde, existe depuis plus de 130 ans. Comment expliquez-vous une telle vitalité? Tout d'abord, cela tient à son mode de fonctionnement original. Or, oui, interdire celui qui travaille n'a pas le but de faire des bénéfices. D'autre part, son principe venait du pari potassieux de ses fondateurs et de ses salariés. Le personnel des Alliances est principalement composé d'étrangers, des détachés, des expatriés et des grangeurs à l'Unicef, grâce à l'appui et au soutien du ministère des Affaires étrangères. Néanmoins, il n'existe aucune Alliance française strictement française. Dans chaque pays, il y a un conseil d'administration à caractère local, parfaitement responsable, en contact avec la Fondation, mais dans une grande autonomie. Et pourtant, que les principes mêmes de l'Alliance française dans le monde soient respectés. D'après la personne interrogée, sur quoi compose la légitimité des Alliances françaises?"
     },
     {
         "id": 39,
@@ -256,6 +256,6 @@
         ],
         "audio": "/mp3/163/39.mp3",
         "answer": 0,
-        "text": "On part au principe que nos fils comporteraient les pinces comme ça, que si on prend la garde, ils vont être expulsés de nos jambes, tout le temps, de l'attention de nos actions. On est sans direction en train de nous arracher dans des actions, de faire les choses dans les mains, dans notre cerveau. Soit nous nous reposons dans des dispatches, où on a un certain réchauffement, ou on a une couple de la musique, ou on se fasse affiner à aucun moment notre cerveau, notre surmonstre très simple qui est d'être là, conscient jusqu'au bout, conscient, partiel, à l'humanité naturelle, et juste contenter, ressentir ces pinces. Question 39. Selon la Père Romane, qu'est-ce qui est actuel dans nos vies contemporaines ? Sous-titrage ST'501"
+        "text": "On part du principe que nos vies contemporaines étant ce qu'elles sont, peu à peu, si on n'y prend pas garde, vont être expulsées de nos journées, tous les temps d'attente, de non-action. On est sans arrêt soit en train de nous engager dans des actions, faire des choses avec nos mains ou avec notre cerveau, soit nous nous reposons dans des distractions. On regarde si on a des messages sur internet, on écoute de la musique, on se passe un film, mais à aucun moment notre cerveau n'entre sur un mode très simple qui est d'être là, conscient que je suis vivant, conscient que j'appartiens à un ordre naturel, et juste contempler et ressentir ce phénomène. Selon l’intervenant qu’est-ce qui caractérise nos vies comtemporaines?"
     }
 ]
