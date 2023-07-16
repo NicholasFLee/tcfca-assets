@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "151",
-        "text": "Ralentissement du traitement de l’information, baisse de l’attention et de notre mémorisation à court terme. Avec l’âge le vieillissement du cerveau semble inévitable. Pourtant notre mode de vie. Il est ainsi primordial, après la soixantaine de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d’interactions avec les autres et également de cultiver les activités associatives ou sportives par exemple.",
+        "text": "Ralentissement du traitement de l’information, --baisse de l’attention et de notre mémorisation à court terme--. Avec l’âge le vieillissement du cerveau semble inévitable. Pourtant notre mode de vie. Il est ainsi primordial, après la soixantaine de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d’interactions avec les autres et également de cultiver les activités associatives ou sportives par exemple.",
         "query": "Quel est l’objectif des conseils donnés dans ce texte?",
         "options": [
             "Améliorer les capacités physiques",
@@ -14,7 +14,7 @@
     {
         "id": 21,
         "testId": "151",
-        "text": "LA NÉO-RURALITÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ. Cette dénomination date des années 70: c’est le retour à la terre. Alors que la désertification des campagnes se poursuit, un mouvement de population inverse s’opère. Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68. Issues de toutes les classes sociales, elles ne recherchent pas spécialement le confort. Elles veulent avant tout vivre une expérience, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
+        "text": "LA NÉO-RURALITÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ. Cette dénomination date des années 70: c’est le retour à la terre. Alors que la désertification des campagnes se poursuit, un mouvement de population inverse s’opère. Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68. Issues de toutes les classes sociales, elles ne recherchent pas spécialement le confort. Elles veulent avant tout --vivre une expérience--, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
         "query": "Que veulent les néo-ruraux?",
         "options": [
             "Accéder à la propriété privée.",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "151",
-        "text": "Un jour, en réfléchissant aux raisons qui m’avaient éloigné d’une carrière universitaire pourtant bien partie afin de me consacrer à mon travail de médecin praticien, j’ai compris que mon choix tenait en partie du fait que l’on riait beaucoup plus ou contact des êtres humains plongés dans la vie qu’à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j’avais suivi le soleil de cette vibration qui fabrique du bonheur, du lien, de la santé. Je ne l’ai jamais regretté.",
+        "text": "Un jour, en réfléchissant aux raisons qui m’avaient éloigné d’une carrière universitaire pourtant bien partie afin de me consacrer à mon travail de médecin praticien, j’ai compris que mon choix tenait en partie du fait que --l’on riait beaucoup plus en contact des êtres humains-- plongés dans la vie qu’à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j’avais suivi le soleil de cette vibration qui fabrique du bonheur, du lien, de la santé. Je ne l’ai jamais regretté.",
         "query": "Qu’est-ce qui a guidé l’auteur dans ses choix professionnels?",
         "options": [
             "L’attirance pour les études.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "151",
-        "text": "Difficile d’affirmer qu’on attendait beaucoup de ce film. En effet, avec le réalisateur du très moyen Maison bleue aux commandes, Franck Christian et Articus dans les rôles principaux, cette comédie partait avec plusieurs handicaps du côté du capital sympathie. Des handicaps qui allaient demander un bon paquet de qualités pour nous convaincre qu’Imperturbable n’était pas juste un énième bouche-trou pour prime time télévisuel tel qu’on continue à en voir toutes les semaines. Résultat: o miracle, les qualités d’un bon film sont là! Et même plus encore!",
+        "text": "Difficile d’affirmer qu’on attendait beaucoup de ce film. En effet, avec le réalisateur du très moyen Maison bleue aux commandes, Franck Christian et Articus dans les rôles principaux, --cette comédie partait avec plusieurs handicaps-- du côté du capital sympathie. Des handicaps qui allaient demander un bon paquet de qualités pour nous convaincre qu’Imperturbable n’était pas juste un énième bouche-trou pour prime time télévisuel tel qu’on continue à en voir toutes les semaines. Résultat: --o miracle, les qualités d’un bon film sont là!-- Et même plus encore!",
         "query": "Que pense cette personne de ce film?",
         "options": [
             "Elle le trouve juste bon pour la télévision.",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "151",
-        "text": "La Maison de campagne: Ce restaurant offre à sa clientèle un bel espace articulé en trois salles: cuisine, salle à manger et salon, décorées dans un joli style provençal. On choisit même sa bouteille de vin à la cave, comme à la maison! Malheureusement, bien que les plats proposés soient élaborés à partir de produits frais sélectionnés au marché, la cuisine reste une cuisine vue et revue, tellement prévisible qu’il vaudra mieux choisir un restaurant en ville plutôt que se perdre dans cette campagne-là.",
+        "text": "La Maison de campagne: Ce restaurant offre à sa clientèle un bel espace articulé en trois salles: cuisine, salle à manger et salon, décorées dans un joli style provençal. On choisit même sa bouteille de vin à la cave, comme à la maison! Malheureusement, bien que les plats proposés soient élaborés à partir de produits frais sélectionnés au marché, --la cuisine reste une cuisine vue et revue, tellement prévisible-- qu’il vaudra mieux choisir un restaurant en ville plutôt que se perdre dans cette campagne-là.",
         "query": "Sur quel point porte la critique négative faite à ce restaurant?",
         "options": [
             "L’originalité des plats.",
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "151",
-        "text": "L’éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation Informatique, appelée « code ». Le but n’est pas de faire de tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif constituera par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, la vitesse laquelle les technologies numériques ont changé a été bien supérieure à celle de l’évolution de la formation des équipes pédagogiques.",
+        "text": "L’éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation Informatique, appelée « code ». Le but n’est pas de faire de tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif constituera par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, --la vitesse-- laquelle les technologies numériques ont changé a été bien supérieure à celle de --l’évolution de la formation des équipes pédagogiques--.",
         "query": "Qu’apprend-on sur l’enseignement du code à l’école?",
         "options": [
             "Les enfants ont des difficultés de concentration dans ce domaine",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "151",
-        "text": "Suite au peu d’intérêt porté à la formation professionnelle à Montréal, cinq comités scolaires ont décidé de lancer un projet pour encourager les élèves à choisir cette vois plutôt que celle des études longues. Ils ont ainsi créé un guide organisationnel et pédagogique régional, un outil qui servira aux enseignants à faire connaitre aux élèves les différentes possibilités de carrière dans la formation en apprentissage « d’ici dix ans 30% des besoins de main-d’œuvre vont exiger des compétences professionnelles. Pas des diplômes universitaires a rappelé Antonio Bernard, l’un des principaux créateurs du projet.",
+        "text": "Suite au --peu d’intérêt porté à la formation professionnelle-- à Montréal, cinq comités scolaires ont décidé de lancer un projet pour --encourager les élèves à choisir cette vois-- plutôt que celle des études longues. Ils ont ainsi créé un guide organisationnel et pédagogique régional, un outil qui servira aux enseignants à faire connaitre aux élèves les différentes possibilités de carrière dans la formation en apprentissage « d’ici dix ans 30% des besoins de main-d’œuvre vont exiger des compétences professionnelles. Pas des diplômes universitaires a rappelé Antonio Bernard, l’un des principaux créateurs du projet.",
         "query": "Quel est l’objectif de ce projet?",
         "options": [
             "Faire la promotion de l’apprentissage d’un métier auprès des jeunes",
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "151",
-        "text": "En écrivant à la main, chacun trouve son moyen de tracer son rythme et choisit son moment et ses mots. Le monde de la communication par texto, lui est celui d’une communication homogène. Avec la numérisation des échanges, on ne connait plus l’attente d’une lettre ou d’une carte postale. Rendez-vous avec un ami: un SMS pour qu’on arrive dans cinq minutes, un autre dès qu’on est arrivé un autre si on est en retard. Bienvenu dans un monde sans attente ou tous les vides doivent être comblés.",
+        "text": "En écrivant à la main, chacun trouve son moyen de tracer son rythme et choisit son moment et ses mots. Le monde de la communication par texto, lui est celui d’une communication homogène. Avec la numérisation des échanges, on ne connait plus l’attente d’une lettre ou d’une carte postale. Rendez-vous avec un ami: --un SMS pour qu’on arrive dans cinq minutes, un autre dès qu’on est arrivé un autre si on est en retard.-- Bienvenu dans --un monde sans attente ou tous les vides doivent être comblés--.",
         "query": "qu’apprend-on sur la communication numérique?",
         "options": [
             "Elle appauvrit le lexique courant.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "151",
-        "text": "Marilyn Monroe était une grande actrice mais aussi une énigme. Ce qui est frappant c’est que tout le monde l’aime. Il y a toujours toutes générations confondues, une tendresse, une compréhension, un attachement à son égard. Son souvenir reste vif. Elle voulait que ce soit toujours mieux. Toujours plus intense. Elle était en quête de l’absolu, ce qui se traduisait à l’écran par un don de soi total. Elle ne comptait pas. Et Marilyn Monroe continue de hanter les consciences parce qu’elle a donné plus que d’autres.",
+        "text": "Marilyn Monroe était une grande actrice mais aussi une énigme. Ce qui est frappant c’est que tout le monde l’aime. Il y a toujours toutes générations confondues, une tendresse, une compréhension, un attachement à son égard. Son souvenir reste vif. Elle voulait que ce soit toujours mieux. Toujours plus intense. --Elle était en quête de l’absolu, ce qui se traduisait à l’écran par un don de soi total--. Elle ne comptait pas. Et Marilyn Monroe continue de hanter les consciences parce qu’elle a donné plus que d’autres.",
         "query": "Selon l’auteur qu’est ce qui explique la passion du public pour l’actrice Marylin Monroe?",
         "options": [
             "L’affection qu’elle portait à ses admirateurs.",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "151",
-        "text": "Je photographiais parce qu’il le fallait mais avec toujours le sentiment que cela représentait une perte de temps, une perte d’attention. Pourtant j’ai beaucoup aimé et pas mal pratiqué la photographie dans mon adolescence. Mon père était artiste peintre et bricolait beaucoup la photo. Mais la photographie constitue un métier à part, si je puis dire. Ce que j’ai fait est un travail de photographe au niveau zéro. J’ai publié un livre de photos (Saudades do Brazil que l’on peut traduire par Nostalgie du Brésil) parce qu’autour de moi, on a beaucoup Insisté. L’éditeur a choisi un peu moins de 200 clichés parmi tant d’autres.",
+        "text": "--Je photographiais parce qu’il le fallait-- mais avec toujours le sentiment que cela représentait une perte de temps, une perte d’attention. --Pourtant j’ai beaucoup aimé et pas mal pratiqué la photographie dans mon adolescence--. Mon père était artiste peintre et bricolait beaucoup la photo. Mais la photographie constitue un métier à part, si je puis dire. Ce que j’ai fait est un travail de photographe au niveau zéro. J’ai publié un livre de photos (Saudades do Brazil que l’on peut traduire par Nostalgie du Brésil) parce qu’autour de moi, on a beaucoup Insisté. L’éditeur a choisi un peu moins de 200 clichés parmi tant d’autres.",
         "query": "Quelle relation Claude Lévi-Strauss a-t-il entretenu avec la photographie?",
         "options": [
             "Il a hérité de son père cette fascination qui ne l’a jamais quitté.",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "151",
-        "text": "Dans une éducationqui prône l’épanouissement de l’enfant, l’obéissance a mauvaise presse. En partie parce qu’elle est confondue avec la soumission. Mais ça n’en est pas une. C’est une construction culturelle qui demande aussi aux parents de se contrôler. C’est de ce mouvement de retenu que nait l’obéissance intelligente qui fait appel à la participation active de l’enfant et qui est basée sur le respect réciproque, contrairement à celle obtenue par la contrainte et la menace. L’obéissance intelligente demande de réajuster en permanence ses exigences en fonction de l’âge de l’enfant car le rôle des parents est d’accompagner leur enfant jusqu’au point où il va conquérir sa liberté. Or ce passage ne se fait jamais dans la soumission.",
+        "text": "Dans une éducationqui prône l’épanouissement de l’enfant, l’obéissance a mauvaise presse. En partie parce qu’elle est confondue avec la soumission. Mais ça n’en est pas une. C’est une construction culturelle qui demande aussi aux parents de se contrôler. C’est de ce mouvement de retenu que nait l’obéissance intelligente qui fait appel à la participation active de l’enfant et --qui est basée sur le respect réciproque--, contrairement à celle obtenue par la contrainte et la menace. L’obéissance intelligente demande de réajuster en permanence ses exigences en fonction de l’âge de l’enfant car le rôle des parents est d’accompagner leur enfant jusqu’au point où il va conquérir sa liberté. Or ce passage ne se fait jamais dans la soumission.",
         "query": "Qu’explique le texte au sujet de l’éducation des enfants?",
         "options": [
             "Elle doit se fonder sur l’estime mutuelle.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "151",
-        "text": "Solitude, conflit avec les parents, difficultés scolaires… Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte. Fil Santé Jeunes a vu ses visites augmenter de 313% ces dernières années. De l’autre côté de l’écran, animateurs et psychologues s’efforcent de maintenir le contact et de prolonger la discussion. L’entreprise est délicate puisque les regards et les gestes ne peuvent être pris en compte par le professionnel. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situatoin similaire.",
+        "text": "Solitude, conflit avec les parents, difficultés scolaires… Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte. Fil Santé Jeunes a vu ses visites augmenter de 313% ces dernières années. De l’autre côté de l’écran, animateurs et psychologues s’efforcent de maintenir le contact et de prolonger la discussion. L’entreprise est délicate --puisque les regards et les gestes ne peuvent être pris en compte par le professionnel--. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situatoin similaire.",
         "query": "À quelle difficulté se heurtent les spécialistes?",
         "options": [
             "L’absence totale des signes visuels du langage.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "151",
-        "text": "La commission européenne s’était penchée sur la demande d’adhésion à l’Union de l’Islande moins de deux semaines après la requête, preuve que le pays possédait des atouts indéniables, jusqu’alors, l’Islande avait été peu disposée à entrer dans l’Union. Toutefois, suite à l’effondrement de ses principaux établissements financiers et à la chute du cours de la couronne, la monnaie islandaise, le pays avait vu dans cette adhésion et dans l’adoption de l’euro un moyen de stabiliser son économie. Pour le président de l’Union, cette volonté d’intégrer l’espace européen renforçait la crédibilité du projet communautaire de l’ancien continent. L’Islande avait fini par retirer sa demande suita à un changement de gouvernement et pour éviter des sujets épineux comme les quotas de pêche.",
+        "text": "La commission européenne s’était penchée sur la demande d’adhésion à l’Union de l’Islande moins de deux semaines après la requête, preuve que le pays possédait des atouts indéniables, jusqu’alors, l’Islande avait été peu disposée à entrer dans l’Union. Toutefois, suite à l’effondrement de ses principaux établissements financiers et à la chute du cours de la couronne, la monnaie islandaise, le pays avait vu dans cette adhésion et dans l’adoption de l’euro --un moyen de stabiliser son économie--. Pour le président de l’Union, cette volonté d’intégrer l’espace européen renforçait la crédibilité du projet communautaire de l’ancien continent. L’Islande avait fini par retirer sa demande suita à un changement de gouvernement et pour éviter des sujets épineux comme les quotas de pêche.",
         "query": "Selon cet article pourquoi l’Islande avait-elle souhaite entre dans l’Union Européenne?",
         "options": [
             "Pour bénéficier des aides financières de l’Union.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "151",
-        "text": "Le terme «famille monoparentale» évoque le plus souvent les mères qui élèvent seuls leurs enfants, éludant la réalité des pères confrontés à cette situation. Le développement de la garde alternée a conduit les pères à faire face à des situations auxquelles Ils n’étaient pas forcément préparés. De même que les femmes qui élèvent seuls leurs enfants sont parfois démunies par l’absence du père, notamment pour exercer leur notorité, certains hommes ont du mal à trouver leur juste place. Ces hommes font encore l’objet d’un regard particulier de la société. Contrairement aux mères ils doivent très souvent justifier leur statut. On considère encore qu’un enfant, dans les premières années de sa vie, ne peut grandir correctement qu’en présence d’un figure maternelle.",
+        "text": "Le terme «famille monoparentale» évoque le plus souvent les mères qui élèvent seuls leurs enfants, éludant la réalité des pères confrontés à cette situation. Le développement de la garde alternée a conduit les pères à faire face à des situations auxquelles Ils n’étaient pas forcément préparés. De même que les femmes qui élèvent seuls leurs enfants sont parfois démunies par l’absence du père, notamment pour exercer leur notorité, certains hommes ont du mal à trouver leur juste place. --Ces hommes font encore l’objet d’un regard particulier de la société--. Contrairement aux mères ils doivent très souvent justifier leur statut. On considère encore qu’un enfant, dans les premières années de sa vie, ne peut grandir correctement qu’en présence d’un figure maternelle.",
         "query": "Quelle est l’idée abordée par le texte?",
         "options": [
             "L’absence du père oblige les mères à mettre leur vie affective entre parenthèse.",
@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "151",
-        "text": "Des chercheurs mettent en doute l’idée répandue, que la langue dont nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventées par des locuteurs sourds.",
+        "text": "Des chercheurs mettent en doute l’idée répandue, que la langue dont nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, --les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe)--, suivant celui des langues des signes inventées par des locuteurs sourds.",
         "query": "Quel est le résultat de l’article présenté par ce texte?",
         "options": [
             "Les gestes révèleraient systématiquement la langue maternelle des locuteurs.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "151",
-        "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. «Il faut laisser le temps scolaire», estime une experte. ",
+        "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, --on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants--, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. «Il faut laisser le temps scolaire», estime une experte. ",
         "query": "Que reprochent les députés à la semaine de quatre jours?",
         "options": [
             "De laisser trop de temps à l’oisiveté.",
@@ -209,7 +209,7 @@
     {
         "id": 36,
         "testId": "151",
-        "text": "J’ai commencé ma vie comme je la finirais sans doute: au milieu des livres. Dans le bureau de mon grand-père, il y en avait partout; défense était faite de les épousseter sauf une fois l’an, avant la rentrée d’octobre je ne savais pas encore lire que, déjà je les révérais. Je les touchais en cachette pour honorer mes mains de leur poussière mais je ne savais trop qu’en faire. Mon grand-père maniait ses objets culturels avec une dextérité d’officiant. Je l’ai vu mille fois se lever d’un air absent, faire le tour de sa table, traverser la pièce en deux enjambées, prendre un volume sans hésiter, le feuilleter en regagnant son fauteuil puis, à peine assis l’ouvrit d’un coup sec à la bonne page.",
+        "text": "J’ai commencé ma vie comme je la finirais sans doute: au milieu des livres. --Dans le bureau de mon grand-père--, il y en avait partout; défense était faite de les épousseter sauf une fois l’an, avant la rentrée d’octobre je ne savais pas encore lire que, déjà je les révérais. Je les touchais en cachette pour honorer mes mains de leur poussière mais je ne savais trop qu’en faire. Mon grand-père maniait ses objets culturels avec une dextérité d’officiant. --Je l’ai vu mille fois se lever d’un air absent, faire le tour de sa table, traverser la pièce en deux enjambées, prendre un volume sans hésiter, le feuilleter en regagnant son fauteuil puis, à peine assis l’ouvrit d’un coup sec à la bonne page.--",
         "query": "Que fait l’écrivain dans cet extrait?",
         "options": [
             "Il revit les souvenirs lointains dans le bureau de la maison familiale.",
@@ -222,7 +222,7 @@
     {
         "id": 37,
         "testId": "151",
-        "text": "Le monde de l’éducation a atteint son ambition, devenir la référence nationale en matière d’enseignement. Un succès confirmé par une récente enquête qui nous crédite d’un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires… Où le Monde de l’éducation est le magazine français le plus «photocopillé». Environ 4000 exemplaires vendus pour plus d’un million cent mille lecteurs! Un écart vente-lectorat devenu insupportable. Depuis 1974, le Monde de l’éducation a accompli de nombreuses transformations. Après 34 ans au service de l’éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
+        "text": "Le monde de l’éducation a atteint son ambition, devenir la référence nationale en matière d’enseignement. Un succès confirmé par une récente enquête qui nous crédite d’un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires… Où le Monde de l’éducation est le magazine français le plus «photocopillé». --Environ 4000 exemplaires vendus pour plus d’un million cent mille lecteurs!-- Un écart vente-lectorat devenu insupportable. Depuis 1974, le Monde de l’éducation a accompli de nombreuses transformations. Après 34 ans au service de l’éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
         "query": "Qu’est-ce qui a justifié la transformation du Monde de l’éducation?",
         "options": [
             "Une adéquation avec l’attente des lecteurs.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "151",
-        "text": "Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsable des établissements, les usagers de la nuit aux nuisances sonores? telle est la mission des pierrots de la nuit, ces nouvelles «brigades d’intervention artistique nocturnes» qui sensibilisent le public de nuit. L’originalité de la méthode interpelle les noctambules s’interrogent: qui sont les pierrots de la nuit? que font-ils et pourquoi? L’art de rue n’est pas ressenti comme une agression, en revanche il force l’écoute et le respecte. Le silence n’est pas une répression mais une forme de partage.",
+        "text": "Utiliser la comédie, le mime ou la danse pour --sensibiliser les riverains, les responsable des établissements, les usagers de la nuit aux nuisances sonores--? telle est la mission des pierrots de la nuit, ces nouvelles «brigades d’intervention artistique nocturnes» qui sensibilisent le public de nuit. L’originalité de la méthode interpelle les noctambules s’interrogent: qui sont les pierrots de la nuit? que font-ils et pourquoi? L’art de rue n’est pas ressenti comme une agression, en revanche il force l’écoute et le respecte. Le silence n’est pas une répression mais une forme de partage.",
         "query": "Quel est l’objectif poursuivi par les Pierrots de la nuit?",
         "options": [
             "Améliorer la cohabitation entre les habitants et les noctambules",
@@ -248,7 +248,7 @@
     {
         "id": 39,
         "testId": "151",
-        "text": "Si vous pensez pouvoir comprendre un poème, pourvu que l’on vous laisse le temps d’y réfléchir, ou que l’on vous laisse en paix pour vous y absorber, et si vous refusez de voir les choses autrement, alors vous pourriez bien vous priver d’un texte qui a peut-être été écrit expressément pour n’être lu ou réciter que dans des circonstances bien précises, qui elles-mêmes peuvent réclamer l’absence des conditions que vous vous efforcez d’imposer. Ce qu’on appelle «l’usage» que vous l’ayez instituée ou adopté par imitation, peut ainsi aller à l’encontre de l’efficacité. Il ne suffit pas d’affirmer que «ses règles sont «sacro-saintes» elles ne le sont pas, ne peuvent pas l’être et personne l’apportera la preuve qu’elles le sont.",
+        "text": "Si vous pensez pouvoir comprendre un poème, pourvu que l’on vous laisse le temps d’y réfléchir, ou que l’on vous laisse en paix pour vous y absorber, et si vous refusez de voir les choses autrement, alors vous pourriez bien vous priver d’un texte qui a peut-être été écrit expressément pour n’être lu ou réciter que dans des circonstances bien précises, qui elles-mêmes peuvent réclamer l’absence des conditions que vous vous efforcez d’imposer. --Ce qu’on appelle «l’usage» que vous l’ayez instituée ou adopté par imitation, peut ainsi aller à l’encontre de l’efficacité--. Il ne suffit pas d’affirmer que «ses règles sont «sacro-saintes» elles ne le sont pas, ne peuvent pas l’être et --personne l’apportera la preuve qu’elles le sont--.",
         "query": "Quelles règles établies sont dénoncées dans ce texte?",
         "options": [
             "Celles des critiques.",

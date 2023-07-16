@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "149",
-        "text": "Job d’été, la première expérience. Quand une entreprise fait appel pour la première fois à un jeune, elle n’a pas d’attente vis-à-vis de ses compétences professionnelles, c’est donc sur son comportement que vont se porter ses critères d’évaluation. Même saisonnier. Il faut monter qu’on a vraiment envie de décrocher un job. Les jeunes sans expérience ont tout intérêt à parler de leur passion et à démontrer leur motivation. Pour un employeur, c’est ce qui reste souvent le critère le plus important.",
+        "text": "Job d’été, la première expérience. Quand une entreprise fait appel pour la première fois à un jeune, elle n’a pas d’attente vis-à-vis de ses compétences professionnelles, c’est donc sur son comportement que vont se porter ses critères d’évaluation. Même saisonnier. Il faut --monter qu’on a vraiment envie de décrocher un job--. Les jeunes sans expérience ont tout intérêt à parler de leur passion et à démontrer leur motivation. Pour un employeur, c’est ce qui reste souvent le critère le plus important.",
         "query": "Selon l’article, que faut-il faire pour trouver un job d’été?",
         "options": [
             "Exposer l’ensemble de ses qualités professionnelles.",
@@ -14,7 +14,7 @@
     {
         "id": 21,
         "testId": "149",
-        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l’entreprise d’un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu’avoir de la nostalgie pour les temps héroïques ou une bande de copains inventait les codes de la nouvelle cuisine. Aujourd’hui, n’importe quel jeune cuisinier est prêt à payer très cher pour le privilège d’un stage de six mois chez un «Grand chef». Il rentabilisera vite cet Investissement en s’autoproclamant élève de car les marques des grands chefs ne cessent de prendre de la valeur.",
+        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l’entreprise d’un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu’avoir de la nostalgie pour les temps héroïques ou une bande de copains inventait les codes de la nouvelle cuisine. Aujourd’hui, n’importe quel jeune cuisinier est prêt à payer très cher pour le privilège d’un stage de six mois chez un «Grand chef». Il rentabilisera vite cet Investissement en s’autoproclamant élève de car --les marques des grands chefs ne cessent de prendre de la valeur.--",
         "query": "Qu’apprend-on sur les grands chefs?",
         "options": [
             "Leur conception de la cuisine est passée de mode.",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "149",
-        "text": "Non, Maupassant n’est pas qu’un écrivain pour cours de français. Comme tout bon auteur culte, ses thématiques sont percutantes, grinçantes, toutjours d’actualité. Et tellement vraies dans le fond: hypocrisie de la bourgeoisie, monde paysan décrit sans artifice, rapports humains aliénés par le contexte social et culturel… Du pain bénit pour les auteurs de «Chez Maupassant», une collection de huit téléfilms tirés des contes et nouvelles du grand Guy.",
+        "text": "Non, Maupassant n’est pas qu’un écrivain pour cours de français. Comme tout bon auteur culte, ses thématiques sont percutantes, grinçantes, toutjours d’actualité. Et tellement vraies dans le fond: hypocrisie de la bourgeoisie, monde paysan décrit sans artifice, rapports humains aliénés par le contexte social et culturel… Du pain bénit pour les auteurs de «Chez Maupassant», --une collection de huit téléfilms-- tirés des contes et nouvelles du grand Guy.",
         "query": "Que présente l’auteur de l’article?",
         "options": [
             "Des adaptations télévisées de Maupassant.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "149",
-        "text": "Elle devait être démolie et un nouveau lieu de culte reconstruit à l’arrière de l’église actuelle, le long du boulevard. Le projet, qui prévoyait la restructuration complète de l’îlot avec la création de logements sociaux, ne verra finalement pas le jour. La ville et le diocèse ont pris la décision de conserver l’église Sainte-Madeleine considérant avec certains experts que sa démolition aurait causé la perte regrettable d’un élément important du patrimoine nantais. Des travaux d’urgence vont être réalisés avant le lancement d’un véritable programme de restauration et de mise en valeur du bâtiment.",
+        "text": "Elle devait être démolie et un nouveau lieu de culte reconstruit à l’arrière de l’église actuelle, le long du boulevard. Le projet, qui prévoyait la restructuration complète de l’îlot avec la création de logements sociaux, ne verra finalement pas le jour. La ville et le diocèse ont pris la décision de conserver l’église Sainte-Madeleine considérant avec certains experts que sa démolition aurait causé la perte regrettable d’un élément important du patrimoine nantais. Des travaux d’urgence vont être réalisés avant le lancement d’un véritable programme de --restauration et de mise en valeur du bâtiment.--",
         "query": "Selon cet article, quelle décision a été prise?",
         "options": [
             "Bâtir une église identique dans le quartier.",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "149",
-        "text": "L’insecte pourrait devenir une solution économique à notre appétit de protéines. Vous attrapez trots grillons déshydratés et les enfournez dans votre bouche: vous voilà mangeur d’insectes. Vous contribuez à la préservation des ressources. En effet, il faut 10 kg de céréales pour produire 1 kg de boeuf ou 9 kg d’insectes. La demande mondiale de protéines va doubler et les insectes, c’est riche en protéines. Depuis l’an dernier, la communauté européenne subventionne les projets de recherche dans ce secteur. Les grands groupes alimentaires s’intéressent au sujet, mais attendent que les citoyens soient psychologiquement prêts.",
+        "text": "L’insecte pourrait devenir une solution économique à notre appétit de protéines. Vous attrapez trots grillons déshydratés et les enfournez dans votre bouche: vous voilà mangeur d’insectes. Vous contribuez à la préservation des ressources. En effet, il faut 10 kg de céréales pour produire 1 kg de boeuf ou 9 kg d’insectes. --La demande mondiale de protéines va doubler et les insectes, c’est riche en protéines.-- Depuis l’an dernier, la communauté européenne subventionne les projets de recherche dans ce secteur. Les grands groupes alimentaires s’intéressent au sujet, mais attendent que les citoyens soient psychologiquement prêts.",
         "query": "Qu’apprend-on sur la production d’insectes?",
         "options": [
             "C’est une réponse à des besoins alimentaires accrus.",
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "149",
-        "text": "Ces dernières années, les nouvelles versions de films à succès se sont multipliées et ce mouvement ne semble pas près de s’arrêter, comme si l’industrie cinématographique ne parvenait plus à inventer de nouvelles histoires, de nouveaux concepts qui pourraitent éveiller la curiosité d’un large public. Pourtant, de nouvelles idées, de nouvelles sensibilités, il y en aura toujours, encore faut-il qu’elles trouvent un relais financier pour voir le jour. Et l’industrie cinématographique hésite à investir dans du «neuf», alors elle se tourne vers les valeur sûres des succès passés.",
+        "text": "Ces dernières années, les nouvelles versions de films à succès se sont multipliées et ce mouvement ne semble pas près de s’arrêter, comme si l’industrie cinématographique ne parvenait plus à inventer de nouvelles histoires, de nouveaux concepts qui pourraitent éveiller la curiosité d’un large public. Pourtant, de nouvelles idées, de nouvelles sensibilités, il y en aura toujours, encore faut-il qu’elles trouvent un relais financier pour voir le jour. Et --l’industrie cinématographique hésite à investir dans du «neuf», alors elle se tourne vers les valeur sûres des succès passés.--",
         "query": "Quelle constatation ce journaliste fait-il sur le cinéma contemporain?",
         "options": [
             "Les producteurs évitent de prendre des risques.",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "149",
-        "text": "Le droit à l’oubli sur Internet est fondamental. aujourd’hui, Internet nous expose à des risques, en mettant à portée d’institutions ou d’entreprises des informations personnelles que nous avons oubliées ou que nous souhaitons oublier. Or l’oubli, autant que la mémoire, est essentiel à l’humain pour être capable d’agir et de fonctionner dans le présent. Un spécialiste de la question propose une solution. Si les gens ont envie de sauvegarder des informations les concernant, ils y attacheront une date d’expiration. Les citoyens doivent choisir eux-mêmes ce qui, de leurs informations personnelles, sera retenu ou effacé. Cela ne doit pas résulter du choix de grosses sociétés ou de gouvernements.",
+        "text": "Le droit à l’oubli sur Internet est fondamental. aujourd’hui, Internet nous expose à des risques, en mettant à portée d’institutions ou d’entreprises des informations personnelles que nous avons oubliées ou que nous souhaitons oublier. Or l’oubli, autant que la mémoire, est essentiel à l’humain pour être capable d’agir et de fonctionner dans le présent. Un spécialiste de la question propose une solution. Si les gens ont envie de sauvegarder des informations les concernant, ils y attacheront une date d’expiration. Les citoyens doivent choisir eux-mêmes ce qui, de leurs informations personnelles, sera retenu ou effacé. --Cela ne doit pas résulter du choix de grosses sociétés ou de gouvernements.--",
         "query": "Pourquoi le droit à l’oubli sur Internet est-il important?",
         "options": [
             "Pour aider à faire le deuil du passé",
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "149",
-        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du pacifique nord a été multipliée par cent en quarante ans. Ce constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l’océan Pacifique, épaisse par endroits de plusieurs y dizaines de mètres, constitue un milieu favorable à la reproduction d’une espèce d’araignée d’eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l’écosystème du Pacifique.",
+        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du pacifique nord a été multipliée par cent en quarante ans. Ce constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l’océan Pacifique, épaisse par endroits de plusieurs y dizaines de mètres, constitue un milieu favorable à la reproduction d’une espèce d’araignée d’eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, --risquant de déséquilibrer l’écosystème du Pacifique.--",
         "query": "Quel danger représentent ces déchets?",
         "options": [
             "Un obstacle pour les bateaux de pêche.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "149",
-        "text": "Les jeunes du lycée professionnel hôtelier Paul-Valéry ont des idées. Afin de pallier la faiblesse des moyens de l’Éducation nationale pour financer leurs voyages d’étude, ils n’arrêtent pas de mobiliser les bonnes volontés à coups d’initiatives originales et qui font mouche. Après l’exemple donné par les terminales de restauration qui proposent un repas «tout citron» pour un voyage d’étude à Barcelone, c’est au tour des élèves de 2nde de battre le rappel. Ceux-ci bénéficieront des retombées d’un vide-grenier, organisé par le Lions club, pour boucler leur budget de leur voyage d’étude en Corse à la rentrée.",
+        "text": "Les jeunes du lycée professionnel hôtelier Paul-Valéry ont des idées. Afin de pallier la faiblesse des moyens de l’Éducation nationale --pour financer leurs voyages d’étude--, ils n’arrêtent pas de mobiliser les bonnes volontés à coups d’initiatives originales et qui font mouche. Après l’exemple donné par les terminales de restauration qui proposent un repas «tout citron» pour un voyage d’étude à Barcelone, c’est au tour des élèves de 2nde de battre le rappel. Ceux-ci bénéficieront des retombées d’un vide-grenier, organisé par le Lions club, pour boucler leur budget de leur voyage d’étude en Corse à la rentrée.",
         "query": "Quel est l’objectif des élèves de 2nde?",
         "options": [
             "Élaborer le budget de leur voyage à Barcelone",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "149",
-        "text": "Les gens empilaient les objets dans les chariots de métal, avec frénésie. ils avaient des visages sérieux, contractés, et leur paupières battaient de façon anormalement lente. Les femmes tendaient les mains vers les étals. On aurait dit que les gens ne savaient plus ce qu’ils faisaient. Comment l’auraient-ils su? Ce n’étaient pas eux qui saisissaient la marchandise. C’est la marchandise qui se collait d’elle-même à leurs mains, elle entrait directement dans les caddies. La nourriture n’était plus que des formes, études couleurs. Les yeux dévoraient les couleurs rouge, blanche, verte, orange, les yeux avaient faim de sphères et de pyramides, faim de plastiques, lisses et de capsules de fer-blanc.",
+        "text": "Les gens empilaient les objets dans les chariots de métal, avec frénésie. ils avaient des visages sérieux, contractés, et leur paupières battaient de façon anormalement lente. Les femmes tendaient les mains vers les étals. On aurait dit que les gens ne savaient plus ce qu’ils faisaient. Comment l’auraient-ils su? --Ce n’étaient pas eux qui saisissaient la marchandise. C’est la marchandise qui se collait d’elle-même à leurs mains--, elle entrait directement dans les caddies. La nourriture n’était plus que des formes, études couleurs. Les yeux dévoraient les couleurs rouge, blanche, verte, orange, les yeux avaient faim de sphères et de pyramides, faim de plastiques, lisses et de capsules de fer-blanc.",
         "query": "Dans cet extrait, qu’apprend-on sur les acheteurs?",
         "options": [
             "Ils donnent l’impression de vénérer les produits.",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "149",
-        "text": "Ne pas assez dormir plusieurs nuits de suite perturbe, tout le monde s’en rend compte. Ce qui est moins visible, c’est comment cela affecte notre santé.(…) Des scientifiques ont montré que le manque de sommeil modifiait l’intensité de l’activité de plus de 700 gènes, parmi eux ceux liés au stress et à la lutte contre les maladies. Mais ils ne peuvent encore dire si ces modifications des gènes sont une réponse de court terme et sans danger à un sommeil de mauvaise qualité, un signe d’adaptation du corps à la privation de sommeil, ou un danger potentiel pour la santé.",
+        "text": "Ne pas assez dormir plusieurs nuits de suite perturbe, tout le monde s’en rend compte. Ce qui est moins visible, c’est comment cela affecte notre santé.(…) Des scientifiques ont montré que le manque de sommeil --modifiait l’intensité de l’activité de plus de 700 gènes--, parmi eux ceux liés au stress et à la lutte contre les maladies. --Mais ils ne peuvent encore dire-- si ces modifications des gènes sont une réponse de court terme et sans danger à un sommeil de mauvaise qualité, un signe d’adaptation du corps à la privation de sommeil, ou un danger potentiel pour la santé.",
         "query": "Qu’est-ce que les scientifiques ont découvert concernant le manque de sommeil?",
         "options": [
             "La gestion du stress est difficile.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "149",
-        "text": "Solitude, conflit avec les parents, difficultés scolaires… Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte. Fil Santé Jeunes a vu ses visites augmenter de 313% ces dernières années. De l’autre côté de l’écran, animateurs et psychologues s’efforcent de maintenir le contact et de prolonger la discussion. L’entreprise est délicate puisque les regards et les gestes ne peuvent être pris en compte par le professionnel. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situatoin similaire.",
+        "text": "Solitude, conflit avec les parents, difficultés scolaires… Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte. Fil Santé Jeunes a vu ses visites augmenter de 313% ces dernières années. De l’autre côté de l’écran, animateurs et psychologues s’efforcent de maintenir le contact et de prolonger la discussion. L’entreprise est délicate puisque --les regards et les gestes ne peuvent être pris en compte par le professionnel--. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situatoin similaire.",
         "query": "À quelle difficulté se heurtent les spécialistes?",
         "options": [
             "L’absence totale des signes visuels du langage.",
@@ -157,8 +157,8 @@
     {
         "id": 32,
         "testId": "149",
-        "text": "Méthode originale, la psychologie narrative propose les clés d’un nouvel art de vivre pour renoncer définitivement aux comportements susceptibles de brider notre propension du bonheur! Cette pratique, loin de vanter le bienfait de vaines chimères, repose sur une prise de conscience: celle que le monde tel que je le pense n’est pas tel que je le vis. Le travetissement de la réalité est incessant. «Il y a d’un côté la réalité des faits, et de l’autre, ma représentation», explique Yves-Alexandre Thalmann. Avec notre cerveau, nous passons notre temps à organiser les liens de cause à effet de façon à ce que(so that) ça prenne une signification à nos yeux. Or, selon le psychologue, la manière dont nous appréhendons les choses détermine davantage nortre qualité de vie que les événements eux-mêmes. À ce titre(donc), nos représentations mentales ont donc la capacité de nous procurer une vie plus agréable.",
-        "query": "Comment la perception des évènements permet-elle d’accéder au bonheur??",
+        "text": "Méthode originale, la psychologie narrative propose les clés d’un nouvel art de vivre pour renoncer définitivement aux comportements susceptibles de brider notre propension du bonheur! Cette pratique, loin de vanter le bienfait de vaines chimères, repose sur --une prise de conscience: celle que le monde tel que je le pense n’est pas tel que je le vis--. Le travetissement de la réalité est incessant. «Il y a d’un côté la réalité des faits, et de l’autre, ma représentation», explique Yves-Alexandre Thalmann. Avec notre cerveau, nous passons notre temps à organiser les liens de cause à effet de façon à ce que ça prenne une signification à nos yeux. Or, selon le psychologue, --la manière dont nous appréhendons les choses détermine davantage nortre qualité de vie que les événements eux-mêmes.-- À ce titre, nos représentations mentales ont donc la capacité de nous procurer une vie plus agréable.",
+        "query": "Comment la perception des évènements permet-elle d’accéder au bonheur?",
         "options": [
             "Si on les prend en compte avec lucidité.",
             "Si on les remodèle à travers l’Imagination.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "149",
-        "text": "«Le Fait du Roi» un roman d’A. Thonon. C’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise. L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
+        "text": "«Le Fait du Roi» un roman d’A. Thonon. C’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… --Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise.-- L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
         "query": "Sur quel point porte la critique négative faute à ce livre?",
         "options": [
             "La description du personnage.",
@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "149",
-        "text": "Monsieur et Madame Martin n’ont pas un emploi du temps également captivant. Quand Monsieur se rend au travail. Madame manie l’aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l’épouse modèle se colle aux fourneaux. Une illustration exhumée d’un manuel des années 1950? Non, les images d’un exercice pour une classe de CP afin de «Comprendre la simultanéité» en étudiant les moments de la «journée d’une famille». Quand Virginie Sassoon est tombée sur ce document ultra-stéréotypé dans le classeur de sa fille, cette maman est tombée des nues. «Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève selon moi, de la responsabilité collective.»",
+        "text": "Monsieur et Madame Martin n’ont pas un emploi du temps également captivant. --Quand Monsieur se rend au travail. Madame manie l’aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l’épouse modèle se colle aux fourneaux.-- Une illustration exhumée d’un manuel des années 1950? Non, les images d’un exercice pour une classe de CP afin de «Comprendre la simultanéité» en étudiant les moments de la «journée d’une famille». Quand Virginie Sassoon est tombée sur ce document --ultra-stéréotypé-- dans le classeur de sa fille, cette maman est tombée des nues. «Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève selon moi, de la responsabilité collective.»",
         "query": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille",
         "options": [
             "Ils correspondent à des programmes scolaires obsolètes.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "149",
-        "text": "Des chercheurs mettent en doute l’idée répandue, que la langue dont nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventées par des locuteurs sourds.",
+        "text": "Des chercheurs mettent en doute l’idée répandue, que la langue dont nous parlons influence notre façon de penser. Ils présentent une recherche sur l’ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines Langues: Sujet, Objet, Verbe pour d’autres. Leurs 40 sujets, locuteurs d’anglais, d’espagnol, de mandarin, de turc, ont décrit des séquences vidéo dans leur langue d’abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l’ordre des mots selon les langues, --les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe)--, suivant celui des langues des signes inventées par des locuteurs sourds.",
         "query": "Quel est le résultat de l’expérience présentée dans cet article?",
         "options": [
             "Les gestes révèleraient systématiquement la langue maternelle des locuteurs",
@@ -209,7 +209,7 @@
     {
         "id": 36,
         "testId": "149",
-        "text": "Sexistes, les jeux vidéo? Peur-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l’oeil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure plaire à masculins. Pour le reste, circulez, il n’y a presque rien d’autre à voir, si l’on balaye d’un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les calls girls de mafioso. Pourtant, l’industrie du jeu vidéo a pris conscience ces dernière années du potentiel du marché des joueuse.",
+        "text": "Sexistes, les jeux vidéo? Peur-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l’oeil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure plaire à masculins. -Pour le reste, circulez, il n’y a presque rien d’autre à voir--, si l’on balaye d’un coup de manette de jeu, au mieux, les princesses à sauver, au pire, les calls girls de mafioso. Pourtant, l’industrie du jeu vidéo a pris conscience ces dernière années du potentiel du marché des joueuse.",
         "query": "Quel constat est dressé sur les jeux vidéo?",
         "options": [
             "La quasi absence d’héroïnes.",
@@ -222,7 +222,7 @@
     {
         "id": 37,
         "testId": "149",
-        "text": "Les technologies de l’information et de la communication(TIC) sont de plus en plus utilisées et adoptées de façon variable par les établissements d’enseignement supérieur à travers le mode. Les TIC apparaissent autant comme une prestation en présence sur le campus que comme un enseignement ouvert et à distance. Les actions de l’UNESCO se concentre sur l’aide aux États membres afin de développer des politiques durables dans le domaine des TIC dans l’enseignement supérieur. Les plans d’action et les investissements positifs en matière de TIC sont clairement bénéfiques pour les institutions d’enseignement supérieur(IES), même si les TIC n’ont pas remplacé les modes d’apprentissage ou d’enseignement classiques tels que les salles de classe.",
+        "text": "Les technologies de l’information et de la communication(TIC) sont de plus en plus utilisées et adoptées de façon variable par les établissements d’enseignement supérieur à travers le mode. Les TIC apparaissent autant comme une prestation en présence sur le campus que comme un enseignement ouvert et à distance. Les actions de l’UNESCO se concentre sur l’aide aux États membres afin de --développer des politiques durables dans le domaine des TIC dans l’enseignement supérieur.-- Les plans d’action et les investissements positifs en matière de TIC sont clairement bénéfiques pour les institutions d’enseignement supérieur(IES), même si les TIC n’ont pas remplacé les modes d’apprentissage ou d’enseignement classiques tels que les salles de classe.",
         "query": "Pourquoi peut-on dire que l’UNESCO est active dans le domaine des TIC?",
         "options": [
             "Parce qu’elle finance les programmes de développement des TIC.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "149",
-        "text": "Travailler avec son mari ou son petit ami, sa soeur ou sa mère n’est pas une punition pour tout le monde! Pour certains, c’est même la condition du bien être professionnel. Si cette idée évoquait jadis une petite entreprise conservatrice, transmise de père en fils, aujourd’hui, travailler en famille relève de réalités très différentes. Critères retenus: confiance, valeurs et goûts communs; et surtout, besoin de réaliser ses projets plutôt que ceux des autres. Depuis toujours, la mojorité des entreprises en France, toutes tailles confondues, sont familiales; et de plus en plus de créations sont le fait de femmes. Ce sont d’ailleurs des entreprises où l’on vit mieux et qui durent plus longtemps que les-autres. Aujourd’hui, la création d’une entreprise est plus souvent motivée par le désir d’assurer un travail à ses enfants ou d’échapper à des structures jugées déshumanisantes.",
+        "text": "Travailler avec son mari ou son petit ami, sa soeur ou sa mère n’est pas une punition pour tout le monde! Pour certains, c’est même la condition du bien être professionnel. Si cette idée évoquait jadis une petite entreprise conservatrice, transmise de père en fils, aujourd’hui, travailler en famille relève de réalités très différentes. Critères retenus: confiance, valeurs et goûts communs; --et surtout, besoin de réaliser ses projets plutôt que ceux des autres--. Depuis toujours, la mojorité des entreprises en France, toutes tailles confondues, sont familiales; et de plus en plus de créations sont le fait de femmes. Ce sont d’ailleurs des entreprises où l’on vit mieux et qui durent plus longtemps que les-autres. Aujourd’hui, la création d’une entreprise est plus souvent motivée par le désir d’assurer un travail à ses enfants ou d’échapper à des structures jugées déshumanisantes.",
         "query": "Que permet la structure d’entreprise présentée?",
         "options": [
             "De concrétiser des objectifs personnels.",
@@ -248,7 +248,7 @@
     {
         "id": 39,
         "testId": "149",
-        "text": "Le contrôle, en toute matière, aboutit à pervertir l’action… Dès qu’une action est soumise à un contrôle, le but profond de celui qui agit n’est plus l’action. Mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n’est qu’un cas particulier et une demonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir: il garde toute sa vie ce brevet d’une science momentanée. C’est pour accéder au diplôme qu’on a vu se substituer à la lecture des auteurs, l’usage des résumés, des manuels, des recueils de questions et de réponses toute faites et autres abominations.",
+        "text": "Le contrôle, en toute matière, --aboutit à pervertir l’action… Dès qu’une action est soumise à un contrôle, --le but profond de celui qui agit n’est plus l’action--. Mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n’est qu’un cas particulier et une demonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir: il garde toute sa vie ce brevet d’une science momentanée. C’est pour accéder au diplôme qu’on a vu se substituer à la lecture des auteurs, l’usage des résumés, des manuels, des recueils de questions et de réponses toute faites et autres abominations.",
         "query": "Que soutient l’auteur de ce texte à propos du contrôle?",
         "options": [
             "Il contribue à améliorer les méthodes d’apprentissage.",

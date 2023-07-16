@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "150",
-        "text": "LE DINEMENT D’ESPELETTE. le piment d’Espelette, qui célèbre actuellement sa fête, est probablement aujourd’hui le produit le plus emblématique de Pays basque. Il a pourtant failli devenir un produit banal, c’est-à-dire le contraire absolu de ce qu’il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d’Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n’aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 l’appellation d’origine contrôlée (AOC) interdisant tout plagiat. Aujourd’hui le diamant rouge d’Espelette est particulièrement apprécié de certains grands chefs qui l’utilisent pour faire «exploser» les saveurs.",
+        "text": "LE DINEMENT D’ESPELETTE. le piment d’Espelette, qui célèbre actuellement sa fête, est probablement aujourd’hui le produit le plus emblématique de Pays basque. Il a pourtant failli devenir un produit banal, c’est-à-dire le contraire absolu de ce qu’il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d’Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n’aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 --l’appellation d’origine contrôlée (AOC) interdisant tout plagiat.-- Aujourd’hui le diamant rouge d’Espelette est particulièrement apprécié de certains grands chefs qui l’utilisent pour faire «exploser» les saveurs.",
         "query": "L’appellation d’origine contrôlée accordée au piment d’Espelette permet aux Basques….",
         "options": [
             "De lutter contre les imitations.",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "150",
-        "text": "Erasmus. Le programme d’échange d’étudiants entre les universités européennes a du plomb dans l’aile. Au point qu’en France près de quatre mile bourses n’ont pas trouvé preneur. Ce phénomène n’est pas spécifique à la France puisque une baisse de dix pour cent aurait été enregistrée dans une dizaine de pays. Toutes les études traduisent une absence de désir de mobilité chez les jeunes. Parmi les explications avancées, le coût mais surtout une préférence marquée pour les stages en entreprise. Voilà le grand concurrent d’Erasmus depuis quelques années: l’attention portée à l’insertion professionnelle.",
+        "text": "Erasmus. Le programme d’échange d’étudiants entre les universités européennes a du plomb dans l’aile. Au point qu’en France près de quatre mile bourses n’ont pas trouvé preneur. Ce phénomène n’est pas spécifique à la France puisque une baisse de dix pour cent aurait été enregistrée dans une dizaine de pays. Toutes les études traduisent --une absence de désir de mobilité chez les jeunes.-- Parmi les explications avancées, le coût mais surtout une préférence marquée pour les stages en entreprise. Voilà le grand concurrent d’Erasmus depuis quelques années: l’attention portée à l’insertion professionnelle.",
         "query": "Qu’explique le texte au sujet du programme Erasmus?",
         "options": [
             "Il est financé par des universités publiques.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "150",
-        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
+        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, --gérer correctement ses phases de repos--. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
         "query": "Quel conseil donne le journaliste pour remporter la course?",
         "options": [
             "Connaître ses adversaires.",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "150",
-        "text": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret. Surnommé «le château des Pêcheurs» il possède des collections d’objets rares sur la pêche. Sans oublier un superbe parc. Aujourd’hui, ce monument est confronté à un fléau: un champignon ronge ses édifices. Les propriétaires ont déjà lancé une campagne de restauration mais le champignon s’attaque aussi à d’autres parties du domaine. Les maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15 euros, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un diner avec les propriétaires.",
+        "text": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret. Surnommé «le château des Pêcheurs» il possède des collections d’objets rares sur la pêche. Sans oublier un superbe parc. Aujourd’hui, ce monument est confronté à un fléau: un champignon ronge ses édifices. Les propriétaires ont déjà lancé une campagne de restauration mais le champignon s’attaque aussi à d’autres parties du domaine. Les maîtres des lieux souhaitent que --le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15 euros--, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un diner avec les propriétaires.",
         "query": "D’après l’article, à quoi les internautes sont-ils encouragés?",
         "options": [
             "À aider à la rénovation en travaillant au château.",
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "150",
-        "text": "Sandrine Mercier et Michel Fonovic ont le voyage dans la peau. Les deux journalistes ont longtemps exploré le monde avant d’écrire un livre ensemble. Ils sont partis vivre ailleurs est constitué des histoires d’une trentaine d’expatriés et d’autant de destins et de trajectoires. Les auteurs sont aller chercher les personnages tous très différents mais toujours touchants et sincères en racontant leurs parcours lointains rappel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres… C’est certainement ce qui unit tous ces Français du bout du monde; par-delà leurs différences et leurs expériences: une ouverture d’esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
+        "text": "Sandrine Mercier et Michel Fonovic ont le voyage dans la peau. Les deux journalistes ont longtemps exploré le monde avant d’écrire un livre ensemble. Ils sont partis vivre ailleurs est constitué --des histoires d’une trentaine d’expatriés et d’autant de destins et de trajectoires--. Les auteurs sont aller chercher les personnages tous très différents mais toujours touchants et sincères en racontant leurs parcours lointains rappel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres… C’est certainement ce qui unit tous ces Français du bout du monde; par-delà leurs différences et leurs expériences: une ouverture d’esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
         "query": "D’après l’auteur de cet article, quelle est la particularité de cet ouvrage?",
         "options": [
             "L’originalité des pays visités.",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "150",
-        "text": " Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs. En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considères. Pourtant si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression «Les occidentaux sont-ils prêts à en faire un produit courant?» questionne le docteur Arnaud Cocaul. Pas sûr. «Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée» estime ce nutritionniste.",
+        "text": " Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs. En raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considères. Pourtant si les algues ne font pas encore partie de notre univers culturel alimentaire, --leur consommation est en progression-- «Les occidentaux sont-ils prêts à en faire un produit courant?» questionne le docteur Arnaud Cocaul. Pas sûr. «Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée» estime ce nutritionniste.",
         "query": "Quelle place occupent les algues en France?",
         "options": [
             "Elles font partie de la gastronomie régionale.",
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "150",
-        "text": "Depuis plusieurs années, Thierry Marc, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrire à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d’espoir, de montrer «qu’après», il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
+        "text": "Depuis plusieurs années, Thierry Marc, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrire à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. --Le désir de rallumer cette lueur d’espoir, de montrer «qu’après»--, il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
         "query": "Pourquoi Thierry Marc intervient-il dans les prisons?",
         "options": [
             "Pour améliorer les méthodes de travail de la cantine.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "150",
-        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
+        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleur pas un rapport affectif: --on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.--",
         "query": "Quelle est l’opinion de l’auteur?",
         "options": [
             "L’ambiance de l’école doit être calquée sur le modèle familial.",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "150",
-        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n’est aussi qu’un cache-misère, un moyen de compenser l’absence d’informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C’est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler?",
+        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n’est aussi --qu’un cache-misère--, un moyen de --compenser l’absence d’informations-- dans les reportages, de --remplir le vide par des scènes un peu spectaculaires--. C’est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler?",
         "query": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées?",
         "options": [
             "Pour améliorer la qualité des documentaires.",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "150",
-        "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois inffranchissable. Non seulement les loyers sont élevés mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante(CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",
+        "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois inffranchissable. Non seulement les loyers sont élevés mais --la sélection des candidats par les propriétaires-- est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante(CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",
         "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse?",
         "options": [
             "La méfiance des propriétaires.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "150",
-        "text": "Après avoir été fermé au public pendant douze ans, la grotte préhisotique d’Altatnira, située en Espagne doit rouvrir ses portes, mais de manière expérimentale. Il s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
+        "text": "Après avoir été fermé au public pendant douze ans, la grotte préhisotique d’Altatnira, située en Espagne doit --rouvrir ses portes, mais de manière expérimentale--. Il s’agit d’une expérience --réservée à un groupe de cinq personnes-- tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
         "query": "Qu’évoque-t-on dans cet article?",
         "options": [
             "L’inauguration d’une exposition temporaire.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "150",
-        "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernment peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du premier ministre mais il n’y a pas non plus eu de fâcherie comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants «les retraites en tête» personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
+        "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernment peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats --n’ont pas applaudi-- à tout rompre l’intervention du premier ministre mais il n’y a pas --non plus eu de fâcherie-- comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants «les retraites en tête» personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à --repousser les points qui fâchent à plus tard--.",
         "query": "Quel a été l’aboutissement de la conférence?",
         "options": [
             "L’affrontement entre partenaires sociaux.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "150",
-        "text": "«Des taxes vertes» ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
+        "text": "«Des taxes vertes» ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre(GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce systeme a été parfois --qualifié de permis à polluer-- car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
         "query": "Quel est le paradoxe de la taxe carbone?",
         "options": [
             "Elle concerne uniquement les économies fortes.",
@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "150",
-        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers «partagés» au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’oeil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au millieu de toiture végétalisées et de jardins.",
+        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, --projet de la Compagnie Parisienne du Chauffage Urbain--. Des potagers «partagés» au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’oeil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au millieu de toiture végétalisées et de jardins.",
         "query": "Quel projet est présenté comme réaliste?",
         "options": [
             "L’extension d’un système de climatisation à tout un quartier.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "150",
-        "text": "Il faut se rendre à l’évidence: le «jour» n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme «le journal de la veille» perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
+        "text": "Il faut se rendre à l’évidence: le «jour» n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme «le journal de la veille» perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de --n’y trouver que ce qu’ils savent déjà--.",
         "query": "Quelle est la position de l’auteur de l’article?",
         "options": [
             "Il conteste la fiabilité des sources d’Internet.",
@@ -209,7 +209,7 @@
     {
         "id": 36,
         "testId": "150",
-        "text": "Un vingt-sixième album de François Hardy. La pluie sans parapluie, est forcément un événement. On sait que le public qui achète encore des disque passe volontiers à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cettte voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais. Elle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré. C’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle. Il faut se retrancher pour en saisir la saveur et la goûter. Un disque comme autrefois, avec un son soigné et de l’émotion. Mais surtout une élégance comme on n’en fait plus.",
+        "text": "Un vingt-sixième album de François Hardy. La pluie sans parapluie, est forcément un événement. On sait que le public qui achète encore des disque passe volontiers à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cettte voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais. Elle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré. C’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle. Il faut --se retrancher pour en saisir la saveur et la goûter--. Un disque comme autrefois, avec un son soigné et de l’émotion. Mais surtout une élégance comme on n’en fait plus.",
         "query": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F. Hardy?",
         "options": [
             "Les acheteurs opposés au téléchargement illégal.",
@@ -222,7 +222,7 @@
     {
         "id": 37,
         "testId": "150",
-        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible. Le modèle est celle que Kafka rédigea à l’intention de son père et qu’il préféra ranger dans un tiroir tant l’accusation portée étati peu amène. Avec l’autre fille, missive adressé à sa soeur ainée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le ternie d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d’un vieux uniment, la collection souhaite réhabiliter un genre littéraire oublié.",
+        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible. Le modèle est celle que Kafka rédigea à l’intention de son père et qu’il préféra ranger dans un tiroir tant l’accusation portée était peu amène. Avec l’autre fille, missive adressé à sa soeur ainée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le ternie d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de --se libérer d’un vieux-- uniment, la collection souhaite réhabiliter un genre littéraire oublié.",
         "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux?",
         "options": [
             "À s’acquitter d’un engagement moral.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "150",
-        "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne falicitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une «fausse bonne idée» qui «induit des déplacements inutiles, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent». Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
+        "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne falicitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une «fausse bonne idée» qui «--induit des déplacements inutiles--, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent». Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
         "query": "Pourquoi la gratuité des transports publics est-elle critiquée?",
         "options": [
             "Ce choix creuse les inégalités sociales.",
@@ -248,7 +248,7 @@
     {
         "id": 39,
         "testId": "150",
-        "text": "Depuis l’adolescence, je fréquente assidûment les dictionnaires. Chaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m’apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d’autre ouvrages. Je possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par example, guano vous cherchez le mot juste, rien de tel qu’un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on brait la notice d’un produit pharmaceutique destiné à soigner ceci ou cela est le self-service de la pensée.",
+        "text": "Depuis l’adolescence, je fréquente assidûment les dictionnaires. Chaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m’apportent la réponse et --ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d’autre ouvrages--. Je possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par example, guano vous cherchez le mot juste, rien de tel qu’un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on brait la notice d’un produit pharmaceutique destiné à soigner ceci ou cela est le self-service de la pensée.",
         "query": "Pourquoi Jean-Claude Simoén aime-t-il les dictionnaires?",
         "options": [
             "Pour découvrir de nouvelles références.",
