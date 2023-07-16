@@ -18,7 +18,7 @@
         "query": "La société ADEM recherche des télévendeurs…",
         "options": [
             "Qui débutent dans le métier de la télévente.",
-            "Qui ont de l'expérience dans la télévente.",
+            "Qui ont de l’expérience dans la télévente.",
             "Qui sont intéressés par un salaire modulable.",
             "Qui recherchent un contrat de courte durée."
         ],
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "162",
-        "text": "Près de 500 écrans alignés sur deux étages et 1200 m2 La plus grande salle de jeux vidéo en réseau d'Europe a ouvert ses portes au public à Paris. Baignée dans une ambiance bleu métal et noire, cette salle de jeux à l'ambition de devenir à la fois un stade numérique « où les professionnels et amateurs de jeux vidéo pourront s'affronter à l'occasion de joutes virtuelles, et une école de jeux « pour les débutants ». Une quinzaine d'animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
+        "text": "Près de 500 écrans alignés sur deux étages et 1200 m2 La plus grande salle de jeux vidéo en réseau d’Europe a ouvert ses portes au public à Paris. Baignée dans une ambiance bleu métal et noire, cette salle de jeux à l’ambition de devenir à la fois un stade numérique « où les professionnels et amateurs de jeux vidéo pourront s’affronter à l’occasion de joutes virtuelles, et une école de jeux « pour les débutants ». Une quinzaine d’animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
         "query": "En quoi cette salle de jeux est-elle un événement?",
         "options": [
             "Du fait de sa taille.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "162",
-        "text": "Il est désormais possible de modifier la couleur des yeux. Une technique laser, expérimentée en laboratoire, détruit à vie les pigments de l'iris pour l'éclaircir. La séance se déroule dans le cabinet du spécialiste et en 20 secondes, les yeux du patient passent d'une couleur à l'autre. Mais, comme le laser décolore l'iris, seuls les yeux marrons peuvent espérer passer à une couleur plus claire.",
+        "text": "Il est désormais possible de modifier la couleur des yeux. Une technique laser, expérimentée en laboratoire, détruit à vie les pigments de l’iris pour l’éclaircir. La séance se déroule dans le cabinet du spécialiste et en 20 secondes, les yeux du patient passent d’une couleur à l’autre. Mais, comme le laser décolore l’iris, seuls les yeux marrons peuvent espérer passer à une couleur plus claire.",
         "query": "Qu’apprend-on sur cette technique laser?",
         "options": [
             "Elle est en cours de test.",
@@ -53,10 +53,10 @@
     {
         "id": 24,
         "testId": "162",
-        "text": "La population d'insectes volants, essentiels aux écosystémes, a diminué de plus de 75% en près de trente ans en Allemagne sans que les scientifiques ne parviennent à en déterminer la cause avec certitude. Les chercheurs, qui ont mené leur étude dans des zones protégées en Allemagne depuis 1989, suspectent les pesticides agricoles d'être responsables de ce phénomène préoccupant. Selon leurs conclusions publiées dans la revue Plos One, ce fort déclin a été observé quels que soient les changements météorologiques, le type d'exploitation des sols ou les caractéristiques de l'habitat.",
+        "text": "La population d’insectes volants, essentiels aux écosystémes, a diminué de plus de 75% en près de trente ans en Allemagne sans que les scientifiques ne parviennent à en déterminer la cause avec certitude. Les chercheurs, qui ont mené leur étude dans des zones protégées en Allemagne depuis 1989, suspectent les pesticides agricoles d’être responsables de ce phénomène préoccupant. Selon leurs conclusions publiées dans la revue Plos One, ce fort déclin a été observé quels que soient les changements météorologiques, le type d’exploitation des sols ou les caractéristiques de l’habitat.",
         "query": "À quoi serait due la baisse du nombre d’insectes?",
         "options": [
-            "L'urbanisation galopante des campagnes.",
+            "L’urbanisation galopante des campagnes.",
             "La faible étendue des réserves écologiques.",
             "Le dérèglement climatique de la planète.",
             "Les produits utilisés dans les cultures."
@@ -66,49 +66,49 @@
     {
         "id": 25,
         "testId": "162",
-        "text": "Au cœur de l'Histoire. Revisiter l'histoire de France à la lumière de la société contemporaine, c'est le concept du nouveau magazine proposé par la chaîne de télévision France 5. Les citoyens sont invités à interagir avec la présentatrice et ses invités en communiquant leurs propres témoignages et documents. L'émission se décline en deux temps, avec un documentaire suivi d'un débat en public entre témoins anonymes et acteurs de l'Histoire. Ce débat est construit en amont grâce à des récits d'internautes sur le site de l'émission. Tous ceux qui le souhaitent peuvent poster sur la Toile vidéo, photos et anecdotes personnelles afin de croiser la petite et la grande Histoire.",
+        "text": "Au cœur de l’Histoire. Revisiter l’histoire de France à la lumière de la société contemporaine, c’est le concept du nouveau magazine proposé par la chaîne de télévision France 5. Les citoyens sont invités à interagir avec la présentatrice et ses invités en communiquant leurs propres témoignages et documents. L’émission se décline en deux temps, avec un documentaire suivi d’un débat en public entre témoins anonymes et acteurs de l’Histoire. Ce débat est construit en amont grâce à des récits d’internautes sur le site de l’émission. Tous ceux qui le souhaitent peuvent poster sur la Toile vidéo, photos et anecdotes personnelles afin de croiser la petite et la grande Histoire.",
         "query": "De quelle façon peut-on contribuer à cette nouvelle émission?",
         "options": [
-            "En envoyant des courriels sur la plateforme de l'émission.",
+            "En envoyant des courriels sur la plateforme de l’émission.",
             "En étant sélectionné pour être convié sur le plateau.",
             "En joignant le standard de la chaîne pendant le direct.",
-            "En participant à distance au moyen d'une cybercaméra."
+            "En participant à distance au moyen d’une cybercaméra."
         ],
         "answer": 0
     },
     {
         "id": 26,
         "testId": "162",
-        "text": "Il veut réhabiliter la charcuterie. Le métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire! On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de puriste: la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur? C'est un non-sens! »",
+        "text": "Il veut réhabiliter la charcuterie. Le métier, bien sûr, mais aussi le produit. « On s’imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C’est tout le contraire! On s’éclate en cuisinant, on ne s’ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de puriste: la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur? C’est un non-sens! »",
         "query": "Quel message cet homme veut-il transmettre?",
         "options": [
-            "L'avenir de son travail est menacé par l'industrie agroalimentaire.",
+            "L’avenir de son travail est menacé par l’industrie agroalimentaire.",
             "La qualité des produits charcutiers est reconnue par les médecins.",
-            "Le passage d'un métier de bouche à un autre se fait facilement.",
-            "L'image attachée à sa profession est stéréotypée et peu valorisante."
+            "Le passage d’un métier de bouche à un autre se fait facilement.",
+            "L’image attachée à sa profession est stéréotypée et peu valorisante."
         ],
         "answer": 3
     },
     {
         "id": 27,
         "testId": "162",
-        "text": "Renaissance: un mot porteur de sens à de nombreux égards. Historiquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente. Un retour aux sources et des artistes humanistes nourris par l'idée de temps nouveaux faits d'espoir et de confiance en l'homme. Ces multiples lectures ont été source d'inspiration pour la nouvelle collection. C'est aussi l'énergie nouvelle, un regain de vitalité. Avec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l'hiver avec sourire et imagination.",
+        "text": "Renaissance: un mot porteur de sens à de nombreux égards. Historiquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente. Un retour aux sources et des artistes humanistes nourris par l’idée de temps nouveaux faits d’espoir et de confiance en l’homme. Ces multiples lectures ont été source d’inspiration pour la nouvelle collection. C’est aussi l’énergie nouvelle, un regain de vitalité. Avec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l’hiver avec sourire et imagination.",
         "query": "D’où est tiré ce texte?",
         "options": [
-            "D'un catalogue de styliste.",
-            "D'un dictionnaire philosophique.",
-            "D'un manuel d'histoire de l'art.",
-            "D'une présentation de musée."
+            "D’un catalogue de styliste.",
+            "D’un dictionnaire philosophique.",
+            "D’un manuel d’histoire de l’art.",
+            "D’une présentation de musée."
         ],
         "answer": 0
     },
     {
         "id": 28,
         "testId": "162",
-        "text": "L'huile de palme est l'huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+        "text": "L’huile de palme est l’huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d’augmenter, souvent en lieu et place des forêts. Il existe pourtant d’autres huiles qui peuvent la remplacer mais c’est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
         "query": "Pourquoi l’huile de palme est-elle produite massivement?",
         "options": [
-            "C'est un produit recherché par les consommateurs.",
+            "C’est un produit recherché par les consommateurs.",
             "Elle valorise des méthodes agricoles traditionnelles.",
             "Ses qualités nutritionnelles sont reconnues.",
             "Son exploitation génère des revenus élevés."
@@ -118,13 +118,13 @@
     {
         "id": 29,
         "testId": "162",
-        "text": "Deux mondes s'affrontent: ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire: l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.",
+        "text": "Deux mondes s’affrontent: ceux de l’ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution. Notre enquête montre le contraire: l’alliance de la technologie et de l’écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C’est la voie de la sagesse autant que de la modernité.",
         "query": "Que défend le journaliste?",
         "options": [
-            "L'accès universel à des aliments bon marché.",
-            "L'innovation des procédés de production.",
+            "L’accès universel à des aliments bon marché.",
+            "L’innovation des procédés de production.",
             "Le développement du commerce équitable.",
-            "Le partage d'expériences traditionnelles."
+            "Le partage d’expériences traditionnelles."
         ],
         "answer": 1
     },
@@ -134,10 +134,10 @@
         "text": "L’amour à la retraite au théâtre du Splendid. Claire Nadeau, très drôle, et Gérard Rinaldi, très inattendu dans le rôle d’un petit retraité maltraité par sa femme, jouent «Après l’amour» cette comédie, créée il y a dix ans, est reprise au Splendid. L’auteur met en scène un couple de petites gens qui sont passées à côté de belles choses. Leur amour est à la retraite. Le paradoxe, c’est qu’on rit beaucoup des mésaventures de Jeanne et Henri dans cette comédie grainçante.",
         "query": "Quel est le sujet de la pièce?",
         "options": [
-            "Une histoire d'amour splendide.",
+            "Une histoire d’amour splendide.",
             "Un amour entre deux retraités.",
             "Un homme mal aimé par sa femme.",
-            "Un couple qui ne s'aime plus."
+            "Un couple qui ne s’aime plus."
         ],
         "answer": 3
     },
@@ -149,7 +149,7 @@
         "options": [
             "En diversifiant sa politique linguistique.",
             "En modernisant son enseignement.",
-            "En s'enrichissant de tous types d'apports.",
+            "En s’enrichissant de tous types d’apports.",
             "En valorisant les particularités régionales."
         ],
         "answer": 2
@@ -160,10 +160,10 @@
         "text": "Facebook et Twitter sont omniprésents au collège. Nous pourrions détourner les yeux en prétendant qu’ils n’ont rien à voir avec les compétences et savoirs acquis à l’école. Mais ces messageries instantanées doivent être prises au sérieux par les enseignants, au sens où elles ne sont pas une mode mais un mode de communication qui conditionne les relations sociales. Les réseaux sociaux appartiennent déjà à la cité et seront partie prenante de notre vie demain. Ainsi, des pétitions se signent sur Internet, les renseignements sur autrui se prennet aussi sur la Toile. Il s’agit alors pour l’enseignant d’apprendre aux jeunes des comportements responsables dans l’usage des modes de communication tels que Facebook et autre Twitter.",
         "query": "Que pense l’auteur des réseaux sociaux?",
         "options": [
-            "Il est indispensable de savoir s'en servir correctement.",
+            "Il est indispensable de savoir s’en servir correctement.",
             "Il faut éviter de les utiliser dans le cadre scolaire.",
             "Ils représentent un danger pour les libertés individuelles.",
-            "Ils sont incontournables en tant qu'outils d'enseignement."
+            "Ils sont incontournables en tant qu’outils d’enseignement."
         ],
         "answer": 0
     },
@@ -188,7 +188,7 @@
         "options": [
             "La description du personnage.",
             "La longueur du texte.",
-            "La qualité de l'écriture.",
+            "La qualité de l’écriture.",
             "Le déroulement des événements."
         ],
         "answer": 3
@@ -199,10 +199,10 @@
         "text": "Très controversée, la semaine de quatre jours à l’école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l’encontre du rythme scolaire actuel, qui serait aberrant et délirant pour les écoliers. Selon un député, on peut dire, a posteriori, que c’est une erreur, on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants, dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. «Il faut laisser le temps scolaire», estime une experte. ",
         "query": "Que reprochent les députés à la semaine de quatre jours?",
         "options": [
-            "De laisser trop de temps à l'oisiveté.",
-            "De s'écarter du modèle éducatif légal.",
+            "De laisser trop de temps à l’oisiveté.",
+            "De s’écarter du modèle éducatif légal.",
             "De satisfaire avant tout les adultes.",
-            "D'être à l'origine de l'échec scolaire."
+            "D’être à l’origine de l’échec scolaire."
         ],
         "answer": 2
     },
@@ -214,7 +214,7 @@
         "options": [
             "Les acheteurs opposés au téléchargement illégal.",
             "Les amateurs de subtilité et de raffinement musical.",
-            "Les admirateurs inconditionnels de l'interprète.",
+            "Les admirateurs inconditionnels de l’interprète.",
             "Les curieux en mal de musique expérimentale."
         ],
         "answer": 1
@@ -225,7 +225,7 @@
         "text": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche. Pour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grands écoles, organismes de recherche, centre hospitalier universitaire…). Ce nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre. Il a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures. Au travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
         "query": "Quel est l’objectif de cette université?",
         "options": [
-            "Attirer davantage d'étudiants brillants.",
+            "Attirer davantage d’étudiants brillants.",
             "Être à la pointe de la technologie.",
             "Ouvrir ses cours à un public élargi.",
             "Proposer des disciplines inédites."
@@ -239,7 +239,7 @@
         "query": "Quel est l’objectif de l’IEPC?",
         "options": [
             "Embaucher des parents défavorisés.",
-            "Faciliter l'intégration professionnelle.",
+            "Faciliter l’intégration professionnelle.",
             "Proposer des tarifs préférentiels en crèche.",
             "Trouver un accueil provisoire pour les enfants."
         ],
@@ -252,8 +252,8 @@
         "query": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages?",
         "options": [
             "Il constitue une création artistique novatrice.",
-            "Il établit des ponts avec d'autres auteurs.",
-            "Il fait connaître les travaux d'un écrivain.",
+            "Il établit des ponts avec d’autres auteurs.",
+            "Il fait connaître les travaux d’un écrivain.",
             "Il ouvre la voie à de prochaines réalisations."
         ],
         "answer": 2

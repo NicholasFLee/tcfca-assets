@@ -1,12 +1,12 @@
 [{
         "id": 20,
         "testId": "151",
-        "text": "Lucy a trois enfants. Pour Noël, ils ont reçu des jeux de société. Ces jeux les passionnent. Ils jouent beaucoup avec leurs copains ou encore avec leurs cousins. Mais, nous dit Lucy, mon fils de 6 ans provoque régulièrement des drames parce qu'il triche. Une situation à laquelle tous les parents de jeunes enfants sont un jour ou l'autre confrontés. Quel problème cette mère rencontre-t-elle ?",
+        "text": "Lucy a trois enfants. Pour Noël, ils ont reçu des jeux de société. Ces jeux les passionnent. Ils jouent beaucoup avec leurs copains ou encore avec leurs cousins. Mais, nous dit Lucy, mon fils de 6 ans provoque régulièrement des drames parce qu’il triche. Une situation à laquelle tous les parents de jeunes enfants sont un jour ou l’autre confrontés. Quel problème cette mère rencontre-t-elle ?",
         "audio": "/mp3/151/20.mp3",
         "options": [
             "Les jouets éloignent ses enfants de leurs camarades de classe.",
             "Les derniers jeux offerts à ses enfants sont décevants.",
-            "Ses enfants jouent beaucoup et travaillent moins à l'école.",
+            "Ses enfants jouent beaucoup et travaillent moins à l’école.",
             "Un de ses enfants a du mal à respecter les règles du jeu."
         ],
         "answer": 3
@@ -14,7 +14,7 @@
     {
         "id": 21,
         "testId": "151",
-        "text": "Chers auditeurs, au volant, restez vigilants, l'hiver peut vous surprendre. Que vous soyez expérimentés ou non, surtout quand il neige beaucoup comme aujourd'hui, ralentissez et avant de prendre la route, n'oubliez pas de consulter Québec 511 sur le web. Et pour les jeunes conducteurs, nous rappelons que le concours « Des routes l'hiver » vous offre la possibilité de gagner un cours de conduite préventive en conditions hivernales. N'hésitez pas à participer. Que conseille l'animateur radio aux automobilistes ?",
+        "text": "Chers auditeurs, au volant, restez vigilants, l’hiver peut vous surprendre. Que vous soyez expérimentés ou non, surtout quand il neige beaucoup comme aujourd’hui, ralentissez et avant de prendre la route, n’oubliez pas de consulter Québec 511 sur le web. Et pour les jeunes conducteurs, nous rappelons que le concours « Des routes l’hiver » vous offre la possibilité de gagner un cours de conduite préventive en conditions hivernales. N’hésitez pas à participer. Que conseille l’animateur radio aux automobilistes ?",
         "audio": "/mp3/151/21.mp3",
         "options": [
             "De changer leurs pneus",
@@ -27,20 +27,20 @@
     {
         "id": 22,
         "testId": "151",
-        "text": "Parmi les victimes de la folie destructrice de l'homme, les abeilles. En cause, l'utilisation dans l'agriculture de pesticides très puissants, qui sont des poisons mortels pour les essaims d'abeilles, et conséquences inattendues, c'est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C'est le monde à l'envers. Aujourd'hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l'apiculteur n'a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d'essaims et les apiculteurs demandent au gouvernement d'interdire tous les pesticides qui peuvent nuire à la santé des abeilles.",
+        "text": "Parmi les victimes de la folie destructrice de l’homme, les abeilles. En cause, l’utilisation dans l’agriculture de pesticides très puissants, qui sont des poisons mortels pour les essaims d’abeilles, et conséquences inattendues, c’est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C’est le monde à l’envers. Aujourd’hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l’apiculteur n’a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d’essaims et les apiculteurs demandent au gouvernement d’interdire tous les pesticides qui peuvent nuire à la santé des abeilles ?",
         "audio": "/mp3/151/22.mp3",
         "options": [
             "La chute de la production de miel.",
-            "La diminution du nombre d'apiculteurs.",
-            "La mutation de l'habitat des abeilles.",
-            "Les menaces d'attaques d'essaims en ville."
+            "La diminution du nombre d’apiculteurs.",
+            "La mutation de l’habitat des abeilles.",
+            "Les menaces d’attaques d’essaims en ville."
         ],
         "answer": 2
     },
     {
         "id": 23,
         "testId": "151",
-        "text": "Bienvenue à tous. Ce colloque est intitulé « Travail et modernité » car nous devons changer notre manière d'appréhender le travail au sein d'une société en pleine mutation. Nous entrons en effet dans l'ère de la communication interplanétaire. Nul ne peut se contenter d'évoluer à l'intérieur des frontières de son pays. Il faut étudier, voyager, communiquer et surtout savoir changer de métier, de pays avec souplesse. Quelle est la qualité dont le travailleur moderne doit faire preuve ?",
+        "text": "Bienvenue à tous. Ce colloque est intitulé « Travail et modernité » car nous devons changer notre manière d’appréhender le travail au sein d’une société en pleine mutation. Nous entrons en effet dans l’ère de la communication interplanétaire. Nul ne peut se contenter d’évoluer à l’intérieur des frontières de son pays. Il faut étudier, voyager, communiquer et surtout savoir changer de métier, de pays avec souplesse. Quelle est la qualité dont le travailleur moderne doit faire preuve ?",
         "audio": "/mp3/151/23.mp3",
         "options": [
             "La créativité.",
@@ -53,25 +53,25 @@
     {
         "id": 24,
         "testId": "151",
-        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n'est plus seulement choisi pour de simples raisons économiques, puisque l'on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d'ailleurs à laisser la place à hôtelleries de plein air. Qu’apprend-on sur le camping ?",
+        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n’est plus seulement choisi pour de simples raisons économiques, puisque l’on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d’ailleurs à laisser la place à hôtelleries de plein air. Qu’apprend-on sur le camping ?",
         "audio": "/mp3/151/24.mp3",
         "options": [
             "Il intéresse très peu les vacanciers.",
             "Il offre des services de qualité supérieure.",
             "Il permet le développement des campagnes.",
-            "Il souffre d'une augmentation des tarifs."
+            "Il souffre d’une augmentation des tarifs."
         ],
         "answer": 1
     },
     {
         "id": 25,
         "testId": "151",
-        "text": "L'économie circulaire c'est le réemploi, la réparation, le partage, la location et le recyclage des matériaux lorsque la matière redevient matière, la boucle, le cercle est bouclé. Oui, alors ? Et c'est le cas du chexteur textile ? Oui, depuis 30 ans, l'entreprise Le Relais collecte et trie les vêtements que vous ne voulez plus porter et depuis 30 ans elle fait de l'économie circulaire en fait sans le savoir, car à l'origine il s'agissait surtout de réinsérer des personnes en difficulté. Que nous apprend l'intervenante sur l'économie circulaire ?",
+        "text": "L’économie circulaire c’est le réemploi, la réparation, le partage, la location et le recyclage des matériaux lorsque la matière redevient matière, la boucle, le cercle est bouclé. Oui, alors ? Et c’est le cas du chexteur textile ? Oui, depuis 30 ans, l’entreprise Le Relais collecte et trie les vêtements que vous ne voulez plus porter et depuis 30 ans elle fait de l’économie circulaire en fait sans le savoir, car à l’origine il s’agissait surtout de réinsérer des personnes en difficulté. Que nous apprend l’intervenante sur l’économie circulaire ?",
         "audio": "/mp3/151/25.mp3",
         "options": [
-            "Elle a d'abord une vocation caritative.",
-            "Elle concerne une seule branche d'activité.",
-            "Elle est issue d'une initiative régionale.",
+            "Elle a d’abord une vocation caritative.",
+            "Elle concerne une seule branche d’activité.",
+            "Elle est issue d’une initiative régionale.",
             "Elle permet la réduction du gaspillage."
         ],
         "answer": 0
@@ -79,10 +79,10 @@
     {
         "id": 26,
         "testId": "151",
-        "text": "Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n'est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête. On peut changer de prénom à condition de justifier d'un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu'il a un caractère quelque peu ridicule, qui rencontre des difficultés. Pourquoi changer de prénom peut-il s'avérer difficile ?",
+        "text": "Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n’est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête. On peut changer de prénom à condition de justifier d’un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu’il a un caractère quelque peu ridicule, qui rencontre des difficultés. Pourquoi changer de prénom peut-il s’avérer difficile ?",
         "audio": "/mp3/151/26.mp3",
         "options": [
-            "Il faut obtenir l'accord de la famille.",
+            "Il faut obtenir l’accord de la famille.",
             "Il faut prouver la nécessité de la démarche.",
             "Il y a de nombreux documents à rassembler.",
             "Il y a des frais de procédure élevés."
@@ -92,20 +92,20 @@
     {
         "id": 27,
         "testId": "151",
-        "text": "Allô, bonjour madame, c'est M. Etienne. Je reçus mon relevé bancaire et je vois que mon abonnement au service en ligne a augmenté de 5%. C'est pas beaucoup, certes, mais est-ce normal ? Oui, oui, je vous rassure, c'est bien normal. Tous nos tarifs ont subi une augmentation au 1er janvier. Peut-être, mais je n'ai reçu aucun courrier pour m'avertir. Vous avez raison, mais nos conditions tarifaires sont affichées à l'agence. Cela ne justifie pas que vous n'avertissez pas vos clients ! Alors je vous demande de résilier cet abonnement au plus vite ! Pourquoi le client demande-t-il la résiliation de son abonnement bancaire ?",
+        "text": "Allô, bonjour madame, c’est M. Etienne. Je reçus mon relevé bancaire et je vois que mon abonnement au service en ligne a augmenté de 5%. C’est pas beaucoup, certes, mais est-ce normal ? Oui, oui, je vous rassure, c’est bien normal. Tous nos tarifs ont subi une augmentation au 1er janvier. Peut-être, mais je n’ai reçu aucun courrier pour m’avertir. Vous avez raison, mais nos conditions tarifaires sont affichées à l’agence. Cela ne justifie pas que vous n’avertissez pas vos clients ! Alors je vous demande de résilier cet abonnement au plus vite ! Pourquoi le client demande-t-il la résiliation de son abonnement bancaire ?",
         "audio": "/mp3/151/27.mp3",
         "options": [
             "Il trouve que cela lui coûte trop cher.",
             "Il pense que cela ne lui est plus utile.",
-            "Il trouve que l'augmentation est injustifiée.",
-            "Il pense qu'il aurait dû être prévenu."
+            "Il trouve que l’augmentation est injustifiée.",
+            "Il pense qu’il aurait dû être prévenu."
         ],
         "answer": 3
     },
     {
         "id": 28,
         "testId": "151",
-        "text": "On est aujourd'hui à Saint-Louis du Sénégal, à l'université Gaston-Bergé. C'est la deuxième université du pays avec dix fois moins d'étudiants qu'à Dakar. Elle a échappé à l'arrivée en masse d'étudiants pour une raison simple, c'est ce que nous explique le recteur de l'université. L'université a été créée pour développer l'excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n'est pas seulement local, on vient de partout pour s'inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés. Qu'explique la personne interrogée à propos de cette université sénégalaise ?",
+        "text": "On est aujourd’hui à Saint-Louis du Sénégal, à l’université Gaston-Bergé. C’est la deuxième université du pays avec dix fois moins d’étudiants qu’à Dakar. Elle a échappé à l’arrivée en masse d’étudiants pour une raison simple, c’est ce que nous explique le recteur de l’université. L’université a été créée pour développer l’excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n’est pas seulement local, on vient de partout pour s’inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés. Qu’explique la personne interrogée à propos de cette université sénégalaise ?",
         "audio": "/mp3/151/28.mp3",
         "options": [
             "Les critères de sélection sont particulièrement stricts",
@@ -118,12 +118,12 @@
     {
         "id": 29,
         "testId": "151",
-        "text": "Et on termine avec vous, Jeannick, qui pose une grande question existentielle. Marcher ou courir? Ça dépend. C'est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L'une d'elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c'est la course qui l'emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs, et passer l'âge de 55 ans, c'est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs, et la cause pourrait être l'effet de la course sur l'appétit. Selon le chroniqueur, que permet la course par rapport à la marche ?",
+        "text": "Et on termine avec vous, Jeannick, qui pose une grande question existentielle. Marcher ou courir? Ça dépend. C’est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L’une d’elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c’est la course qui l’emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs, et passer l’âge de 55 ans, c’est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs, et la cause pourrait être l’effet de la course sur l’appétit. Selon le chroniqueur, que permet la course par rapport à la marche ?",
         "audio": "/mp3/151/29.mp3",
         "options": [
             "De maigrir plus rapidement.",
             "De manger sans compter.",
-            "De s'entraîner moins souvent.",
+            "De s’entraîner moins souvent.",
             "De vivre plus longtemps."
         ],
         "answer": 0
@@ -131,25 +131,25 @@
     {
         "id": 30,
         "testId": "151",
-        "text": "Bonjour à tous, je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous, votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
+        "text": "Bonjour à tous, je n’ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que porter pour un premier rendez-vous, pour un entretien d’embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l’être et le paraître. Mais faites l’expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous, votre caractère en sera peut-être même transformé. Quelle est l’idée avancée par la journaliste?",
         "audio": "/mp3/151/30.mp3",
         "options": [
-            "Aujourd'hui, être à la mode est une préoccupation superficielle.",
+            "Aujourd’hui, être à la mode est une préoccupation superficielle.",
             "il faut porter des vêtements adaptés à toutes circonstances",
-            "La société actuelle donne trop de place a l'apparence.",
-            "La tenue vestimentaire influence l'état psychologique."
+            "La société actuelle donne trop de place a l’apparence.",
+            "La tenue vestimentaire influence l’état psychologique."
         ],
         "answer": 3
     },
     {
         "id": 31,
         "testId": "151",
-        "text": "Les moins de 30 ans ne représentent que 10% des locataires. Pourtant, ils dépensent plus pour se loger, en moyenne 6 000 euros par an, soit 42% de plus que les autres. Ils ont également des revenus plus faibles que leurs parents au même âge, alors qu'ils sont nettement plus diplômés. Et la différence en France est nettement plus importante que dans les pays européens comparables. Mais ça ne freine pas leur envie de consommer. Il en faudrait plus. Le Credo constate que leur appétit de consommation est plus important que celui de leurs aînés, d'autant plus que, peu intéressés par les structures sociales existantes, les jeunes s'identifient à des groupes dont le point commun est justement la consommation. C'est le règne de la consommation symbole et le triomphe du marketing. Qu'est-ce qui différencie les moins de 30 ans des générations précédentes?",
+        "text": "Les moins de 30 ans ne représentent que 10% des locataires. Pourtant, ils dépensent plus pour se loger, en moyenne 6 000 euros par an, soit 42% de plus que les autres. Ils ont également des revenus plus faibles que leurs parents au même âge, alors qu’ils sont nettement plus diplômés. Et la différence en France est nettement plus importante que dans les pays européens comparables. Mais ça ne freine pas leur envie de consommer. Il en faudrait plus. Le Credo constate que leur appétit de consommation est plus important que celui de leurs aînés, d’autant plus que, peu intéressés par les structures sociales existantes, les jeunes s’identifient à des groupes dont le point commun est justement la consommation. C’est le règne de la consommation symbole et le triomphe du marketing. Qu’est-ce qui différencie les moins de 30 ans des générations précédentes?",
         "audio": "/mp3/151/31.mp3",
         "options": [
             "Ils habitent plus longtemps en location.",
             "Ils perçoivent un salaire plus élevé.",
-            "Ils s'investissent dans des associations",
+            "Ils s’investissent dans des associations",
             "Ils sont tentés par les dépenses."
         ],
         "answer": 3
@@ -157,11 +157,11 @@
     {
         "id": 32,
         "testId": "151",
-        "text": "Je sais que vous, vous allez fréquemment à la rencontre des jeunes au sein de l'association qui tente de promouvoir les métiers des métaux. Est-ce que ce sont des métiers qui font rêver aujourd'hui les jeunes? Il y a une dimension mystique autour de ces artisans à du faire. Mystique, carrément! La transformation de la barre de métal au feu a toujours fasciné le profane. L'alchimie qui permet de voir la transformation d'un lingot de métal en une oeuvre finie a toujours émerveillé. Et donc on attire assez facilement les jeunes vers ces savoir-faire, notamment en ce qui concerne la ferronnerie d'art. Nous organisons... Il y a une dimension artistique de créativité en plus. Voilà, tout à fait. Qu'est-ce qui pousse les jeunes à travailler dans les métiers des métaux?",
+        "text": "Je sais que vous, vous allez fréquemment à la rencontre des jeunes au sein de l’association qui tente de promouvoir les métiers des métaux. Est-ce que ce sont des métiers qui font rêver aujourd’hui les jeunes? Il y a une dimension mystique autour de ces artisans à du faire. Mystique, carrément! La transformation de la barre de métal au feu a toujours fasciné le profane. L’alchimie qui permet de voir la transformation d’un lingot de métal en une oeuvre finie a toujours émerveillé. Et donc on attire assez facilement les jeunes vers ces savoir-faire, notamment en ce qui concerne la ferronnerie d’art. Nous organisons... Il y a une dimension artistique de créativité en plus. Voilà, tout à fait. Qu’est-ce qui pousse les jeunes à travailler dans les métiers des métaux?",
         "audio": "/mp3/151/32.mp3",
         "options": [
             "Des prédispositions pour les professions techniques.",
-            "L'aspect magique de la métamorphose de la matière,",
+            "L’aspect magique de la métamorphose de la matière,",
             "Le désintérêt pour les métiers soi-disant intellectuels.",
             "Une rémunération à la hauteur du talent de chacun."
         ],
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "151",
-        "text": "Il y a certains légumes qui sont moins bien connus que d'autres. Oui, la courge entre autres, c'est quelque chose qui... vraiment les gens la regardent avec un point d'interrogation, qu'est-ce que je vais faire avec ça? Donc il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n'ont pas le temps, donc il faut essayer de leur trouver des trucs. Que doit faire cette personne pour vendre ses légumes?",
+        "text": "Il y a certains légumes qui sont moins bien connus que d’autres. Oui, la courge entre autres, c’est quelque chose qui... vraiment les gens la regardent avec un point d’interrogation, qu’est-ce que je vais faire avec ça? Donc il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n’ont pas le temps, donc il faut essayer de leur trouver des trucs. Que doit faire cette personne pour vendre ses légumes?",
         "audio": "/mp3/151/33.mp3",
         "options": [
             "Donner des conseils de préparation.",
@@ -183,33 +183,33 @@
     {
         "id": 34,
         "testId": "151",
-        "text": "Déjà à l'âge de 4-5 ans, on peut dire qu'ils sont attirés par des marques, ils veulent avoir leur look. C'est quand même terrible de s'apercevoir que tout petit déjà on est sous influence en fait. C'est ça qu'on peut dire. Alors c'est vrai qu'on se rend compte que l'âge à partir duquel les enfants commencent à s'intéresser à cette notion de marque a diminué. C'est-à-dire que le fait que les enfants veuillent une marque particulière ça a toujours existé, il ne faut pas se leurrer. Le phénomène effectivement n'est pas nouveau mais l'âge décroît sensiblement. Évidemment la socialisation joue un rôle puisque l'enfant est toujours sous l'influence de ses pairs. Il va vouloir faire comme les autres parce qu'il y a l'effet de groupe, on ne veut pas être mis à part. Qu'est-ce qui explique le comportement des enfants en matière de vêtements?",
+        "text": "Déjà à l’âge de 4-5 ans, on peut dire qu’ils sont attirés par des marques, ils veulent avoir leur look. C’est quand même terrible de s’apercevoir que tout petit déjà on est sous influence en fait. C’est ça qu’on peut dire. Alors c’est vrai qu’on se rend compte que l’âge à partir duquel les enfants commencent à s’intéresser à cette notion de marque a diminué. C’est-à-dire que le fait que les enfants veuillent une marque particulière ça a toujours existé, il ne faut pas se leurrer. Le phénomène effectivement n’est pas nouveau mais l’âge décroît sensiblement. Évidemment la socialisation joue un rôle puisque l’enfant est toujours sous l’influence de ses pairs. Il va vouloir faire comme les autres parce qu’il y a l’effet de groupe, on ne veut pas être mis à part. Qu’est-ce qui explique le comportement des enfants en matière de vêtements?",
         "audio": "/mp3/151/34.mp3",
         "options": [
             "La publicité diffusée par les entreprises.",
-            "L'attirance pour des produits innovants",
+            "L’attirance pour des produits innovants",
             "Le besoin de ressembler aux autres.",
-            "L'imitation des attitudes des adultes."
+            "L’imitation des attitudes des adultes."
         ],
         "answer": 2
     },
     {
         "id": 35,
         "testId": "151",
-        "text": "Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange-Gardien en face du fleuve Saint-Laurent. Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier. Qu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
+        "text": "Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L’Ange-Gardien en face du fleuve Saint-Laurent. Faire du vin au Québec, c’est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c’est pour ça qu’il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l’on a des produits extrêmement intéressants parce qu’il y a un petit peu d’acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier. Qu’est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
         "audio": "/mp3/151/35.mp3",
         "options": [
             "La qualité croissante des résultats.",
             "Les aménagements hydrauliques.",
-            "L'expérience de ses collègues.",
-            "L'importation de pieds de vigne."
+            "L’expérience de ses collègues.",
+            "L’importation de pieds de vigne."
         ],
         "answer": 0
     },
     {
         "id": 36,
         "testId": "151",
-        "text": "Alors ce cours avec François? J'ai adoré! Il a vraiment le chic pour nous faire ressentir la musique. Ça m'a vraiment donné envie de continuer du coup. Combien coûte le trimestre? C'est 15 euros l'heure, mais si vous prenez un abonnement, ça vous reviendra moins cher. Et quelles sont les conditions? Il faut prendre au moins 10 cours dans les 3 mois à venir, ou 25 dans les 6 mois. Après vous avez aussi la formule sur l'année qui revient à 8 euros le cours. Ah oui! C'est intéressant parce que je viens à la fois pour le classique et pour les claquettes. En même temps, il faut que je sois sûre de pouvoir m'engager. À vous de voir. Cela dit, vous pouvez changer de formule à tout moment. Que recherche la cliente?",
+        "text": "Alors ce cours avec François? J’ai adoré! Il a vraiment le chic pour nous faire ressentir la musique. Ça m’a vraiment donné envie de continuer du coup. Combien coûte le trimestre? C’est 15 euros l’heure, mais si vous prenez un abonnement, ça vous reviendra moins cher. Et quelles sont les conditions? Il faut prendre au moins 10 cours dans les 3 mois à venir, ou 25 dans les 6 mois. Après vous avez aussi la formule sur l’année qui revient à 8 euros le cours. Ah oui! C’est intéressant parce que je viens à la fois pour le classique et pour les claquettes. En même temps, il faut que je sois sûre de pouvoir m’engager. À vous de voir. Cela dit, vous pouvez changer de formule à tout moment. Que recherche la cliente?",
         "audio": "/mp3/151/36.mp3",
         "options": [
             "Un cours de musique sensorielle.",
@@ -222,12 +222,12 @@
     {
         "id": 37,
         "testId": "151",
-        "text": "Bonjour à tous, Noël est passé, et bien maintenant on va s'intéresser aux jouets et à leur conception. Je pensais qu'on ne pouvait pas mettre un jouet sur le commerce s'il n'était pas sain pour les enfants et pour les grands aussi, parce qu'il y a des grands qui jouent aussi un petit peu, normal. Alors il est vrai que pour les jouets, il existe des réglementations qui s'appliquent, notamment sur l'interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n'y a pas d'autorisation de mise sur le marché comme ça existe pour les médicaments. De quoi s’étonne le premier interlocuteur?",
+        "text": "Bonjour à tous, Noël est passé, et bien maintenant on va s’intéresser aux jouets et à leur conception. Je pensais qu’on ne pouvait pas mettre un jouet sur le commerce s’il n’était pas sain pour les enfants et pour les grands aussi, parce qu’il y a des grands qui jouent aussi un petit peu, normal. Alors il est vrai que pour les jouets, il existe des réglementations qui s’appliquent, notamment sur l’interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n’y a pas d’autorisation de mise sur le marché comme ça existe pour les médicaments. De quoi s’étonne le premier interlocuteur?",
         "audio": "/mp3/151/37.mp3",
         "options": [
             "De la mise en vente libre de jouets sans contrôle sanitaire.",
-            "De la tendance des adultes à s'approprier les jouets des enfants.",
-            "De l'intérêt croissant suscité par les jouets tout au long de l'année.",
+            "De la tendance des adultes à s’approprier les jouets des enfants.",
+            "De l’intérêt croissant suscité par les jouets tout au long de l’année.",
             "Du niveau de toxicité maximal toléré dans la fabrication des jouets."
         ],
         "answer": 0
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "151",
-        "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d'Europe comme de l'objectif ultime du processus d'unification européenne, elle a d'un coup redonné une clarté à cette entreprise si complexe qu'elle en est devenue obscure à temps d'européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l'unité de l'Europe n'osaient plus employer l'expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L'idée véhiculée par les États-Unis d'Europe, c'est-à-dire des États soumis à un pouvoir fédéral, n'est pas du tout à l'ordre du jour. Selon le chroniqueur, pourquoi l'expression « États-Unis d'Europe » est-elle taboue?",
+        "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d’Europe comme de l’objectif ultime du processus d’unification européenne, elle a d’un coup redonné une clarté à cette entreprise si complexe qu’elle en est devenue obscure à temps d’européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l’unité de l’Europe n’osaient plus employer l’expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L’idée véhiculée par les États-Unis d’Europe, c’est-à-dire des États soumis à un pouvoir fédéral, n’est pas du tout à l’ordre du jour. Selon le chroniqueur, pourquoi l’expression « États-Unis d’Europe » est-elle taboue?",
         "audio": "/mp3/151/38.mp3",
         "options": [
             "Elle est trop éloignée des orientations politiques actuelles.",
@@ -248,13 +248,13 @@
     {
         "id": 39,
         "testId": "151",
-        "text": "Peut-être aurais-je dû moi aussi faire l'acquisition de l'un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m'aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n'est pas inné, nous disent les spécialistes, il s'apprend. Et donc au rayon bonheur de la librairie, donc je n'invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d'exercice, de conseils, rédigés généralement à l'impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
+        "text": "Peut-être aurais-je dû moi aussi faire l’acquisition de l’un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m’aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n’est pas inné, nous disent les spécialistes, il s’apprend. Et donc au rayon bonheur de la librairie, donc je n’invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d’exercice, de conseils, rédigés généralement à l’impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
         "audio": "/mp3/151/39.mp3",
         "options": [
             "Acheter des livres sur le bonheur rend heureux.",
             "Chacun de nous est prédisposé au bonheur",
-            "Des cours de bonheur s'impose dès l'enfance.",
-            "L'accès au bonheur nécessite du travail."
+            "Des cours de bonheur s’impose dès l’enfance.",
+            "L’accès au bonheur nécessite du travail."
         ],
         "answer": 3
     }

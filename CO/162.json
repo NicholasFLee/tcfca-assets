@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "162",
-        "text": "Bonjour, je suis un client de l'Hôtel Royal et j'aimerais découvrir Montréal. Le plus simple est de vous inscrire sur une des listes suivantes. Ce sont des itinéraires touristiques dans les différents quartiers. Vous avez le choix entre plusieurs thèmes, comme par exemple histoire, architecture… D'accord. J'écris donc mon nom et mon numéro de téléphone, c'est bien ça? Oui. Vous pouvez aussi nous donner votre courriel. Parfait. Je m'inscris donc au circuit gastronomie. À demain. Que souhaite ce touriste?",
+        "text": "Bonjour, je suis un client de l’Hôtel Royal et j’aimerais découvrir Montréal. Le plus simple est de vous inscrire sur une des listes suivantes. Ce sont des itinéraires touristiques dans les différents quartiers. Vous avez le choix entre plusieurs thèmes, comme par exemple histoire, architecture… D’accord. J’écris donc mon nom et mon numéro de téléphone, c’est bien ça? Oui. Vous pouvez aussi nous donner votre courriel. Parfait. Je m’inscris donc au circuit gastronomie. À demain. Que souhaite ce touriste?",
         "audio": "/mp3/162/20.mp3",
         "options": [
             "Acheter un guide.",
@@ -14,20 +14,20 @@
     {
         "id": 21,
         "testId": "162",
-        "text": "Bonjour, c'est bien ici le bureau des relations internationales ? Oui, c'est à quel sujet ? Je suis en master. Je voudrais des informations sur les échanges internationaux proposés aux étudiants. Demandez d'abord la liste des universités partenaires au secrétariat de votre département. Ici, nous nous occupons seulement du transfert de votre demande à l'étranger. Revenez quand le dossier sera complet et validé par le directeur de votre département. Vers qui la femme dirige-t-elle l'étudiant ?",
+        "text": "Bonjour, c’est bien ici le bureau des relations internationales ? Oui, c’est à quel sujet ? Je suis en master. Je voudrais des informations sur les échanges internationaux proposés aux étudiants. Demandez d’abord la liste des universités partenaires au secrétariat de votre département. Ici, nous nous occupons seulement du transfert de votre demande à l’étranger. Revenez quand le dossier sera complet et validé par le directeur de votre département. Vers qui la femme dirige-t-elle l’étudiant ?",
         "audio": "/mp3/162/21.mp3",
         "options": [
             "Le bureau des relations internationales.",
             "Le directeur de son département.",
             "Le secrétariat de son département.",
-            "L'université étrangère qui l'intéresse."
+            "L’université étrangère qui l’intéresse."
         ],
         "answer": 2
     },
     {
         "id": 22,
         "testId": "162",
-        "text": "Té, café, trois cafés les garçons! Julie, café aussi? Euh non, je préférerais un thé. Nature? Citron, bergamote? Ce que tu veux, avec un peu de lait. Trois cafés et deux thé au lait. Je n'en ai pas pour longtemps. Continuez à jouer, distribuez sans moi. Que font les amis?",
+        "text": "Té, café, trois cafés les garçons! Julie, café aussi? Euh non, je préférerais un thé. Nature? Citron, bergamote? Ce que tu veux, avec un peu de lait. Trois cafés et deux thé au lait. Je n’en ai pas pour longtemps. Continuez à jouer, distribuez sans moi. Que font les amis?",
         "audio": "/mp3/162/22.mp3",
         "options": [
             "Ils dînent au restaurant.",
@@ -40,24 +40,24 @@
     {
         "id": 23,
         "testId": "162",
-        "text": "Est-ce que c'est toujours compatible ça d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier les études aussi ? Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs de rigueur, de saines habitudes de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs deux trois fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire donc on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires. Qu'est-ce qui inquiète cette mère de famille ?",
+        "text": "Est-ce que c’est toujours compatible ça d’avoir beaucoup d’heures de sport comme ça et pouvoir concilier les études aussi ? Non, spontanément c’est pas toujours compatible et puis c’est un grand paradoxe qui s’installe d’entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs de rigueur, de saines habitudes de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s’en allant à l’aréna, on va faire des devoirs deux trois fois plus parce qu’on sait que tel ou tel jour on n’aura pas le temps de les faire donc on fait plusieurs entorses à l’hygiène de vie parfois pour réussir à rencontrer les horaires. Qu’est-ce qui inquiète cette mère de famille ?",
         "audio": "/mp3/162/23.mp3",
         "options": [
             "La fréquence des compétitions sportives.",
             "Le contenu des programmes sportifs.",
             "Les contraintes liées aux pratiques sportives.",
-            "L'insuffisance des résultats sportifs."
+            "L’insuffisance des résultats sportifs."
         ],
         "answer": 2
     },
     {
         "id": 24,
         "testId": "162",
-        "text": "Bonjour à tous, aujourd'hui nous recevons Philippe Bouchard, sociologue, qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu'est-ce qui provoque ces conflits ? Ils sont de toute nature, de l'habillement à l'argent de poche, en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ?",
+        "text": "Bonjour à tous, aujourd’hui nous recevons Philippe Bouchard, sociologue, qui publie les grands enfants chez papa et maman. Bonjour Philippe Bouchard, dans votre livre vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l’expliquez-vous ? Elles sont plus précoces que les garçons, elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents. Et qu’est-ce qui provoque ces conflits ? Ils sont de toute nature, de l’habillement à l’argent de poche, en passant par le programme télé, elles ont plus de disputes avec leurs parents au sujet de leurs petits amis et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes. Pourquoi les filles partent-elles de la maison plutôt que les garçons ?",
         "audio": "/mp3/162/24.mp3",
         "options": [
             "Elles entrent dans la vie active avant les jeunes garçons.",
-            "Elles se rebellent très vite face à l'autorité familiale au quotidien.",
+            "Elles se rebellent très vite face à l’autorité familiale au quotidien.",
             "Elles sont en désaccord avec leurs parents au sujet de leurs études.",
             "Elles sont mieux préparées aux tâches de tous les jours."
         ],
@@ -66,12 +66,12 @@
     {
         "id": 25,
         "testId": "162",
-        "text": "CDV formation, bonjour. Bonjour. Je suis intéressé par votre formation en vente. Oui ? Quel est votre parcours ? Je suis déménageur depuis 4 ans. Je voudrais me réorienter. Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente. Je vois. Mais j'y pense. J'ai travaillé deux étés comme guichetier en supermarché. C'est suffisant ? Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature. Je m'en occupe. Merci. Au revoir. Au revoir. Pour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
+        "text": "CDV formation, bonjour. Bonjour. Je suis intéressé par votre formation en vente. Oui ? Quel est votre parcours ? Je suis déménageur depuis 4 ans. Je voudrais me réorienter. Malheureusement, notre formation s’adresse à des personnes déjà expérimentées en vente. Je vois. Mais j’y pense. J’ai travaillé deux étés comme guichetier en supermarché. C’est suffisant ? Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature. Je m’en occupe. Merci. Au revoir. Au revoir. Pour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
         "audio": "/mp3/162/25.mp3",
         "options": [
-            "Il a quatre ans d'expérience.",
+            "Il a quatre ans d’expérience.",
             "Il a travaillé dans un commerce.",
-            "Il accepte de travailler l'été.",
+            "Il accepte de travailler l’été.",
             "Il est très motivé par la formation."
         ],
         "answer": 1
@@ -79,20 +79,20 @@
     {
         "id": 26,
         "testId": "162",
-        "text": "C'était Gérard Pasquier qui avait fait un concours. J'avais gagné ce concours pour aller dans le Michigan faire des tests de vente de prêt-à-porter. Dans une belle ford Mustang, je crapahutais un peu partout. Je me suis pris un maximum de portes fermées. Puis à un moment, j'ai trouvé quand même que dans la collection, au lieu d'avoir les 5 valises, il y avait 7-8 modèles qui se vendaient. Donc j'ai fait ma petite valise avec les 7-8 modèles. J'ai trouvé les endroits où ça se vendait. C'était les boutiques qui étaient dans les universités. Parce qu'il y a des centres commerciaux dans les universités. Et là, je suis devenu un super-vendeur de Gérard Pasquier dans les universités. Comment cet homme a-t-il développé ces ventes prêt-à-porter ?",
+        "text": "C’était Gérard Pasquier qui avait fait un concours. J’avais gagné ce concours pour aller dans le Michigan faire des tests de vente de prêt-à-porter. Dans une belle ford Mustang, je crapahutais un peu partout. Je me suis pris un maximum de portes fermées. Puis à un moment, j’ai trouvé quand même que dans la collection, au lieu d’avoir les 5 valises, il y avait 7-8 modèles qui se vendaient. Donc j’ai fait ma petite valise avec les 7-8 modèles. J’ai trouvé les endroits où ça se vendait. C’était les boutiques qui étaient dans les universités. Parce qu’il y a des centres commerciaux dans les universités. Et là, je suis devenu un super-vendeur de Gérard Pasquier dans les universités. Comment cet homme a-t-il développé ces ventes prêt-à-porter ?",
         "audio": "/mp3/162/26.mp3",
         "options": [
             "Il a créé un partenariat avec une marque de voiture.",
             "Il a distribué gratuitement ses premiers modèles.",
             "Il a engagé des mannequins pour présenter sa collection.",
-            "Il s'est d'abord fait connaître auprès des étudiants."
+            "Il s’est d’abord fait connaître auprès des étudiants."
         ],
         "answer": 3
     },
     {
         "id": 27,
         "testId": "162",
-        "text": "Delphine Mansot, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ? On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça, ça prend ? Alors, comment rend-on un étudiant innovant, par exemple ? Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
+        "text": "Delphine Mansot, en tant que directrice de l’Institut pour l’innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ? On croit souvent que l’innovation survient par hasard et qu’il s’agit d’un don individuel. Mais être innovant et créatif, ça, ça prend ? Alors, comment rend-on un étudiant innovant, par exemple ? Il faut différencier l’innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d’équipes diversifiées. Comment favorise-t-on l’innovation chez les jeunes dans cet institut ?",
         "audio": "/mp3/162/27.mp3",
         "options": [
             "En les incitant à travailler de manière collaborative.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "162",
-        "text": "Bonjour docteur, je voudrais faire de l'escalade et j'ai besoin de votre autorisation pour m'inscrire dans un club de sport. De l'escalade, mais c'est très mauvais pour votre dos. Je vous conseille plutôt de faire de la natation. La natation ce n'est pas bon pour ma peau. Et puis j'adore la montagne. Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée c'est une idée. Ça peut m'aider à maigrir. Que doit faire le médecin ?",
+        "text": "Bonjour docteur, je voudrais faire de l’escalade et j’ai besoin de votre autorisation pour m’inscrire dans un club de sport. De l’escalade, mais c’est très mauvais pour votre dos. Je vous conseille plutôt de faire de la natation. La natation ce n’est pas bon pour ma peau. Et puis j’adore la montagne. Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée c’est une idée. Ça peut m’aider à maigrir. Que doit faire le médecin ?",
         "audio": "/mp3/162/28.mp3",
         "options": [
             "Conseiller des médicaments.",
@@ -118,25 +118,25 @@
     {
         "id": 29,
         "testId": "162",
-        "text": "Au coup de sifflet, elle commence à se rassembler les femmes de Tienaba avec leurs outils et la ferme intention de barrer la route aux moustiques. Cela s'appelle une séance de nettoyage. El Adjidiop, le président de l'association Sopé Mohamed, a de quoi être satisfait. De 3 459 cas de paludisme à Tienaba, il n'y en a aujourd'hui plus que 52. Les habitants se sont organisés en comité de salubrité chargés de mettre en place les séances de nettoyage mais aussi les séances d'information dans les lieux publics. À force d'être sensibilisés, la population a pris l'habitude d'utiliser les moustiquaires imprégnés, des moustiquaires que certains s'offrent même désormais en cadeau de mariage ou lors d'une naissance. Le véritable succès de cette initiative est que toute la localité s'est mobilisée pour lutter contre le paludisme. Quel a été l'élément décisif dans la lutte contre le paludisme dans le village de Tienaba?",
+        "text": "Au coup de sifflet, elle commence à se rassembler les femmes de Tienaba avec leurs outils et la ferme intention de barrer la route aux moustiques. Cela s’appelle une séance de nettoyage. El Adjidiop, le président de l’association Sopé Mohamed, a de quoi être satisfait. De 3 459 cas de paludisme à Tienaba, il n’y en a aujourd’hui plus que 52. Les habitants se sont organisés en comité de salubrité chargés de mettre en place les séances de nettoyage mais aussi les séances d’information dans les lieux publics. À force d’être sensibilisés, la population a pris l’habitude d’utiliser les moustiquaires imprégnés, des moustiquaires que certains s’offrent même désormais en cadeau de mariage ou lors d’une naissance. Le véritable succès de cette initiative est que toute la localité s’est mobilisée pour lutter contre le paludisme. Quel a été l’élément décisif dans la lutte contre le paludisme dans le village de Tienaba?",
         "audio": "/mp3/162/29.mp3",
         "options": [
-            "L'obligation d'acheter des moustiquaires.",
+            "L’obligation d’acheter des moustiquaires.",
             "La coopération avec les autorités publiques.",
-            "Le recensement des malades par l'association.",
-            "L'implication active de tous les habitants."
+            "Le recensement des malades par l’association.",
+            "L’implication active de tous les habitants."
         ],
         "answer": 3
     },
     {
         "id": 30,
         "testId": "162",
-        "text": "Allô Pierre? Ici Jacques. Je t'appelle pour te dire que pendant les vacances scolaires, je vais à Gaspé comme tous les ans. Ça t'intéresse de venir avec moi? Écoute, à priori, y'a pas de problème. Il faut que je vérifie quand se déroule le festival du cinéma ici, mais sinon, oui. D'abord, il faut que je te dise, cette année, j'y vais pas vraiment pour me balader. J'ai décidé de me trouver une petite maison. J'adore y aller et depuis le temps que j'y vais, il vaut mieux que je me décide à investir. En plus, j'ai beaucoup d'amis là-bas. Je te préviens, mon petit Jacques. Moi, j'y vais pour me balader et visiter la région. Les agences immobilières, tu te débrouilleras sans moi, hein? Pourquoi Jacques veut-il aller à Gaspé?",
+        "text": "Allô Pierre? Ici Jacques. Je t’appelle pour te dire que pendant les vacances scolaires, je vais à Gaspé comme tous les ans. Ça t’intéresse de venir avec moi? Écoute, à priori, y’a pas de problème. Il faut que je vérifie quand se déroule le festival du cinéma ici, mais sinon, oui. D’abord, il faut que je te dise, cette année, j’y vais pas vraiment pour me balader. J’ai décidé de me trouver une petite maison. J’adore y aller et depuis le temps que j’y vais, il vaut mieux que je me décide à investir. En plus, j’ai beaucoup d’amis là-bas. Je te préviens, mon petit Jacques. Moi, j’y vais pour me balader et visiter la région. Les agences immobilières, tu te débrouilleras sans moi, hein? Pourquoi Jacques veut-il aller à Gaspé?",
         "audio": "/mp3/162/30.mp3",
         "options": [
             "Pour mieux connaître la région.",
             "Pour aller voir un festival.",
-            "Pour s'acheter une maison",
+            "Pour s’acheter une maison",
             "Pour rendre visite à un ami."
         ],
         "answer": 2
@@ -144,10 +144,10 @@
     {
         "id": 31,
         "testId": "162",
-        "text": "C'est un nouveau rendez-vous radiophonique que nous vous proposons ce soir sur notre chaîne internationale avec notre émission consacrée à la chanson francophone. À travers la chanson, c'est surtout à la découverte de ces différents parlais – acadien, québécois, ivoirien, belge – qui donnent la couleur à notre langue française que nous partirons ce soir avec bien sûr la rencontre aussi de voix, de musique, de chanteurs, de textes, de cultures, sans oublier pour terminer un petit tour au Festival des chorales francophones. Selon la présentatrice, quel est le but principal de cette émission?",
+        "text": "C’est un nouveau rendez-vous radiophonique que nous vous proposons ce soir sur notre chaîne internationale avec notre émission consacrée à la chanson francophone. À travers la chanson, c’est surtout à la découverte de ces différents parlais – acadien, québécois, ivoirien, belge – qui donnent la couleur à notre langue française que nous partirons ce soir avec bien sûr la rencontre aussi de voix, de musique, de chanteurs, de textes, de cultures, sans oublier pour terminer un petit tour au Festival des chorales francophones. Selon la présentatrice, quel est le but principal de cette émission?",
         "audio": "/mp3/162/31.mp3",
         "options": [
-            "Favoriser l'apprentissage de chansons françaises.",
+            "Favoriser l’apprentissage de chansons françaises.",
             "Montrer la variété de la langue française.",
             "Promouvoir de nouveaux événements musicaux.",
             "Faire le tour du monde des festivals francophones."
@@ -157,24 +157,24 @@
     {
         "id": 32,
         "testId": "162",
-        "text": "Le seul mot d'ordre défendu par Anne-Marie Bonnisseau, professeure de physique chimie au lycée autogéré de Paris, eh bien c'est « pas de pression ». On a un certain nombre d'élèves qui arrivent ici après de très grandes pratiques d'absentéisme à l'école, de chahut, même d'aller en cours mais d'attendre que ça se passe, de ne pas avoir appris grand-chose. Et le projet c'est qu'ils reprennent goût à la formation, qu'ils reprennent leur place dans un espace de formation. Donc on leur a laissé le temps de tâtonner, de chercher, de se perdre tout en sachant que nous on était là pour les soutenir et qu'ils n'étaient pas perdus, ils étaient avec une structure derrière eux pour peu à peu trouver ce qu'ils voulaient faire. Quel est le principe pédagogique mise en oeuvre dans ce lycée?",
+        "text": "Le seul mot d’ordre défendu par Anne-Marie Bonnisseau, professeure de physique chimie au lycée autogéré de Paris, eh bien c’est « pas de pression ». On a un certain nombre d’élèves qui arrivent ici après de très grandes pratiques d’absentéisme à l’école, de chahut, même d’aller en cours mais d’attendre que ça se passe, de ne pas avoir appris grand-chose. Et le projet c’est qu’ils reprennent goût à la formation, qu’ils reprennent leur place dans un espace de formation. Donc on leur a laissé le temps de tâtonner, de chercher, de se perdre tout en sachant que nous on était là pour les soutenir et qu’ils n’étaient pas perdus, ils étaient avec une structure derrière eux pour peu à peu trouver ce qu’ils voulaient faire. Quel est le principe pédagogique mise en oeuvre dans ce lycée?",
         "audio": "/mp3/162/32.mp3",
         "options": [
-            "Apprendre à l'élève à se maîtriser sans la présence de professeurs.",
-            "Imposer une progression précise à l'élève afin de l'aider à se structurer.",
-            "Laisser l'élève progresser à son rythme en l'accompagnant patiemment.",
-            "S'appuyer sur ce que l'élève a appris durant son parcours scolaire."
+            "Apprendre à l’élève à se maîtriser sans la présence de professeurs.",
+            "Imposer une progression précise à l’élève afin de l’aider à se structurer.",
+            "Laisser l’élève progresser à son rythme en l’accompagnant patiemment.",
+            "S’appuyer sur ce que l’élève a appris durant son parcours scolaire."
         ],
         "answer": 2
     },
     {
         "id": 33,
         "testId": "162",
-        "text": "Grand angle, pourquoi pas un certificat médical pour permettre aux seigneurs de conduire au-delà de 70 ans. Au motif que, passés 75 ans, le taux de responsabilité présumé des seigneurs dans les accidents corporels augmenterait considérablement. Une proposition de loi sera débattue cet après-midi au Sénat. Reportage de Nouraine Zidane. Même s'il a réduit son kilométrage par 10 depuis qu'il est retraité, Bernard estime toujours être un bon conducteur. Mais à 71 ans, cet ancien ingénieur vient tout de même de passer un stage de remise à niveau théorique. Parce que c'est vrai, quand je pense à mon permis en 61 et la conduite actuelle, c'est complètement différent. Et j'avoue qu'il y a beaucoup de panneaux, je me disais, qu'est-ce que ça veut dire? Que propose le Parlement pour renforcer la sécurité routière?",
+        "text": "Grand angle, pourquoi pas un certificat médical pour permettre aux seigneurs de conduire au-delà de 70 ans. Au motif que, passés 75 ans, le taux de responsabilité présumé des seigneurs dans les accidents corporels augmenterait considérablement. Une proposition de loi sera débattue cet après-midi au Sénat. Reportage de Nouraine Zidane. Même s’il a réduit son kilométrage par 10 depuis qu’il est retraité, Bernard estime toujours être un bon conducteur. Mais à 71 ans, cet ancien ingénieur vient tout de même de passer un stage de remise à niveau théorique. Parce que c’est vrai, quand je pense à mon permis en 61 et la conduite actuelle, c’est complètement différent. Et j’avoue qu’il y a beaucoup de panneaux, je me disais, qu’est-ce que ça veut dire? Que propose le Parlement pour renforcer la sécurité routière?",
         "audio": "/mp3/162/33.mp3",
         "options": [
-            "Contrôler l'aptitude à la conduite d'une certaine catégorie d'usagers.",
-            "Obliger les fautifs d'accidents à repasser l'examen du permis.",
+            "Contrôler l’aptitude à la conduite d’une certaine catégorie d’usagers.",
+            "Obliger les fautifs d’accidents à repasser l’examen du permis.",
             "Réduire la vitesse réglementaire pour les automobilistes séniors.",
             "Simplifier les panneaux de signalisation les plus complexes."
         ],
@@ -183,7 +183,7 @@
     {
         "id": 34,
         "testId": "162",
-        "text": "Produire plus et mieux en respectant la capacité de renouvellement de nos ressources alimentaires et en tenant compte des évolutions climatiques, Jacques Arignan, est-ce possible et réaliste? C'est à mon avis possible et réaliste. Toutefois, je ne pense pas qu'il faille détruire de la forêt pour regagner des terres cultivables. Je pense qu'on peut les reconquérir sur des territoires qui sont actuellement dégradés. C'est ainsi que je vois produire davantage et produire mieux, à condition de bien connaître les milieux auxquels on va s'appliquer et à condition d'être extrêmement vigilant sur les procédures à employer pour produire davantage. Quelle solution propose Jacques Arignan?",
+        "text": "Produire plus et mieux en respectant la capacité de renouvellement de nos ressources alimentaires et en tenant compte des évolutions climatiques, Jacques Arignan, est-ce possible et réaliste? C’est à mon avis possible et réaliste. Toutefois, je ne pense pas qu’il faille détruire de la forêt pour regagner des terres cultivables. Je pense qu’on peut les reconquérir sur des territoires qui sont actuellement dégradés. C’est ainsi que je vois produire davantage et produire mieux, à condition de bien connaître les milieux auxquels on va s’appliquer et à condition d’être extrêmement vigilant sur les procédures à employer pour produire davantage. Quelle solution propose Jacques Arignan?",
         "audio": "/mp3/162/34.mp3",
         "options": [
             "Accroître les zones agricoles en déforestant.",
@@ -196,25 +196,25 @@
     {
         "id": 35,
         "testId": "162",
-        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu'apprend-on sur l'équipe des Canadiens de Montréal?",
+        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d’origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l’histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l’étiolement de la communauté minoritaire semblait inexorable, le fait d’avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu’apprend-on sur l’équipe des Canadiens de Montréal?",
         "audio": "/mp3/162/35.mp3",
         "options": [
-            "C'est un exemple de réussite par le sport.",
-            "C'est un modèle rare de mixité culturelle.",
-            "C'est un symbole fort de cette province.",
-            "C'est une référence pour son style de jeu."
+            "C’est un exemple de réussite par le sport.",
+            "C’est un modèle rare de mixité culturelle.",
+            "C’est un symbole fort de cette province.",
+            "C’est une référence pour son style de jeu."
         ],
         "answer": 2
     },
     {
         "id": 36,
         "testId": "162",
-        "text": "Il existe des voitures équipées de caméras à 360 degrés qui photographient le monde pour le cartographier en 3D. Présent dans plusieurs pays, ce service filme le monde pour en donner un accès virtuel très précis via Internet. Mais cette application interpelle les médias, les juristes et les blogueurs sur sa légalité envers le respect de la vie privée. Sillonnant les rues, ces techniciens capturent parfois des indiscrétions. Cependant, un des géants du net estime que le floutage automatique de tous les visages et de toutes les plaques d'immatriculation doivent le prémunir des plaintes éventuelles. Néanmoins, des craintes demeurent, et entre autres celles de l'intrusion dans la vie privée et la crainte de cambriolage potentiel suite à la publication de photos de maison sur le réseau. Quelle est la mission du service présentée par cet homme?",
+        "text": "Il existe des voitures équipées de caméras à 360 degrés qui photographient le monde pour le cartographier en 3D. Présent dans plusieurs pays, ce service filme le monde pour en donner un accès virtuel très précis via Internet. Mais cette application interpelle les médias, les juristes et les blogueurs sur sa légalité envers le respect de la vie privée. Sillonnant les rues, ces techniciens capturent parfois des indiscrétions. Cependant, un des géants du net estime que le floutage automatique de tous les visages et de toutes les plaques d’immatriculation doivent le prémunir des plaintes éventuelles. Néanmoins, des craintes demeurent, et entre autres celles de l’intrusion dans la vie privée et la crainte de cambriolage potentiel suite à la publication de photos de maison sur le réseau. Quelle est la mission du service présentée par cet homme?",
         "audio": "/mp3/162/36.mp3",
         "options": [
             "Constituer un atlas mondial électronique.",
             "Proposer des reportages sur la vie privée.",
-            "Recenser les plaintes pour violation d'intimité.",
+            "Recenser les plaintes pour violation d’intimité.",
             "Surveiller les maisons pour stopper les vols."
         ],
         "answer": 0
@@ -222,11 +222,11 @@
     {
         "id": 37,
         "testId": "162",
-        "text": "Qu'est-ce que vous avez en couverture ce mois-ci? Ce mois-ci, on se questionne sur la présence de pétrole dans le golfe Saint-Laurent, dans le sous-sol du golfe Saint-Laurent. Il y a beaucoup de controverses au sujet de son exploitation, son extraction, sur les dommages potentiels que ça pourrait causer au golfe, qui est un écosystème assez précieux et assez unique aussi au monde. Mais il y a aussi cette richesse qu'on ne soupçonnait pas il y a une vingtaine, trentaine d'années, ce pétrole dans le sous-sol. Alors ça fait des débats de société assez importants ici. Qu'est-ce qui fait polémique?",
+        "text": "Qu’est-ce que vous avez en couverture ce mois-ci? Ce mois-ci, on se questionne sur la présence de pétrole dans le golfe Saint-Laurent, dans le sous-sol du golfe Saint-Laurent. Il y a beaucoup de controverses au sujet de son exploitation, son extraction, sur les dommages potentiels que ça pourrait causer au golfe, qui est un écosystème assez précieux et assez unique aussi au monde. Mais il y a aussi cette richesse qu’on ne soupçonnait pas il y a une vingtaine, trentaine d’années, ce pétrole dans le sous-sol. Alors ça fait des débats de société assez importants ici. Qu’est-ce qui fait polémique?",
         "audio": "/mp3/162/37.mp3",
         "options": [
-            "L'industrialisation galopante des rives.",
-            "La dégradation d'un site naturel rare.",
+            "L’industrialisation galopante des rives.",
+            "La dégradation d’un site naturel rare.",
             "La pollution des nappes phréatiques.",
             "La raréfaction des énergies fossiles."
         ],
@@ -235,26 +235,26 @@
     {
         "id": 38,
         "testId": "162",
-        "text": "Pour faciliter l'installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens fermant une ville en plein boom minier va doubler, comme l'explique sa mairesse. Il y a des secteurs de rue qui vont ouvrir d'ici les prochaines semaines, d'ici le prochain mois. Pourquoi? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C'est tout un défi qu'on a à relever. Selon cet élu, en quoi consiste le défi à relever?",
+        "text": "Pour faciliter l’installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens fermant une ville en plein boom minier va doubler, comme l’explique sa mairesse. Il y a des secteurs de rue qui vont ouvrir d’ici les prochaines semaines, d’ici le prochain mois. Pourquoi? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C’est tout un défi qu’on a à relever. Selon cet élu, en quoi consiste le défi à relever?",
         "audio": "/mp3/162/38.mp3",
         "options": [
-            "Mettre en place toutes les infrastructures d'accueil.",
+            "Mettre en place toutes les infrastructures d’accueil.",
             "Prendre en compte les aspects financiers du projet.",
-            "Réussir l'intégration de la main d'œuvre étrangère.",
-            "Susciter l'adhésion de tous les habitants concernés."
+            "Réussir l’intégration de la main d’œuvre étrangère.",
+            "Susciter l’adhésion de tous les habitants concernés."
         ],
         "answer": 0
     },
     {
         "id": 39,
         "testId": "162",
-        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. Il doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, disons qu'il y a parfois un petit problème. C'est d'abord que peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quelles sont les limites du recours au médiateur lors d'un conflit avec sa banque?",
+        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l’époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. Il doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n’est qu’un avis, entendons-nous bien. Et là, disons qu’il y a parfois un petit problème. C’est d’abord que peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c’est-à-dire ceux qui s’adressent à eux, ont le sentiment qu’ils n’ont pas été compris ni entendu. Quelles sont les limites du recours au médiateur lors d’un conflit avec sa banque?",
         "audio": "/mp3/162/39.mp3",
         "options": [
             "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
             "Les banques influencent les décisions prises par les médiateurs.",
             "Les demandeurs trouvent que la procédure est trop longue et compliquée.",
-            "Quelle que soit la nature du litige, le médiateur n'a qu'un pouvoir consultatif."
+            "Quelle que soit la nature du litige, le médiateur n’a qu’un pouvoir consultatif."
         ],
         "answer": 3
     }

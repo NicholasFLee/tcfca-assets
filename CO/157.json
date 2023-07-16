@@ -1,50 +1,50 @@
 [{
         "id": 20,
         "testId": "157",
-        "text": "Quel froid ce matin! Oui, mais au moins, il y a du soleil. C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur. Ah oui, j'aime mieux ce froid sec. Quel temps fait-il aujourd'hui?",
+        "text": "Quel froid ce matin! Oui, mais au moins, il y a du soleil. C’est sûr, à côté d’hier, la pluie toute la journée, c’était l’horreur. Ah oui, j’aime mieux ce froid sec. Quel temps fait-il aujourd’hui?",
         "audio": "/mp3/157/20.mp3",
         "options": [
-            "Il fait plus beau qu'hier.",
-            "Il fait plus mauvais qu'hier.",
-            "Il pleut plus qu'hier.",
-            "Il y a moins de soleil qu'hier."
+            "Il fait plus beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
         ],
         "answer": 0
     },
     {
         "id": 21,
         "testId": "157",
-        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l'instant, il est obligé d'affronter les écologistes et même l'union européenne. Que se passe-t-il dans la région?",
+        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l’instant, il est obligé d’affronter les écologistes et même l’union européenne. Que se passe-t-il dans la région?",
         "audio": "/mp3/157/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
-            "Les écologistes refusent la construction d'une autoroute.",
-            "L'Union européenne veut faire construire une autoroute.",
-            "Un maire propose d'ouvrir une réserve naturelle."
+            "Les écologistes refusent la construction d’une autoroute.",
+            "L’Union européenne veut faire construire une autoroute.",
+            "Un maire propose d’ouvrir une réserve naturelle."
         ],
         "answer": 1
     },
     {
         "id": 22,
         "testId": "157",
-        "text": "Voici l'initiative originale d'une société spécialisée dans les cours de bricolage et qui accueille les femmes jeunes ou moins jeunes, mariées, divorcées, célibataires, étudiantes ou même retraitées. Celles qui s'inscrivent n'ont qu'un désir, ne plus se sentir démunies face à une chasse d'eau qui fuit. Marie-Hélène a assisté aux cours du samedi matin, le B.A.B.A de la plomberie. Le plus dur au départ, c'est le vocabulaire. Téflon, joint, siphon, une langue étrangère pour Marie-Hélène qui nous explique sa motivation. Pour être plus indépendante et savoir changer un joint, éventuellement des robinets. Est-ce que c'est rassurant qu'il n'y ait que des femmes? Peut-être. Parce qu'on se dit que les hommes risqueraient de se moquer de nous. C'est plus... oui, rassurant. ",
+        "text": "Voici l’initiative originale d’une société spécialisée dans les cours de bricolage et qui accueille les femmes jeunes ou moins jeunes, mariées, divorcées, célibataires, étudiantes ou même retraitées. Celles qui s’inscrivent n’ont qu’un désir, ne plus se sentir démunies face à une chasse d’eau qui fuit. Marie-Hélène a assisté aux cours du samedi matin, le B.A.B.A de la plomberie. Le plus dur au départ, c’est le vocabulaire. Téflon, joint, siphon, une langue étrangère pour Marie-Hélène qui nous explique sa motivation. Pour être plus indépendante et savoir changer un joint, éventuellement des robinets. Est-ce que c’est rassurant qu’il n’y ait que des femmes? Peut-être. Parce qu’on se dit que les hommes risqueraient de se moquer de nous. C’est plus... oui, rassurant. ",
         "audio": "/mp3/157/22.mp3",
         "options": [
             "Pour apprendre les termes spécifiques de la plomberie.",
-            "Pour économiser les frais d'un dépannage par un artisan.",
+            "Pour économiser les frais d’un dépannage par un artisan.",
             "Pour être autonome face aux petits travaux de la maison.",
-            "Pour rencontrer d'autres femmes ayant la même passion."
+            "Pour rencontrer d’autres femmes ayant la même passion."
         ],
         "answer": 2
     },
     {
         "id": 23,
         "testId": "157",
-        "text": "Bonjour, ravi de vous retrouver dans Grand Bien Vous Fasse. La pauvreté dans le monde recule, la démocratie avance, la couche d'ozone se reconstitue, ou encore le monde n'a jamais connu aussi peu de violence. Ce matin, nous recevons un rameur à contre-courant de certaines idées reçues. Le spécialiste en psychologie positive, Jacques Lecompte, nous donne à voir ce matin une humanité en progrès. En s'appuyant sur une série de chiffres, de statistiques et de rapports internationaux fiables, Jacques Lecompte nous invite à regarder notre monde avec un optimisme réaliste. Il appelle ça l'optirréalisme, loin des discours catastrophistes des prophètes de malheur. Que propose cette émission ?",
+        "text": "Bonjour, ravi de vous retrouver dans Grand Bien Vous Fasse. La pauvreté dans le monde recule, la démocratie avance, la couche d’ozone se reconstitue, ou encore le monde n’a jamais connu aussi peu de violence. Ce matin, nous recevons un rameur à contre-courant de certaines idées reçues. Le spécialiste en psychologie positive, Jacques Lecompte, nous donne à voir ce matin une humanité en progrès. En s’appuyant sur une série de chiffres, de statistiques et de rapports internationaux fiables, Jacques Lecompte nous invite à regarder notre monde avec un optimisme réaliste. Il appelle ça l’optirréalisme, loin des discours catastrophistes des prophètes de malheur. Que propose cette émission ?",
         "audio": "/mp3/157/23.mp3",
         "options": [
-            "Un point de vue sur la situation mondiale aujourd'hui.",
-            "Une analyse de l'actualité économique dans le monde.",
+            "Un point de vue sur la situation mondiale aujourd’hui.",
+            "Une analyse de l’actualité économique dans le monde.",
             "Une critique des conséquences de la mondialisation.",
             "Une réflexion sur les relations politiques mondiales."
         ],
@@ -53,10 +53,10 @@
     {
         "id": 24,
         "testId": "157",
-        "text": "En Allemagne, Cattel a profité d'études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ce qu'on connaît en France. Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n'a pas vraiment le choix. Là j'ai pu choisir mes matières, j'ai pris des cours sur la presse, sur Napoléon. Napoléon c'est original ça ? Oui Napoléon, c'est marrant de voir la vision. Par exemple eux ils disent pas la défaite de Waterloo mais la victoire de Waterloo. Pourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
+        "text": "En Allemagne, Cattel a profité d’études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ce qu’on connaît en France. Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n’a pas vraiment le choix. Là j’ai pu choisir mes matières, j’ai pris des cours sur la presse, sur Napoléon. Napoléon c’est original ça ? Oui Napoléon, c’est marrant de voir la vision. Par exemple eux ils disent pas la défaite de Waterloo mais la victoire de Waterloo. Pourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
         "audio": "/mp3/157/24.mp3",
         "options": [
-            "De disposer d'une petite surface.",
+            "De disposer d’une petite surface.",
             "De partager sa salle de bain.",
             "De payer un loyer excessif.",
             "De prendre ses repas seule."
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "157",
-        "text": "En Allemagne, Cattel a profité d'études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ce qu'on connaît en France. Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n'a pas vraiment le choix. Là j'ai pu choisir mes matières, j'ai pris des cours sur la presse, sur Napoléon. Napoléon c'est original ça ? Oui Napoléon, c'est marrant de voir la vision. Par exemple eux ils disent pas la défaite de Waterloo mais la victoire de Waterloo. Pourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
+        "text": "En Allemagne, Cattel a profité d’études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ce qu’on connaît en France. Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n’a pas vraiment le choix. Là j’ai pu choisir mes matières, j’ai pris des cours sur la presse, sur Napoléon. Napoléon c’est original ça ? Oui Napoléon, c’est marrant de voir la vision. Par exemple eux ils disent pas la défaite de Waterloo mais la victoire de Waterloo. Pourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
         "audio": "/mp3/157/25.mp3",
         "options": [
             "Elle a changé de cursus universitaire.",
@@ -79,10 +79,10 @@
     {
         "id": 26,
         "testId": "157",
-        "text": "Oui, il est récemment élu par le magazine Business Week. Parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société sismique, qui n'est pas un coup d'essai. Se diplômé de l'école des hautes études commerciales de Paris et devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi. J'étais commerçant. J'ai jamais eu vraiment envie de travailler pour qu'il soit d'autre que moi, y compris peu importe la taille de ce que je faisais. Je pense que je serais volontiers, indépendants. J'ai toujours voulu créer ma propre entreprise dans l'Internet. Donc c'est les deux passions que j'ai toujours. Que veut Loïc Lemaire ?",
+        "text": "Oui, il est récemment élu par le magazine Business Week. Parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C’est là qu’il a créé sa nouvelle société sismique, qui n’est pas un coup d’essai. Se diplômé de l’école des hautes études commerciales de Paris et devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi. J’étais commerçant. J’ai jamais eu vraiment envie de travailler pour qu’il soit d’autre que moi, y compris peu importe la taille de ce que je faisais. Je pense que je serais volontiers, indépendants. J’ai toujours voulu créer ma propre entreprise dans l’Internet. Donc c’est les deux passions que j’ai toujours. Que veut Loïc Lemaire ?",
         "audio": "/mp3/157/26.mp3",
         "options": [
-            "Avoir la liberté d'être son propre patron.",
+            "Avoir la liberté d’être son propre patron.",
             "Innover dans le domaine informatique.",
             "Mener un projet aux États-Unis.",
             "Mieux réussir que ses parents."
@@ -92,7 +92,7 @@
     {
         "id": 27,
         "testId": "157",
-        "text": "Si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça. En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voir que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ?",
+        "text": "Si les enfants ne mangent pas assez de fruits et légumes, c’est peut-être parce qu’ils n’aiment pas ça. En fait, les enfants mangent principalement par plaisir et c’est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d’accord pour dire que c’est bon à la santé, que c’est nécessaire, que c’est souvent contraignant à préparer, que cela ne remplit pas l’estomac, voir que ce n’est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ?",
         "audio": "/mp3/157/27.mp3",
         "options": [
             "Des besoins énergétiques des jeunes.",
@@ -105,36 +105,36 @@
     {
         "id": 28,
         "testId": "157",
-        "text": "Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant « ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilité, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refaire un certificat. Que conseillez-vous alors ? En tant qu'enseignant à l'université, je lui dis « tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ». Que recommande cet universitaire pour trouver un travail au Québec ?",
+        "text": "Quand un Français s’aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d’aller chercher une autre expérience en se disant « ce n’est pas grave, je vais peut-être obtenir un poste avec moins de responsabilité, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l’université et refaire un certificat. Que conseillez-vous alors ? En tant qu’enseignant à l’université, je lui dis « tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ». Que recommande cet universitaire pour trouver un travail au Québec ?",
         "audio": "/mp3/157/28.mp3",
         "options": [
             "De devenir entrepreneur en créant son entreprise.",
-            "De s'informer sur les secteurs porteurs d'emplois.",
-            "De suivre une formation diplômante à l'université.",
-            "D'élargir sa recherche d'emploi à d'autres domaines."
+            "De s’informer sur les secteurs porteurs d’emplois.",
+            "De suivre une formation diplômante à l’université.",
+            "D’élargir sa recherche d’emploi à d’autres domaines."
         ],
         "answer": 3
     },
     {
         "id": 29,
         "testId": "157",
-        "text": "Monsieur Rinault, vous êtes architecte et vous allez nous présenter une avenue à Paris datant de la fin du 19e siècle. La façade haussmannienne est-elle toujours en pierre ? Oui, c'était une obligation qui figurait dans l'acte de vente. C'était la manière finalement dont Haussmann légiférait puisqu'il n'y avait pas de loi. Pourquoi ? Le permis de construire n'existait pas ? Le permis de construire en effet viendra plus tard. Donc on leur disait simplement vous devez utiliser de la pierre pour les façades ? C'est ça. Quand les propriétaires achetaient le terrain pour construire, on leur imposait une pierre de taille. Dans les belles avenues comme celle de l'Opera, on indiquait aussi que les lignes devaient filer pour donner une certaine harmonie, une certaine homogénéité, une certaine monotonie pour ceux qui n'apprécient pas cette esthétique. L'idée d'Haussmann, c'était qu'à partir du moment où on construisait un immeuble dans une avenue, les immeubles suivants devaient le prendre comme modèle. Quel principe retrouve-t-on dans l'architecture haussmannienne ?",
+        "text": "Monsieur Rinault, vous êtes architecte et vous allez nous présenter une avenue à Paris datant de la fin du 19e siècle. La façade haussmannienne est-elle toujours en pierre ? Oui, c’était une obligation qui figurait dans l’acte de vente. C’était la manière finalement dont Haussmann légiférait puisqu’il n’y avait pas de loi. Pourquoi ? Le permis de construire n’existait pas ? Le permis de construire en effet viendra plus tard. Donc on leur disait simplement vous devez utiliser de la pierre pour les façades ? C’est ça. Quand les propriétaires achetaient le terrain pour construire, on leur imposait une pierre de taille. Dans les belles avenues comme celle de l’Opera, on indiquait aussi que les lignes devaient filer pour donner une certaine harmonie, une certaine homogénéité, une certaine monotonie pour ceux qui n’apprécient pas cette esthétique. L’idée d’Haussmann, c’était qu’à partir du moment où on construisait un immeuble dans une avenue, les immeubles suivants devaient le prendre comme modèle. Quel principe retrouve-t-on dans l’architecture haussmannienne ?",
         "audio": "/mp3/157/29.mp3",
         "options": [
-            "L'absence d'éléments ornementaux.",
-            "La limitation du nombre d'étages.",
-            "Le respect d'obligations légales.",
-            "L'utilisation d'un matériau unique."
+            "L’absence d’éléments ornementaux.",
+            "La limitation du nombre d’étages.",
+            "Le respect d’obligations légales.",
+            "L’utilisation d’un matériau unique."
         ],
         "answer": 3
     },
     {
         "id": 30,
         "testId": "157",
-        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. À quel type d'entreprise appartient ce service?",
+        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n’est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s’engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. À quel type d’entreprise appartient ce service?",
         "audio": "/mp3/157/30.mp3",
         "options": [
-            "Un groupe de centres d'appels téléphoniques.",
+            "Un groupe de centres d’appels téléphoniques.",
             "Un service de livraison express du courrier.",
             "Un spécialiste de la création de sites Internet.",
             "Un fournisseur pour la restauration à domicile."
@@ -144,62 +144,62 @@
     {
         "id": 31,
         "testId": "157",
-        "text": "Je suis un marcheur, et mes vacances se passent à marcher parce que ça me permet de réfléchir. Que le rythme de la marche est musical pour les oreilles, éblouissant pour les paysages, et que les médecins m'ont démontré que l'activité musculaire permettait d'éviter des fractures des os importants, et que la vieillesse doit marcher. Je ne marche pas n'importe où, je marche sur des sentiers de grande randonnée, et j'y ai souvent fait des rencontres vraiment merveilleuses. On y rencontre à la fois le paysage, les autres, mais on se rencontre aussi soi-même. Comment la personne considère-t-elle la marche?",
+        "text": "Je suis un marcheur, et mes vacances se passent à marcher parce que ça me permet de réfléchir. Que le rythme de la marche est musical pour les oreilles, éblouissant pour les paysages, et que les médecins m’ont démontré que l’activité musculaire permettait d’éviter des fractures des os importants, et que la vieillesse doit marcher. Je ne marche pas n’importe où, je marche sur des sentiers de grande randonnée, et j’y ai souvent fait des rencontres vraiment merveilleuses. On y rencontre à la fois le paysage, les autres, mais on se rencontre aussi soi-même. Comment la personne considère-t-elle la marche?",
         "audio": "/mp3/157/31.mp3",
         "options": [
-            "C'est un temps de découverte et d'humanité.",
-            "C'est une occasion de dépenser son énergie.",
-            "C'est une opportunité d'apprécier la solitude.",
-            "C'est une possibilité quotidienne d'évasion."
+            "C’est un temps de découverte et d’humanité.",
+            "C’est une occasion de dépenser son énergie.",
+            "C’est une opportunité d’apprécier la solitude.",
+            "C’est une possibilité quotidienne d’évasion."
         ],
         "answer": 0
     },
     {
         "id": 32,
         "testId": "157",
-        "text": "Les chiffres parlent d'eux-mêmes. Selon une étude internationale, près de la moitié des 300 plus grandes coopératives de la planète ont 70 ans et plus. Elles créent souvent davantage d'emplois et font faillite moins souvent que les entreprises capitalistes classiques. Monique Leroux. De façon générale, on constate que les entreprises coopératives sont plus résilientes. Leur prise de risque, globalement, qu'elle soit petite, moyenne ou grande, se fait d'une façon généralement plus prudente, en grande partie grâce à la gouvernance démocratique, avec un grand nombre de personnes qui, très souvent, participent et contribuent à la prise de décision. Comment Monique Leroux explique-t-elle le succès des entreprises coopératives?",
+        "text": "Les chiffres parlent d’eux-mêmes. Selon une étude internationale, près de la moitié des 300 plus grandes coopératives de la planète ont 70 ans et plus. Elles créent souvent davantage d’emplois et font faillite moins souvent que les entreprises capitalistes classiques. Monique Leroux. De façon générale, on constate que les entreprises coopératives sont plus résilientes. Leur prise de risque, globalement, qu’elle soit petite, moyenne ou grande, se fait d’une façon généralement plus prudente, en grande partie grâce à la gouvernance démocratique, avec un grand nombre de personnes qui, très souvent, participent et contribuent à la prise de décision. Comment Monique Leroux explique-t-elle le succès des entreprises coopératives?",
         "audio": "/mp3/157/32.mp3",
         "options": [
             "Elles appuient leur gestion sur la concertation.",
             "Elles garantissent des évolutions de carrière.",
             "Elles œuvrent dans des secteurs traditionnels.",
-            "Elles s'engagent dans des projets audacieux."
+            "Elles s’engagent dans des projets audacieux."
         ],
         "answer": 0
     },
     {
         "id": 33,
         "testId": "157",
-        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé, in extremis, entre les deux pays et de nouvelles négociations commencent aujourd'hui, mais sur le front rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent car c'est maintenant que les choses démarrent réellement. Alors, amorce d'un processus de paix ou conférence symbolique? La secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint, car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
+        "text": "C’est au cours de cette réunion internationale qu’un premier accord a été trouvé, in extremis, entre les deux pays et de nouvelles négociations commencent aujourd’hui, mais sur le front rien n’est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d’un processus, mais il faut rester prudent car c’est maintenant que les choses démarrent réellement. Alors, amorce d’un processus de paix ou conférence symbolique? La secrétaire d’État a d’ailleurs précisé hier soir que l’échec n’était pas une option. En fait, on n’est pas encore rentré dans le vif du sujet. Beaucoup de points n’ont pas encore été abordés et n’ont pas été détaillés dans le document conjoint, car les deux parties n’ont pas réussi à se mettre d’accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
         "audio": "/mp3/157/33.mp3",
         "options": [
             "La conférence qui a eu lieu est uniquement symbolique.",
-            "La secrétaire d'État a fait part de son pessimisme.",
-            "Les discussions s'annoncent longues et difficiles.",
-            "Tous les points de l'accord ont déjà été traités sans succès."
+            "La secrétaire d’État a fait part de son pessimisme.",
+            "Les discussions s’annoncent longues et difficiles.",
+            "Tous les points de l’accord ont déjà été traités sans succès."
         ],
         "answer": 2
     },
     {
         "id": 34,
         "testId": "157",
-        "text": "Les constructeurs automobiles préparent leur modèle écologique pour profiter de ce nouveau marché. Où en est-on au niveau de la pollution? Si on regarde la moyenne des émissions des véhicules vendus en France, ça va dans le bon sens grâce à une série de mesures législatives. On voit apparaître des véhicules de moins en moins polluants, dont l'émission est inférieure à 140 grammes. Malheureusement, ça ne résout pas le problème du développement de la civilisation automobile. Si le taux d'équipement augmente à l'échelle mondiale, on se retrouve face à une catastrophe écologique considérable. Il faut donc nous affranchir de ce modèle de civilisation qui repose sur le transport individuel. Que propose cette spécialiste pour éviter une catastrophe écologique?",
+        "text": "Les constructeurs automobiles préparent leur modèle écologique pour profiter de ce nouveau marché. Où en est-on au niveau de la pollution? Si on regarde la moyenne des émissions des véhicules vendus en France, ça va dans le bon sens grâce à une série de mesures législatives. On voit apparaître des véhicules de moins en moins polluants, dont l’émission est inférieure à 140 grammes. Malheureusement, ça ne résout pas le problème du développement de la civilisation automobile. Si le taux d’équipement augmente à l’échelle mondiale, on se retrouve face à une catastrophe écologique considérable. Il faut donc nous affranchir de ce modèle de civilisation qui repose sur le transport individuel. Que propose cette spécialiste pour éviter une catastrophe écologique?",
         "audio": "/mp3/157/34.mp3",
         "options": [
             "Durcir les normes appliquées à la fabrication de voitures.",
-            "Inciter les usagers à pratiquer d'autres modes de déplacement.",
+            "Inciter les usagers à pratiquer d’autres modes de déplacement.",
             "Pousser les industriels à employer des technologies innovantes.",
-            "Rendre obligatoire l'utilisation de carburants propres."
+            "Rendre obligatoire l’utilisation de carburants propres."
         ],
         "answer": 1
     },
     {
         "id": 35,
         "testId": "157",
-        "text": "C'est une idée originale et réussie qu'a eu un philosophe, créer l'école de la vie. L'endroit est accueillant, rempli de livres, de fleurs, on peut y boire et manger. Cette librairie a pour objectif d'aider les gens avec leurs problèmes de tous les jours en apportant de nouvelles pistes de réflexion. On y vient au petit déjeuner ou le week-end pour des ateliers, on y pratique aussi des consultations littéraires, d'où l'on repart avec une ordonnance de livres. Quel est le concept de cette librairie?",
+        "text": "C’est une idée originale et réussie qu’a eu un philosophe, créer l’école de la vie. L’endroit est accueillant, rempli de livres, de fleurs, on peut y boire et manger. Cette librairie a pour objectif d’aider les gens avec leurs problèmes de tous les jours en apportant de nouvelles pistes de réflexion. On y vient au petit déjeuner ou le week-end pour des ateliers, on y pratique aussi des consultations littéraires, d’où l’on repart avec une ordonnance de livres. Quel est le concept de cette librairie?",
         "audio": "/mp3/157/35.mp3",
         "options": [
-            "Animer des ateliers d'écriture thématiques.",
+            "Animer des ateliers d’écriture thématiques.",
             "Faire connaître de jeunes philosophes talentueux.",
             "Organiser des lectures pendant les repas de midi.",
             "Trouver des solutions aux difficultés quotidiennes."
@@ -209,7 +209,7 @@
     {
         "id": 36,
         "testId": "157",
-        "text": "Je crois qu'on peut effectivement donner à la critique cette tâche de tri dans effectivement la masse d'ouvrages qui paraissent donc donner une chance à un livre alors que peut-être selon cette logique du marché il passerait sans doute inaperçu. C'est contrer je le dis très modestement dans une très faible mesure cette logique du marché. D'ailleurs la logique du marché ne produit pas forcément des choses absolument nulles. Mais en revanche si on ne parlait pas dans certains quotidiens de livres un peu plus difficiles et bien ce serait effectivement la mort pour toutes les sciences humaines et la philosophie. Selon cette personne quel est le rôle de la critique littéraire?",
+        "text": "Je crois qu’on peut effectivement donner à la critique cette tâche de tri dans effectivement la masse d’ouvrages qui paraissent donc donner une chance à un livre alors que peut-être selon cette logique du marché il passerait sans doute inaperçu. C’est contrer je le dis très modestement dans une très faible mesure cette logique du marché. D’ailleurs la logique du marché ne produit pas forcément des choses absolument nulles. Mais en revanche si on ne parlait pas dans certains quotidiens de livres un peu plus difficiles et bien ce serait effectivement la mort pour toutes les sciences humaines et la philosophie. Selon cette personne quel est le rôle de la critique littéraire?",
         "audio": "/mp3/157/36.mp3",
         "options": [
             "Favoriser la visibilité des ouvrages peu accessibles.",
@@ -222,23 +222,23 @@
     {
         "id": 37,
         "testId": "157",
-        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin, elle est connue comme telle. Elle a beaucoup reçu de Rodin mais elle s'en est servie pour créer une oeuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l'or mais l'or qu'elle trouvait bien à elle ». C'est très flagrant quand on compare plusieurs oeuvres. À côté du Penseur qui est, c'est vrai, d'une puissance ramassée, tout en muscles, qui dégage une force presque brute, l'Homme penché lui est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l'attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l'intervention?",
+        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin, elle est connue comme telle. Elle a beaucoup reçu de Rodin mais elle s’en est servie pour créer une oeuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l’or mais l’or qu’elle trouvait bien à elle ». C’est très flagrant quand on compare plusieurs oeuvres. À côté du Penseur qui est, c’est vrai, d’une puissance ramassée, tout en muscles, qui dégage une force presque brute, l’Homme penché lui est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l’attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l’intervention?",
         "audio": "/mp3/157/37.mp3",
         "options": [
             "La relation liant Camille Claudel et Rodin.",
             "La richesse du musée Auguste Rodin.",
             "Les difficultés rencontrées par Rodin.",
-            "Les sources d'inspiration de Rodin."
+            "Les sources d’inspiration de Rodin."
         ],
         "answer": 0
     },
     {
         "id": 38,
         "testId": "157",
-        "text": "Les pays européens sont presque tous d'excellents élèves de l'écologie. Mais c'est une bonne nouvelle? s'interroge le Figaro. Pas si sûr. L'Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2 fixés à l'avance ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l'inverse, d'avoir des exigences drastiques mais irréalistes. Les industriels savent d'ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c'est de fermer une usine et de la délocaliser sous d'autres cieux. Ce n'est pas toujours une menace en l'air. D'après le journaliste, en quoi les bons résultats européens en matière d'écologie sont-ils contestables?",
+        "text": "Les pays européens sont presque tous d’excellents élèves de l’écologie. Mais c’est une bonne nouvelle? s’interroge le Figaro. Pas si sûr. L’Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2 fixés à l’avance ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l’inverse, d’avoir des exigences drastiques mais irréalistes. Les industriels savent d’ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c’est de fermer une usine et de la délocaliser sous d’autres cieux. Ce n’est pas toujours une menace en l’air. D’après le journaliste, en quoi les bons résultats européens en matière d’écologie sont-ils contestables?",
         "audio": "/mp3/157/38.mp3",
         "options": [
-            "Ils font l'objet de manipulations douteuses par les pollueurs.",
+            "Ils font l’objet de manipulations douteuses par les pollueurs.",
             "Ils répondent à des critères insuffisamment exigeants.",
             "Ils sont destinés à justifier les politiques économiques.",
             "Ils sont publiés par des organismes liés aux entreprises."
@@ -248,11 +248,11 @@
     {
         "id": 39,
         "testId": "157",
-        "text": "Est-ce qu'on peut ne pas aimer un film quand on a une comédienne aussi extraordinaire que Karine Viard? J'aime aussi beaucoup cette comédienne qui joue sa mère. Karine Viard est tellement extraordinaire que dans les scènes de radio, par exemple, elle est formidable. Elle est formidable tout le temps, à chaque séquence. Et en même temps, je trouve que le film s'effiloche. Cette histoire de recherche de la mère, je n'ai pas été très passionné. C'est dommage parce que Pinault avait fait des courts-métrages de grande qualité. Je trouve qu'on ne retrouve pas dans son long-métrage l'originalité qu'il y avait dans les courts-métrages. Là, on est vraiment dans une histoire, encore une fois, d'une sorte de réalisme à la française. Elle va retrouver la famille, les scènes de banlieue et tout ça. On est dans une sorte de naturalisme, vraiment sans relief. Pourquoi le locuteur nuance-t-il son appréciation du film?",
+        "text": "Est-ce qu’on peut ne pas aimer un film quand on a une comédienne aussi extraordinaire que Karine Viard? J’aime aussi beaucoup cette comédienne qui joue sa mère. Karine Viard est tellement extraordinaire que dans les scènes de radio, par exemple, elle est formidable. Elle est formidable tout le temps, à chaque séquence. Et en même temps, je trouve que le film s’effiloche. Cette histoire de recherche de la mère, je n’ai pas été très passionné. C’est dommage parce que Pinault avait fait des courts-métrages de grande qualité. Je trouve qu’on ne retrouve pas dans son long-métrage l’originalité qu’il y avait dans les courts-métrages. Là, on est vraiment dans une histoire, encore une fois, d’une sorte de réalisme à la française. Elle va retrouver la famille, les scènes de banlieue et tout ça. On est dans une sorte de naturalisme, vraiment sans relief. Pourquoi le locuteur nuance-t-il son appréciation du film?",
         "audio": "/mp3/157/39.mp3",
         "options": [
             "La réalisation est trop extravagante.",
-            "L'actrice principale est omniprésente.",
+            "L’actrice principale est omniprésente.",
             "Le montage manque de cohérence.",
             "Le scénario manque de singularité."
         ],

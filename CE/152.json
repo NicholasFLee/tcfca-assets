@@ -18,7 +18,7 @@
         "query": "Quelle est l’originalité de ce projet?",
         "options": [
             "La priorité donnée à l’aspect écologique",
-            "La Prise en compte de l'opinion publique.",
+            "La Prise en compte de l’opinion publique.",
             "Le caractère provisoire de l’installation.",
             "Le choix des matériaux de fabrication."
         ],
@@ -40,13 +40,13 @@
     {
         "id": 23,
         "testId": "152",
-        "text": "Les Art Premiers Au Musée. Si cette renaissance sonne comme un cri de victoire, c’est qu’elle marque l’issue d’un combat idéaliste qui n’a fait d’autres victimes que l’arrogance et les préjugés. Le signal en fut donné par Guillaume Apollinaire en 1909: «le Louvre devrait recueillir certains chefs-d'œuvre exotiques dont l’aspect n’est pas moins émouvant que celui des beaux spécimens de la statuaire occidentale ». Près d’un siècle plus tard, le vœu du poète est enfin comblé: plus d’une centaine de sculptures primitives d’Afrique, d’Asie, d’Océanie et des Amériques, jusqu’alors confinées dans des réserves ethnographiques, prennent place dans le temple de l’Art, jusqu’alors réservé à l’Europe et à ses sources.",
+        "text": "Les Art Premiers Au Musée. Si cette renaissance sonne comme un cri de victoire, c’est qu’elle marque l’issue d’un combat idéaliste qui n’a fait d’autres victimes que l’arrogance et les préjugés. Le signal en fut donné par Guillaume Apollinaire en 1909: «le Louvre devrait recueillir certains chefs-d’œuvre exotiques dont l’aspect n’est pas moins émouvant que celui des beaux spécimens de la statuaire occidentale ». Près d’un siècle plus tard, le vœu du poète est enfin comblé: plus d’une centaine de sculptures primitives d’Afrique, d’Asie, d’Océanie et des Amériques, jusqu’alors confinées dans des réserves ethnographiques, prennent place dans le temple de l’Art, jusqu’alors réservé à l’Europe et à ses sources.",
         "query": "Cet événement est présenté comme…",
         "options": [
-            "Le résultat d'une lutte menée par des gens orgueilleux et intolérants",
-            "Le triomphe d'une opinion émise par Apollinaire mais autrefois combattue",
+            "Le résultat d’une lutte menée par des gens orgueilleux et intolérants",
+            "Le triomphe d’une opinion émise par Apollinaire mais autrefois combattue",
             "Un miracle dû à la persévérance des archéologues sur plusieurs continents.",
-            "La consécration des œuvres européennes jusqu'alors remisées dans les musées"
+            "La consécration des œuvres européennes jusqu’alors remisées dans les musées"
         ],
         "answer": 1
     },
@@ -57,9 +57,9 @@
         "query": "Qu’est-ce qui a permis à l’espèce humaine de conquérir le monde, à part son intelligence?",
         "options": [
             "La fréquentation de ses congénères.",
-            "L'amélioration de son habitat naturel.",
+            "L’amélioration de son habitat naturel.",
             "Les mutations de son organisme.",
-            "L'extermination des autres espèces."
+            "L’extermination des autres espèces."
         ],
         "answer": 0
     },
@@ -69,9 +69,9 @@
         "text": "Le témoignage de Maud est très représentatif de la vie étudiante actuelle: «J’ai cherché un logement près de la fac. J’ai trouvé un studio à 600 euros par mois. Mon père me donne 500 par mois. Je dois travailler comme surveillante dans un lycée. Les fins de mois sont difficiles, mais mon dossier d’allocation logement vient d’être accepté. Finalement, j’ai de la chance!»",
         "query": "Pourquoi Maud pense-t-elle avoir de la chance?",
         "options": [
-            "Elle aura un meilleur pouvoir d'achat sous peu.",
+            "Elle aura un meilleur pouvoir d’achat sous peu.",
             "Elle se débrouille sans l’aide de personne.",
-            "Elle trouvera facilement un emploi après l'université",
+            "Elle trouvera facilement un emploi après l’université",
             "Elle va habiter près de chez ses parents."
         ],
         "answer": 0
@@ -84,8 +84,8 @@
         "options": [
             "La consommation de gaz dans le monde augmente.",
             "La demande croissante en gaz a des effets sur le climat.",
-            "Les besoins en gaz des Américains sont supérieurs â l'offre.",
-            "Les ressources en gaz à l'échelle mondiale s'accroissent"
+            "Les besoins en gaz des Américains sont supérieurs â l’offre.",
+            "Les ressources en gaz à l’échelle mondiale s’accroissent"
         ],
         "answer": 3
     },
@@ -97,7 +97,7 @@
         "options": [
             "Un obstacle pour les bateaux de pêche.",
             "Un réchauffement dramatique des eaux.",
-            "Un risque d'intoxication des populations du Pacifique.",
+            "Un risque d’intoxication des populations du Pacifique.",
             "Une diminution de la diversité de la faune océanique."
         ],
         "answer": 3
@@ -109,9 +109,9 @@
         "query": "Que dénonce l’auteur de cet article?",
         "options": [
             "La manipulation des clients par les industriels.",
-            "L'attitude imprévisible des consommateurs.",
-            "L'uniformisation des saveurs et des goûts.",
-            "L'utilisation abusive des produits de synthèse."
+            "L’attitude imprévisible des consommateurs.",
+            "L’uniformisation des saveurs et des goûts.",
+            "L’utilisation abusive des produits de synthèse."
         ],
         "answer": 0
     },
@@ -161,7 +161,7 @@
         "query": "Dans quel objectif Joël Pommerat a-t-il créé son spectacle?",
         "options": [
             "Aider les femmes à se battre pour améliorer leur situation familiale.",
-            "Amener les spectateurs à s'émouvoir d'un quotidien douloureux.",
+            "Amener les spectateurs à s’émouvoir d’un quotidien douloureux.",
             "Démontrer que la condition de la femme dans les cités est désastreuse.",
             "Informer des difficultés que peuvent rencontrer les enfants des cités"
         ],
@@ -238,8 +238,8 @@
         "text": "Il est incroyable que la perspective d’avoir à lire son propre livre en public n’ait jamais fait renoncer un écrivain à l’écrire. Rien n’est extravagant comme ces émissions littéraires où ils sont régulièrement requis de sacrifier à ce rituel qui suppose tout de même une habitude, une habileté, pour ne pas dire une technique, qui ne sont pas données à tous les romanciers. La plupart n’osent pas refuser, en quoi ils ont tort. Pour les convaincre de renoncer à ce dernier avatar de leur vanité, il suffirait de les emmener, un soir, écouter des comédiens lire leur livre. En principe, si l’on est lucide et de bonne foi, on ne se remet pas d’une telle épreuve.",
         "query": "Que pense cet écrivain de la lecture publique d’un roman par son auteur?",
         "options": [
-            "Elle demande de posséder des talents d'acteur.",
-            "Elle dessert le travail d'écriture du romancier.",
+            "Elle demande de posséder des talents d’acteur.",
+            "Elle dessert le travail d’écriture du romancier.",
             "Elle est particulièrement adaptée au petit écran.",
             "Elle rend les émissions littéraires prétentieuses"
         ],
