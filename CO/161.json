@@ -1,8 +1,7 @@
-[
-    {
+[{
         "id": 20,
         "testId": "161",
-        "text": "Vous avez vu l'heure? Oui, je sais, il est un peu tard. C'est la troisième fois que vous arrivez en retard cette semaine. Je m'excuse. Écoutez-moi bien, votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais. Vous avez vu l'heure? Oui, je sais.",
+        "text": "Vous avez vu l’heure? Oui, je sais, il est un peu tard. C’est la troisième fois que vous arrivez en retard cette semaine. Je m’excuse. Écoutez-moi bien, votre période d’essai se termine dans 15 jours. Dorénavant, arrivez à l’heure si vous voulez être embauché. Qu’annonce le directeur à l’emploié?",
         "audio": "/mp3/161/20.mp3",
         "options": [
             "Il est possible qu’il soit renvoyé.",
@@ -15,7 +14,7 @@
     {
         "id": 21,
         "testId": "161",
-        "text": "Bonjour! Ah! C'est joli toutes ces fleurs! Oui, je suis en train de préparer des bouquets pour demain. Ah bon? Il y a une fête en ville demain? Non, nous avons un repas de mariage. Il faut que tout soit prêt pour midi. Ah! Alors vous serez complets, je suppose. On voulait vous réserver une table. Je ne sais pas. Il faut voir avec la patronne. Que fait cette femme?",
+        "text": "Bonjour! Ah! C’est joli toutes ces fleurs! Oui, je suis en train de préparer des bouquets pour demain. Ah bon? Il y a une fête en ville demain? Non, nous avons un repas de mariage. Il faut que tout soit prêt pour midi. Ah! Alors vous serez complets, je suppose. On voulait vous réserver une table. Je ne sais pas. Il faut voir avec la patronne. Que fait cette femme?",
         "audio": "/mp3/161/21.mp3",
         "options": [
             "Elle organise des fêtes au village.",
@@ -28,7 +27,7 @@
     {
         "id": 22,
         "testId": "161",
-        "text": "Et vous, Jeanne, avez-vous des phobies? Peut-être la même que vous, les requins. En réalité, la vie sous-marine dans son ensemble. Parfois, je n'ose même pas aller me baigner par peur de ce qu'il y a dans l'eau. Et si on vous disait qu'il y a des prédateurs dans toutes les mers, et même ici, au Canada? J'éviterais les mers et j'irais dans les lacs. Mais la menace est la même dans les lacs! D'autres espèces aquatiques qui grouillent, ça ne vous gêne pas? C'est vrai. Je crois que je vais me contenter des piscines. Pourquoi Jeanne évite-t-elle de se baigner?",
+        "text": "Et vous, Jeanne, avez-vous des phobies? Peut-être la même que vous, les requins. En réalité, la vie sous-marine dans son ensemble. Parfois, je n’ose même pas aller me baigner par peur de ce qu’il y a dans l’eau. Et si on vous disait qu’il y a des prédateurs dans toutes les mers, et même ici, au Canada? J’éviterais les mers et j’irais dans les lacs. Mais la menace est la même dans les lacs! D’autres espèces aquatiques qui grouillent, ça ne vous gêne pas? C’est vrai. Je crois que je vais me contenter des piscines. Pourquoi Jeanne évite-t-elle de se baigner?",
         "audio": "/mp3/161/22.mp3",
         "options": [
             "Elle déteste les bains de mer.",
@@ -41,7 +40,7 @@
     {
         "id": 23,
         "testId": "161",
-        "text": "Je me souviens très bien du premier livre, pas du premier livre lu, mais du premier à avoir provoqué en moi la joie de la lecture. Celui qui fait que je ne lis plus que des romans, parce que la lecture est pour moi le plaisir du récit qui construit de nouveaux mondes. C'était un volume du club D5 d'Eneed Blyton. Je ressens encore dans mon corps la qualité et l'intensité de cette lecture. S'absorber totalement dans le texte, devenir sourd et aveugle au monde, vivre l'action, avoir la vie pétillée et se teinter de nouvelles couleurs, nommer des sensations inconnues, entrevoir des passions nouvelles, refermer le livre avec bonheur et regret, et attendre le prochain avec une fièvreuse impatience.",
+        "text": "Je me souviens très bien du premier livre, pas du premier livre lu, mais du premier à avoir provoqué en moi la joie de la lecture. Celui qui fait que je ne lis plus que des romans, parce que la lecture est pour moi le plaisir du récit qui construit de nouveaux mondes. C’était un volume du club D5 d’Eneed Blyton. Je ressens encore dans mon corps la qualité et l’intensité de cette lecture. S’absorber totalement dans le texte, devenir sourd et aveugle au monde, vivre l’action, avoir la vie pétillée et se teinter de nouvelles couleurs, nommer des sensations inconnues, entrevoir des passions nouvelles, refermer le livre avec bonheur et regret, et attendre le prochain avec une fièvreuse impatience. Pourquoi cette personne aime-t-elle lire?",
         "audio": "/mp3/161/23.mp3",
         "options": [
             "Pour comprendre la société.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "161",
-        "text": "Eve Panofsky, vous êtes musicienne. Est-ce que vous avez toujours voulu jouer du violoncelle ? Quand j'étais petite, il y avait un piano chez des amis sur lequel je pianotais. Ensuite, j'ai essayé le banjo, la guitare, je m'approchais des cordes. Je recherchais en fait un instrument avec lequel je puisse faire durer le son. Un jour, je jouais avec mes copains d'école chez moi et j'ai mis un disque au hasard. C'était du violoncelle. Et là, ça m'a totalement aimanté. J'ai arrêté de jouer, j'étais aspirée par ce son. Pourquoi cette musicienne a-t-elle choisi le violoncelle ?",
+        "text": "Eve Panofsky, vous êtes musicienne. Est-ce que vous avez toujours voulu jouer du violoncelle ? Quand j’étais petite, il y avait un piano chez des amis sur lequel je pianotais. Ensuite, j’ai essayé le banjo, la guitare, je m’approchais des cordes. Je recherchais en fait un instrument avec lequel je puisse faire durer le son. Un jour, je jouais avec mes copains d’école chez moi et j’ai mis un disque au hasard. C’était du violoncelle. Et là, ça m’a totalement aimanté. J’ai arrêté de jouer, j’étais aspirée par ce son. Pourquoi cette musicienne a-t-elle choisi le violoncelle?",
         "audio": "/mp3/161/24.mp3",
         "options": [
             "Elle a été habituée très tôt par ses parents à écouter des œuvres pour violoncelle.",
@@ -67,7 +66,7 @@
     {
         "id": 25,
         "testId": "161",
-        "text": "Autoriser les magasins à ouvrir le dimanche en France serait-ce la solution pour développer la croissance et l'emploi ? Le directeur de la revue 60 millions de consommateurs s'explique au micro d'Emmanuel Kessler. Le secrétaire d'État à la consommation relevait, en visitant un dimanche un centre commercial de la région parisienne, que les boutiques y réalisent sur ce seul jour plus du tiers du chiffre d'affaires de toute la semaine. Oui mais voilà, ce qu'on achète le dimanche, on ne l'achète pas les autres jours et vice versa. Attention aux illusions d'optique. Les consommateurs dépensent d'abord en fonction de leurs revenus et non en fonction des jours d'ouverture des magasins. C'est simplement une autre répartition du temps d'achat. Donc, quel impact pour la croissance et l'emploi en général ? Je crains que ça ne change pratiquement rien. D'après le directeur de la revue, pourquoi l'ouverture des magasins le dimanche aurait-elle peu d'influence sur l'économie française ?",
+        "text": "Autoriser les magasins à ouvrir le dimanche en France serait-ce la solution pour développer la croissance et l’emploi ? Le directeur de la revue 60 millions de consommateurs s’explique au micro d’Emmanuel Kessler. Le secrétaire d’État à la consommation relevait, en visitant un dimanche un centre commercial de la région parisienne, que les boutiques y réalisent sur ce seul jour plus du tiers du chiffre d’affaires de toute la semaine. Oui mais voilà, ce qu’on achète le dimanche, on ne l’achète pas les autres jours et vice versa. Attention aux illusions d’optique. Les consommateurs dépensent d’abord en fonction de leurs revenus et non en fonction des jours d’ouverture des magasins. C’est simplement une autre répartition du temps d’achat. Donc, quel impact pour la croissance et l’emploi en général ? Je crains que ça ne change pratiquement rien. D’après le directeur de la revue, pourquoi l’ouverture des magasins le dimanche aurait-elle peu d’influence sur l’économie française ?",
         "audio": "/mp3/161/25.mp3",
         "options": [
             "Parce que la consommation dépend avant tout du pouvoir d’achat.",
@@ -80,7 +79,7 @@
     {
         "id": 26,
         "testId": "161",
-        "text": "Lui récemment par le magazine Business Week, parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société sismique. Qui n'est pas un coup d'essai, ce diplômé de l'école des hautes études commerciales de Paris est devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi, il était commerçant. J'ai jamais eu vraiment envie de travailler pour qu'il soit d'autre que moi, y compris peu importe la taille de ce que je faisais, je pense que je serais volontiers, indépendants. J'ai toujours voulu créer ma propre entreprise dans l'internet, donc c'est les deux passions que j'ai toujours.",
+        "text": "Oui, il est récemment élu par le magazine Business Week. Parmi les 25 personnes les plus influentes du web, Loïc Lemaire qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C’est là qu’il a créé sa nouvelle société sismique, qui n’est pas un coup d’essai. Se diplômé de l’école des hautes études commerciales de Paris et devenu au fil du temps un seriale entrepreneur, Loïc Lemaire. Mon père était entrepreneur et mon grand-père aussi. J’étais commerçant. J’ai jamais eu vraiment envie de travailler pour qu’il soit d’autre que moi, y compris peu importe la taille de ce que je faisais. Je pense que je serais volontiers, indépendants. J’ai toujours voulu créer ma propre entreprise dans l’Internet. Donc c’est les deux passions que j’ai toujours. Que veut Loïc Lemaire ?",
         "audio": "/mp3/161/26.mp3",
         "options": [
             "Avoir la liberté d’être son propre patron.",
@@ -93,7 +92,7 @@
     {
         "id": 27,
         "testId": "161",
-        "text": "On s'est rendu compte que quand les oiseaux sont en V, celui qui est à la pointe du V dépense beaucoup d'énergie parce qu'il est le premier et qu'il doit percer l'air. Mais par contre, les autres qui sont tous derrière lui, bien alignés, un peu décalés, profitent des turbulences qu'il a créées et donc font des économies. Et l'idée, c'est que plus on est nombreux, plus on peut partager chacun son tour. Et donc, le premier, au bout d'un certain temps, quand il en a un peu assez, se décale et se met en bout de chaîne pour prendre la place de celui qui était derrière. Et c'est un nouveau qui va prendre sa place et qui fera l'effort initial. Quel est le rôle d'un oiseau de tête dans un vol groupé ? Merci d'avoir regardé cette vidéo !",
+        "text": "On s’est rendu compte que quand les oiseaux sont en V, celui qui est à la pointe du V dépense beaucoup d’énergie parce qu’il est le premier et qu’il doit percer l’air. Mais par contre, les autres qui sont tous derrière lui, bien alignés, un peu décalés, profitent des turbulences qu’il a créées et donc font des économies. Et l’idée, c’est que plus on est nombreux, plus on peut partager chacun son tour. Et donc, le premier, au bout d’un certain temps, quand il en a un peu assez, se décale et se met en bout de chaîne pour prendre la place de celui qui était derrière. Et c’est un nouveau qui va prendre sa place et qui fera l’effort initial. Quel est le rôle d’un oiseau de tête dans un vol groupé ?",
         "audio": "/mp3/161/27.mp3",
         "options": [
             "Il diminue les efforts de ceux qui le suivent.",
@@ -106,7 +105,7 @@
     {
         "id": 28,
         "testId": "161",
-        "text": "La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, on adoua un médecin, en fait, suisse, qui observait les abeilles en prenant son petit déjeuner à la terrasse de son chalet. Elles étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même à l'heure où il prenait son petit déjeuner, à l'heure normale. Donc c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. La première chose que je vais faire, c'est de faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre. Et puis, on va faire un petit déjeuner à l'intérieur de la chambre.",
+        "text": "La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, un médecin, en fait, suisse, qui observait les abeilles en prenant son petit déjeuner à la terrasse de son chalet. Elles étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l’intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même venues le chercher à l’heure où il prenait son petit déjeuner, à l’heure normale. Donc c’est une indication qu’il y avait pas juste un rythme, mais un mécanisme de mesure du temps. Quelle conclusion le savant a-t-il tirée en observant les abeilles?",
         "audio": "/mp3/161/28.mp3",
         "options": [
             "Elles ont la notion du temps chronologique.",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "161",
-        "text": "Nous informons nos auditeurs qu'en raison d'un arrêt de travail observé par certaines catégories de personnel, l'ensemble de nos journaux et de nos émissions de la journée sera remplacé par un programme musical continu. Deux bulletins d'information assurés par des personnels non grévistes seront diffusés à 13h et à 20h. Nous prions nos auditeurs de nous excuser de cette situation. C'était un communiqué de la direction de la station. Quel est le but de ce communiqué ?",
+        "text": "Nous informons nos auditeurs qu’en raison d’un arrêt de travail observé par certaines catégories de personnel, l’ensemble de nos journaux et de nos émissions de la journée sera remplacé par un programme musical continu. Deux bulletins d’information assurés par des personnels non grévistes seront diffusés à 13h et à 20h. Nous prions nos auditeurs de nous excuser de cette situation. C’était un communiqué de la direction de la station. Quel est le but de ce communiqué ?",
         "audio": "/mp3/161/29.mp3",
         "options": [
             "Annoncer la diffusion exceptionnelle, en direct, d’un festival de musique.",
@@ -132,7 +131,7 @@
     {
         "id": 30,
         "testId": "161",
-        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. à quel type d’entreprise appartient ce service?",
+        "text": "Koli.com, toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n’est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s’engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site www.koli.com ou appelez le 08 67 35 35 35. Nous serons toujours à votre écoute. À quel type d’entreprise appartient ce service?",
         "audio": "/mp3/161/30.mp3",
         "options": [
             "Un groupe de centres d’appels téléphoniques.",
@@ -145,7 +144,7 @@
     {
         "id": 31,
         "testId": "161",
-        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces oeuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. quelle est l’hypothèse de la police sur les oeuvres volées?",
+        "text": "C’est l’un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s’élève à plusieurs centaines de millions d’euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l’acte. Il faut faire vite car ces oeuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. Quelle est l’hypothèse de la police sur les oeuvres volées?",
         "audio": "/mp3/161/31.mp3",
         "options": [
             "Elles ont été revendues.",
@@ -158,20 +157,20 @@
     {
         "id": 32,
         "testId": "161",
-        "text": "C'est vrai que de temps en temps, on entend parler de nouvelles mesures pour l'emploi des jeunes. Bah c'est bien, mais dans mon entreprise, moi, je suis tout seul à m'occuper de tout et franchement, moi, j'ai pas le temps de remplir toute cette paperasse. Oui, mais il y a du nouveau. Le contrat jeune en entreprise. Si on emploie un jeune peu ou pas diplômé de 16 à 22 ans, c'est zéro charge pour l'entreprise pendant 2 ans et 50% la 3e année avec une simple déclaration à remplir auprès de l'État. Plus de soucis pour les petits patrons. C'est pas mal, non? quel est le public particulèrement visé par cette publicité.",
+        "text": "C’est vrai que de temps en temps, on entend parler de nouvelles mesures pour l’emploi des jeunes. Bah c’est bien, mais dans mon entreprise, moi, je suis tout seul à m’occuper de tout et franchement, moi, j’ai pas le temps de remplir toute cette paperasse. Oui, mais il y a du nouveau. Le contrat jeune en entreprise. Si on emploie un jeune peu ou pas diplômé de 16 à 22 ans, c’est zéro charge pour l’entreprise pendant 2 ans et 50% la 3e année avec une simple déclaration à remplir auprès de l’État. Plus de soucis pour les petits patrons. C’est pas mal, non? Quel est le public particulèrement visé par cette publicité?",
         "audio": "/mp3/161/32.mp3",
         "options": [
             "Les jeunes chefs d’entreprise.",
             "Les responsables de petites entreprises.",
             "Les directeurs d’entreprises publiques.",
-            "33 Les sociétés du secteur tertiaire."
+            "Les sociétés du secteur tertiaire."
         ],
         "answer": 1
     },
     {
         "id": 33,
         "testId": "161",
-        "text": "Lorsque je joue un personnage, j'essaie toujours de trouver un écho à ma propre histoire ou personnalité. J'ai envie d'être le plus sincère possible. Selon moi, jouer la comédie, c'est être dans la vérité de chaque instant. Je ne veux pas créer un personnage médiatique. Beaucoup d'artistes le font. Je ne veux pas vivre dans le mensonge ou la séduction. J'aime les rapports simples, j'aime rigoler, faire l'imbécile sans me soucier de mon image. Lorsque j'étais enfant, je rêvais d'avoir une vie ordinaire, être mariée à un homme normal, avoir des enfants et un peu d'argent aussi. Bref, tout ce que je n'avais pas à la maison. Je ne pensais pas du tout devenir actrice. comment la personne interviewée envisage-t-elle le média d’actrice?",
+        "text": "Lorsque je joue un personnage, j’essaie toujours de trouver un écho à ma propre histoire ou personnalité. J’ai envie d’être le plus sincère possible. Selon moi, jouer la comédie, c’est être dans la vérité de chaque instant. Je ne veux pas créer un personnage médiatique. Beaucoup d’artistes le font. Je ne veux pas vivre dans le mensonge ou la séduction. J’aime les rapports simples, j’aime rigoler, faire l’imbécile sans me soucier de mon image. Lorsque j’étais enfant, je rêvais d’avoir une vie ordinaire, être mariée à un homme normal, avoir des enfants et un peu d’argent aussi. Bref, tout ce que je n’avais pas à la maison. Je ne pensais pas du tout devenir actrice. Comment la personne interviewée envisage-t-elle le média d’actrice?",
         "audio": "/mp3/161/33.mp3",
         "options": [
             "Comme la possibilité de s’évader dans d’autres vies.",
@@ -184,7 +183,7 @@
     {
         "id": 34,
         "testId": "161",
-        "text": "La finance solidaire c'est un compromis entre une recherche de rentabilité, du placement que l'on fait, et une recherche de sens, si on peut dire. Donc si vous voulez, on va avoir un peu moins de rentabilité, mais peut-être un peu plus de sens. J'appelle le sens, c'est faire un geste vis-à-vis d'autres, vis-à-vis d'entrepreneurs qui vont par exemple embaucher des handicapés, embaucher des chômeurs de longue durée, s'endetter pour acheter du matériel économiseur d'énergie. C'est tout un ensemble de démarches et d'outils d'épargne. Il y a un peu moins de rentabilité, peut-être un petit peu plus de sens. En quoi les projets financés par ce type d’épargnes sont-ils particuliers?",
+        "text": "La finance solidaire c’est un compromis entre une recherche de rentabilité, du placement que l’on fait, et une recherche de sens, si on peut dire. Donc si vous voulez, on va avoir un peu moins de rentabilité, mais peut-être un peu plus de sens. J’appelle le sens, c’est faire un geste vis-à-vis d’autres, vis-à-vis d’entrepreneurs qui vont par exemple embaucher des handicapés, embaucher des chômeurs de longue durée, s’endetter pour acheter du matériel économiseur d’énergie. C’est tout un ensemble de démarches et d’outils d’épargne. Il y a un peu moins de rentabilité, peut-être un petit peu plus de sens. En quoi les projets financés par ce type d’épargnes sont-ils particuliers?",
         "audio": "/mp3/161/34.mp3",
         "options": [
             "Ils concernent des investissements à long terme.",
@@ -197,7 +196,7 @@
     {
         "id": 35,
         "testId": "161",
-        "text": "Nous vivons dans les nations urbaines, mais nous avons peur des villes. La concentration des hommes et des activités répète on à l'envie est en soi criminogène et de citer invariablement les mêmes expériences sur les rats de laboratoire dont l'agressivité augmente avec le nombre, la densité. Mais on ignore volontiers l'histoire humaine. Le Japon hautement industrialisé et urbanisé a néanmoins un taux de criminalité très faible, le plus faible du monde industriel. Il faut se garder de tirer trop vite des enseignements pour la politique criminelle en prenant comme une panacée le retour à un habitat moins dense. Quelle est l'opinion de cet intervenant?",
+        "text": "Nous vivons dans les nations urbaines, mais nous avons peur des villes. La concentration des hommes et des activités répète on à l’envie est en soi criminogène et de citer invariablement les mêmes expériences sur les rats de laboratoire dont l’agressivité augmente avec le nombre, la densité. Mais on ignore volontiers l’histoire humaine. Le Japon hautement industrialisé et urbanisé a néanmoins un taux de criminalité très faible, le plus faible du monde industriel. Il faut se garder de tirer trop vite des enseignements pour la politique criminelle en prenant comme une panacée le retour à un habitat moins dense. Quelle est l’opinion de cet intervenant?",
         "audio": "/mp3/161/35.mp3",
         "options": [
             "L’action politique doit s’appuyer sur les conclusions scientifiques.",
@@ -210,7 +209,7 @@
     {
         "id": 36,
         "testId": "161",
-        "text": "Il y a une qualité de vie qui n'est pas toujours excellente chez nos personnes âgées. Alors on se disait, comme la population du Québec joue à des jeux, pourquoi on n'utiliserait pas ces jeux-là pour améliorer leur qualité de vie? Ça présente quand même des difficultés, le jeu, pour les personnes qui sont plus âgées. Quelquefois, ils ont des difficultés de divers ordres. Comment est-ce que vous essayez de prévenir le fait qu'ils ne puissent pas jouer pour une raison ou une autre? On pourrait à la limite être une personne complètement inactive et pouvoir encore jouer. Jouer peut-être pour maintenir ses aspects cognitifs, donc maintenir la vivacité d'esprit et tout. Quel est l'intérêt pour les personnes âgées de jouer?",
+        "text": "Il y a une qualité de vie qui n’est pas toujours excellente chez nos personnes âgées. Alors on se disait, comme la population du Québec joue à des jeux, pourquoi on n’utiliserait pas ces jeux-là pour améliorer leur qualité de vie? Ça présente quand même des difficultés, le jeu, pour les personnes qui sont plus âgées. Quelquefois, ils ont des difficultés de divers ordres. Comment est-ce que vous essayez de prévenir le fait qu’ils ne puissent pas jouer pour une raison ou une autre? On pourrait à la limite être une personne complètement inactive et pouvoir encore jouer. Jouer peut-être pour maintenir ses aspects cognitifs, donc maintenir la vivacité d’esprit et tout. Quel est l’intérêt pour les personnes âgées de jouer?",
         "audio": "/mp3/161/36.mp3",
         "options": [
             "Elles réapprennent certains gestes.",
@@ -223,7 +222,7 @@
     {
         "id": 37,
         "testId": "161",
-        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire(to be told) après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu’est-ce que l’utilisation d’Internet apporte au processus de recrutement?",
+        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d’entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s’entendre dire après dix minutes d’entretien qu’ils n’ont pas le profil. De plus, l’utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l’entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu’on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu’est-ce que l’utilisation d’Internet apporte au processus de recrutement?",
         "audio": "/mp3/161/37.mp3",
         "options": [
             "Une diminution de la longueur des entretiens.",
@@ -236,7 +235,7 @@
     {
         "id": 38,
         "testId": "161",
-        "text": "Les faits divers sont bien des faits, des événements, des choses qui arrivent, mais pourquoi diables sont-ils divers, ces faits? On peut les trouver monotones, toujours des meurtres, des accidents, des catastrophes, des séquestrations, et j'en passe. Des images choc en tout cas de ce qui ne va pas dans notre société. En effet, alors qu'il arrive cent mille choses heureuses et agréables, l'information s'attache à l'horrible et à l'imprévu. Les faits divers racontent l'horreur qui atteint quelques individus mais qui masquent les maladies d'une société toute entière. À leur donner tant d'importance sans les commenter, les médias contournent gaillardement les problèmes majeurs collectifs qui, eux, ne sont pas divers. À se demander si ces catastrophes si diverses ne sont pas mises en avant sans qu'on en tire aucune leçon, pour faire diversion, non pas pour divertir au sens de récréer, mais pour détourner de ce qui est plus général et plus important, les problèmes qui concernent des millions d'humains mais qui paraissent en effet plus lointains. Selon le chroniqueur, comment les médias utilisent-ils les faits divers?",
+        "text": "Les faits divers sont bien des faits, des événements, des choses qui arrivent, mais pourquoi diables sont-ils divers, ces faits? On peut les trouver monotones, toujours des meurtres, des accidents, des catastrophes, des séquestrations, et j’en passe. Des images choc en tout cas de ce qui ne va pas dans notre société. En effet, alors qu’il arrive cent mille choses heureuses et agréables, l’information s’attache à l’horrible et à l’imprévu. Les faits divers racontent l’horreur qui atteint quelques individus mais qui masquent les maladies d’une société toute entière. À leur donner tant d’importance sans les commenter, les médias contournent gaillardement les problèmes majeurs collectifs qui, eux, ne sont pas divers. À se demander si ces catastrophes si diverses ne sont pas mises en avant sans qu’on en tire aucune leçon, pour faire diversion, non pas pour divertir au sens de récréer, mais pour détourner de ce qui est plus général et plus important, les problèmes qui concernent des millions d’humains mais qui paraissent en effet plus lointains. Selon le chroniqueur, comment les médias utilisent-ils les faits divers?",
         "audio": "/mp3/161/38.mp3",
         "options": [
             "Comme un prétexte pour éviter de traiter les questions significatives.",
@@ -249,7 +248,7 @@
     {
         "id": 39,
         "testId": "161",
-        "text": "Question un petit peu à côté sans doute pour quelqu'un qui est né comme vous dans une famille de musiciens, je dis vous moi, Chordachan, pourquoi vous avez choisi la musique? Je pense que ce n'était pas vraiment un choix, j'ai commencé la musique très tôt, bien sûr à la maison c'était que de la musique tout le temps, le piano à 6 ans, je n'ai jamais dit que je voulais faire du piano mais ça faisait partie de l'éducation, et voilà c'était la voie naturelle, j'avais peut-être des envies à l'adolescence de faire d'autres choses mais ce n'était pas très sérieux. Que représente la musique dans la vie de cet artiste?",
+        "text": "Question un petit peu à côté sans doute pour quelqu’un qui est né comme vous dans une famille de musiciens, je dis vous moi, Chordachan, pourquoi vous avez choisi la musique? Je pense que ce n’était pas vraiment un choix, j’ai commencé la musique très tôt, bien sûr à la maison c’était que de la musique tout le temps, le piano à 6 ans, je n’ai jamais dit que je voulais faire du piano mais ça faisait partie de l’éducation, et voilà c’était la voie naturelle, j’avais peut-être des envies à l’adolescence de faire d’autres choses mais ce n’était pas très sérieux. Que représente la musique dans la vie de cet artiste?",
         "audio": "/mp3/161/39.mp3",
         "options": [
             "Un désir d’enfance satisfait spontanément.",

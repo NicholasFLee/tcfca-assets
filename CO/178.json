@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 20,
         "testId": "178",
         "options": [
@@ -10,7 +9,7 @@
         ],
         "audio": "/mp3/178/20.mp3",
         "answer": 2,
-        "text": "Régis Soliverrez, bonjour. Bonjour Philippe. Régis, vous lancez une aventure, enfin vous lisez dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux. Oui, à l'occasion du festival de Luchon, j'ai rencontré François, j'ai dit que je voulais faire un film. Question 20. Quel est le projet de Régis Soliverrez et de ses élèves ?"
+        "text": "Régis Soliverrez, bonjour. Bonjour Philippe. Régis, vous lancez une aventure, enfin vous lisez dans une aventure assez incroyable qui est de participer à la réalisation d’un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s’appelle François Chailloux. Oui, à l’occasion du festival de Luchon, j’ai rencontré François, j’ai dit que je voulais faire un film. Quel est le projet de Régis Soliverrez et de ses élèves ?"
     },
     {
         "id": 21,
@@ -23,7 +22,7 @@
         ],
         "audio": "/mp3/178/21.mp3",
         "answer": 3,
-        "text": "Bienvenue dans notre émission culturelle. Le peintre Soulages, connu mondialement, est célébré dans son pays au musée d'art moderne de Paris. L'exposition s'appelle Noir Lumière parce que le noir de Soulages ne ressemble à aucun autre. Question 21. Qu'apprend-t-on sur le peintre Pierre Soulages ?"
+        "text": "Bienvenue dans notre émission culturelle. Le peintre Soulages, connu mondialement, est célébré dans son pays au musée d’art moderne de Paris. L’exposition s’appelle Noir Lumière parce que le noir de Soulages ne ressemble à aucun autre. Question 21. Qu’apprend-t-on sur le peintre Pierre Soulages ?"
     },
     {
         "id": 22,
@@ -36,7 +35,7 @@
         ],
         "audio": "/mp3/178/22.mp3",
         "answer": 1,
-        "text": "J'ai le plaisir de recevoir aujourd'hui monsieur Daoulet qui nous vient tout droit du Nouveau-Brunswick. Alors monsieur Daoulet, vous avez une belle famille puisque vous avez 8 enfants tous nés dans des endroits différents je crois. Oui, en Afrique, au Québec et les petits derniers au Nouveau-Brunswick. Oh, et est-ce qu'ils sont tous des accents différents ? Ma foi, oui. Dans chacun de ces endroits, le français est parlé différemment et mes enfants ont pris l'accent du lieu où ils sont allés à l'école dans les premières années de leur vie. Pourquoi les enfants de monsieur Daoulet ont-ils des accents variés quand ils parlent français ? Parce que les enfants de monsieur Daoulet ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents. Et ils ont des accents différents."
+        "text": "J’ai le plaisir de recevoir aujourd’hui monsieur Daoulet qui nous vient tout droit du Nouveau-Brunswick. Alors monsieur Daoulet, vous avez une belle famille puisque vous avez 8 enfants tous nés dans des endroits différents je crois. Oui, en Afrique, au Québec et les petits derniers au Nouveau-Brunswick. Oh, et est-ce qu’ils sont tous des accents différents ? Ma foi, oui. Dans chacun de ces endroits, le français est parlé différemment et mes enfants ont pris l’accent du lieu où ils sont allés à l’école dans les premières années de leur vie. Pourquoi les enfants de monsieur Daoulet ont-ils des accents variés quand ils parlent français ?"
     },
     {
         "id": 23,
@@ -49,7 +48,7 @@
         ],
         "audio": "/mp3/178/23.mp3",
         "answer": 0,
-        "text": "Je crois que des difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir, et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineures. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire, et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Question 23. Que conseille cette intervenante aux parents ?"
+        "text": "Je crois que des difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu’ils sont angoissés par l’avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir, et c’est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c’est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu’ils considèrent comme mineures. Les bandes dessinées, par exemple, et ça aussi, c’est une erreur. Lire une bande dessinée, c’est lire, et ça permet souvent d’ailleurs de découvrir ensuite d’autres formes de littérature. Que conseille cette intervenante aux parents ?"
     },
     {
         "id": 24,
@@ -62,7 +61,7 @@
         ],
         "audio": "/mp3/178/24.mp3",
         "answer": 1,
-        "text": "Chers auditeurs, nous allons aujourd'hui vous présenter Chantal Harvey, une Franco-Québécoise qui travaille au centre de service de Shawinigan et qui, tenez-vous bien, conduit un chasse-neige. Alors Chantal, comment on se sent aux commandes de cette grosse machine? Je me sens parfaitement dans mon élément. Et votre chef, qu'en pense-t-il? Vous êtes satisfait d'avoir une femme dans votre équipe? J'en suis ravi. Elle a assimilé rapidement les manoeuvres d'exécution et elle intervient efficacement aux endroits stratégiques. Même si elle s'y connaît peu en déneigement, elle a su tirer son épingle du jeu. C'est une personne courageuse. Et regardez comme elle est à l'aise aux manettes de cet engin. On jurerait qu'elle a fait ça toute sa vie. Question 24. Pourquoi son responsable est-il satisfait de Chantal?"
+        "text": "Chers auditeurs, nous allons aujourd’hui vous présenter Chantal Harvey, une Franco-Québécoise qui travaille au centre de service de Shawinigan et qui, tenez-vous bien, conduit un chasse-neige. Alors Chantal, comment on se sent aux commandes de cette grosse machine? Je me sens parfaitement dans mon élément. Et votre chef, qu’en pense-t-il? Vous êtes satisfait d’avoir une femme dans votre équipe? J’en suis ravi. Elle a assimilé rapidement les manoeuvres d’exécution et elle intervient efficacement aux endroits stratégiques. Même si elle s’y connaît peu en déneigement, elle a su tirer son épingle du jeu. C’est une personne courageuse. Et regardez comme elle est à l’aise aux manettes de cet engin. On jurerait qu’elle a fait ça toute sa vie. Pourquoi son responsable est-il satisfait de Chantal?"
     },
     {
         "id": 25,
@@ -75,7 +74,7 @@
         ],
         "audio": "/mp3/178/25.mp3",
         "answer": 1,
-        "text": "Vous êtes écologiste, vous êtes environnementaliste à temps plein, c'est votre carrière, c'est votre métier. Tout à fait, j'ai ce plaisir. Moi, quand je faisais mes études, il n'y avait pas de possibilité de travailler en environnement. Alors maintenant, il existe des formations, des cours, on va à l'université pour… Tout à fait, il existe de très nombreux programmes, c'est assez fascinant. On a au-dessus de 400 programmes au Québec, tant au niveau technique que au niveau cégep. 400? 400 programmes, ouais. Technique, cégep, université, programme d'études. Alors vous, vous êtes allé à l'université pour apprendre l'environnement? Oui, tout à fait. J'ai travaillé beaucoup sur le terrain avant, à l'âge que j'ai, il y avait moins de programmes à l'époque. Question 25. Qu'explique ces personnes sur le monde universitaire québécois? C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça."
+        "text": "Vous êtes écologiste, vous êtes environnementaliste à temps plein, c’est votre carrière, c’est votre métier. Tout à fait, j’ai ce plaisir. Moi, quand je faisais mes études, il n’y avait pas de possibilité de travailler en environnement. Alors maintenant, il existe des formations, des cours, on va à l’université pour… Tout à fait, il existe de très nombreux programmes, c’est assez fascinant. On a au-dessus de 400 programmes au Québec, tant au niveau technique que au niveau cégep. 400? 400 programmes, ouais. Technique, cégep, université, programme d’études. Alors vous, vous êtes allé à l’université pour apprendre l’environnement? Oui, tout à fait. J’ai travaillé beaucoup sur le terrain avant, à l’âge que j’ai, il y avait moins de programmes à l’époque. Qu’explique ces personnes sur le monde universitaire québécois?"
     },
     {
         "id": 26,
@@ -88,7 +87,7 @@
         ],
         "audio": "/mp3/178/26.mp3",
         "answer": 2,
-        "text": "D'un côté, certaines personnes âgées ont de la place chez elles et besoin d'aide dans leur quotidien. D'un autre côté, certains jeunes ont du temps libre et cherchent à se loger. Alors, on en reste là ou on trouve une solution ? L'association de l'or, ARREN, favorise la cohabitation entre personnes âgées et jeunes défavorisés. Si vous voulez soutenir ce type de solution, rendez-vous sur fondationdefrancais.org. Question 26. Que propose l'association présentée ?"
+        "text": "D’un côté, certaines personnes âgées ont de la place chez elles et besoin d’aide dans leur quotidien. D’un autre côté, certains jeunes ont du temps libre et cherchent à se loger. Alors, on en reste là ou on trouve une solution ? L’association de l’or, ARREN, favorise la cohabitation entre personnes âgées et jeunes défavorisés. Si vous voulez soutenir ce type de solution, rendez-vous sur fondationdefrancais.org. Que propose l’association présentée ?"
     },
     {
         "id": 27,
@@ -101,7 +100,7 @@
         ],
         "audio": "/mp3/178/27.mp3",
         "answer": 1,
-        "text": "Bonjour Marie-Nicole Lemieux. Bonjour. Merci beaucoup d'être avec nous. Ça me fait très plaisir. Tout d'abord, quel français est-ce que vous parlez? C'est un français que j'espère être international donc vous êtes capable de me comprendre, c'est déjà ça. Mais disons aussi que j'ai la richesse de tout le patrimoine québécois qui contient évidemment des mots anciens, très anciens qu'on a gardés comme là présentement nous ne discutons pas, nous jasons. Et puis aussi d'anglicisme, le régime britannique a vraiment teinter aussi notre français. Question 27. Selon Marie-Nicole Lemieux, quelle est la spécificité du français qu'elle parle?"
+        "text": "Bonjour Marie-Nicole Lemieux. Bonjour. Merci beaucoup d’être avec nous. Ça me fait très plaisir. Tout d’abord, quel français est-ce que vous parlez? C’est un français que j’espère être international donc vous êtes capable de me comprendre, c’est déjà ça. Mais disons aussi que j’ai la richesse de tout le patrimoine québécois qui contient évidemment des mots anciens, très anciens qu’on a gardés comme là présentement nous ne discutons pas, nous jasons. Et puis aussi d’anglicisme, le régime britannique a vraiment teinter aussi notre français. Question 27. Selon Marie-Nicole Lemieux, quelle est la spécificité du français qu’elle parle?"
     },
     {
         "id": 28,
@@ -114,7 +113,7 @@
         ],
         "audio": "/mp3/178/28.mp3",
         "answer": 0,
-        "text": "Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun. Oui, je suis d'accord. D'autant que nous avons eu des incompréhensions entre nous ces derniers temps. D'après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s'arrête dans le projet. Tout à fait d'accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de tout faire, on ne sera jamais d'accord au sein de ce service. Sans compter que ça ne nous fait pas gagner de temps. Bien. Alors, mettons ça à l'ordre de la réunion d'équipe de demain. Question 28. Quel est l'objet de la discussion?"
+        "text": "Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun. Oui, je suis d’accord. D’autant que nous avons eu des incompréhensions entre nous ces derniers temps. D’après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s’arrête dans le projet. Tout à fait d’accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de tout faire, on ne sera jamais d’accord au sein de ce service. Sans compter que ça ne nous fait pas gagner de temps. Bien. Alors, mettons ça à l’ordre de la réunion d’équipe de demain. Quel est l’objet de la discussion?"
     },
     {
         "id": 29,
@@ -127,20 +126,20 @@
         ],
         "audio": "/mp3/178/29.mp3",
         "answer": 0,
-        "text": "Parlons maintenant de l'enseignement à distance. Marielle Barreau, vous nous présentez un logiciel qui fait des filtres de révision à votre place, c'est ça ? Finalement, vous voulez inciter nos auditeurs étudiants à se tourner les pouces ? Ce n'est pas exactement ça. On vous propose en fait de travailler plus efficacement. C'est un logiciel qui s'adapte à toutes les matières et qui vous fait réviser. Le principe, c'est que vous numérisez en notant record n'importe quel cours. Vous faites vous-même votre fiche de révision que vous saisissez sur votre clavier et le logiciel vous interroge de la façon la plus adéquate pour vous faire apprendre. Il pose des questions en rafales et s'adapte à vos difficultés en mettant l'accent là où vous avez des points faibles. Question 29. De quoi est-il question dans cette émission ?"
+        "text": "Parlons maintenant de l’enseignement à distance. Marielle Barreau, vous nous présentez un logiciel qui fait des filtres révision à votre place, c’est ça ? Finalement, vous voulez inciter nos auditeurs étudiants à se tourner les pouces. Ce n’est pas exactement ça. On vous propose en fait de travailler plus efficacement. C’est un logiciel qui s’adapte à toutes les matières et qui vous fait réviser. Le principe, c’est que vous numérisez en un temps record n’importe où. Vous faites vous-même votre fiche de révision que vous saisissez sur votre clavier, et le logiciel vous interroge de la façon la plus adéquate pour vous faire apprendre. Il pose des questions en rafales, il s’adapte à vos difficultés en mettant l’accent là où vous avez des points faibles. De quoi est-il question dans cette émission ?"
     },
     {
         "id": 30,
         "testId": "178",
         "options": [
-            "D’un appel à un projets imaginaires.",
+            "D’un appel à projets imaginaires.",
             "D’un examen de fin d’études.",
             "D’un nouveau plan d’urbanisme.",
             "D’une rénovation d’un monument."
         ],
         "audio": "/mp3/178/30.mp3",
         "answer": 0,
-        "text": "La vieille dame de fer dans tous ses états, ou comment les jeunes sont complexes, se sont mesurés à cette forme unique qu'est la tour Eiffel. Pour ce concours organisé par la Fondation Eiffel, adressé aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le Champ de Mars à Paris, à distance, à coller ou à la place de la tour Eiffel. Trois étudiants suppriment donc carrément la tour. À la place, ils y construisent un aéroport vertical ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleur ou la dot d'un jardin suspendu. Question 30. De quoi traite ce reportage ?"
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu’est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d’architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D’autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d’un jardin suspendu. De quoi traite ce reportage?"
     },
     {
         "id": 31,
@@ -153,7 +152,7 @@
         ],
         "audio": "/mp3/178/31.mp3",
         "answer": 1,
-        "text": "Là on vient très récemment d'observer pour la première fois un trou noir Hubert, quelle a été votre réaction ? Oui c'est le moment où on découvre une chose pour la première fois et surtout le fait que cette idée des trous noirs qui a été inventée par Einstein dans les années 1915, je ne me souviens pas, c'était au départ une théorie et de trouver que le comportement de ces trous noirs existe c'est une confirmation de la valeur de la science en général qui sont par exemple les idées des trous noirs, ça vous donne confiance dans la science. Question 31, selon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?"
+        "text": "Là on vient très récemment d’observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction ? Oui, c’est le moment où on découvre une chose pour la première fois et surtout le fait que cette idée des trous noirs qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c’était au départ une théorie. Et de trouver que le comportement de ces trous noirs existe, c’est une confirmation de la valeur de la science en général, qui sont par exemple les idées des trous noirs. Ça vous donne confiance dans la science. Selon Hubert Rives, pourquoi cette première observation d’un trou noir est-elle importante ?"
     },
     {
         "id": 32,
@@ -166,7 +165,7 @@
         ],
         "audio": "/mp3/178/32.mp3",
         "answer": 2,
-        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé inextrémise entre les deux pays, et de nouvelles négociations commencent aujourd'hui. Mais sur le fond, rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathon pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent, car c'est maintenant que les choses démarrent réellement. Alors, à morce d'un processus de paix ou conférence symbolique, la secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint, car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Question 32. Pourquoi la journaliste reste-t-elle prudente ? La journaliste est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente. Elle est prudente."
+        "text": "C’est au cours de cette réunion internationale qu’un premier accord a été trouvé, in extremis, entre les deux pays et de nouvelles négociations commencent aujourd’hui, mais sur le front rien n’est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d’un processus, mais il faut rester prudent car c’est maintenant que les choses démarrent réellement. Alors, amorce d’un processus de paix ou conférence symbolique? La secrétaire d’État a d’ailleurs précisé hier soir que l’échec n’était pas une option. En fait, on n’est pas encore rentré dans le vif du sujet. Beaucoup de points n’ont pas encore été abordés et n’ont pas été détaillés dans le document conjoint, car les deux parties n’ont pas réussi à se mettre d’accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?"
     },
     {
         "id": 33,
@@ -179,7 +178,7 @@
         ],
         "audio": "/mp3/178/33.mp3",
         "answer": 2,
-        "text": "Alors Philippe, est-ce que vous pouvez nous en apprendre plus sur votre établissement? Quand j'ai récupéré l'endroit, il s'agissait d'un lieu qui était ancien à Montréal, début 19e siècle. J'ai donc gardé ce qui était d'époque et j'ai rajouté une touche moderne, design, pour créer un espace particulier où les styles se mélangent. Comme je suis un passionné de meubles design, j'ai acheté des pièces qui me plaisent, et en plus d'imanger, on peut assister à des soirées musicales, on a un DJ très connu internationalement dans le domaine de la musique électronique. Enfin, étant donné qu'on est dans un lieu très haut de plafond, j'ai accroché des tableaux, des œuvres contemporaines, mais on organise aussi des expos temporaires. Toutes les formes et d'expressions nous intéressent. Question 33. Quelle est la particularité de l'établissement de Philippe ?"
+        "text": "Alors, Philippe, est-ce que vous pouvez nous en apprendre plus sur votre établissement? Quand j’ai récupéré l’endroit, il s’agissait d’un lieu qui était ancien à Montréal, début 19e siècle. J’ai donc gardé ce qui était d’époque et j’ai rajouté une touche moderne, design, pour créer un espace particulier où les styles se mélangent. Comme je suis un passionné de meubles design, j’ai acheté des pièces qui me plaisent et en plus d’y manger, on peut assister à des soirées musicales, on a un DJ très connu internationalement dans le domaine de la musique électronique. Enfin, étant donné qu’on est dans un lieu très haut de plafond, j’ai accroché des tableaux, des œuvres contemporaines, mais on organise aussi des expos temporaires. Toutes les formes d’expression nous intéressent. Quelle est la particularité de l’établissement de Philippe?"
     },
     {
         "id": 34,
@@ -192,7 +191,7 @@
         ],
         "audio": "/mp3/178/34.mp3",
         "answer": 3,
-        "text": "C'est la quatrième édition de ce rendez-vous qui s'échelonne sur deux semaines avec une cinquantaine d'auteurs invités. Pourquoi l'avoir appelé « hors limite » ? Ça n'évoque pas du tout la littérature. Alors par contre ça parle de l'ouverture. Je dirais que ce festival littéraire veut prouver que la littérature est ouverte de deux points de vue. Sur le fond, le maître mot du festival, c'est les croisements et l'ouverture des formes. Le festival propose des lectures croisées et il y a énormément de rencontres avec plusieurs auteurs. La littérature peut croiser la danse, le graphisme ou le cinéma. Je dirais aussi que « hors limite », c'est l'ouverture sur le fond puisque on veut prouver que la littérature n'est pas nombriliste, qu'elle est ouverte aux questions qui agitent notre temps. Question 34. Quelle forme de littérature cherche à promouvoir le festival hors limite ?"
+        "text": "C’est la quatrième édition de ce rendez-vous qui s’échelonne sur deux semaines avec une cinquantaine d’auteurs invités. Pourquoi l’avoir appelé « hors limite » ? Ça n’évoque pas du tout la littérature. Alors par contre ça parle de l’ouverture. Je dirais que ce festival littéraire veut prouver que la littérature est ouverte de deux points de vue. Sur le fond, le maître mot du festival, c’est les croisements et l’ouverture des formes. Le festival propose des lectures croisées et il y a énormément de rencontres avec plusieurs auteurs. La littérature peut croiser la danse, le graphisme ou le cinéma. Je dirais aussi que « hors limite », c’est l’ouverture sur le fond puisque on veut prouver que la littérature n’est pas nombriliste, qu’elle est ouverte aux questions qui agitent notre temps. Quelle forme de littérature cherche à promouvoir le festival hors limite ?"
     },
     {
         "id": 35,
@@ -205,7 +204,7 @@
         ],
         "audio": "/mp3/178/35.mp3",
         "answer": 3,
-        "text": "Internet pollue. Cette technologie consomme aujourd'hui 10% de l'énergie mondiale et cette consommation augmente d'année en année. Depuis 2013, elle a doublé. Alors, pour Henri Espléo, une application a été créée afin de nous inciter à mieux utiliser nos smartphones car chaque geste compte. Comment se présente-t-elle cette application ? Comme pour mieux se faire entendre, Mathilde, elle prend la forme d'un assistant vocal dont le but est de nous aider à revoir certains de nos réflexes. Et quel est le principe ? Le principe n'est pas d'utiliser moins son smartphone mais mieux. L'application Plana va donc scanner l'activité de votre téléphone. Elle va endresser le bilan afin de pouvoir en tirer des conclusions et le rendre moins énergivore. Question 35. Quel est l'intérêt de l'application Plana pour les usagers ? Merci."
+        "text": "Internet pollue. Cette technologie consomme aujourd’hui 10% de l’énergie mondiale et cette consommation augmente d’année en année. Depuis 2013, elle a doublé. Alors, pour Henri Espléo, une application a été créée afin de nous inciter à mieux utiliser nos smartphones car chaque geste compte. Comment se présente-t-elle cette application ? Comme pour mieux se faire entendre, Mathilde, elle prend la forme d’un assistant vocal dont le but est de nous aider à revoir certains de nos réflexes. Et quel est le principe ? Le principe n’est pas d’utiliser moins son smartphone mais mieux. L’application Plana va donc scanner l’activité de votre téléphone. Elle va endresser le bilan afin de pouvoir en tirer des conclusions et le rendre moins énergivore. Quel est l’intérêt de l’application Plana pour les usagers ?"
     },
     {
         "id": 36,
@@ -218,20 +217,20 @@
         ],
         "audio": "/mp3/178/36.mp3",
         "answer": 3,
-        "text": "On est rendu à notre chronique littéraire avec Audrey Menais. Tout d'abord, autostop Daniel Bélanger. On a affaire à un musicien, guitariste à guéries, mais Daniel Bélanger c'est d'abord un compositeur, c'est l'auteur de ses chansons et c'est ce pan de son travail qu'on retrouve ici. Pour la forme du récit, on a d'ailleurs cette présentation que l'on trouve dans les jaquettes des CD. Vous savez, le texte qui est centré au milieu de la page. On a des renvois à la ligne à chaque nouvelle strophe. Ici, c'est la même chose. C'est un partition que j'aimerais voir. Ce format, c'est une nouveauté chez les allusifs. Voilà, on connaît cette maison d'édition pour ses parutions souvent étrangères, aussi poétiques. Mais les allusifs sortent une nouvelle collection de petits livres qu'ils appellent Les Peurs, avec comme adage, un auteur, une peur, un livre. Question 36. Quelle est la particularité de l'œuvre présentée ?"
+        "text": "Et on est rendu à notre chronique littéraire avec Aude Rimanez. Alors tout d’abord, autostop Daniel Bélanger. Alors on a affaire évidemment à un musicien, guitariste aguerri, mais Daniel Bélanger c’est d’abord un compositeur, c’est l’auteur de ses chansons et c’est ce pan de son travail qu’on retrouve ici. Pour la forme du récit, on a d’ailleurs cette présentation là qu’on trouve dans les jaquettes des CD, là vous savez, le texte qui est centré au milieu de la page, donc on a des renvois à la ligne à chaque nouvelle strophe. Ici c’est la même chose. C’est un partition que j’aimerais voir. Ce format quoi, c’est une nouveauté chez les allusifs. Voilà, on connaît cette maison d’édition pour ses parutions souvent étrangères, aussi poétiques, mais les allusifs, là ils sortent une nouvelle collection de petits livres qu’ils appellent Les Peurs, avec comme adage un auteur, une peur, un livre. Quelle est la particularité de l’œuvre présentée ?"
     },
     {
         "id": 37,
         "testId": "178",
         "options": [
             "De consulter un médecin psychothérapeute.",
-            "Pour limiter la naissance des automobiles.",
+            "D’attendre que le temps ait fait son œuvre.",
             "De prescrire un traitement médicamenteux.",
             "D’informer les utilisateurs sur leurs dangers."
         ],
         "audio": "/mp3/178/37.mp3",
-        "answer": 3,
-        "text": "La question principale c'est de savoir si on va médicaliser la crise de l'adolescence ou pas, sachant qu'aujourd'hui le symptôme principal de la crise adolescente chez le garçon c'est le jeu vidéo excessif ou l'internet excessif. Donc si on dit addiction, on le médicalise et ça veut dire tôt ou tard, pas seulement des psychothérapies mais des chimiothérapies pour tous les adolescents joueurs, alors qu'on sait encore une fois d'expérience que 99% arrêtent de jouer à 17 ou 18 ans parce qu'ils ont fini leur crise d'adolescence, qu'ils ne sont plus en révolte contre les parents, qu'ils sont soucieux de s'intégrer à la société et d'avoir une activité professionnelle. Donc l'adolescence, on la compagne, voilà, ne la pathologisons pas et je suis bien content que l'Académie de médecine ait pris cette position. Question 37. Que préconise ce spécialiste face à l'engouement des jeunes pour les jeux vidéo ?"
+        "answer": 1,
+        "text": "Voilà, la question principale c’est de savoir si on va médicaliser la crise d’adolescence ou pas, sachant qu’aujourd’hui le symptôme principal de la crise d’adolescence chez le garçon, c’est le jeu vidéo excessif ou l’internet excessif. Donc si on dit addiction, on le médicalise et ça veut dire tôt ou tard, pas seulement des psychothérapies, mais des chimiothérapies pour tous les adolescents joueurs, alors qu’on sait encore une fois d’expérience que 99% arrêtent de jouer à 17 ou 18 ans parce qu’ils ont fini leur crise d’adolescence, ils ne sont plus en révolte contre les parents qui sont soucieux de s’intégrer à la société et d’avoir une activité professionnelle. Donc l’adolescence, on l’accompagne, voilà, ne la pathologisons pas et je suis bien content que l’Académie de médecine ait pris cette position. Que préconise ce spécialiste face à l’engouement des jeunes pour les jeux vidéo?"
     },
     {
         "id": 38,
@@ -244,7 +243,7 @@
         ],
         "audio": "/mp3/178/38.mp3",
         "answer": 3,
-        "text": "En Grande-Bretagne, quand un consommateur achète un produit défectueux, il a le choix entre la réparation, le remplacement ou le remboursement. En Allemagne, c'est le commerçant qui décide pour lui. Et bien la Commission européenne veut mettre à plat toutes ces législations et proposer des règles communes en matière de protection des consommateurs. Harmonisation maximale ou minimale, au Parlement européen le débat dure depuis deux ans. L'eurodéputée socialiste allemande Evelyne Gebart redoute, elle, l'harmonisation maximale préconisée par Bruxelles. Elle estime que la Commission doit respecter les usages en cours dans chaque pays. Nous avons des traditions, des cultures très différentes et les consommateurs ont des demandes différentes aussi dans les États membres, ce qui crée évidemment une différenciation assez grande dans le droit qui existe. C'est pour ça que jusqu'à maintenant nous avons toujours dit, nous faisons une harmonisation minimale, un minimum de droits qui doivent être là, mais nous laissons une flexibilité aux États membres pour donner une réponse aux demandes des citoyens."
+        "text": "En Grande-Bretagne, quand un consommateur achète un produit défectueux, il a le choix entre la réparation, le remplacement ou le remboursement. En Allemagne, c’est le commerçant qui décide pour lui. Et bien la Commission européenne veut mettre à plat toutes ces législations et proposer des règles communes en matière de protection des consommateurs. Harmonisation maximale ou minimale, au Parlement européen le débat dure depuis deux ans. L’eurodéputée socialiste allemande Evelyne Gebart redoute, elle, l’harmonisation maximale préconisée par Bruxelles. Elle estime que la Commission doit respecter les usages en cours dans chaque pays. Nous avons des traditions, des cultures très différentes et les consommateurs ont des demandes différentes aussi dans les États membres, ce qui crée évidemment une différenciation assez grande dans le droit qui existe. C’est pour ça que jusqu’à maintenant nous avons toujours dit, nous faisons une harmonisation minimale, un minimum de droits qui doivent être là, mais nous laissons une flexibilité aux États membres pour donner une réponse aux demandes des citoyens. Que recommande l’eurodéputée Evelyne Gebart ?"
     },
     {
         "id": 39,
@@ -257,6 +256,6 @@
         ],
         "audio": "/mp3/178/39.mp3",
         "answer": 0,
-        "text": "Tes recherches sur les algues, ça avance ? Oui, pas mal. Mais, tu étudies quoi au juste ? Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fondent et attirent les cellules mâles pour les féconder. Et à quoi te serviront ces découvertes ? Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques. Que cherche à étudier cette personne à propos des algues ? C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça. C'est un peu comme ça."
+        "text": "Tes recherches sur les algues, ça avance ? Oui, pas mal. Mais, tu étudies quoi au juste ? Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fendent et attirent les cellules mâles pour les féconder. Et à quoi te serviront ces découvertes ? Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques. Que cherche à étudier cette personne à propos des algues ?"
     }
 ]

@@ -1,13 +1,12 @@
-[
-    {
+[{
         "id": 20,
         "testId": "156",
-        "text": "Je suis en mer depuis les années 80, j'ai commencé le métier marin 15 ans et demi. Vous avez fait la suite de quelqu'un ? Non, j'ai commencé dans les années 80 à la pêche et puis ça a rapporté. Il y avait de l'emploi ici, là c'est le hasard. Mais vous êtes d'ici ? Oui, je suis d'ici, ça aide mais je n'étais vraiment pas attiré par la mer. C'est vrai ? Et pourtant vous avez franchi le pas pour faire pêcheur ? J'avais pas le choix, il fallait bien que je gagne ma vie, j'avais arrêté mes études. Par la pêche, il n'y a pas grand chose comme vous voulez, l'économie c'est pratiquement que la pêche.",
+        "text": "Je suis en mer depuis les années 80, j’ai commencé le métier marin 15 ans et demi. Vous avez fait la suite de quelqu’un ? Non, j’ai commencé dans les années 80 à la pêche et puis ça a rapporté. Il y avait de l’emploi ici, là c’est le hasard. Mais vous êtes d’ici ? Oui, je suis d’ici, ça aide mais je n’étais vraiment pas attiré par la mer. C’est vrai ? Et pourtant vous avez franchi le pas pour faire pêcheur ? J’avais pas le choix, il fallait bien que je gagne ma vie, j’avais arrêté mes études. Par la pêche, il n’y a pas grand chose comme vous voulez, l’économie c’est pratiquement que la pêche. Quelle était la motivation pour cet homme pour devenir pêcheur ?",
         "audio": "/mp3/156/20.mp3",
         "options": [
-            "L'envie de changer de profession.",
+            "L’envie de changer de profession.",
             "La nécessité de trouver un travail.",
-            "La réalisation d'un rêve de jeunesse.",
+            "La réalisation d’un rêve de jeunesse.",
             "La rencontre avec un passionné."
         ],
         "answer": 1
@@ -15,7 +14,7 @@
     {
         "id": 21,
         "testId": "156",
-        "text": "Vous pratiquez un sport ? Je n'ai plus le temps à cause de mon travail. C'est dommage. Ça permet de garder une bonne hygiène de vie, d'être en forme et de rester en bonne santé. Vous devriez essayer de trouver du temps. D'accord. Je vais y réfléchir. Tenez, voici votre ordonnance. Prenez ces deux médicaments matin et soir pendant huit jours. Que fait la doctoresse ? Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance. Vous avez besoin de votre ordonnance.",
+        "text": "Vous pratiquez un sport ? Je n’ai plus le temps à cause de mon travail. C’est dommage. Ça permet de garder une bonne hygiène de vie, d’être en forme et de rester en bonne santé. Vous devriez essayer de trouver du temps. D’accord. Je vais y réfléchir. Tenez, voici votre ordonnance. Prenez ces deux médicaments matin et soir pendant huit jours. Que fait la doctoresse ?",
         "audio": "/mp3/156/21.mp3",
         "options": [
             "Elle conseille une activité physique.",
@@ -28,11 +27,11 @@
     {
         "id": 22,
         "testId": "156",
-        "text": "être éco-éducateur c'est être à cheval entre l'éducateur et le pédagogue puisqu'on va sensibiliser le public aux problématiques environnementales mais en même temps expliquer ces problématiques et puis les solutions qui sont actuellement préconisées la plupart du temps on accueille un public d'enfants ou de scolaire ou de centre de loisirs mais en vérité on touche tous les publics puisqu'on est ouvert le week-end néanmoins notre journée ne se cantonne pas à ça on a aussi le montage de tous les projets d'événementiel ou d'animation future qui nécessite de de créer des supports d'élaborer des déroulements pédagogiques ici au clôt des blancs-manteaux notre entrée thématique c'est l'écologie au quotidien les éco-gestes les astuces qu'on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète que propose le site dans lequel cet intervenant travaille",
+        "text": "Être éco-éducateur c’est être à cheval entre l’éducateur et le pédagogue puisqu’on va sensibiliser le public aux problématiques environnementales mais en même temps expliquer ces problématiques et puis les solutions qui sont actuellement préconisées la plupart du temps on accueille un public d’enfants ou de scolaire ou de centre de loisirs mais en vérité on touche tous les publics puisqu’on est ouvert le week-end néanmoins notre journée ne se cantonne pas à ça on a aussi le montage de tous les projets d’événementiel ou d’animation future qui nécessite de de créer des supports d’élaborer des déroulements pédagogiques ici au clôt des blancs-manteaux notre entrée thématique c’est l’écologie au quotidien les éco-gestes les astuces qu’on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète. Que propose le site dans lequel cet intervenant travaille ?",
         "audio": "/mp3/156/22.mp3",
         "options": [
             "Des activités en faveur du développement durable.",
-            "Des formations aux nouveaux métiers de l'éducation.",
+            "Des formations aux nouveaux métiers de l’éducation.",
             "Des sorties équestres pour les écoliers de la région.",
             "Des stages à destination des animateurs jeunesse."
         ],
@@ -41,7 +40,7 @@
     {
         "id": 23,
         "testId": "156",
-        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier. Enfin, c'était une espèce de chanson que j'avais finie de recopier dans le bistrot en face de l'impasse Florimont où il habitait. Et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite. Et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « j'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé.",
+        "text": "Quand j’étais adolescent, j’avais écrit un long poème à Georges Brassens. J’avais fini de le recopier, enfin, c’était une espèce de chanson que j’avais fini de recopier dans le bistrot en face de l’impasse Florimont, où il habitait. Et j’étais allé lui porter. Sauf qu’il n’habitait plus là depuis des années et que j’étais assez rassuré qu’il n’habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l’avais écrite. Et je me dis que si un jour j’avais reçu un petit mot de Brassens me disant « J’ai lu vos chansons et j’aimerais bien vous en parler », ça m’aurait intéressé. Qu’aurait souhaité cette personne en allant chez Georges Brassens ?",
         "audio": "/mp3/156/23.mp3",
         "options": [
             "Lui apporter un livre.",
@@ -54,10 +53,10 @@
     {
         "id": 24,
         "testId": "156",
-        "text": "Isabelle Olivier, en tant que directrice d'une agence de voyage, en quoi votre agence est-elle différente des autres ? Tout d'abord, je travaille toujours avec des gens qui garantissent le respect des partenaires locaux. Ensuite, je cherche à définir les motivations des personnes qui viennent me voir, afin de les orienter vers des formules auxquelles ils n'ont pas forcément pensé. En général, après une discussion avec ces personnes sur la destination souhaitée, ils s'aperçoivent qu'un séjour classique ne coûte pas moins cher qu'un séjour sur mesure. Que propose cette agence de voyage ?",
+        "text": "Isabelle Olivier, en tant que directrice d’une agence de voyage, en quoi votre agence est-elle différente des autres ? Tout d’abord, je travaille toujours avec des gens qui garantissent le respect des partenaires locaux. Ensuite, je cherche à définir les motivations des personnes qui viennent me voir afin de les orienter vers des formules auxquelles ils n’ont pas forcément pensé. En général, après une discussion avec ces personnes sur la destination souhaitée, ils s’aperçoivent qu’un séjour classique ne coûte pas moins cher qu’un séjour sur mesure. Que propose cette agence de voyage ?",
         "audio": "/mp3/156/24.mp3",
         "options": [
-            "Des circuits respectueux de l'environnement.",
+            "Des circuits respectueux de l’environnement.",
             "Des formules adaptées à chaque client.",
             "Des tarifs plus bas que la concurrence.",
             "Des voyages à caractère humanitaire."
@@ -67,20 +66,20 @@
     {
         "id": 25,
         "testId": "156",
-        "text": "Qu'est-ce que tu veux faire pour les prochaines vacances? Il faut qu'on s'organise. Ah oui, sinon ce sera difficile de trouver un chalet disponible. J'aimerais bien aller dans les Laurentides. Les Vaillancours y seront tout le mois d'août. Oh non, on y passe tous nos étés depuis dix ans. Pourquoi la femme refuse-t-elle d'aller dans les Laurentides? Qu'est-ce que tu veux faire pour les prochaines vacances? Je veux que les gens puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi? Parce que je veux qu'ils puissent aller dans les Laurentides. Pourquoi?",
+        "text": "Qu’est-ce que tu veux faire pour les prochaines vacances? Il faut qu’on s’organise. Ah oui, sinon ce sera difficile de trouver un chalet disponible. J’aimerais bien aller dans les Laurentides. Les Vaillancourt y seront tout le mois d’août. Oh non, on y passe tous nos étés depuis dix ans. Pourquoi la femme refuse-t-elle d’aller dans les Laurentides ?",
         "audio": "/mp3/156/25.mp3",
         "options": [
-            "Parce qu'elle craint les grosses chaleurs de l'été.",
-            "Parce qu'elle pense que les Vaillancourt sont ennuyeux",
-            "Parce qu'elle souhaite changer de destination estivale.",
-            "Parce qu'elle trouve les chalets inconfortables."
+            "Parce qu’elle craint les grosses chaleurs de l’été.",
+            "Parce qu’elle pense que les Vaillancourt sont ennuyeux",
+            "Parce qu’elle souhaite changer de destination estivale.",
+            "Parce qu’elle trouve les chalets inconfortables."
         ],
         "answer": 2
     },
     {
         "id": 26,
         "testId": "156",
-        "text": "Montréal est une ville dynamique. Beaucoup de personnes sont attirées par les hautes technologies, le domaine des jeux vidéo, l'aéronautique ou l'industrie textile. Tous ces secteurs recrutent périodiquement. Les jeunes pensent qu'une participation au forum de recrutement, une formation professionnelle et plusieurs stages suffisent à décrocher un contrat. Or, les entreprises cherchent des personnes réellement motivées et passionnées. Un travail de bénévole dans des organisations humanitaires à l'étranger peut faire la différence. Alors il ne faut pas hésiter à mettre ces expériences caritatives sur son CV. Selon cet intervenant, comment est-il possible d'augmenter ses chances d'obtenir un emploi ?",
+        "text": "Montréal est une ville dynamique. Beaucoup de personnes sont attirées par les hautes technologies, le domaine des jeux vidéo, l’aéronautique ou l’industrie textile. Tous ces secteurs recrutent périodiquement. Les jeunes pensent qu’une participation au forum de recrutement, une formation professionnelle et plusieurs stages suffisent à décrocher un contrat. Or, les entreprises cherchent des personnes réellement motivées et passionnées. Un travail de bénévole dans des organisations humanitaires à l’étranger peut faire la différence. Alors il ne faut pas hésiter à mettre ces expériences caritatives sur son CV. Selon cet intervenant, comment est-il possible d’augmenter ses chances d’obtenir un emploi ?",
         "audio": "/mp3/156/26.mp3",
         "options": [
             "En collaborant à des activités de bénévolat.",
@@ -93,10 +92,10 @@
     {
         "id": 27,
         "testId": "156",
-        "text": "Monsieur Gosselin, pouvez-vous nous parler des jardins communautaires de Verdun ? Oui, ce sont des jardins mis à la disposition des chômeurs par la ville de Montréal. Donc les chômeurs retrouvent une activité par la même occasion ? Oui, et ils peuvent se nourrir des légumes cultivés. Qu'apprend-on sur les jardins communautaires ? Oui, nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal. Et nous avons des jardins de la ville de Montréal.",
+        "text": "Monsieur Gosselin, pouvez-vous nous parler des jardins communautaires de Verdun ? Oui, ce sont des jardins mis à la disposition des chômeurs par la ville de Montréal. Donc les chômeurs retrouvent une activité par la même occasion ? Oui, et ils peuvent se nourrir des légumes cultivés. Qu’apprend-on sur les jardins communautaires ?",
         "audio": "/mp3/156/27.mp3",
         "options": [
-            "Ils appartiennent à des demandeurs d'emploi.",
+            "Ils appartiennent à des demandeurs d’emploi.",
             "Ils sont cultivés par des gens sans emploi.",
             "Ils fournissent des légumes aux commerçants de la ville.",
             "Ils sont cultivés par des jardiniers professionnels."
@@ -106,25 +105,25 @@
     {
         "id": 28,
         "testId": "156",
-        "text": "Léonard reçoit une éducation relativement libre, comme l'était celle de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Evidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements.",
+        "text": "Léonard reçoit une éducation relativement libre, comme l’était celle de la plupart des villageois de son âge. On imagine Léonard aujourd’hui comme un puits de science, une sorte de grand sage qui très jeune aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n’est pas le cas. C’est un enfant qui s’est mis en quelque sorte à l’école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l’entoure, et il s’aperçoit vite que le sens de l’observation est peut-être le meilleur des enseignements. Qu’est-ce que Léonard a de particulier ?",
         "audio": "/mp3/156/28.mp3",
         "options": [
             "Sa mémoire exceptionnelle.",
             "Ses aptitudes au jardinage.",
             "Ses origines sociales modestes.",
-            "Son parcours d'apprentissage."
+            "Son parcours d’apprentissage."
         ],
         "answer": 3
     },
     {
         "id": 29,
         "testId": "156",
-        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence TGV avec un retard de 45 minutes. Nous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document à remplir et à retourner à l'adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train à titre de dédommagement. Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée. Assurez-vous de n'avoir rien oublié à vos places. Bonne fin de journée.",
+        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence dégirée avec un retard de 45 minutes. Nous vous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document avant de vous lire et à retourner à l’adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train à titre de dédommagement. Nous ne vous prions de bien vouloir vous excuser pour la gêne occasionnée. Rassurez-vous de n’avoir rien oublié à vos places. Bonne fin de journée. Quelle information le chef de train donne-t-il aux voyageurs ?",
         "audio": "/mp3/156/29.mp3",
         "options": [
             "Ils devront demander le remboursement de leur billet par écrit.",
             "Ils devront descendre en gare de Valence suite à une panne.",
-            "Ils devront patienter à leur place jusqu'à l'arrêt complet du train.",
+            "Ils devront patienter à leur place jusqu’à l’arrêt complet du train.",
             "Ils devront présenter leur billet à leur descente du train."
         ],
         "answer": 0
@@ -132,36 +131,36 @@
     {
         "id": 30,
         "testId": "156",
-        "text": "L'internaute n'a que l'embarras du choix aujourd'hui pour trouver une voiture de particulier à louer près de chez lui. Ziloc Auto se présente ainsi comme le numéro 1 du secteur, avec plus de 1000 locations par mois et 4000 propriétaires sur toute la France. Des propriétaires qu'il a parfois fallu rassurer, Marion Carette, cofondatrice du site ziloc.com. Spontanément un propriétaire de voiture, il a peur de louer sa voiture, mais on a vraiment beaucoup travaillé sur ces aspects là. Donc on a un contrat, on a un système d'assurance qui permet d'assurer vraiment le locataire pour la voiture qui lui appartient pas pendant la durée de la location. On a un système d'évaluation, un système de caution et tout ça fait finalement que le propriétaire arrive sur notre site en étant rassuré. Pourquoi ce site plaît-il aux propriétaires de voitures?",
+        "text": "L’internaute n’a que l’embarras du choix aujourd’hui pour trouver une voiture de particulier à louer près de chez lui. Ziloc Auto se présente ainsi comme le numéro 1 du secteur, avec plus de 1000 locations par mois et 4000 propriétaires sur toute la France. Des propriétaires qu’il a parfois fallu rassurer, Marion Carette, cofondatrice du site ziloc.com. Spontanément un propriétaire de voiture, il a peur de louer sa voiture, mais on a vraiment beaucoup travaillé sur ces aspects là. Donc on a un contrat, on a un système d’assurance qui permet d’assurer vraiment le locataire pour la voiture qui lui appartient pas pendant la durée de la location. On a un système d’évaluation, un système de caution et tout ça fait finalement que le propriétaire arrive sur notre site en étant rassuré. Pourquoi ce site plaît-il aux propriétaires de voitures?",
         "audio": "/mp3/156/30.mp3",
         "options": [
             "Il contrôle rigoureusement toutes les formalités de garantie.",
             "Il organise préalablement une rencontre avec les locataires,",
             "Il propose une première révision gratuite des véhicules.",
-            "Il vérifie systématiquement l'identité de chacun de ses clients."
+            "Il vérifie systématiquement l’identité de chacun de ses clients."
         ],
         "answer": 0
     },
     {
         "id": 31,
         "testId": "156",
-        "text": "Bonjour à tous, je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que portez-vous pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous. Votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
+        "text": "Bonjour à tous, je n’ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que portez-vous pour un premier rendez-vous, pour un entretien d’embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l’être et le paraître. Mais faites l’expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous. Votre caractère en sera peut-être même transformé. Quelle est l’idée avancée par la journaliste?",
         "audio": "/mp3/156/31.mp3",
         "options": [
-            "Aujourd'hui, être à la mode est une préoccupation superficielle.",
+            "Aujourd’hui, être à la mode est une préoccupation superficielle.",
             "Il faut porter des vêtements adaptés à toutes circonstances",
-            "La société actuelle donne trop de place à l'apparence.",
-            "La tenue vestimentaire influence l'état psychologique."
+            "La société actuelle donne trop de place à l’apparence.",
+            "La tenue vestimentaire influence l’état psychologique."
         ],
         "answer": 3
     },
     {
         "id": 32,
         "testId": "156",
-        "text": "Alors même les bébés vont au théâtre... Et oui, dès les premiers jours de leur vie, c'est possible. Alors je dois avouer Brigitte que j'étais très dubitative sur la nécessité d'emmener son bébé au théâtre. La vie pour lui c'est un spectacle permanent, donc il est à la fois le spectateur et l'acteur. Alors pourquoi le traîner dans une salle de spectacle? Et puis j'ai découvert cette Biennale Acta, où des artistes venus de Finlande, d'Espagne, d'Allemagne, d'Italie, de France proposent des temps de représentation très troublants, où le bébé, assis sur les genoux des parents ou des assistantes maternelles, partage vraiment, à égalité avec l'adulte, des émotions liées à des questions métaphysiques. Et oui. En quoi la Biennale Acta est-elle originale?",
+        "text": "Alors même les bébés vont au théâtre... Et oui, dès les premiers jours de leur vie, c’est possible. Alors je dois avouer Brigitte que j’étais très dubitative sur la nécessité d’emmener son bébé au théâtre. La vie pour lui c’est un spectacle permanent, donc il est à la fois le spectateur et l’acteur. Alors pourquoi le traîner dans une salle de spectacle? Et puis j’ai découvert cette Biennale Acta, où des artistes venus de Finlande, d’Espagne, d’Allemagne, d’Italie, de France proposent des temps de représentation très troublants, où le bébé, assis sur les genoux des parents ou des assistantes maternelles, partage vraiment, à égalité avec l’adulte, des émotions liées à des questions métaphysiques. Et oui. En quoi la Biennale Acta est-elle originale?",
         "audio": "/mp3/156/32.mp3",
         "options": [
-            "Elle donne l'occasion de découvrir de jeunes talents.",
+            "Elle donne l’occasion de découvrir de jeunes talents.",
             "Elle offre une expérience à un public de tous âges.",
             "Elle permet de jouer sur scène avec son enfant.",
             "Elle présente la même pièce en différentes langues."
@@ -171,33 +170,33 @@
     {
         "id": 33,
         "testId": "156",
-        "text": "C'est une nouvelle façon de jouer à la poupée, un jeu en réseau totalement virtuel mais qui peut coûter très cher. A 11 ans et demi, Clémentine en a été une fervente adepte. Tu as un pseudo, tu crées ta poupée, tu as une poupée et on a envie de monter des niveaux, on a envie d'être connus sur le jeu. Il faut acheter des choses avec de l'argent et tous les jours, si tu veux avoir plus d'argent, il faut que tu envoies un SMS. Les prélèvements passent inaperçus au début parce qu'ils se font par petites sommes de 4 à 9 euros et l'addiction au jeu s'installe très vite. Qu’est-ce qui ressort de ce reportage consacré un jeu en réseaux?",
+        "text": "C’est une nouvelle façon de jouer à la poupée, un jeu en réseau totalement virtuel mais qui peut coûter très cher. A 11 ans et demi, Clémentine en a été une fervente adepte. Tu as un pseudo, tu crées ta poupée, tu as une poupée et on a envie de monter des niveaux, on a envie d’être connus sur le jeu. Il faut acheter des choses avec de l’argent et tous les jours, si tu veux avoir plus d’argent, il faut que tu envoies un SMS. Les prélèvements passent inaperçus au début parce qu’ils se font par petites sommes de 4 à 9 euros et l’addiction au jeu s’installe très vite. Qu’est-ce qui ressort de ce reportage consacré un jeu en réseaux?",
         "audio": "/mp3/156/33.mp3",
         "options": [
-            "L'assujettissement insidieux des mineurs.",
-            "L'insuffisance d'information des parents.",
+            "L’assujettissement insidieux des mineurs.",
+            "L’insuffisance d’information des parents.",
             "La fatigue occasionnée chez les enfants.",
-            "Le manque d'intérêt éducatif de l'activité."
+            "Le manque d’intérêt éducatif de l’activité."
         ],
         "answer": 0
     },
     {
         "id": 34,
         "testId": "156",
-        "text": "Monsieur, pouvez-vous nous parler de votre nouveau dispositif de prêts à la bibliothèque et vidéothèque municipales? Bien entendu. Il m'a été demandé de rendre plus performant le service d'emprunt de ces deux départements que compte la mairie de votre ville. Et que proposez-vous? Au lieu de passer au guichet de prêts munis de vos livres ou vidéos en présentant votre carte d'abonné habituelle manuscrite et cartonnée, vous montrerez cette carte magnétique, format carte de crédit, qui identifie automatiquement l'emprunteur. Quels en sont les avantages? Réduire l'attente au guichet et la facilité de rangement. Pensez-vous que d'autres espaces municipaux seront informatisés de la sorte? Bien sûr. Si cela s'avère efficace, il sera étendu aux abonnés des clubs de sport de la ville qui veulent emprunter du matériel, tels que patins à glace ou vélos pour les enfants. Attendons les mois à venir pour en juger. Quel changement annonce l'homme interviewé?",
+        "text": "Monsieur, pouvez-vous nous parler de votre nouveau dispositif de prêts à la bibliothèque et vidéothèque municipales? Bien entendu. Il m’a été demandé de rendre plus performant le service d’emprunt de ces deux départements que compte la mairie de votre ville. Et que proposez-vous? Au lieu de passer au guichet de prêts munis de vos livres ou vidéos en présentant votre carte d’abonné habituelle manuscrite et cartonnée, vous montrerez cette carte magnétique, format carte de crédit, qui identifie automatiquement l’emprunteur. Quels en sont les avantages? Réduire l’attente au guichet et la facilité de rangement. Pensez-vous que d’autres espaces municipaux seront informatisés de la sorte? Bien sûr. Si cela s’avère efficace, il sera étendu aux abonnés des clubs de sport de la ville qui veulent emprunter du matériel, tels que patins à glace ou vélos pour les enfants. Attendons les mois à venir pour en juger. Quel changement annonce l’homme interviewé?",
         "audio": "/mp3/156/34.mp3",
         "options": [
             "Un accès plus large aux fonds de la bibliothèque municipale.",
-            "Un contrat permettant de combiner différents types d'abonnements.",
-            "Un contrôle renforcé de l'identité des usagers des services de la ville.",
-            "Une modernisation des procédures d'emprunt des documents."
+            "Un contrat permettant de combiner différents types d’abonnements.",
+            "Un contrôle renforcé de l’identité des usagers des services de la ville.",
+            "Une modernisation des procédures d’emprunt des documents."
         ],
         "answer": 3
     },
     {
         "id": 35,
         "testId": "156",
-        "text": "Le Zoom de France Info consacré ce matin aux dérives de l'industrie pharmaceutique ou comment inventer de nouvelles maladies pour recycler d'anciennes molécules. Le mal de dos est devenu une spondylarthrite ankylosante. Une période de tristesse cache forcément une dépression. Aujourd'hui, on a l'impression, Philippe Évene, que tout est maladie. Oui, ça fait maintenant 15 ans que ça dure. Vous savez, quand une industrie comme celle-là, qui a beaucoup apporté, ne trouve plus de médicaments, alors elle invente des maladies pour recycler les molécules antérieures et trouver de nouveaux créneaux d'exploitation. Ce que vous venez de raconter est absolument scandaleux. Un, la spondylarthrite ankylosante est une maladie exceptionnelle. Et deuxièmement, malheureusement, on n'a aucun moyen de la guérir. Quelle est l'accusation portée contre l'industrie pharmaceutique?",
+        "text": "Le Zoom de France Info consacré ce matin aux dérives de l’industrie pharmaceutique ou comment inventer de nouvelles maladies pour recycler d’anciennes molécules. Le mal de dos est devenu une spondylarthrite ankylosante. Une période de tristesse cache forcément une dépression. Aujourd’hui, on a l’impression, Philippe Évene, que tout est maladie. Oui, ça fait maintenant 15 ans que ça dure. Vous savez, quand une industrie comme celle-là, qui a beaucoup apporté, ne trouve plus de médicaments, alors elle invente des maladies pour recycler les molécules antérieures et trouver de nouveaux créneaux d’exploitation. Ce que vous venez de raconter est absolument scandaleux. Un, la spondylarthrite ankylosante est une maladie exceptionnelle. Et deuxièmement, malheureusement, on n’a aucun moyen de la guérir. Quelle est l’accusation portée contre l’industrie pharmaceutique?",
         "audio": "/mp3/156/35.mp3",
         "options": [
             "Elle commercialise des produits dangereux pour la santé.",
@@ -210,20 +209,20 @@
     {
         "id": 36,
         "testId": "156",
-        "text": "En fait, sur tous les continents, et même en Europe, toutes les villes grandissent, sans exception, et cela va complètement changer notre univers. Écoutez ce qu'en dit mon témoin du futur, l'urbaniste et architecte Jacques Ferrier. Là, on est dans des villes qui ont plusieurs dizaines de kilomètres, voire centaines de kilomètres d'ampleur, des dizaines de millions d'habitants. Donc c'est clair, on ne sortira pas. On ne sortira pas de ce monde-là. On va vivre dans un monde urbain. Ce monde urbain, ce n'est pas une fatalité, que ce soit un monde repoussant, que ce soit un monde inquiétant, ça peut être au contraire un nouveau type de paysage. Mais pour ça, il faut changer la façon de voir la ville. Il faut arrêter de dessiner la ville comme sur du papier quadrillé. Il faut dessiner la ville de façon autre, et de façon beaucoup plus sensible. Quelle est l'opinion de cet homme au sujet des villes du futur?",
+        "text": "En fait, sur tous les continents, et même en Europe, toutes les villes grandissent, sans exception, et cela va complètement changer notre univers. Écoutez ce qu’en dit mon témoin du futur, l’urbaniste et architecte Jacques Ferrier. Là, on est dans des villes qui ont plusieurs dizaines de kilomètres, voire centaines de kilomètres d’ampleur, des dizaines de millions d’habitants. Donc c’est clair, on ne sortira pas. On ne sortira pas de ce monde-là. On va vivre dans un monde urbain. Ce monde urbain, ce n’est pas une fatalité, que ce soit un monde repoussant, que ce soit un monde inquiétant, ça peut être au contraire un nouveau type de paysage. Mais pour ça, il faut changer la façon de voir la ville. Il faut arrêter de dessiner la ville comme sur du papier quadrillé. Il faut dessiner la ville de façon autre, et de façon beaucoup plus sensible. Quelle est l’opinion de cet homme au sujet des villes du futur?",
         "audio": "/mp3/156/36.mp3",
         "options": [
             "Leur aménagement doit suivre un modèle vertical.",
-            "Leur conception doit s'affranchir des modes du passé.",
-            "Leur développement est une menace pour l'environnement.",
-            "Leur expansion est loin d'être un phénomène inéluctable."
+            "Leur conception doit s’affranchir des modes du passé.",
+            "Leur développement est une menace pour l’environnement.",
+            "Leur expansion est loin d’être un phénomène inéluctable."
         ],
         "answer": 1
     },
     {
         "id": 37,
         "testId": "156",
-        "text": "Thomas Le Pelletier d'abord pour commencer, vous signez donc pour le magazine Science humaine un article qui s'intitule faut-il encore manger de la viande et vous décrivez et vous écrivez qu'il est nécessaire de diminuer fortement notre consommation sans pour autant devenir végétarien. C'est la condition animale qui vous intéresse principalement sur cette question? Oui c'est une question d'éthique animale. Moi je pense qu'il y a une grande évolution de la société. La notion de cruauté envers les animaux a de plus en plus de mal à être acceptée. Or on a assisté depuis les 50 dernières années à une mise en place d'une industrie de la viande qui fait terriblement souffrir les animaux. Sur quoi s'appuient les recommandations de Thomas Le Pelletier?",
+        "text": "Thomas Le Pelletier d’abord pour commencer, vous signez donc pour le magazine Science humaine un article qui s’intitule faut-il encore manger de la viande et vous décrivez et vous écrivez qu’il est nécessaire de diminuer fortement notre consommation sans pour autant devenir végétarien. C’est la condition animale qui vous intéresse principalement sur cette question? Oui c’est une question d’éthique animale. Moi je pense qu’il y a une grande évolution de la société. La notion de cruauté envers les animaux a de plus en plus de mal à être acceptée. Or on a assisté depuis les 50 dernières années à une mise en place d’une industrie de la viande qui fait terriblement souffrir les animaux. Sur quoi s’appuient les recommandations de Thomas Le Pelletier?",
         "audio": "/mp3/156/37.mp3",
         "options": [
             "Sur des considérations morales.",
@@ -236,7 +235,7 @@
     {
         "id": 38,
         "testId": "156",
-        "text": "Les faits divers sont bien des faits, des événements, des choses qui arrivent, mais pourquoi diables(why on earth) sont-ils divers, ces faits? On peut les trouver monotones, toujours des meurtres, des accidents, des catastrophes, des séquestrations, et j'en passe. Des images chocs, en tout cas, de ce qui ne va pas dans notre société. En effet, alors qu'il arrive cent mille choses heureuses et agréables, l'information s'attache à l'horrible et à l'imprévu. Les faits divers racontent l'horreur qui atteint quelques individus, mais qui masquent les maladies d'une société tout entière. À leur donner tant d'importance sans les commenter, les médias contournent gaillardement les problèmes majeurs collectifs qui, eux, ne sont pas divers. À se demander si ces catastrophes si diverses ne sont pas mises en avant sans qu'on n'en tire aucune leçon, pour faire diversion, non pas pour divertir au sens de récréer, mais pour détourner de ce qui est plus général et plus important, les problèmes qui concernent des millions d'humains, mais qui paraissent en effet plus lointains. Selon le chroniqueur, comment les médias utilisent-ils les faits divers?",
+        "text": "Les faits divers sont bien des faits, des événements, des choses qui arrivent, mais pourquoi diables sont-ils divers, ces faits? On peut les trouver monotones, toujours des meurtres, des accidents, des catastrophes, des séquestrations, et j’en passe. Des images chocs, en tout cas, de ce qui ne va pas dans notre société. En effet, alors qu’il arrive cent mille choses heureuses et agréables, l’information s’attache à l’horrible et à l’imprévu. Les faits divers racontent l’horreur qui atteint quelques individus, mais qui masquent les maladies d’une société tout entière. À leur donner tant d’importance sans les commenter, les médias contournent gaillardement les problèmes majeurs collectifs qui, eux, ne sont pas divers. À se demander si ces catastrophes si diverses ne sont pas mises en avant sans qu’on n’en tire aucune leçon, pour faire diversion, non pas pour divertir au sens de récréer, mais pour détourner de ce qui est plus général et plus important, les problèmes qui concernent des millions d’humains, mais qui paraissent en effet plus lointains. Selon le chroniqueur, comment les médias utilisent-ils les faits divers?",
         "audio": "/mp3/156/38.mp3",
         "options": [
             "Comme un prétexte pour éviter de traiter les questions significatives.",
@@ -249,13 +248,13 @@
     {
         "id": 39,
         "testId": "156",
-        "text": "On a voulu faire une salle qui s'appelle « Monnet, peintre des impressions » pour vraiment mettre en valeur l'aspect très original de Monnet parmi les impressionnistes. Dans la salle précédente on a mis ses premiers paysages qui sont les paysages d'Argenteuil. On y voit les paysages les plus classiques du peintre qui va devenir le chef de file de l'impressionnisme. Mais dans la salle « Monnet, peintre des impressions » on voulait vraiment mettre en valeur ce qu'était que peindre des impressions. Donc évidemment on a « Impression soleil levant » qui a le titre qu'il porte et qui met en valeur le côté impressionniste du paysage. C'est une vue du Havre, mais on ne peut presque plus reconnaître le Havre tant ce paysage montre ce qu'est une atmosphère lumineuse finalement. Cette atmosphère de crépuscule qui est mise en valeur par ces nouvelles couleurs et ces nouvelles petites touches de peinture. Comment l’exposition sur Monnet a-t-elle été conçu?",
+        "text": "On a voulu faire une salle qui s’appelle « Monnet, peintre des impressions » pour vraiment mettre en valeur l’aspect très original de Monnet parmi les impressionnistes. Dans la salle précédente on a mis ses premiers paysages qui sont les paysages d’Argenteuil. On y voit les paysages les plus classiques du peintre qui va devenir le chef de file de l’impressionnisme. Mais dans la salle « Monnet, peintre des impressions » on voulait vraiment mettre en valeur ce qu’était que peindre des impressions. Donc évidemment on a « Impression soleil levant » qui a le titre qu’il porte et qui met en valeur le côté impressionniste du paysage. C’est une vue du Havre, mais on ne peut presque plus reconnaître le Havre tant ce paysage montre ce qu’est une atmosphère lumineuse finalement. Cette atmosphère de crépuscule qui est mise en valeur par ces nouvelles couleurs et ces nouvelles petites touches de peinture. Comment l’exposition sur Monnet a-t-elle été conçu?",
         "audio": "/mp3/156/39.mp3",
         "options": [
             "En regroupant les œuvres selon un ordre chronologique.",
             "En regroupant les tableaux dans une même salle.",
-            "En regroupant les toiles autour d'un même sujet.",
-            "En regroupant ses créations avec celles d'autres artistes."
+            "En regroupant les toiles autour d’un même sujet.",
+            "En regroupant ses créations avec celles d’autres artistes."
         ],
         "answer": 2
     }

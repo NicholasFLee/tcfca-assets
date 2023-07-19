@@ -1,38 +1,37 @@
-[
-    {
+[{
         "id": 20,
         "testId": "152",
-        "text": "En période de grande bousculade dans les magasins pour les achats de fin d'année, si la perspective des difficultés de circulation ou de stationnement vous angoisse, voici une initiative qui va peut-être vous intéresser. La Ville d'Angers a mis en place un service original pour que les particuliers puissent faire leur course de Noël sans subir le stress des transports en commun. De 14h à 19h, un chauffeur vient vous chercher à votre domicile et vous conduit en centre-ville à proximité des magasins dans lesquels vous souhaitez vous rendre. Ce service est gratuit, à condition d'avoir de nombreux achats à effectuer.",
+        "text": "En période de grande bousculade dans les magasins pour les achats de fin d’année, si la perspective des difficultés de circulation ou de stationnement vous angoisse, voici une initiative qui va peut-être vous intéresser. La Ville d’Angers a mis en place un service original pour que les particuliers puissent faire leur course de Noël sans subir le stress des transports en commun. De 14h à 19h, un chauffeur vient vous chercher à votre domicile et vous conduit en centre-ville à proximité des magasins dans lesquels vous souhaitez vous rendre. Ce service est gratuit, à condition d’avoir de nombreux achats à effectuer. Qu’est-ce qui caractérise ce service.",
         "audio": "/mp3/152/20.mp3",
         "options": [
             "Il associe tourisme et shopping.",
             "Il est accessible la journée entière.",
             "Il regroupe les personnes âgées.",
-            "Il s'adresse aux acheteurs à Noël."
+            "Il s’adresse aux acheteurs à Noël."
         ],
         "answer": 3
     },
     {
         "id": 21,
         "testId": "152",
-        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l'instant, il est obligé d'affronter les écologistes et même le ministère des Transports. Que se passe-t-il dans la région? Tu as dit que tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région? Oui, je l'ai fait. Et tu as fait un travail de gestion de la région?",
+        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l’instant, il est obligé d’affronter les écologistes et même le ministère des Transports. Que se passe-t-il dans la région?",
         "audio": "/mp3/152/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
-            "Les écologistes refusent la construction d'une autoroute.",
+            "Les écologistes refusent la construction d’une autoroute.",
             "Le ministère des Transports veut faire construire une autoroute",
-            "Un maire propose d'ouvrir une réserve naturelle."
+            "Un maire propose d’ouvrir une réserve naturelle."
         ],
         "answer": 1
     },
     {
         "id": 22,
         "testId": "152",
-        "text": "Cette nouvelle façon de faire l'info immédiate par rapport à celle que vous faisiez à l'époque dans l'envoyé spécial vous fascine-t-elle ou vous fait-elle peur ? Elle m'inquiète. Elle m'inquiète parce que j'ai l'impression qu'on a tendance à oublier le rôle du journaliste. Nous, vous, nous sommes là pour trier l'information, pour savoir ce qui est vrai de ce qui ne l'est pas. Aujourd'hui avec la valence d'informations que nous avons, en particulier sur les réseaux sociaux, on ne sait plus ce qui est vrai, ce qui n'est pas vrai. Les rumeurs les plus folles courent et ensuite on met des jours et des jours à rattraper une information qui était fausse au départ. Je pense que le journaliste, les journalistes en général, devraient être beaucoup plus présents dans cette course à l'information et faire attention, c'est-à-dire faire leur métier. Que critique ce journaliste dans la pratique actuelle de son métier ?",
+        "text": "Cette nouvelle façon de faire l’info immédiate par rapport à celle que vous faisiez à l’époque dans l’envoyé spécial vous fascine-t-elle ou vous fait-elle peur ? Elle m’inquiète. Elle m’inquiète parce que j’ai l’impression qu’on a tendance à oublier le rôle du journaliste. Nous, vous, nous sommes là pour trier l’information, pour savoir ce qui est vrai de ce qui ne l’est pas. Aujourd’hui avec la valence d’informations que nous avons, en particulier sur les réseaux sociaux, on ne sait plus ce qui est vrai, ce qui n’est pas vrai. Les rumeurs les plus folles courent et ensuite on met des jours et des jours à rattraper une information qui était fausse au départ. Je pense que le journaliste, les journalistes en général, devraient être beaucoup plus présents dans cette course à l’information et faire attention, c’est-à-dire faire leur métier. Que critique ce journaliste dans la pratique actuelle de son métier ?",
         "audio": "/mp3/152/22.mp3",
         "options": [
             "La formation professionnelle des jeunes.",
-            "L'absence de vérification des sources.",
+            "L’absence de vérification des sources.",
             "Le recours systématique aux technologies.",
             "Les mensonges de certains collègues."
         ],
@@ -41,38 +40,38 @@
     {
         "id": 23,
         "testId": "152",
-        "text": "Docteur, je ne sais pas ce que j'ai. J'ai très mal au ventre et il est tout gonflé. Je me sens épuisée. Pourtant je rentre de vacances et jusque là je me sentais en forme. Allongez-vous, je vais prendre votre attention. Bon, tout est normal. Je pense que c'est juste un problème de digestion, peut-être des repas trop lourds. Alors ce n'est pas grave docteur, je peux manger tout ce que je veux ? Il faut faire attention pendant quelques jours. Il va falloir maigrir un peu. Pourquoi la patiente consulte-t-elle le médecin ?",
+        "text": "Docteur, je ne sais pas ce que j’ai. J’ai très mal au ventre et il est tout gonflé. Je me sens épuisée. Pourtant je rentre de vacances et jusque là je me sentais en forme. Allongez-vous, je vais prendre votre attention. Bon, tout est normal. Je pense que c’est juste un problème de digestion, peut-être des repas trop lourds. Alors ce n’est pas grave docteur, je peux manger tout ce que je veux ? Il faut faire attention pendant quelques jours. Il va falloir maigrir un peu. Pourquoi la patiente consulte-t-elle le médecin ?",
         "audio": "/mp3/152/23.mp3",
         "options": [
-            "Parce qu'elle a toujours très faim.",
-            "Parce qu'elle est surmenée et stressée.",
-            "Parce qu'elle souffre et qu'elle est fatiguée.",
-            "Parce qu'elle veut perdre du poids."
+            "Parce qu’elle a toujours très faim.",
+            "Parce qu’elle est surmenée et stressée.",
+            "Parce qu’elle souffre et qu’elle est fatiguée.",
+            "Parce qu’elle veut perdre du poids."
         ],
         "answer": 2
     },
     {
         "id": 24,
         "testId": "152",
-        "text": "Près de la moitié des meilleurs longs-métrages canadiens produits cette année proviennent du Québec. La liste a été établie par 10 experts nationaux, parmi lesquels on peut citer la productrice Nicole Robert, seule personne représentant le Québec. Ce choix permet de mettre en vedette un groupe de nouveaux jeunes réalisateurs passionnants. Ils ont fait un travail audacieux. Des projections auront lieu dans de nombreuses salles à travers tout le pays, du 14 au 21 janvier, en présence de certains d'entre eux.",
+        "text": "Près de la moitié des meilleurs longs-métrages canadiens produits cette année proviennent du Québec. La liste a été établie par 10 experts nationaux, parmi lesquels on peut citer la productrice Nicole Robert, seule personne représentant le Québec. Ce choix permet de mettre en vedette un groupe de nouveaux jeunes réalisateurs passionnants. Ils ont fait un travail audacieux. Des projections auront lieu dans de nombreuses salles à travers tout le pays, du 14 au 21 janvier, en présence de certains d’entre eux. De quoi parle cette personne ?",
         "audio": "/mp3/152/24.mp3",
         "options": [
-            "D'une collection de haute-couture.",
-            "D'une exposition de peinture.",
-            "D'une sélection de films.",
-            "D'une tournée de chanteurs."
+            "D’une collection de haute-couture.",
+            "D’une exposition de peinture.",
+            "D’une sélection de films.",
+            "D’une tournée de chanteurs."
         ],
         "answer": 2
     },
     {
         "id": 25,
         "testId": "152",
-        "text": "Psychologue, vous animer une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions? J'ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l'image de quelqu'un qui va plus vite que les autres. Pour quelle raison ce psychologue a-t-il interrompu ces consultations?",
+        "text": "Psychologue, vous animer une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions? J’ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l’image de quelqu’un qui va plus vite que les autres. Pour quelle raison ce psychologue a-t-il interrompu ces consultations?",
         "audio": "/mp3/152/25.mp3",
         "options": [
             "Il a répondu à une demande de ses patients.",
             "Il consacre son temps à son nouveau métier.",
-            "Il s'est remis en question suite à un échec.",
+            "Il s’est remis en question suite à un échec.",
             "Il veut éviter toute publicité personnelle."
         ],
         "answer": 3
@@ -80,12 +79,12 @@
     {
         "id": 26,
         "testId": "152",
-        "text": "Quel rapport aviez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse. Comment se comportait-il avec vous face au monde extérieur ? Devant la famille, les clients, de la gêne. Presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c'était seulement travailler de ses mains. Quelle relation le père entretenait-il avec sa fille ? Sous-titrage ST'501",
+        "text": "Quel rapport aviez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n’y arrive pas. Il s’énervait de me voir à longueur de journée dans les livres. Je crois qu’il pensait que j’étais malheureuse. Comment se comportait-il avec vous face au monde extérieur ? Devant la famille, les clients, de la gêne. Presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu’on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j’apprenais bien, jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c’était seulement travailler de ses mains. Quelle relation le père entretenait-il avec sa fille ?",
         "audio": "/mp3/152/26.mp3",
         "options": [
             "Il avait du mal à accepter ses choix.",
             "Il essayait souvent de rivaliser avec elle.",
-            "Il était attentif à ses centres d'intérêt.",
+            "Il était attentif à ses centres d’intérêt.",
             "Il lui interdisait les activités intellectuelles."
         ],
         "answer": 0
@@ -93,12 +92,12 @@
     {
         "id": 27,
         "testId": "152",
-        "text": "Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l'image est-elle plus importante que le texte ? Il y a des albums sans texte qui sont très forts. La Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l'image tout en laissant l'auteur et l'illustrateur s'exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu'ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d'œuvre. Quel est le point de vue de la libraire interrogée ? C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire. C'est un point de vue de la libraire.",
+        "text": "Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l’image est-elle plus importante que le texte ? Il y a des albums sans texte qui sont très forts. La Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l’image tout en laissant l’auteur et l’illustrateur s’exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu’ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d’œuvre. Quel est le point de vue de la libraire interrogée ?",
         "audio": "/mp3/152/27.mp3",
         "options": [
-            "La création d'un livre pour enfant de qualité est un travail d'équipe.",
+            "La création d’un livre pour enfant de qualité est un travail d’équipe.",
             "Les enfants préfèrent les livres illustrés en trois dimensions.",
-            "Pour faire un bon livre, l'auteur doit réaliser lui-même les illustrations.",
+            "Pour faire un bon livre, l’auteur doit réaliser lui-même les illustrations.",
             "Un livre pour enfant doit comporter le moins de texte possible."
         ],
         "answer": 0
@@ -106,7 +105,7 @@
     {
         "id": 28,
         "testId": "152",
-        "text": "Si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça. En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voir que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ?",
+        "text": "Si les enfants ne mangent pas assez de fruits et légumes, c’est peut-être parce qu’ils n’aiment pas ça. En fait, les enfants mangent principalement par plaisir et c’est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d’accord pour dire que c’est bon à la santé, que c’est nécessaire, que c’est souvent contraignant à préparer, que cela ne remplit pas l’estomac, voir que ce n’est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ?",
         "audio": "/mp3/152/28.mp3",
         "options": [
             "Des besoins énergétiques des jeunes.",
@@ -119,7 +118,7 @@
     {
         "id": 29,
         "testId": "152",
-        "text": "Alors Patrick, ce stage d'informatique à la tulipe? Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu ça. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé. Eh bien bravo! Pour prendre le bon air, c'est réussi. Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde. Qu'est-ce que Patrick était le seul à vouloir faire? Merci d'avoir regardé cette vidéo.",
+        "text": "Alors Patrick, ce stage d’informatique à la tulipe? Oh, ne m’en parle pas. Horrible! Je suis ravi d’être au boulot. D’abord, il a plu toute la semaine, avec une tempête, t’aurais vu ça. On pensait pouvoir faire des balades en fin de journée. Il n’y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D’autres ont passé leur temps devant la télé. Eh bien bravo! Pour prendre le bon air, c’est réussi. Et je ne te décris pas le trou que c’était. Rien à voir à des kilomètres à la ronde. Qu’est-ce que Patrick était le seul à vouloir faire?",
         "audio": "/mp3/152/29.mp3",
         "options": [
             "Jouer aux cartes.",
@@ -132,25 +131,25 @@
     {
         "id": 30,
         "testId": "152",
-        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un bugde ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédier à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont(such as) les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individue. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié.\nq: Que dénonce cette journaliste?",
+        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un bugde ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédier à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individue. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
         "audio": "/mp3/152/30.mp3",
         "options": [
-            "L'absence de formation sur l'élaboration d'un budget.",
+            "L’absence de formation sur l’élaboration d’un budget.",
             "Le désintérêt des jeunes pour les questions financières.",
-            "Le manque de cours d'économie à l'université.",
-            "Le peu d'informations des banques sur les crédits."
+            "Le manque de cours d’économie à l’université.",
+            "Le peu d’informations des banques sur les crédits."
         ],
         "answer": 0
     },
     {
         "id": 31,
         "testId": "152",
-        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais.\nq: Quelle est l’hypothèse de la police sur les oeuvres volés.",
+        "text": "C’est l’un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s’élève à plusieurs centaines de millions d’euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l’acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. Quelle est l’hypothèse de la police sur les oeuvres volés.",
         "audio": "/mp3/152/31.mp3",
         "options": [
             "Elles ont été revendues.",
             "Elles seront abandonnées.",
-            "Elles sont stockées à l'étranger.",
+            "Elles sont stockées à l’étranger.",
             "Elles vont être falsifiées."
         ],
         "answer": 0
@@ -158,85 +157,85 @@
     {
         "id": 32,
         "testId": "152",
-        "text": "La communication est l'une des plus grandes révolutions de notre époque moderne. Elle a bouleversé nos existences et la société. Ainsi parle Dominique Volton, sociologue très médiatique. Dominique Volton a passé sa vie à valoriser une conception originale de la communication. Il s'est penché sur les mouvements de libération de la femme, les syndicats, les médias, la politique. Une question obsède Dominique Volton. Comment réussir à cohabiter avec l'autre? Et un paradoxe l'étonne. Malgré les techniques de communication de plus en plus performantes, les hommes, les sociétés ou les cultures ne se comprennent pas mieux qu'il y a 2000 ans.\nq: Comment ce sociologue étudie-t-il la communication?",
+        "text": "La communication est l’une des plus grandes révolutions de notre époque moderne. Elle a bouleversé nos existences et la société. Ainsi parle Dominique Volton, sociologue très médiatique. Dominique Volton a passé sa vie à valoriser une conception originale de la communication. Il s’est penché sur les mouvements de libération de la femme, les syndicats, les médias, la politique. Une question obsède Dominique Volton. Comment réussir à cohabiter avec l’autre? Et un paradoxe l’étonne. Malgré les techniques de communication de plus en plus performantes, les hommes, les sociétés ou les cultures ne se comprennent pas mieux qu’il y a 2000 ans. Comment ce sociologue étudie-t-il la communication?",
         "audio": "/mp3/152/32.mp3",
         "options": [
             "En écoutant les gens dans la sphère privée.",
             "En employant des technologies innovantes.",
             "En interrogeant des personnes cultivées.",
-            "En observant divers types d'interlocuteurs."
+            "En observant divers types d’interlocuteurs."
         ],
         "answer": 3
     },
     {
         "id": 33,
         "testId": "152",
-        "text": "Il faut passer devant plusieurs tableaux de la collection permanente avant d'arriver à un seuil métallique qui marque l'entrée dans un espace entièrement vide. Il s'agit de l'exposition VIDE, une rétrospective présentée actuellement à Paris. 50 ans auparavant, un artiste lessivait pour la première fois une salle de musée. C'était en 1958. Yves Klein, célèbre notamment pour ses monochromes, avait alors présenté une salle de musée déserte. L'an dernier, le VIDE, en art contemporain, a donc soufflé ses 50 bougies(celebrated its 50th anniversary), l'occasion de faire le point sur cette histoire particulière. Le musée parisien consacre donc une rétrospective aux artistes qui depuis un demi-siècle ont proposé une autre approche du lieu d'exposition. \nq: Sur quels registres cette rétrospective joue-t-elle?",
+        "text": "Il faut passer devant plusieurs tableaux de la collection permanente avant d’arriver à un seuil métallique qui marque l’entrée dans un espace entièrement vide. Il s’agit de l’exposition VIDE, une rétrospective présentée actuellement à Paris. 50 ans auparavant, un artiste lessivait pour la première fois une salle de musée. C’était en 1958. Yves Klein, célèbre notamment pour ses monochromes, avait alors présenté une salle de musée déserte. L’an dernier, le VIDE, en art contemporain, a donc soufflé ses 50 bougies, l’occasion de faire le point sur cette histoire particulière. Le musée parisien consacre donc une rétrospective aux artistes qui depuis un demi-siècle ont proposé une autre approche du lieu d’exposition. Sur quels registres cette rétrospective joue-t-elle?",
         "audio": "/mp3/152/33.mp3",
         "options": [
-            "L'humour: elle met en scène des produits ménagers.",
+            "L’humour: elle met en scène des produits ménagers.",
             "La provocation: elle présente des tableaux scandaleux.",
             "La répétition: elle montre des toiles absolument identiques.",
-            "Le paradoxe: elle expose une absence d'ceuvres."
+            "Le paradoxe: elle expose une absence d’œuvres."
         ],
         "answer": 3
     },
     {
         "id": 34,
         "testId": "152",
-        "text": "Une étude menée dans dix pays montre que les Français ont mauvaise opinion de leurs chefs d'entreprise. Bernard Ramanansoha, vous êtes directeur d'une école de commerce, qu'en pensez-vous? C'est vrai que les dirigeants français ressortent moins bien notés. Lorsqu'il s'agit d'organiser le travail de leur équipe ou d'accompagner leurs collaborateurs dans leur évolution professionnelle, ils sont 20 points en dessous des dirigeants internationaux. Maintenant, est-ce que cette étude prouve que les chefs d'entreprise sont moins bons ou est-ce que ça prouve que les gens qui ont répondu au questionnaire, quand ils sont français, sont capables d'être plus critiques que leurs homologues européens? Car encore une fois, il s'agit de perceptions qu'ont les salariés de leur patron. Quelle est la position de ce spécialiste par rapport à cette étude?",
+        "text": "Une étude menée dans dix pays montre que les Français ont mauvaise opinion de leurs chefs d’entreprise. Bernard Ramanansoha, vous êtes directeur d’une école de commerce, qu’en pensez-vous? C’est vrai que les dirigeants français ressortent moins bien notés. Lorsqu’il s’agit d’organiser le travail de leur équipe ou d’accompagner leurs collaborateurs dans leur évolution professionnelle, ils sont 20 points en dessous des dirigeants internationaux. Maintenant, est-ce que cette étude prouve que les chefs d’entreprise sont moins bons ou est-ce que ça prouve que les gens qui ont répondu au questionnaire, quand ils sont français, sont capables d’être plus critiques que leurs homologues européens? Car encore une fois, il s’agit de perceptions qu’ont les salariés de leur patron. Quelle est la position de ce spécialiste par rapport à cette étude?",
         "audio": "/mp3/152/34.mp3",
         "options": [
             "Il adhère au choix de la méthodologie retenue.",
             "Il approuve toutes les conclusions présentées.",
             "Il conteste le professionnalisme des sondeurs.",
-            "Il met en doute l'interprétation des résultats."
+            "Il met en doute l’interprétation des résultats."
         ],
         "answer": 3
     },
     {
         "id": 35,
         "testId": "152",
-        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu'apprend-on sur l'équipe des Canadiens de Montréal?",
+        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d’origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l’histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l’étiolement de la communauté minoritaire semblait inexorable, le fait d’avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu’apprend-on sur l’équipe des Canadiens de Montréal?",
         "audio": "/mp3/152/35.mp3",
         "options": [
-            "C'est un exemple de réussite par le sport.",
-            "C'est un modèle rare de mixité culturelle.",
-            "C'est un symbole fort de cette province.",
-            "C'est une référence pour son style de jeu."
+            "C’est un exemple de réussite par le sport.",
+            "C’est un modèle rare de mixité culturelle.",
+            "C’est un symbole fort de cette province.",
+            "C’est une référence pour son style de jeu."
         ],
         "answer": 2
     },
     {
         "id": 36,
         "testId": "152",
-        "text": "La biographie de la faim est un livre que j'ai écrit il y a quelques années, c'était en 2005 ou 2004. Ça répondait à une question assez énorme. De même que les physiciens essayent de résumer toute la loi de la nature à une seule loi, je voulais me résumer moi-même en un seul mot. Je me suis demandé quel était le mot le plus susceptible de me résumer. Après avoir quelque peu réfléchi, j'en suis arrivée à la conclusion que le mot faim, hungry, hunger, était celui qui me résumait le mieux. Bien sûr, faim est à prendre à son sens le plus large, non seulement la faim des aliments mais aussi la faim de tout, la faim des êtres humains, la faim des livres, la faim de la beauté, la faim de tout ce qui existe. De quoi l’auteur s’était inspiré pour choisir le titre de son livre?",
+        "text": "La biographie de la faim est un livre que j’ai écrit il y a quelques années, c’était en 2005 ou 2004. Ça répondait à une question assez énorme. De même que les physiciens essayent de résumer toute la loi de la nature à une seule loi, je voulais me résumer moi-même en un seul mot. Je me suis demandé quel était le mot le plus susceptible de me résumer. Après avoir quelque peu réfléchi, j’en suis arrivée à la conclusion que le mot faim, hungry, hunger, était celui qui me résumait le mieux. Bien sûr, faim est à prendre à son sens le plus large, non seulement la faim des aliments mais aussi la faim de tout, la faim des êtres humains, la faim des livres, la faim de la beauté, la faim de tout ce qui existe. De quoi l’auteur s’était inspiré pour choisir le titre de son livre?",
         "audio": "/mp3/152/36.mp3",
         "options": [
             "De sa propre personnalité.",
-            "D'un ouvrage scientifique.",
-            "D'une action humanitaire.",
-            "D'une période de sa vie."
+            "D’un ouvrage scientifique.",
+            "D’une action humanitaire.",
+            "D’une période de sa vie."
         ],
         "answer": 0
     },
     {
         "id": 37,
         "testId": "152",
-        "text": "Les musées sont de moins en moins ces lieux morts et poussiéreux qui habitent encore votre imaginaire. Décors vivants, animations, sons et lumières, chasse aux trésors, jeux de rôles... Tout en exposant les collections, les musées innovent et proposent aussi de se divertir. Mais se divertir jusqu'où? Jusqu'à ne plus voir l'œuvre et seulement son emballage? C'est le risque que pointent certains dans cette course à l'attractivité. Quelle inquiétude exprime l'intervenante concernant les musées?",
+        "text": "Les musées sont de moins en moins ces lieux morts et poussiéreux qui habitent encore votre imaginaire. Décors vivants, animations, sons et lumières, chasse aux trésors, jeux de rôles... Tout en exposant les collections, les musées innovent et proposent aussi de se divertir. Mais se divertir jusqu’où? Jusqu’à ne plus voir l’œuvre et seulement son emballage? C’est le risque que pointent certains dans cette course à l’attractivité. Quelle inquiétude exprime l’intervenante concernant les musées?",
         "audio": "/mp3/152/37.mp3",
         "options": [
-            "Que les œuvres d'art y soient dégradées.",
+            "Que les œuvres d’art y soient dégradées.",
             "Que leur taux de fréquentation chute.",
-            "Qu'ils deviennent des espaces désuets.",
-            "Qu'ils soient détournés de leur objectif."
+            "Qu’ils deviennent des espaces désuets.",
+            "Qu’ils soient détournés de leur objectif."
         ],
         "answer": 3
     },
     {
         "id": 38,
         "testId": "152",
-        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevoix, à Montérégie. Que cherche à faire cette entreprise?",
+        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, c’est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c’est l’exercice qui occupe en ce moment Sophie Barry de Carol&E. C’est une petite fabrique de pâtes et de sauces qui est installée à Sabrevoix, à Montérégie. Que cherche à faire cette entreprise?",
         "audio": "/mp3/152/38.mp3",
         "options": [
             "Améliorer la présentation des produits.",
@@ -249,14 +248,14 @@
     {
         "id": 39,
         "testId": "152",
-        "text": "Au mois de mars dernier, l'AUF, Agence Universitaire de la Francophonie, organisait à Dakar ses journées scientifiques autour du thème de l'appropriation du français par les écrivains d'Afrique. L'occasion de rencontrer un certain nombre de spécialistes, et plus précisément deux écrivains qui s'intéressent à la littérature d'enfance. Il s'agit d'Abdallah Madari Alawi et de Guy Missodet. Depuis longtemps, ils essaient de cerner l'évolution de cette littérature destinée à la jeunesse, qui au départ ne se différenciait peut-être pas tellement de ce qui est production littéraire, et puis en prenant de l'ampleur, commençait à avoir une identité propre. Selon la Journaliste en Afrique, quelles tendances suit la littérature destinée à la jeunesse?",
+        "text": "Au mois de mars dernier, l’AUF, Agence Universitaire de la Francophonie, organisait à Dakar ses journées scientifiques autour du thème de l’appropriation du français par les écrivains d’Afrique. L’occasion de rencontrer un certain nombre de spécialistes, et plus précisément deux écrivains qui s’intéressent à la littérature d’enfance. Il s’agit d’Abdallah Madari Alawi et de Guy Missodet. Depuis longtemps, ils essaient de cerner l’évolution de cette littérature destinée à la jeunesse, qui au départ ne se différenciait peut-être pas tellement de ce qui est production littéraire, et puis en prenant de l’ampleur, commençait à avoir une identité propre. Selon la Journaliste en Afrique, quelles tendances suit la littérature destinée à la jeunesse?",
         "audio": "/mp3/152/39.mp3",
         "options": [
-            "Elle tend à devenir une forme d'expression spécifique.",
+            "Elle tend à devenir une forme d’expression spécifique.",
             "Elle reste cantonnée aux frontières du continent africain.",
-            "Elle réunit plusieurs générations au sein d'un même lectorat.",
+            "Elle réunit plusieurs générations au sein d’un même lectorat.",
             "Elle soutient la popularité du français auprès des enfants."
         ],
-        "answer": 3
+        "answer": 0
     }
 ]

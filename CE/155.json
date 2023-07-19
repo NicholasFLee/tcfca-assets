@@ -1,12 +1,12 @@
 [{
         "id": 20,
         "testId": "155",
-        "text": "Madame, Monsieur, Ce courrier fait suite à mon achat d’un téléphone le 4 mars dernier. Après réflexion, je souhaiterais le rendre car j’ai finalement décidé d’acheter un appareil avec messagerie intégrée. Ainsi, je vous prie de bien vouloir me restituer la somme de 75 euros, correspondant à la somme versée le 5 mars par chèque. Dans l’attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations. André Cellier.",
+        "text": "Madame, Monsieur, Ce courrier fait suite à mon achat d’un téléphone le 4 mars dernier. Après réflexion, --je souhaiterais le rendre-- car j’ai finalement décidé d’acheter un appareil avec messagerie intégrée. Ainsi, je vous prie de bien vouloir --me restituer la somme-- de 75 euros, correspondant à la somme versée le 5 mars par chèque. Dans l’attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations. André Cellier.",
         "query": "Quel est l’objet de la lettre de monsieur Cellier?",
         "options": [
             "Le remboursement de son article.",
-            "L'échange de son téléphone.",
-            "L'envoi de son téléphone par la poste.",
+            "L’échange de son téléphone.",
+            "L’envoi de son téléphone par la poste.",
             "Une réclamation sur son achat."
         ],
         "answer": 0
@@ -14,25 +14,25 @@
     {
         "id": 21,
         "testId": "155",
-        "text": "Pendant un an, la journaliste allemande Greta Taubert décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer: elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. « Aujourd’hui, je suis contente de ne plus vivre aussi radicalement, c’était difficile mais je cherche à intégrer dans mon quotidien ce que j’ai appris », explique-t-elle.",
+        "text": "Pendant un an, la journaliste allemande Greta Taubert décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s’est habillée sans payer: elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l’auto-stop. « Aujourd’hui, --je suis contente de ne plus vivre aussi radicalement--, c’était difficile mais je cherche à intégrer dans mon quotidien ce que j’ai appris », explique-t-elle.",
         "query": "Quel est le constat de Greta Taubert après cette expérience?",
         "options": [
-            "C'est possible à la campagne,",
-            "C'est possible avec du temps.",
-            "C'est possible mais pénible.",
-            "C'est possible pour tous."
+            "C’est possible à la campagne,",
+            "C’est possible avec du temps.",
+            "C’est possible mais pénible.",
+            "C’est possible pour tous."
         ],
         "answer": 2
     },
     {
         "id": 22,
         "testId": "155",
-        "text": "L’année dernière, une étude publiée par la revue Nature faisait grand bruit. Menée par une équipe de l’université de Zurich, l’étude montrait qu’une odeur d’ocytocine diffusée lors d’un entretien avec un banquier pousse les gens à lui confier leur argent! L’expérience portait sur 56 personnes qui acceptaient de jouer à un jeu d’argent. On leur donnait une somme et ils devaient dire s’ils acceptaient ou non de la confier à un banquier après un entretien avec lui. Avant la discussion, la moitié des personnes avaient respiré un spray d’ocytocine, hormone connue pour jouer un rôle dans l’établissement des relations interpersonnelles.",
+        "text": "L’année dernière, une étude publiée par la revue Nature faisait grand bruit. Menée par une équipe de l’université de Zurich, l’étude montrait --qu’une odeur d’ocytocine diffusée lors d’un entretien avec un banquier pousse les gens à lui confier leur argent--! L’expérience portait sur 56 personnes qui acceptaient de jouer à un jeu d’argent. On leur donnait une somme et ils devaient dire s’ils acceptaient ou non de la confier à un banquier après un entretien avec lui. Avant la discussion, la moitié des personnes avaient respiré un spray d’ocytocine, hormone connue pour jouer un rôle dans l’établissement des relations interpersonnelles.",
         "query": "Quel est le but de cette expérience?",
         "options": [
             "Apprendre à gérer une entrevue importante avec un banquier",
             "Déterminer le lien, positif ou non, que les gens ont avec l’argent",
-            "Identifier les conditions et facteurs d'addiction aux jeux de hasard",
+            "Identifier les conditions et facteurs d’addiction aux jeux de hasard",
             "Montrer l’importance de la chimie dans les rapports humains."
         ],
         "answer": 3
@@ -40,46 +40,46 @@
     {
         "id": 23,
         "testId": "155",
-        "text": "Éducation numérique. Il n’y presque plus aujourd’hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C’est devenu le standard de la production au terme d’une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l’équipement de la très grande majorité des établissements. Autrement dit, les conditions d’un changement d’ensemble ne sont pas réunies.",
+        "text": "Éducation numérique. Il n’y presque plus aujourd’hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C’est devenu le standard de la production au terme d’une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l’équipement de la très grande majorité des établissements. Autrement dit, --les conditions d’un changement d’ensemble ne sont pas réunies--.",
         "query": "Quelle est la position de cet éditeur de manuels sur la croissance du support numérique?",
         "options": [
-            "Il considère que l'ère du support papier est définitivement terminée.",
-            "Il estime qu'il reste du travail à faire pour mieux préparer cette évolution.",
-            "Il juge indispensable de n'utiliser que les supports électroniques.",
-            "Il pense qu'il faut privilégier le contact des élèves avec l'outil Internet."
+            "Il considère que l’ère du support papier est définitivement terminée.",
+            "Il estime qu’il reste du travail à faire pour mieux préparer cette évolution.",
+            "Il juge indispensable de n’utiliser que les supports électroniques.",
+            "Il pense qu’il faut privilégier le contact des élèves avec l’outil Internet."
         ],
         "answer": 1
     },
     {
         "id": 24,
         "testId": "155",
-        "text": "On réserve trop facilement le covoiturage aux étudiants sans un sou. Les clichés sont tenaces. Pourtant, le temps de la petite annonce papier accrochée près de la machine à café est bel et bien terminé, les nouveaux moyens de communication ont changé les choses. L’organisation d’un trajet entre plusieurs personnes qui se rendent dans la même direction est devenue si simple et si efficace avec les sites spécialisés que le covoiturage est en train d’élargir son public de gagner son statut de mode de transport à part entière.",
+        "text": "On réserve trop facilement le covoiturage aux étudiants sans un sou. Les clichés sont tenaces. Pourtant, le temps de la petite annonce papier accrochée près de la machine à café est bel et bien terminé, les nouveaux moyens de communication ont changé les choses. L’organisation d’un trajet entre plusieurs personnes qui se rendent dans la même direction --est devenue si simple et si efficace avec les sites spécialisés-- que le covoiturage est en train d’élargir son public de gagner son statut de mode de transport à part entière.",
         "query": "Quel développement connaît le covoiturage?",
         "options": [
             "II devient la solution idéale des voyages organisés à la dernière minute.",
-            "II est accessible à un nombre croissant d'utilisateurs grâce à Internet.",
+            "II est accessible à un nombre croissant d’utilisateurs grâce à Internet.",
             "Il occupe une place grandissante dans les petites annonces des journaux.",
-            "Il s'impose comme le moyen de déplacement à la mode chez les jeunes."
+            "Il s’impose comme le moyen de déplacement à la mode chez les jeunes."
         ],
         "answer": 1
     },
     {
         "id": 25,
         "testId": "155",
-        "text": "Le temps des cerises. Pièce de théâtre de Niels Arestrup. Un vieil homme, dérangé dans sa vieille maison par unejeune femme: disputes, goût de la vie retrouvé, moments de tendresse. La comédienne Cécile de France joue avec autant de talent qu'au cinéma. Le comédien Eddy Mitchell, dans le rôle du vieux peintre, manque de noirceur. Dommage que le metteur en scène n'interprète pas lui-même le personnage principal. On passe un bon moment mais pas un grand moment.",
+        "text": "Le temps des cerises. Pièce de théâtre de Niels Arestrup. Un vieil homme, dérangé dans sa vieille maison par une jeune femme: disputes, goût de la vie retrouvé, moments de tendresse. La comédienne Cécile de France joue avec autant de talent qu’au cinéma. Le comédien Eddy Mitchell, dans le rôle du vieux peintre, manque de noirceur. Dommage que le metteur en scène --n’interprète pas lui-même le personnage principal--. On passe un bon moment mais pas un grand moment.",
         "query": "Sur quel aspect de la pièce porte la critique?",
         "options": [
             "La mise en scène.",
             "La qualité des décors.",
             "Le jeu des interprètes.",
-            "L'intérêt de l'intrigue"
+            "L’intérêt de l’intrigue"
         ],
         "answer": 2
     },
     {
         "id": 26,
         "testId": "155",
-        "text": "Les auteurs européens ont persuadé la maison d'édition Livresque d'aller plus loin que la simple numérisation des livres universitaires: au lieu de ne scanner des livres qu'à des fins de recherche, les écrivains ont demandé à ce qu'ils soient remis dans le circuit commercial. Grâce à cet accord, ces millions de livres épuisés vont reprendre vie. Les bénéfices générés par la publicité et les droits de licence iront en partie à Livresque, mais la grande majorité de l'argent gagné par cette mise à disposition des ouvrages sera directement remise aux auteurs puisqu'ils toucheront leurs droits.",
+        "text": "Les auteurs européens ont persuadé la maison d’édition Livresque d’aller plus loin que la simple numérisation des livres universitaires: au lieu de ne scanner des livres qu’à des fins de recherche, les écrivains ont demandé à ce qu’ils soient remis dans le circuit commercial. Grâce à cet accord, ces millions de livres épuisés vont reprendre vie. Les bénéfices générés par la publicité et les droits de licence iront en partie à Livresque, mais --la grande majorité de l’argent gagné par cette mise à disposition des ouvrages sera directement remise aux auteurs-- puisqu’ils toucheront leurs droits.",
         "query": "D’après le texte, quel avantage les auteurs tireront-ils de la numérisation des livres?",
         "options": [
             "Elle augmentera le nombre de lecteurs.",
@@ -97,7 +97,7 @@
         "options": [
             "Pour améliorer les méthodes de travail de la cantine.",
             "Pour encourager la création de formations professionnelles.",
-            "Pour faire naître l'envie de s'investir dans un métier.",
+            "Pour faire naître l’envie de s’investir dans un métier.",
             "Pour sensibiliser le grand public à la réalité de la vie carcérale"
         ],
         "answer": 2
@@ -105,12 +105,12 @@
     {
         "id": 28,
         "testId": "155",
-        "text": "En rendant accessible à tout moment une multitude d'informations, Internet modifie profondément notre relation à la connaissance. Il serait pourtant tout à fait illusoire d'imaginer que ce qui est accessible sur la Toile n'pas besoin d'être appris pour la simple raison de sa disponibilité permanente, car posséder tous les livres du monde, comme pouvoir accéder à tous les sites du monde, ne se substitue pas à la connaissance. Avoir accès par la Toile aux mêmes informations ne compense absolument pas l'absence d'apprentissage.",
+        "text": "En rendant accessible à tout moment une multitude d’informations, --Internet modifie profondément notre relation à la connaissance--. Il serait pourtant tout à fait illusoire d’imaginer que ce qui est accessible sur la Toile n’pas besoin d’être appris pour la simple raison de sa disponibilité permanente, car posséder tous les livres du monde, comme pouvoir accéder à tous les sites du monde, ne se substitue pas à la connaissance. Avoir accès par la Toile aux mêmes informations ne compense absolument pas l’absence d’apprentissage.",
         "query": "D’après l’article, de quelle manière Internet agit-il sur nous?",
         "options": [
             "Il change notre regard sur les livres.",
             "Il facilite la mémorisation de nouveaux concepts.",
-            "Il revalorise la culture transmise par l'école.",
+            "Il revalorise la culture transmise par l’école.",
             "Il transforme notre rapport au savoir."
         ],
         "answer": 3
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "155",
-        "text": "Aux débuts d'Internet, je me souviens d'avoir lu, éberluée, dans un magazine féminin « Mon mari était absent, il passait tout son temps sur le chat », et j'en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise: avoir confondu le chat, le félidé, avec le chat, la discussion sur Internet. Depuis ce jour, aucun progrès sur cette équivoque terrible de la langue, alors que l'usage informatique du mot souris démultiplie les sources de confusions. Le bon sens voudrait que la phonétique l'emporte et que l'on écrive « tchat ». Au lieu de cette solution évidente, le Petit Larousse laissé entrer en 2003 dans le dictionnaire le monstrueux mot-valise « clavardage ».",
+        "text": "Aux débuts d’Internet, je me souviens d’avoir lu, éberluée, dans un magazine féminin « Mon mari était absent, il passait tout son temps sur le chat », et j’en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise: avoir confondu le chat, le félidé, avec le chat, la discussion sur Internet. Depuis ce jour, aucun progrès sur cette équivoque terrible de la langue, alors que l’usage informatique du mot souris démultiplie les sources de confusions. Le bon sens voudrait que la phonétique l’emporte et que --l’on écrive « tchat »--. Au lieu de cette solution évidente, --le Petit Larousse laissé entrer en 2003 dans le dictionnaire le monstrueux mot-valise « clavardage »--.",
         "query": "Qu’est-ce qui dérange l’auteur de ce texte?",
         "options": [
             "L’abus d’anglicismes en langage informatique.",
@@ -131,11 +131,11 @@
     {
         "id": 30,
         "testId": "155",
-        "text": "Elle s’appelait Sarah. Le cinéaste n’arrive pas à éviter, mail le pouvait-il? L’artifice du scénario: ping-pong incessant et artificiel entre le passé et le présent. Néanmois, chaque fois qu’il change d’époque, le cinéaste repart à la recherche de l’émotion perdue qu’il retrouve, d’ailleurs, à force de pudeur et de retenue. Aucun débordement lacrymal. Les acteurs restent jusqu’au bout étonnamment sobres. Le film est un mélo, une vrai, puisqu’il repose sur une faute dont chacun ne peut ou ne veut se défaire. C’est aussi «un film de samedi soir», avec ses drames, ses sacrifices, parfois même ses outrances… Bref, on est dans le cinéma humaniste à l’ancienne(et peut-être, éternel). À la frontière exacte, en tout cas, entre bons et grands sentiments.",
+        "text": "Elle s’appelait Sarah. Le cinéaste n’arrive pas à éviter, mail le pouvait-il? L’artifice du scénario: ping-pong incessant et --artificiel entre le passé et le présent--. Néanmois, chaque fois qu’il change d’époque, le cinéaste repart à la recherche de l’émotion perdue qu’il retrouve, d’ailleurs, à force de pudeur et de retenue. Aucun débordement lacrymal. Les acteurs restent jusqu’au bout étonnamment sobres. Le film est un mélo, une vrai, puisqu’il repose sur une faute dont chacun ne peut ou ne veut se défaire. C’est aussi «un film de samedi soir», avec ses drames, ses sacrifices, parfois même ses outrances… Bref, on est dans le cinéma humaniste à l’ancienne(et peut-être, éternel). À la frontière exacte, en tout cas, entre bons et grands sentiments.",
         "query": "Sur quel élément du film porte la réserve du critique?",
         "options": [
-            "À L'atmosphère lourde et pathétique",
-            "L'utilisation abusive de flashbacks.",
+            "À L’atmosphère lourde et pathétique",
+            "L’utilisation abusive de flashbacks.",
             "La caricature du film de genre,",
             "Le jeu sans conviction des comédiens."
         ],
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "155",
-        "text": "Cher tous, Amis, techniciens, auditeurs, animateurs, président de notre radio, vous qui avez toujours été là pour des Airs, je voulais vous dire un très grand merci! Je le répéterai le 1er juillet pour la dernière fois sur les ondes à l’occasion de la 200e: notre radio été pour moi un merveilleux espace de liberté! Laissez-moi remercier encore notre président qui continue à la faire vivre. Quel bonheur de vous avoir eu tous autour de mois samedi! Merci encore.",
+        "text": "Cher tous, Amis, techniciens, auditeurs, animateurs, président de notre radio, vous qui avez toujours été là pour des Airs, je voulais vous dire un très grand merci! Je le répéterai le 1er juillet pour --la dernière fois sur les ondes-- à l’occasion de la 200e: notre radio été pour moi un merveilleux espace de liberté! Laissez-moi remercier encore notre président qui continue à la faire vivre. Quel bonheur de vous avoir eu tous autour de mois samedi! Merci encore.",
         "query": "Qu’ont-ils tous fêté samedi?",
         "options": [
             "L’anniversaire d’une radio.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "155",
-        "text": "La première difficulté, qu’il avait en réalisté sous-estimée, fut de réussir à atteindre l’extrémité du trottoir, c’est-à-dire de franchir la masse mouvante et compacte des hommes et des femmes qui marchaient devant lui, frange large de deux ou trois mètres mais dont la texture était dense, mobile, paisiblement hostile. Il eut beau dans un premier temps prononcer à haute voix de nombreuses paroles d’excuse, expliquant avec des gestes modestes qu’il voulait passer, se montrer on ne peut plus poli et plus encore, personne ne s’arrêta, ni ne se poussa afin de lui permettre de se faufiler entre les corps. Les hommes et les femme qui marchaient ne le regardaient pas et beaucoup avaient sur les oreilles des écouteurs.",
+        "text": "La première difficulté, qu’il avait en réalisté sous-estimée, fut de réussir à atteindre l’extrémité du trottoir, c’est-à-dire de --franchir la masse mouvante et compacte des hommes et des femmes-- qui marchaient devant lui, frange large de deux ou trois mètres mais dont la texture était dense, mobile, paisiblement hostile. Il eut beau dans un premier temps prononcer à haute voix de nombreuses paroles d’excuse, expliquant avec des gestes modestes qu’il voulait passer, se montrer on ne peut plus poli et plus encore, personne ne s’arrêta, ni ne se poussa afin de lui permettre de se faufiler entre les corps. Les hommes et les femme qui marchaient ne le regardaient pas et beaucoup avaient sur les oreilles des écouteurs.",
         "query": "Dans quelle situation se trouve le personnage principal?",
         "options": [
             "II du mal à se déplacer dans la foule.",
@@ -170,24 +170,24 @@
     {
         "id": 33,
         "testId": "155",
-        "text": "Mais qu’est-ce qu’être autonome? L’autonomie été un idéal de la fin des années 70 et, depuis, est devenue une norme. Mais qu’est-ce qu’être autonome? Est-ce rechercher en soi les forces pour agir? Cette représentation d’un sujet en relation avec lui-même est contestée par certains penseurs pour qui agir par soi-même, ce n’est pas s’inventer mais être capable de se diriger seul. Autrement dit, on peut être autonome en appliquant des règles que l’on apprises et dont l’origine ne se trouve donc pas au fond de nous mais dans le contexte social où nous existons. Ces règles apparaissent alors comme des capacités et non plus comme une limitation des possibilités de l’action.",
+        "text": "Mais qu’est-ce qu’être autonome? L’autonomie été un idéal de la fin des années 70 et, depuis, est devenue une norme. Mais qu’est-ce qu’être autonome? Est-ce rechercher en soi les forces pour agir? Cette représentation d’un sujet en relation avec lui-même est contestée par certains penseurs pour qui agir par soi-même, ce n’est pas s’inventer mais --être capable de se diriger seul--. Autrement dit, on peut --être autonome en appliquant des règles que l’on apprises-- et dont l’origine ne se trouve donc pas au fond de nous mais dans le contexte social où nous existons. Ces règles apparaissent alors comme des capacités et non plus comme une limitation des possibilités de l’action.",
         "query": "Qu’est-ce qu’être autonome, selon ce texte?",
         "options": [
             "Devenir indifférent aux autres.",
             "Disposer de ressources intérieures.",
             "Exploiter les compétences acquises.",
-            "S'éloigner de la vie en société."
+            "S’éloigner de la vie en société."
         ],
         "answer": 2
     },
     {
         "id": 34,
         "testId": "155",
-        "text": "x",
+        "text": "Monsieur et Madame Martin n’ont pas un emploi du temps également captivant. --Quand Monsieur se rend au travail. Madame manie l’aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l’épouse modèle se colle aux fourneaux.-- Une illustration exhumée d’un manuel des années 1950? Non, les images d’un exercice pour une classe de CP afin de «Comprendre la simultanéité» en étudiant les moments de la «journée d’une famille». Quand Virginie Sassoon est tombée sur ce document --ultra-stéréotypé-- dans le classeur de sa fille, cette maman est tombée des nues. «Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève selon moi, de la responsabilité collective.»",
         "query": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille?",
         "options": [
             "Ils correspondent à des programmes scolaires obsolètes.",
-            "Ils méconnaissent l'existence des familles recomposées.",
+            "Ils méconnaissent l’existence des familles recomposées.",
             "Ils présentent un partage sexiste des tâches dans le couple.",
             "Ils se moquent du quotidien des personnes sans emploi."
         ],
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "155",
-        "text": "Ceux qui l’ont vu cet été aux Francofolies n’en sont pas revenus. Trente ans après ses débuts, le chanteur Joseph Many subjugué l’assitance. Il lui fallu du temps pour se convaincre que monter sur scène pour y pousser la chansonnette était encore de son âge. Les ritournelles des années 1970 l’avaient propulsé à son époque sur le devant de la scène, avec l’image d’un artiste terriblement proche de la jeunesse d’alors. Puis sa brillante carrière d’écrivain l’avait convaincu de se consacrer à l’écriture, jusqu’à ce que l’inspiration musicale revienne. Preuve en est son nouvel album. Une ode à la vie, à l’amour, aux femmes. Les atmosphères sont délicieuses. Au fil des ballades, on redevient, pour quelques minutes, adolescent.",
+        "text": "Ceux qui l’ont vu cet été aux Francofolies n’en sont pas revenus. Trente ans après ses débuts, le chanteur Joseph Many subjugué l’assitance. --Il lui fallu du temps pour se convaincre-- que monter sur scène pour y pousser la chansonnette --était encore de son âge--. Les ritournelles des années 1970 l’avaient propulsé à son époque sur le devant de la scène, avec l’image d’un artiste terriblement proche de la jeunesse d’alors. Puis sa brillante carrière d’écrivain l’avait convaincu de se consacrer à l’écriture, jusqu’à ce que l’inspiration musicale revienne. Preuve en est son nouvel album. Une ode à la vie, à l’amour, aux femmes. Les atmosphères sont délicieuses. Au fil des ballades, on redevient, pour quelques minutes, adolescent.",
         "query": "Pourquoi Joseph Many a-t-il tardé à revenir sur scène?",
         "options": [
             "II se sentait trop vieux pour les tournées.",
@@ -209,33 +209,33 @@
     {
         "id": 36,
         "testId": "155",
-        "text": "La bioéthique fait l’objet d’une polémique qui confronte deux écoles. Pour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité. La recherche entraîner l’éradication des maladie génétiques et permettre même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorer l’espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastique, affirme ses craintes en ce qui concerne la pratique d’un eugénisme scientifique: il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques. Pour eux, il est impossible de déterminer les tares inconciliables avec humain, puisque certains individus en ont fait l’origine même de leur génie.",
+        "text": "La bioéthique fait l’objet d’une polémique qui confronte deux écoles. Pour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité. La recherche entraîner l’éradication des maladie génétiques et permettre même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorer l’espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastique, affirme ses craintes en ce qui concerne la pratique d’un eugénisme scientifique: il permettra la sélection efficace des embryons etouvrira de plus en plus largement ses critères de choix --à des exigences non pathologiques--. Pour eux, il est impossible de déterminer les tares inconciliables avec humain, puisque certains individus en ont fait l’origine même de leur génie.",
         "query": "Sur quoi portent les réserves des partisans de la seconde école?",
         "options": [
             "Le coût social élevé de prise en charge des maladies gins",
             "Le développement de traitements curatifs de pathologies génétiques.",
             "Le mode de financement de la recherche génétique fondamentale.",
-            "Les dérives induites par l'amélioration du patrimoine génétique."
+            "Les dérives induites par l’amélioration du patrimoine génétique."
         ],
         "answer": 3
     },
     {
         "id": 37,
         "testId": "155",
-        "text": "Mozart est le compositeur le plus joué, le plus aimé et le plus exploité. Ainsi, en 1993, la psychologue américaine Frances Rauscher annonçait que l’écoute de la sonate pour deux pianos en ré majeur développait l’intelligence. En effet, après avoir écouté ce morceau, 36 étudiants avaient obtenu de meilleur résultats à un test de localisation spatiale. L’étude eut un retentissement fracassant. On examina la teneur en haute fréquence de la sonate. On la fit écouter à des rats de laboratoire avant de les perdre dans un labyrinthe. On évoqua l’influence des gènes. En 1999, une nouvelle étude venait contredire les conlusion de Frances Rauscher.",
+        "text": "Mozart est le compositeur le plus joué, le plus aimé et le plus exploité. Ainsi, en 1993, la psychologue américaine Frances Rauscher annonçait que l’écoute de la sonate pour deux pianos en ré majeur développait l’intelligence. En effet, après avoir écouté ce morceau, 36 étudiants --avaient obtenu de meilleur résultats à un test de localisation spatiale--. L’étude eut un retentissement fracassant. On examina la teneur en haute fréquence de la sonate. On la fit écouter à des rats de laboratoire avant de les perdre dans un labyrinthe. On évoqua l’influence des gènes. En 1999, une nouvelle étude venait contredire les conlusion de Frances Rauscher.",
         "query": "À quelle conclusion est arrivée Frances Raucher concernant l’écoute de la sonate de Mozart?",
         "options": [
-            "Elle un effet négligeable sur l'intellect.",
+            "Elle un effet négligeable sur l’intellect.",
             "Elle accroît la capacité de concentration.",
             "Elle facilite le repérage dans l’espace.",
             "Elle perturbe le raisonnement logique"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "id": 38,
         "testId": "155",
-        "text": "Prévoir le temps. L’énorme masse de données météorologiques collectées tous les jours par les satellites est traitée par les plus gros ordinateurs du monde. le résultat de ces calculs est fourni sous forme de cartes des vents, des pluies ou des températures. Ces cartes peuvent être animées par l’ordinateur, ce qui donne l’impression de voir se dérouler en accéléré les mouvement de l’atmosphère. Les ordinateur font des calculs que le météorologue doit compléter. Au vu des informations, il prépare un scénario sur le temps le plus probable dans un, deux, ou trois, voire dix jours dans certains centres.",
+        "text": "Prévoir le temps. L’énorme masse de données météorologiques collectées tous les jours par les satellites est traitée par les plus gros ordinateurs du monde. le résultat de ces calculs est fourni sous forme de cartes des vents, des pluies ou des températures. Ces cartes peuvent être animées par l’ordinateur, ce qui donne l’impression de voir se dérouler en accéléré les mouvement de l’atmosphère. Les ordinateur font des calculs que le météorologue doit compléter. Au vu des informations, il prépare --un scénario sur le temps le plus probable dans un, deux, ou trois, voire dix jours-- dans certains centres.",
         "query": "En quoi consiste la profession décrite?",
         "options": [
             "Concevoir des prévisions à court terme.",
@@ -248,13 +248,13 @@
     {
         "id": 39,
         "testId": "155",
-        "text": "Panache et arrogance, élégance et futilité, galanterie et gauloiserie: s’il existe, et à condition que cette notion est encore un sens à l’ère de la mondialisation, l’esprit français tire son essence particulière du fragile équilibre entre ses oppositions. Amateur de grands principes, du coup de sang et de bons mots, c’est l’esprit français. Quoi que nous en disions, il nous obsède. Que nous exaltions le génie naitonal ou l’exception cuturelle, les racines ou l’universel, le particularisme local ou l’intérêt général, il ne s’agit toujours, au fond, que de lui. La mondialisation va-t-elle le dissoudre, et nous renvoyer au triste rang de pays ordinaire?",
+        "text": "Panache et arrogance, élégance et futilité, galanterie et gauloiserie: s’il existe, et à condition que cette notion est encore un sens à l’ère de la mondialisation, l’esprit français --tire son essence particulière du fragile équilibre entre ses oppositions--. Amateur de grands principes, du coup de sang et de bons mots, c’est l’esprit français. Quoi que nous en disions, il nous obsède. Que nous exaltions le génie naitonal ou l’exception cuturelle, les racines ou l’universel, le particularisme local ou l’intérêt général, il ne s’agit toujours, au fond, que de lui. La mondialisation va-t-elle le dissoudre, et nous renvoyer au triste rang de pays ordinaire?",
         "query": "Selon l’auteur, qu’est-ce que l’esprit français?",
         "options": [
             "Des attitudes contradictoires forgeant une identité.",
             "Un égocentrisme désuet au temps de la mondialisation.",
             "Un ensemble de valeurs partagées par une élite.",
-            "Une aptitude à l'ouverture qui tend à disparaître."
+            "Une aptitude à l’ouverture qui tend à disparaître."
         ],
         "answer": 0
     }

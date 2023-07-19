@@ -1,21 +1,20 @@
-[
-    {
+[{
         "id": 20,
         "testId": "155",
-        "text": "On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai ? Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin, comment dire… de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22, 23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.",
+        "text": "On dit souvent qu’à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c’est toujours vrai ? Il est toujours facile de passer d’un job à l’autre. Le diplôme a beaucoup moins d’importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C’est vrai qu’on vous donne aussi la possibilité d’augmenter assez… enfin, comment dire… de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22, 23 ans et déjà managers, tandis qu’en France, c’est quand même un petit peu plus compliqué. Que dit cette intervenante au sujet du travail à Londres ?",
         "audio": "/mp3/155/20.mp3",
         "options": [
-            "Le recrutement se fonde sur l'expérience.",
-            "Les salaires à l'embauche sont très élevés.",
-            "L'évolution professionnelle est très lente.",
-            "L'obtention d'un premier emploi est aisée."
+            "Le recrutement se fonde sur l’expérience.",
+            "Les salaires à l’embauche sont très élevés.",
+            "L’évolution professionnelle est très lente.",
+            "L’obtention d’un premier emploi est aisée."
         ],
         "answer": 0
     },
     {
         "id": 21,
         "testId": "155",
-        "text": "Bonjour monsieur, je viens transférer ma ligne téléphonique. J'emménage demain dans les logements neufs de la rue de l'université. Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendrons son autorisation pour installer le réseau. Dix jours ? Mais comment je fais sans téléphone ? Moi j'en ai besoin pour mon travail. Je suis désolé monsieur, mais vous n'êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux. Pourquoi le client n'obtient-il pas le transfert de sa ligne téléphonique ?",
+        "text": "Bonjour monsieur, je viens transférer ma ligne téléphonique. J’emménage demain dans les logements neufs de la rue de l’université. Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendrons son autorisation pour installer le réseau. Dix jours ? Mais comment je fais sans téléphone ? Moi j’en ai besoin pour mon travail. Je suis désolé monsieur, mais vous n’êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux. Pourquoi le client n’obtient-il pas le transfert de sa ligne téléphonique ?",
         "audio": "/mp3/155/21.mp3",
         "options": [
             "Le promoteur a oublié de prévenir la compagnie de téléphone.",
@@ -28,11 +27,11 @@
     {
         "id": 22,
         "testId": "155",
-        "text": "être éco-éducateur c'est être à cheval entre l'éducateur et le pédagogue puisqu'on va sensibiliser le public aux problématiques environnementales mais en même temps expliquer ces problématiques et puis les solutions qui sont actuellement préconisées la plupart du temps on accueille un public d'enfants ou de scolaire ou de centre de loisirs mais en vérité on touche tous les publics puisqu'on est ouvert le week-end néanmoins notre journée ne se cantonne pas à ça on a aussi le montage de tous les projets d'événementiel ou d'animation future qui nécessite de de créer des supports d'élaborer des déroulements pédagogiques ici au clôt des blancs-manteaux notre entrée thématique c'est l'écologie au quotidien les éco-gestes les astuces qu'on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète que propose le site dans lequel cet intervenant travaille",
+        "text": "Être éco-éducateur c’est être à cheval entre l’éducateur et le pédagogue puisqu’on va sensibiliser le public aux problématiques environnementales mais en même temps expliquer ces problématiques et puis les solutions qui sont actuellement préconisées la plupart du temps on accueille un public d’enfants ou de scolaire ou de centre de loisirs mais en vérité on touche tous les publics puisqu’on est ouvert le week-end néanmoins notre journée ne se cantonne pas à ça on a aussi le montage de tous les projets d’événementiel ou d’animation future qui nécessite de de créer des supports d’élaborer des déroulements pédagogiques ici au clôt des blancs-manteaux notre entrée thématique c’est l’écologie au quotidien les éco-gestes les astuces qu’on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète. Que propose le site dans lequel cet intervenant travaille ?",
         "audio": "/mp3/155/22.mp3",
         "options": [
             "Des activités en faveur du développement durable.",
-            "Des formations aux nouveaux métiers de l'éducation.",
+            "Des formations aux nouveaux métiers de l’éducation.",
             "Des sorties équestres pour les écoliers de la région.",
             "Des stages à destination des animateurs jeunesse."
         ],
@@ -41,7 +40,7 @@
     {
         "id": 23,
         "testId": "155",
-        "text": "Bonjour, je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu'il soit ramassé ? Vous n'avez qu'à déneiger devant chez vous et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grand votre arbre ? Regardez, je l'ai mis dans le jardin. Il fait bien trois mètres de haut. Alors, il faut le couper en deux. Et puis aussi enlever tout ce qui est dessus. Qu'est-ce que cette personne cherche à savoir ?",
+        "text": "Bonjour, je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu’il soit ramassé ? Vous n’avez qu’à déneiger devant chez vous et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grand votre arbre ? Regardez, je l’ai mis dans le jardin. Il fait bien trois mètres de haut. Alors, il faut le couper en deux. Et puis aussi enlever tout ce qui est dessus. Qu’est-ce que cette personne cherche à savoir ?",
         "audio": "/mp3/155/23.mp3",
         "options": [
             "Comment protéger ses végétaux.",
@@ -54,7 +53,7 @@
     {
         "id": 24,
         "testId": "155",
-        "text": "Bonjour, monsieur. J'ai vu votre annonce. Vous cherchez toujours une vendeuse? Oui. Cela vous intéresse? Vous avez de l'expérience? J'ai été vendeuse 15 ans à Québec, mais mon petit ami a été muté à Montréal, alors j'ai dû démissionner. Vous habitez encore là-bas? Non. Nous sommes chez mes parents en attendant de trouver un logement. Vous parlez anglais? Bien sûr. Bien. Vous pouvez revenir demain pour un essai? Avec plaisir.",
+        "text": "Bonjour, monsieur. J’ai vu votre annonce. Vous cherchez toujours une vendeuse? Oui. Cela vous intéresse? Vous avez de l’expérience? J’ai été vendeuse 15 ans à Québec, mais mon petit ami a été muté à Montréal, alors j’ai dû démissionner. Vous habitez encore là-bas? Non. Nous sommes chez mes parents en attendant de trouver un logement. Vous parlez anglais? Bien sûr. Bien. Vous pouvez revenir demain pour un essai? Avec plaisir. Pourquoi la personne cherche-t-elle du travail à Montréal ?",
         "audio": "/mp3/155/24.mp3",
         "options": [
             "Pour changer de profession.",
@@ -67,12 +66,12 @@
     {
         "id": 25,
         "testId": "155",
-        "text": "Gros plan sur les français qui partent pour réussir. Oui tous ces français que l'on dit nuls en anglais, eh bien ils n'ont plus peur de partir à la conquête du monde. En fait il est toujours un peu difficile de cerner leur motivation profonde entre ceux qui franchissent les frontières pour monter un business, ceux qui cherchent un job, ceux qui s'exilent pour fuir une fiscalité asphyxiante, ou bien ceux qui veulent tout simplement profiter d'une retraite au soleil. Les journalistes évoquent une tendance qui concerne les français. Laquelle ?",
+        "text": "Gros plan sur les français qui partent pour réussir. Oui tous ces français que l’on dit nuls en anglais, eh bien ils n’ont plus peur de partir à la conquête du monde. En fait il est toujours un peu difficile de cerner leur motivation profonde entre ceux qui franchissent les frontières pour monter un business, ceux qui cherchent un job, ceux qui s’exilent pour fuir une fiscalité asphyxiante, ou bien ceux qui veulent tout simplement profiter d’une retraite au soleil. Les journalistes évoquent une tendance qui concerne les français. Laquelle ?",
         "audio": "/mp3/155/25.mp3",
         "options": [
             "Ils aiment passer leurs vieux jours dans le sud de la France.",
-            "Ils osent davantage partir à l'étranger qu'auparavant.",
-            "Ils payent plus d'impôts que les autres citoyens européens.",
+            "Ils osent davantage partir à l’étranger qu’auparavant.",
+            "Ils payent plus d’impôts que les autres citoyens européens.",
             "Ils prennent des cours de langue pour améliorer leur niveau."
         ],
         "answer": 1
@@ -80,33 +79,33 @@
     {
         "id": 26,
         "testId": "155",
-        "text": "À mes côtés, cette semaine, une philosophe, essaïste et romancière, née à Paris, grande voyageuse passionnée d'Afrique, férue de politique et d'opéra et qui publie ces jours-ci ses mémoires. Si vous aimez la petite et la grande histoire sans vraiment savoir ce que pouvait signifier naître petite fille dans une famille de la bourgeoisie cultivée des années 40, si vous voulez comprendre ce que cela voulait dire à la fin des années 50 d'intégrer la grande fabrique intellectuelle française que sont les grandes écoles, si vous aimez la philosophie, les voyages et la politique, bref, si l'histoire intellectuelle de la seconde moitié du XXe siècle vous passionne, alors vous allez lire comme moi d'une traite le dernier livre de Claire Robert. Selon le journaliste, quel genre d'ouvrage cette philosophe française vient-elle d'écrire ?",
+        "text": "À mes côtés, cette semaine, une philosophe, essayiste et romancière, née à Paris, grande voyageuse passionnée d’Afrique, férue de politique et d’opéra et qui publie ces jours-ci ses mémoires. Si vous aimez la petite et la grande histoire sans vraiment savoir ce que pouvait signifier naître petite fille dans une famille de la bourgeoisie cultivée des années 40, si vous voulez comprendre ce que cela voulait dire à la fin des années 50 d’intégrer la grande fabrique intellectuelle française que sont les grandes écoles, si vous aimez la philosophie, les voyages et la politique, bref, si l’histoire intellectuelle de la seconde moitié du XXe siècle vous passionne, alors vous allez lire comme moi d’une traite le dernier livre de Claire Robert. Selon le journaliste, quel genre d’ouvrage cette philosophe française vient-elle d’écrire ?",
         "audio": "/mp3/155/26.mp3",
         "options": [
             "Un essai historique sur la vie à Paris pendant la Seconde Guerre mondiale.",
-            "Un livre de souvenirs sur l'histoire mouvementée de sa famille.",
+            "Un livre de souvenirs sur l’histoire mouvementée de sa famille.",
             "Un récit autobiographique ancré dans la vie intellectuelle du siècle dernier.",
-            "Un roman sur l'impact des événements historiques sur le destin individuel."
+            "Un roman sur l’impact des événements historiques sur le destin individuel."
         ],
         "answer": 2
     },
     {
         "id": 27,
         "testId": "155",
-        "text": "Salut Géraldine, ça va ? Non, pas trop. Tu sais que je cherchais du travail ? Eh bien, maintenant que je l'ai trouvé, je ne suis pas très contente. Pourquoi ? Tu ne touches pas assez d'argent ? Non ! C'est que deux fois par semaine, je commence à 6 heures du matin et à une heure de chez moi en plus. Oh c'est tôt ! Et comment tu vas faire pour les enfants ? Oh, Gilles va s'en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer. Tu vas dormir les week-ends ? De quoi se plaint Géraldine ?",
+        "text": "Salut Géraldine, ça va ? Non, pas trop. Tu sais que je cherchais du travail ? Eh bien, maintenant que je l’ai trouvé, je ne suis pas très contente. Pourquoi ? Tu ne touches pas assez d’argent ? Non ! C’est que deux fois par semaine, je commence à 6 heures du matin et à une heure de chez moi en plus. Oh c’est tôt ! Et comment tu vas faire pour les enfants ? Oh, Gilles va s’en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer. Tu vas dormir les week-ends ? De quoi se plaint Géraldine ?",
         "audio": "/mp3/155/27.mp3",
         "options": [
             "De ses difficultés à se réveiller le matin.",
             "De son dernier salaire qui est insuffisant.",
             "De son emploi du temps professionnel.",
-            "De son manque d'organisation habituel."
+            "De son manque d’organisation habituel."
         ],
         "answer": 2
     },
     {
         "id": 28,
         "testId": "155",
-        "text": "Salut Marie, alors finalement qu'est ce que tu as fait samedi soir ? Ben j'avais pas le moral, j'étais invité chez ma sœur, je n'y suis pas allé. Il y a des amis qui m'ont appelé pour aller danser au dernier moment, j'ai pas eu envie. Tu as fait quoi alors ? Finalement j'ai voulu aller au cinéma, la séance était annulée pour raison technique, alors je suis rentré, je me suis couché. Si j'avais su je serais venu te chercher, on est allé jouer au bowling, on a passé une super soirée. Comment la jeune fille a-t-elle passé sa soirée ?",
+        "text": "Salut Marie, alors finalement qu’est ce que tu as fait samedi soir ? Ben j’avais pas le moral, j’étais invité chez ma sœur, je n’y suis pas allé. Il y a des amis qui m’ont appelé pour aller danser au dernier moment, j’ai pas eu envie. Tu as fait quoi alors ? Finalement j’ai voulu aller au cinéma, la séance était annulée pour raison technique, alors je suis rentré, je me suis couché. Si j’avais su je serais venu te chercher, on est allé jouer au bowling, on a passé une super soirée. Comment la jeune fille a-t-elle passé sa soirée ?",
         "audio": "/mp3/155/28.mp3",
         "options": [
             "Elle est sortie en boîte de nuit.",
@@ -119,12 +118,12 @@
     {
         "id": 29,
         "testId": "155",
-        "text": "Vous avez vu le premier film de Robert Feuillade hier ? Non, ce n'est pas le genre de film que j'aime. Moi, je regarde tous les films. J'adore le cinéma depuis toujours. Sans doute parce que mon père m'emmenait au cinéma alors que j'étais encore au biberon. Je me souviens encore de mon premier western. Dans la petite ville où on habitait, tous les samedis, il y avait le cinéma en plein air gratuit. Moi, ce que je préférais quand j'allais au cinéma avec mon père, c'était la glace à la vanille qu'il m'achetait. Selon cette femme, qu'est-ce qui explique son amour inconditionnel du cinéma ?",
+        "text": "Vous avez vu le premier film de Robert Feuillade hier ? Non, ce n’est pas le genre de film que j’aime. Moi, je regarde tous les films. J’adore le cinéma depuis toujours. Sans doute parce que mon père m’emmenait au cinéma alors que j’étais encore au biberon. Je me souviens encore de mon premier western. Dans la petite ville où on habitait, tous les samedis, il y avait le cinéma en plein air gratuit. Moi, ce que je préférais quand j’allais au cinéma avec mon père, c’était la glace à la vanille qu’il m’achetait. Selon cette femme, qu’est-ce qui explique son amour inconditionnel du cinéma ?",
         "audio": "/mp3/155/29.mp3",
         "options": [
-            "L'absence de distractions dans le village où elle habitait.",
-            "L'influence autoritaire que son père a exercée sur elle.",
-            "Le choc du tout premier film qu'elle a vu dans sa vie.",
+            "L’absence de distractions dans le village où elle habitait.",
+            "L’influence autoritaire que son père a exercée sur elle.",
+            "Le choc du tout premier film qu’elle a vu dans sa vie.",
             "Sa fréquentation des salles dès son plus jeune âge."
         ],
         "answer": 3
@@ -132,23 +131,23 @@
     {
         "id": 30,
         "testId": "155",
-        "text": "L'effet sur l'apprentissage est faible, mais les notes ont d'autres fonctions. Elles servent à visibiliser les hiérarchies à l'intérieur de la classe, elles servent à savoir exactement à quel niveau se trouvent les élèves, donc elles donnent une indication très claire. Ensuite, elles permettent de faire le tri en termes de redoublement ou d'orientation, et elles permettent aussi une objectification, une réification du jugement qu'on donne de l'élève. Par exemple, lorsqu'on communique les résultats aux parents, c'est numérique, c'est vrai, c'est objectif. selon le locuteur à quoi servent les notes à l’école.",
+        "text": "L’effet sur l’apprentissage est faible, mais les notes ont d’autres fonctions. Elles servent à visibiliser les hiérarchies à l’intérieur de la classe, elles servent à savoir exactement à quel niveau se trouvent les élèves, donc elles donnent une indication très claire. Ensuite, elles permettent de faire le tri en termes de redoublement ou d’orientation, et elles permettent aussi une objectification, une réification du jugement qu’on donne de l’élève. Par exemple, lorsqu’on communique les résultats aux parents, c’est numérique, c’est vrai, c’est objectif. Selon le locuteur à quoi servent les notes à l’école.",
         "audio": "/mp3/155/30.mp3",
         "options": [
             "À classer les établissements selon un taux de performance.",
-            "À communiquer sur les progrès de l'élève dans chaque matière.",
+            "À communiquer sur les progrès de l’élève dans chaque matière.",
             "À créer une échelle lisible de classification des élèves.",
-            "À susciter chez l'élève l'envie de devenir le meilleur de la classe."
+            "À susciter chez l’élève l’envie de devenir le meilleur de la classe."
         ],
         "answer": 2
     },
     {
         "id": 31,
         "testId": "155",
-        "text": "Docteur, quels aliments dois-je supprimer pour ne pas grossir? L'essentiel pour parvenir à maigrir et à ne pas recommencer à grossir est de moins manger, mais tout en respectant son mode de vie et ses goûts. Vraiment? On peut manger de tout? Oui. Aucun aliment n'est mauvais en soi. Tout dépend des quantités et de la façon dont il est consommé. Il faut privilégier la diversité. C'est tout? Oui. Deux conseils encore. Réduisez l'apport en lipides et en sucre, privilégiez les légumes verts et, en quantité modérée, les féculents et le pain. Que conseille le médecin à son patient pour perdre du poids?",
+        "text": "Docteur, quels aliments dois-je supprimer pour ne pas grossir? L’essentiel pour parvenir à maigrir et à ne pas recommencer à grossir est de moins manger, mais tout en respectant son mode de vie et ses goûts. Vraiment? On peut manger de tout? Oui. Aucun aliment n’est mauvais en soi. Tout dépend des quantités et de la façon dont il est consommé. Il faut privilégier la diversité. C’est tout? Oui. Deux conseils encore. Réduisez l’apport en lipides et en sucre, privilégiez les légumes verts et, en quantité modérée, les féculents et le pain. Que conseille le médecin à son patient pour perdre du poids?",
         "audio": "/mp3/155/31.mp3",
         "options": [
-            "Manger de tout, y compris ce qu'il n'aime pas.",
+            "Manger de tout, y compris ce qu’il n’aime pas.",
             "Cesser de consommer du pain ou des féculents.",
             "Manger plus léger sans changer ses habitudes.",
             "Se garder de consommer des aliments sucrés."
@@ -158,7 +157,7 @@
     {
         "id": 32,
         "testId": "155",
-        "text": "C'est assez étonnant de lire les titres des textes de Nathalie Sarraute, des pièces de théâtre, parce que ce sont toujours des structures de phrases très stéréotypées. Vous les entendez, c'est beau, pour un oui, pour un non, elle est là, on ne peut pas faire plus simple. Et en fait, derrière, il y a des gouffres en effet. Voilà, oui, et puis en plus, elle est très sensible à ce qui, dans le langage, sert de, je dirais, de costume prêt-à-porter. Il y a énormément de langue de bois qui est pointée. De lieux communs. Oui, de lieux communs. Elle adore ça et elle le fait partager. Donc les personnages qu'elle met en scène ont des forces énormes et qui sont canalisés par ce travail avec les mots. Et il se débrouille avec ça. Qu’est-ce qui caractérise l’écriture théâtrale de cet auteur.",
+        "text": "C’est assez étonnant de lire les titres des textes de Nathalie Sarraute, des pièces de théâtre, parce que ce sont toujours des structures de phrases très stéréotypées. Vous les entendez, c’est beau, pour un oui, pour un non, elle est là, on ne peut pas faire plus simple. Et en fait, derrière, il y a des gouffres en effet. Voilà, oui, et puis en plus, elle est très sensible à ce qui, dans le langage, sert de, je dirais, de costume prêt-à-porter. Il y a énormément de langue de bois qui est pointée. De lieux communs. Oui, de lieux communs. Elle adore ça et elle le fait partager. Donc les personnages qu’elle met en scène ont des forces énormes et qui sont canalisés par ce travail avec les mots. Et il se débrouille avec ça. Qu’est-ce qui caractérise l’écriture théâtrale de cet auteur.",
         "audio": "/mp3/155/32.mp3",
         "options": [
             "La diversité des parlers régionaux des personnages.",
@@ -166,12 +165,12 @@
             "Le recours constant au registre familier.",
             "Les jeux de mots récurrents dans les titres."
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "id": 33,
         "testId": "155",
-        "text": "Est-ce que vous pouvez nous décrire votre itinéraire? Oui, j'ai fait mes études de comédienne à Montréal à l'École nationale de théâtre dans les années 70 et puis quand je suis sortie de l'école avec mon diplôme de comédienne, c'était la grande époque héroïque des créations collectives et du théâtre qu'on appelait engagé à l'époque et moi j'étais tout à fait dans ce courant-là, j'étais très passionnée par le sens justement, par le pourquoi du théâtre, je me demandais moins comment il fallait le faire mais surtout pourquoi il fallait le faire et à qui on s'adressait à ce moment-là, c'était une question très importante, à qui s'adresse le théâtre et moi j'ai fait partie de ce grand mouvement qui a voulu aller porter le théâtre aux gens. Quelle était la préoccupation de la comédienne au début de sa carrière?",
+        "text": "Est-ce que vous pouvez nous décrire votre itinéraire? Oui, j’ai fait mes études de comédienne à Montréal à l’École nationale de théâtre dans les années 70 et puis quand je suis sortie de l’école avec mon diplôme de comédienne, c’était la grande époque héroïque des créations collectives et du théâtre qu’on appelait engagé à l’époque et moi j’étais tout à fait dans ce courant-là, j’étais très passionnée par le sens justement, par le pourquoi du théâtre, je me demandais moins comment il fallait le faire mais surtout pourquoi il fallait le faire et à qui on s’adressait à ce moment-là, c’était une question très importante, à qui s’adresse le théâtre et moi j’ai fait partie de ce grand mouvement qui a voulu aller porter le théâtre aux gens. Quelle était la préoccupation de la comédienne au début de sa carrière?",
         "audio": "/mp3/155/33.mp3",
         "options": [
             "Augmenter la fréquentation des théâtres.",
@@ -179,25 +178,25 @@
             "Déterminer les nouveaux enjeux du théâtre.",
             "Jouer dans des pièces de théâtre inédites."
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "id": 34,
         "testId": "155",
-        "text": "Progresser dans l'entreprise est une question de compétence mais également d'intelligence relationnelle. Ne soyez pas naïf. Le monde du travail est un monde de compétition et de rivalité. Une ambiance qui peut toutefois vous stimuler et accroître votre envie de réussir et de progresser. Évitez cependant de rentrer dans les stratégies de clan, les querelles, les intrigues au sein de l'entreprise. Le pouvoir peut changer de main à vos dépens. Soyez un observateur attentif des relations au sein du service, cernez la personnalité des uns et des autres et les jeux de cours sans y participer. Que faut-il éviter pour progresser au sein de l’entreprise?",
+        "text": "Progresser dans l’entreprise est une question de compétence mais également d’intelligence relationnelle. Ne soyez pas naïf. Le monde du travail est un monde de compétition et de rivalité. Une ambiance qui peut toutefois vous stimuler et accroître votre envie de réussir et de progresser. Évitez cependant de rentrer dans les stratégies de clan, les querelles, les intrigues au sein de l’entreprise. Le pouvoir peut changer de main à vos dépens. Soyez un observateur attentif des relations au sein du service, cernez la personnalité des uns et des autres et les jeux de cours sans y participer. Que faut-il éviter pour progresser au sein de l’entreprise?",
         "audio": "/mp3/155/34.mp3",
         "options": [
             "De prendre ouvertement position dans des rivalités internes.",
             "De se confier à tous ses collègues avant de les connaître.",
             "De trop faire valoir ses compétences pour montrer sa supériorité",
-            "De vouloir participer à tous les projets sans vraiment s'investir"
+            "De vouloir participer à tous les projets sans vraiment s’investir"
         ],
         "answer": 0
     },
     {
         "id": 35,
         "testId": "155",
-        "text": "Le souhait de tout le monde aujourd'hui, des producteurs comme des consommateurs, c'est de réduire la distance entre la production à elle-même et l'assiette. C'est exactement ça. Nous avons vu surgir toutes les pratiques que l'on connaît, les modes de distribution relativement rapides. Le premier forum, Faudalie, a voulu être un lieu de rencontre des professionnels pour apprécier les évolutions et les modes de commercialisation et d'achat de nos concitoyens. D'après cet entretien, que souhaite l'ensemble des intéressés?",
+        "text": "Le souhait de tout le monde aujourd’hui, des producteurs comme des consommateurs, c’est de réduire la distance entre la production à elle-même et l’assiette. C’est exactement ça. Nous avons vu surgir toutes les pratiques que l’on connaît, les modes de distribution relativement rapides. Le premier forum, Faudalie, a voulu être un lieu de rencontre des professionnels pour apprécier les évolutions et les modes de commercialisation et d’achat de nos concitoyens. D’après cet entretien, que souhaite l’ensemble des intéressés?",
         "audio": "/mp3/155/35.mp3",
         "options": [
             "De nouveaux modes de culture.",
@@ -210,11 +209,11 @@
     {
         "id": 36,
         "testId": "155",
-        "text": "Est-ce qu'il est irréformable ce bac Carméus? On y arrivera bien un jour à le réformer. C'est obligatoire de toute façon, ce qu'on voit bien. C'est un examen qui coûte cher, ça tout le monde le sait, qui a beaucoup d'inconvénients. En plus, il n'apporte plus aujourd'hui les garanties de sélection. Parce qu'au fond c'est ça le bac. Si il y a un examen c'est bien pour sélectionner ceux qui l'ont, de ceux qui ne sont pas jugés capables par l'éducation nationale de sortir de ce système et d'aller vers l'enseignement supérieur. Donc à partir du moment où il n'y a plus cette garantie-là, il faut le faire évoluer. Pourquoi le baccalauréat devrait être réformé selon celui qui s'exprime?",
+        "text": "Est-ce qu’il est irréformable ce bac Carméus? On y arrivera bien un jour à le réformer. C’est obligatoire de toute façon, ce qu’on voit bien. C’est un examen qui coûte cher, ça tout le monde le sait, qui a beaucoup d’inconvénients. En plus, il n’apporte plus aujourd’hui les garanties de sélection. Parce qu’au fond c’est ça le bac. Si il y a un examen c’est bien pour sélectionner ceux qui l’ont, de ceux qui ne sont pas jugés capables par l’éducation nationale de sortir de ce système et d’aller vers l’enseignement supérieur. Donc à partir du moment où il n’y a plus cette garantie-là, il faut le faire évoluer. Pourquoi le baccalauréat devrait être réformé selon celui qui s’exprime?",
         "audio": "/mp3/155/36.mp3",
         "options": [
-            "L'intérêt principal de sa mise en place a disparu.",
-            "Le ministère manque de moyens pour l'organiser.",
+            "L’intérêt principal de sa mise en place a disparu.",
+            "Le ministère manque de moyens pour l’organiser.",
             "Le taux de réussite des candidats est en baisse.",
             "Le nombre de fraudes constatées augmente."
         ],
@@ -223,7 +222,7 @@
     {
         "id": 37,
         "testId": "155",
-        "text": "La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein, il est sociologue spécialiste des politiques urbaines. La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme, c'est fait au dépens d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça ne change pas nécessairement les moyens qui sont mis à disposition(made available) de ces écoles pour réaliser leur mission. Il y en a de même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plutôt d'améliorer la qualité de service dans ces quartiers? Quelle réseve le sociologue Renaud Epstein émit-il?",
+        "text": "La rénovation urbaine est aujourd’hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein, il est sociologue spécialiste des politiques urbaines. La mobilisation de milliards d’euros pour changer le bâti et changer l’urbanisme, c’est fait au dépens d’autres domaines d’intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça ne change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour réaliser leur mission. Il y en a de même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l’enjeu ne devrait pas être plutôt d’améliorer la qualité de service dans ces quartiers? Quelle réseve le sociologue Renaud Epstein émit-il?",
         "audio": "/mp3/155/37.mp3",
         "options": [
             "Les bâtiments restaurés sont en nombre insuffisant.",
@@ -236,20 +235,20 @@
     {
         "id": 38,
         "testId": "155",
-        "text": "Marianne Dujarrié, vous êtes sociologue. Dans votre livre, l'idéal au travail, vous parlez d'un phénomène social que vous constatez dans des milieux très différents. Le travail, pour beaucoup, ressemble à un idéal qu'on n'atteint jamais, c'est cela? Plus exactement, le travail tel qu'il est demandé, tel qu'il est prescrit, est aujourd'hui idéal. C'est-à-dire, on ne peut pas déroger à cet idéal. Autrement dit, l'idéal a perdu son statut d'idéal. Il serait devenu une sorte de norme, impossible évidemment à atteindre. Il faut être complètement épanoui par le travail, forme de prescription à prendre du plaisir dans le travail. Qu’est-ce qui dérange la sociologue dans la conception actuel du travail?",
+        "text": "Marianne Dujarrié, vous êtes sociologue. Dans votre livre, l’idéal au travail, vous parlez d’un phénomène social que vous constatez dans des milieux très différents. Le travail, pour beaucoup, ressemble à un idéal qu’on n’atteint jamais, c’est cela? Plus exactement, le travail tel qu’il est demandé, tel qu’il est prescrit, est aujourd’hui idéal. C’est-à-dire, on ne peut pas déroger à cet idéal. Autrement dit, l’idéal a perdu son statut d’idéal. Il serait devenu une sorte de norme, impossible évidemment à atteindre. Il faut être complètement épanoui par le travail, forme de prescription à prendre du plaisir dans le travail. Qu’est-ce qui dérange la sociologue dans la conception actuel du travail?",
         "audio": "/mp3/155/38.mp3",
         "options": [
-            "L'accès à la reconnaissance sociale est conditionné par le travail.",
+            "L’accès à la reconnaissance sociale est conditionné par le travail.",
             "La réalisation de soi par le travail est devenue une obligation.",
             "Les responsabilités au travail sont considérées comme des priorités absolues.",
-            "Le travail est systématiquement opposé à l'épanouissement personnel."
+            "Le travail est systématiquement opposé à l’épanouissement personnel."
         ],
         "answer": 1
     },
     {
         "id": 39,
         "testId": "155",
-        "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d'Europe comme de l'objectif ultime du processus d'unification européenne, elle a d'un coup redonné une clarté à cette entreprise si complexe qu'elle en est devenue obscure à temps d'européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l'unité de l'Europe n'osaient plus employer l'expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L'idée véhiculée par les États-Unis d'Europe, c'est-à-dire des États soumis à un pouvoir fédéral, n'est pas du tout à l'ordre du jour. Selon le chroniqueur, pourquoi l'expression « États-Unis d'Europe » est-elle taboue?",
+        "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d’Europe comme de l’objectif ultime du processus d’unification européenne, elle a d’un coup redonné une clarté à cette entreprise si complexe qu’elle en est devenue obscure à temps d’européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l’unité de l’Europe n’osaient plus employer l’expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L’idée véhiculée par les États-Unis d’Europe, c’est-à-dire des États soumis à un pouvoir fédéral, n’est pas du tout à l’ordre du jour. Selon le chroniqueur, pourquoi l’expression « États-Unis d’Europe » est-elle taboue?",
         "audio": "/mp3/155/39.mp3",
         "options": [
             "Elle est trop éloignée des orientations politiques actuelles.",

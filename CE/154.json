@@ -7,14 +7,14 @@
             "il a avalé un mauvais morceau de fromage",
             "il a trouvé quelque chose dans son fromage",
             "il est tombé malade en mangeant du fromage",
-            "il s'est fait mal aux dents avec le fromage"
+            "il s’est fait mal aux dents avec le fromage"
         ],
         "answer": 1
     },
     {
         "id": 21,
         "testId": "154",
-        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. «Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir», explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale: --provoquer des rencontres-- en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. «Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l’odeur, peuvent faire réagir», explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs avantures dans un blog de voyage.",
         "query": "Quel était l’objectif de Mathieu et Elodie?",
         "options": [
             "découvrir des recettes locales",
@@ -27,11 +27,11 @@
     {
         "id": 22,
         "testId": "154",
-        "text": "Monsieur Lereux, J’ai l’honneur de vous informer que votre nom a été sélectionné pour «Magasins en fête»! Dès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d’achat! C’est la dernière étape, alors n’attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l’un de nos nombreux autres cadeaux.",
+        "text": "Monsieur Lereux, J’ai l’honneur de vous informer que votre nom --a été sélectionné pour «Magasins en fête»--! Dès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d’achat! C’est la dernière étape, alors n’attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l’un de nos nombreux autres cadeaux.",
         "query": "Pourquoi Monsieur Lereux doit-il se rendre en magasin?",
         "options": [
-            "pour bénéficier d'une promotion",
-            "pour participer à la finale d'un jeu",
+            "pour bénéficier d’une promotion",
+            "pour participer à la finale d’un jeu",
             "pour recevoir un coupon de voyage",
             "pour tenir un chèque cadeau"
         ],
@@ -53,12 +53,12 @@
     {
         "id": 24,
         "testId": "154",
-        "text": "Journée Portes Ouvertes à PolyInTours. Venez renconter les étudiants, enseignants et association de PolytechTours. Le samedi 12 février, de 9h à 10h. Sans interruption. Espaces d’information présents sur les trois sites de l’école. Présentation des modes et des métiers d’ingénieur par les responsable des spécialités sur chaque site. Visites guidées des salles de travaux pratiques, des centres de documentation, des laboratoires de recherche et de langues. Démonstration de projets réalisés dans nos cursus. Présentation des associations étudiantes.",
+        "text": "Journée Portes Ouvertes à PolyInTours. Venez renconter les étudiants, enseignants et association de PolytechTours. Le samedi 12 février, de 9h à 10h. Sans interruption. Espaces d’information présents sur les trois sites de l’école. Présentation des modes et --des métiers d’ingénieur-- par les responsable des spécialités sur chaque site. Visites guidées des salles de travaux pratiques, des centres de documentation, des laboratoires de recherche et de langues. Démonstration de projets réalisés dans nos cursus. Présentation des associations étudiantes.",
         "query": "Quel est l’objectif de cette journée?",
         "options": [
             "découvrir le travail de recherche en laboratoire",
             "faire découvrir les formations pour devenir ingénieur",
-            "Inaugurer l'ouverture d'un campus universitaire",
+            "Inaugurer l’ouverture d’un campus universitaire",
             "obtenir des conseils afin de créer une association"
         ],
         "answer": 1
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "154",
-        "text": "Près du Nil, le futur musée égyptien. En 2002, l’Égypte lance un appel d’offres pour la construction du Grand Musée. Des architectes de renommée mondiale proposent leurs projets. C’est celui de Shih-Fu Peng, un jeune architecte inconnu, qui est choisi sur une idée simple construire un énorme bâtiment face aux pyramides détruirait l’harmonie du plateau de GIzeh. Il faut donc bâtir cinquante mètres en contrebas. Ainsi ne verra-t-on jamais le musée au même niveau que les pyramides. En revanche, il sera toujours possible de voir celles-ci depuis des galeries et ses salles, dans un panorama inviolé.",
+        "text": "Près du Nil, le futur musée égyptien. En 2002, l’Égypte lance un appel d’offres pour la construction du Grand Musée. Des architectes de renommée mondiale proposent leurs projets. C’est celui de Shih-Fu Peng, un jeune architecte inconnu, qui est choisi sur une idée simple construire un énorme bâtiment face aux pyramides détruirait l’harmonie du plateau de GIzeh. Il faut donc bâtir cinquante mètres en contrebas. Ainsi --ne verra-t-on jamais le musée au même niveau que les pyramides--. En revanche, il sera toujours possible de voir celles-ci depuis des galeries et ses salles, dans un panorama inviolé.",
         "query": "Pourquoi Shi-Fu Peng a-t-il été choisi pour construire le musée?",
         "options": [
             "il a associé un architecte célèbre à son projet",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "154",
-        "text": "Fini le poulet-purée! Rictus inquiet du garçon de salle, regard accusateur des voisins de table… Oser se présenter au restaurant avec un enfant en bas âge déclenche bien souvent la fâcheuse impression d’être persona non grata. Heureusement les choses changent. La clientèle rajeunit et l’univers de la gastronomie se renouvelle. Les grands chefs, dérangés par l’idée d’une cuisine pour enfants, ont pris l’initiative de concocter un menu destiné aux gastronomes en culottes courtes. Comme si ces derniers ne pouvaient apprécier autre chose que du blanc de volaille ou des carottes râpées! Ils ont préféré adapter la taille des assiettes plutôt que de simplifier leur contenu afin d’éduquer les papilles des bambins.",
+        "text": "Fini le poulet-purée! Rictus inquiet du garçon de salle, regard accusateur des voisins de table… Oser se présenter au restaurant avec un enfant en bas âge déclenche bien souvent la fâcheuse impression d’être persona non grata. Heureusement les choses changent. La clientèle rajeunit et l’univers de la gastronomie se renouvelle. Les grands chefs, dérangés par l’idée d’une cuisine pour enfants, ont pris l’initiative de concocter un menu destiné aux gastronomes en culottes courtes. Comme si ces derniers ne pouvaient apprécier autre chose que du blanc de volaille ou des carottes râpées! Ils ont préféré adapter la taille des assiettes plutôt que de simplifier leur contenu --afin d’éduquer les papilles des bambins--.",
         "query": "Que font les grands chefs pour les enfants?",
         "options": [
             "ils développent leur culture du goût",
@@ -92,33 +92,33 @@
     {
         "id": 27,
         "testId": "154",
-        "text": "Dans une interview, le ministre de l’Écologie proposait ces quelques conseils, mis en pratique par lui-même au quotidien, afin de mieux contribuer au respect de l’environement: «Ma famille et moi-même avons d’abord installé des économiseurs sur tous les robinets de la maison. D’autre part, nous faisons très attention à ne consommer que des produits de saison afin de réduire au maximum les emballages inutiles que produisent les techniques de congélation et de mise en conserve des aliments. Bref, nous essayons d’appliquer tous ces petits gestes qui doivent devenir de vrais féflexes.»",
+        "text": "Dans une interview, le ministre de l’Écologie proposait ces quelques conseils, mis en pratique par lui-même au quotidien, afin de mieux contribuer au respect de l’environement: «Ma famille et moi-même avons d’abord installé des --économiseurs sur tous les robinets-- de la maison. D’autre part, nous faisons très attention à ne consommer que des produits de saison afin de réduire au maximum les emballages inutiles que produisent les techniques de congélation et de mise en conserve des aliments. Bref, nous essayons d’appliquer tous ces petits gestes qui doivent devenir de vrais féflexes.»",
         "query": "Quelle pratique, entre autres, le ministre de l’Ecologie cherche-t-il à limiter?",
         "options": [
             "La consommation de produits importés par avion",
             "la distribution de sacs en plastique en magasin",
-            "l'utilisation de métaux toxiques dans les tuyaux",
-            "le gaspillage de l'eau dans le réseau domestique"
+            "l’utilisation de métaux toxiques dans les tuyaux",
+            "le gaspillage de l’eau dans le réseau domestique"
         ],
         "answer": 3
     },
     {
         "id": 28,
         "testId": "154",
-        "text": "Un Français sur quatre renonce à se soigner faute de moyens. Beaucoup d’hôpitaux diminuent leur personne, et facturent plus cher leurs services aux malades. Le prix des médicaments a doublé en 20 ans. Les inégalités face aux soins s’aggravent. C’est pourquoi nous demandons au gouvrenement de mettre en place le remboursement à 100% des dépenses médicales, de faciliter l’installation des jeunes médecins dans les zones qui en manquent, de développer la prévention des maladies et de multiplier les centres médicaux avec des consultations gratuites! La santé ne peut pas, être un commerce.",
+        "text": "Un Français sur quatre renonce à se soigner faute de moyens. Beaucoup d’hôpitaux diminuent leur personne, et facturent plus cher leurs services aux malades. Le prix des médicaments a doublé en 20 ans. Les inégalités face aux soins s’aggravent. C’est pourquoi --nous demandons au gouvrenement de mettre en place-- le remboursement à 100% des dépenses médicales, de faciliter l’installation des jeunes médecins dans les zones qui en manquent, de développer la prévention des maladies et de multiplier les centres médicaux avec des consultations gratuites! La santé ne peut pas, être un commerce.",
         "query": "Qu’est-ce qui indigne l’auteur de cet article?",
         "options": [
             "la multiplication des pathologies",
-            "l'absence de programme politique",
+            "l’absence de programme politique",
             "le manque de qualité des infrastructures",
-            "l'incompétence du personnel de santé"
+            "l’incompétence du personnel de santé"
         ],
         "answer": 1
     },
     {
         "id": 29,
         "testId": "154",
-        "text": "L’émotion des aborigènes. Lorsque les aborigènes ngarinyin, venus pour la première fois en Europe en 1997 pour une série d’expositions et de conférences sur l’histoire de l’Océanie, entrèrent à Lascaux, ils fondirent en larmes en tombant en arrêt devant les dessins préhistoriques. L’espace d’un instant, ils avaient cru que leur territoire sacré, peint en Australie. Les avait suisvis jusqu’en France… C’est l’une des anecdotes que raconte l’archéologue Jean-Pierre Mohen dans son livre Art et préhistoire.",
+        "text": "L’émotion des aborigènes. Lorsque les aborigènes ngarinyin, venus pour la première fois en Europe en 1997 pour une série d’expositions et de conférences sur l’histoire de l’Océanie, entrèrent à Lascaux, ils fondirent en larmes en tombant en arrêt devant les dessins préhistoriques. L’espace d’un instant, ils avaient cru que leur territoire sacré, --peint en Australie, les avait suisvis jusqu’en France--… C’est l’une des anecdotes que raconte l’archéologue Jean-Pierre Mohen dans son livre Art et préhistoire.",
         "query": "Pourquoi les aborigènes ont-ils pleuré en voyant les peintures de Lascaux?",
         "options": [
             "ils étaient étonnés devant tant de splendeur",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "154",
-        "text": "Chaque année, le 10 août, les cordons bleus de l’île de la Gaudeloupese retrouvent à Pointe-à-Pitre pour célébrer saint Laurent, leur patron. Après une grande messe donnée à l’église de Saint-pierre-et-saint-paul, une procession de cusinières vêtues de leurs plus beaux madras sillonne la ville avant de convier la population à un grand festin composé des meilleurs plats créoles. Située dans le village du Gosier, à proximité de pointe-à-pitre, l’Auberge de la Vieille Tour, construite autour d’un moulin à vent du XVIIe siècle, sera un lieu de séjour idéal pour assister à cette manifestation haute en couleur et pour goûter au vrai parfum des Antilles.",
+        "text": "Chaque année, le 10 août, les cordons bleus de l’île de la Gaudeloupese retrouvent à Pointe-à-Pitre pour célébrer saint Laurent, leur patron. Après une grande messe donnée à l’église de Saint-pierre-et-saint-paul, une procession de cusinières vêtues de leurs plus beaux madras sillonne la ville avant de convier la population --à un grand festin composé des meilleurs plats créoles--. Située dans le village du Gosier, à proximité de pointe-à-pitre, l’Auberge de la Vieille Tour, construite autour d’un moulin à vent du XVIIe siècle, sera un lieu de séjour idéal pour assister à cette manifestation haute en couleur et pour goûter au vrai parfum des Antilles.",
         "query": "La fête de saint Laurent à Pointe-à-Pitre",
         "options": [
             "consiste en un grand événement religieux",
@@ -144,11 +144,11 @@
     {
         "id": 31,
         "testId": "154",
-        "text": "«Il faut te le dire en quelle langue?» Cette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l’idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité.",
+        "text": "«Il faut te le dire en quelle langue?» Cette question, que des milliers de mères posent à leur enfant lorsqu’elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l’information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l’idée ou le problème mais, lorsque nous utilisons une autre langue, --le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l’utilité--.",
         "query": "Que permet l’utilisation d’une langue autre que la langue maternelle?",
         "options": [
-            "d'attirer l'attention de l'interlocuteur",
-            "d'imaginer des solutions originales",
+            "d’attirer l’attention de l’interlocuteur",
+            "d’imaginer des solutions originales",
             "de solliciter davantage la raison",
             "de trouver des réponses rapides"
         ],
@@ -160,7 +160,7 @@
         "text": "La commission européenne s’était penchée sur la demande d’adhésion à l’Union de l’Islande moins de deux semaines après la requête, preuve que le pays possédait des atouts indéniables, jusqu’alors, l’Islande avait été peu disposée à entrer dans l’Union. Toutefois, suite à l’effondrement de ses principaux établissements financiers et à la chute du cours de la couronne, la monnaie islandaise, le pays avait vu dans cette adhésion et dans l’adoption de l’euro un moyen de stabiliser son économie. Pour le président de l’Union, cette volonté d’intégrer l’espace européen renforçait la crédibilité du projet communautaire de l’ancien continent. L’Islande avait fini par retirer sa demande suita à un changement de gouvernement et pour éviter des sujets épineux comme les quotas de pêche.",
         "query": "Selon cet article, pourquoi l’Islande avait-elle souhaité entrer dans l’Union Européenne?",
         "options": [
-            "pour bénéficier des aides financières de l'Union",
+            "pour bénéficier des aides financières de l’Union",
             "pour mieux contrôler ses établissements financiers",
             "pour redonner de la valeur à la monnaie nationale",
             "pour sortir de la crise que son économie subissait"
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "154",
-        "text": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail. L’apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l’origine de l’augmentation des cas de syndrome d’épuisement professionnel: c’est le mal du siècle et pourtant, il n’est pas encore reconnu. Les salariés, prisonniers de l’idéologie ambiante, s’imaginent trop souvent, quand ils craquent, qu’un collègue plus solide qu’eux aurait été capable de résister. Mais cela s’avère faux la pluspart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d’utilité publique.",
+        "text": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail. L’apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l’origine de l’augmentation des cas de syndrome d’épuisement professionnel: --c’est le mal du siècle et pourtant, il n’est pas encore reconnu--. Les salariés, prisonniers de l’idéologie ambiante, s’imaginent trop souvent, quand ils craquent, qu’un collègue plus solide qu’eux aurait été capable de résister. Mais cela s’avère faux la pluspart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d’utilité publique.",
         "query": "quel constat est dressé à propos de ce syndrome?",
         "options": [
             "Il inquiète les patrons de sociétés",
@@ -183,11 +183,11 @@
     {
         "id": 34,
         "testId": "154",
-        "text": "L’apprentissage en Europe. À l’heure actuelle, l’utilisation des nouvelles technologies de l’information et de la communication(TIC) dans les salles de classe est rare. Les établissements travaillent encore selon un modèle ancien de l’éducation. Cela signifie que les établissements n’ont pas pu se détacher d’une structure trop rigide. Ils fondent leurs ressources d’enseignement sur des manuels, ont peu recours aux connaissances mises à leur portée. Grâce à la mondialisation et travaillent au sein d’espaces d’apprentissage très spécifiques. Les établissements appliquent toujours une philosophie plus caractéristique de XIXe siècle que du XXIe siècle. L’enseignement se caractérise actuellement par des établissement du XIXe siècle dans lesquels des enseignants du XXe siècle travaillent auprès d’étudiants du XXIe siècle.",
+        "text": "L’apprentissage en Europe. À l’heure actuelle, l’utilisation des nouvelles technologies de l’information et de la communication(TIC) dans les salles de classe est rare. Les établissements travaillent encore selon un modèle ancien de l’éducation. Cela signifie que les établissements n’ont pas pu se détacher d’une structure trop rigide. Ils fondent leurs ressources d’enseignement sur des manuels, ont peu recours aux connaissances mises à leur portée. Grâce à la mondialisation et travaillent au sein d’espaces d’apprentissage très spécifiques. Les établissements appliquent toujours une philosophie plus caractéristique de XIXe siècle que du XXIe siècle. L’enseignement se caractérise actuellement par --des établissement du XIXe siècle dans lesquels des enseignants du XXe siècle travaillent auprès d’étudiants du XXIe siècle--.",
         "query": "Que présente l’auteur de l’article?",
         "options": [
-            "des méthodes innovantes sur l'usage des TIC",
-            "des pistes de recherche sur l'apprentissage",
+            "des méthodes innovantes sur l’usage des TIC",
+            "des pistes de recherche sur l’apprentissage",
             "un état des lieux des ressources pédagogiques",
             "une analyse du contexte socio-éducatif actuel"
         ],
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "154",
-        "text": "On connaît Cézanne surtout pour ses paysages, mais le Musée d’Orsay montre, pour la première fois, une partie méconnue de l’oeuvre de l’artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l’objet d’une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès des débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu’une autre forme de paysage.",
+        "text": "On connaît Cézanne surtout pour ses paysages, mais le Musée d’Orsay montre, pour la première fois, une partie méconnue de l’oeuvre de l’artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l’objet d’une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès des débuts, --les figures de son père et de sa mère sont tourmentées--. Lui-même se représente à 27 ans, --patibulaire et le regard injecté de sang--. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu’une autre forme de paysage.",
         "query": "Que souligne cette exposition sur Paul Cézanne?",
         "options": [
             "l’influence de ses contemporains",
@@ -209,11 +209,11 @@
     {
         "id": 36,
         "testId": "154",
-        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d’obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu’un scientifique, Anthony Van der Hent, a prouvé que des «super-plantes» avaient la faculté d’extraire du sol des métaux économiquement exploitables. C’est donc la possibilité d’allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.",
+        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d’obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme --il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes--, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu’un scientifique, Anthony Van der Hent, a prouvé que des «super-plantes» avaient la faculté d’extraire du sol des métaux économiquement exploitables. C’est donc la possibilité d’allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.",
         "query": "Sur quel point porte le scepticisme du journaliste?",
         "options": [
             "la capacité des plantes à nettoyer les sols",
-            "la rentabilité d'un nouveau système d'extraction",
+            "la rentabilité d’un nouveau système d’extraction",
             "le résultat des recherches de M. Van der Hent",
             "Les préoccupations écologiques des industriels"
         ],
@@ -222,12 +222,12 @@
     {
         "id": 37,
         "testId": "154",
-        "text": "Quand j’ai ouvert ce blog il y a bientôt trois ans, je lisais partout sur Internet que le journalisme professionnel était mort dès lors que chacun pouvait devenir journaliste, au sens de diffuseur d’informations. Ce point de vue, à mon sens érroné, tend à disparaître. Il disparaît à mesure que se dessine sur Internet la différence entre faits et opinions, entre travail professionnel et amateur, entre capacité à aller chercher l’information et simple possibilité technique de la diffuser. Tout le monde n’est pas devenu journaliste avec Internet, en revanche, nous somme de plus en plus nombreux à accéder au statut de membres actifs du système médiatique.",
+        "text": "Quand j’ai ouvert ce blog il y a bientôt trois ans, je lisais partout sur Internet que le journalisme professionnel était mort dès lors que chacun pouvait devenir journaliste, au sens de diffuseur d’informations. Ce point de vue, à mon sens érroné, tend à disparaître. Il disparaît à mesure que se dessine sur Internet --la différence entre faits et opinions, entre travail professionnel et amateur, entre capacité à aller chercher l’information et simple possibilité technique de la diffuser--. Tout le monde n’est pas devenu journaliste avec Internet, en revanche, nous somme de plus en plus nombreux à accéder au statut de membres actifs du système médiatique.",
         "query": "Quelle est l’opinion de cette personne sur l’évolution du métier de journaliste?",
         "options": [
             "la formation du métier de journaliste est devenue tout à fait inutile",
             "une frontière est apparue entre les journalistes confirmés et les autres",
-            "l'évolution d'Internet a affaibli le respect porté au statut de journaliste",
+            "l’évolution d’Internet a affaibli le respect porté au statut de journaliste",
             "des internautes publiant sur le net se prennent pour des journalistes"
         ],
         "answer": 1
@@ -235,12 +235,12 @@
     {
         "id": 38,
         "testId": "154",
-        "text": "C’est au milieu des populations françaises du Canada que s’est développée, au dix-neuvième siècle, la littérature québécoise. Une littérature porte nécessairement l’empreinte de l’esprit qui l’a faite. L’esprit canadien-français est évidemment à base de qualités françaises. Cependant, notre esprit a visiblement subi l’influence des conditions nouvelles de vie, historiques, géographiques et sociales. Bien que pendant deux siècles, les besognes utilitaires aient absorbé toutes nos énergies au dépens de la culture de l’esprit. Aujourd’hui une conscience plus nette de nos déficiences, une ambition plus vive d’accroître notre vie intellectuelle et artistique, un souci plus grand des pouvoirs publics de coopérer avec les initiatives privées ont déterminé des progrès, promesse d’un meilleur avenir.",
+        "text": "C’est au milieu des populations françaises du Canada que s’est développée, au dix-neuvième siècle, la littérature québécoise. Une littérature porte nécessairement l’empreinte de l’esprit qui l’a faite. L’esprit canadien-français est évidemment à base de qualités françaises. Cependant, notre esprit a visiblement subi l’influence des conditions nouvelles de vie, historiques, géographiques et sociales. Bien que pendant deux siècles, les besognes utilitaires aient absorbé toutes nos énergies au dépens de la culture de l’esprit. Aujourd’hui une conscience plus nette de nos déficiences, une ambition plus vive d’accroître notre vie intellectuelle et artistique, --un souci plus grand des pouvoirs publics de coopérer avec les initiatives privées ont déterminé des progrès--, promesse d’un meilleur avenir.",
         "query": "Selon ce spécialiste, qu’est-ce qui caractérise la littérature québécoise contemporaine?",
         "options": [
-            "l'absence d'attirance pour les thèmes traditionnels",
-            "l'affirmation d'un style distinct de celui des français",
-            "l'effervescence créatrice contrastant avec le passé",
+            "l’absence d’attirance pour les thèmes traditionnels",
+            "l’affirmation d’un style distinct de celui des français",
+            "l’effervescence créatrice contrastant avec le passé",
             "le projet national de produire des œuvres majeures"
         ],
         "answer": 3
@@ -248,11 +248,11 @@
     {
         "id": 39,
         "testId": "154",
-        "text": "Pluie d’enfer. Pièce de théâtre de K. Huff. Un face-à-face entre deux flics, deux hommes forts, durs mais terriblement humains, dont les destins vont bassculer. Ce qui fait courir les foules, ce sont les deux acteurs: O. Marchai et B. Wolkowitch. La pièce est habilement stylisée, ne joue jamais les effets réalistes: plateau noir, pluie monotone en fond sonore qui s’inscrit dans l’atmosphère d’un monde vide. Sans doute cette tension fait-elle la force de Pluie d’enfer et son intense pouvoir d’attraction. Cependant, l’interprétation sur scène n’atteint jamais la présence fascinante des deux personnages fictifs de l’oeuvre dramatique.",
+        "text": "Pluie d’enfer. Pièce de théâtre de K. Huff. Un face-à-face entre deux flics, deux hommes forts, durs mais terriblement humains, dont les destins vont bassculer. Ce qui fait courir les foules, ce sont les deux acteurs: O. Marchai et B. Wolkowitch. La pièce est habilement stylisée, ne joue jamais les effets réalistes: plateau noir, pluie monotone en fond sonore qui s’inscrit dans l’atmosphère d’un monde vide. Sans doute cette tension fait-elle la force de Pluie d’enfer et son intense pouvoir d’attraction. Cependant, --l’interprétation sur scène n’atteint jamais la présence fascinante des deux personnages fictifs de l’oeuvre dramatique--.",
         "query": "Pour ce journaliste, quel est le point négatif de cette pièce?",
         "options": [
-            "l'intrigue déçoit par son invraisemblance",
-            "la mise en scène est simplifiée à l'extrême",
+            "l’intrigue déçoit par son invraisemblance",
+            "la mise en scène est simplifiée à l’extrême",
             "la tension dramatique demeure inexistante",
             "le jeu des comédiens manque de puissance"
         ],
