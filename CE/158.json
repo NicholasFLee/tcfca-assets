@@ -8,7 +8,7 @@
             "L’expression du temps est opposée à la représentation habituelle."
         ],
         "answer": 3,
-        "text": "Pour exprimer notre conception du temps, nous utilisons des métaphores spatiales. Dans toutes les langues connues, le passé sont associés à l’espace situé derrière l’individu, et le futur à l’espace situé devant lui. Sauf dans la langue aymara, parlée dans une partie de la Bolivie, du Pérou et du Chili associé à ce qui est connu par la vue, le passé est situé devant, tandis que le futur, inconnu, est derrière soi. Une enquête de terrain, qui a recoupé les mots et les gestes des locuteurs, a permis de confirmer qu’il s’agit bien d’une façon de penser inverse de la nôtre.",
+        "text": "Pour exprimer notre conception du temps, nous utilisons des métaphores spatiales. Dans toutes les langues connues, le passé sont associés à l’espace situé derrière l’individu, et le futur à l’espace situé devant lui. Sauf dans la langue aymara, parlée dans une partie de la Bolivie, du Pérou et du Chili associé à ce qui est connu par la vue, --le passé est situé devant, tandis que le futur, inconnu, est derrière soi--. Une enquête de terrain, qui a recoupé les mots et les gestes des locuteurs, a permis de confirmer qu’il s’agit bien d’une façon de penser inverse de la nôtre.",
         "query": "De quelle particularité de la langue aymara est-il question dans ce texte?"
     },
     {
@@ -47,7 +47,7 @@
             "D’écouter les plaintes des riverains."
         ],
         "answer": 0,
-        "text": "Où en est la propreté de Paris? Selon le maire, la propreté est un enjeu majeur de la vie quotidienne: « Depuis plusieurs mois, de gros efforts ont été entrepris, car nous avons davantage de moyens humains et techniques que par le passé. Néanmoins, il y a toujours trop de salissures en tous genres. Le civisme n’est pas toujours au rendez-vous. En dehors de la capacité à nettoyer, il est fondamental de dissuader les gens de salir. Pendant quatre jours, nous serons sur le terrain pour aller à la rencontre des riverains pour les sensibiliser aux enjeux de la propreté.»",
+        "text": "Où en est la propreté de Paris? Selon le maire, la propreté est un enjeu majeur de la vie quotidienne: « Depuis plusieurs mois, de gros efforts ont été entrepris, car nous avons davantage de moyens humains et techniques que par le passé. Néanmoins, il y a toujours trop de salissures en tous genres. Le civisme n’est pas toujours au rendez-vous. En dehors de la capacité à nettoyer, il est fondamental de --dissuader les gens de salir--. Pendant quatre jours, nous serons sur le terrain pour aller à la rencontre des riverains pour les sensibiliser aux enjeux de la propreté.»",
         "query": "Le maire de paris a décidé…"
     },
     {
@@ -60,7 +60,7 @@
             "Leur maintenance est assurée par des bénévoles."
         ],
         "answer": 1,
-        "text": "Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite... Les cartes fleurissent sur le web et les internautes y sont accros. Plus de 13 millions de Français consultent régulièrement des sites de localisation sur Internet. Sans oublier le succès phénoménal des photos-satellites mises en ligne. Ces services gratuits pour les internautes cachent un véritable business. De grandes sociétés rémunèrent les sites de localisation pour être bien placées sur les cartes. C’est d’autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
+        "text": "Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite... Les cartes fleurissent sur le web et les internautes y sont accros. Plus de 13 millions de Français consultent régulièrement des sites de localisation sur Internet. Sans oublier le succès phénoménal des photos-satellites mises en ligne. Ces services gratuits pour les internautes cachent un véritable business. --De grandes sociétés rémunèrent les sites de localisation-- pour être bien placées sur les cartes. C’est d’autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
         "query": "Qu’apprend-on sur les services de localisation sur internet?"
     },
     {
@@ -86,7 +86,7 @@
             "Lutter contre la démographie galopante."
         ],
         "answer": 2,
-        "text": "Les bénéfices du bio pour la santé et pour l’environnement sont aujourd’hui prouvés. Mais pour ses détracteurs, ce type de production ne serait pas viable, faute de rendements suffisants pour subvenir aux besoins d’une planète à la démographie galopante. Une idée répandue que réfutent des chercheurs européens qui affirment qu’il est possible de nourrir plus de 9 milliards d’êtres humains en 2050 avec 100% d’agriculture biologique, à deux conditions: réduire le gaspillage alimentaire et limiter la consommation de produits d’origine animale. Un défi de taille, alors que le bio ne représente que 1% de la surface agricole utile dans le monde.",
+        "text": "Les bénéfices du bio pour la santé et pour l’environnement sont aujourd’hui prouvés. Mais pour ses détracteurs, ce type de production ne serait pas viable, faute de rendements suffisants pour subvenir aux besoins d’une planète à la démographie galopante. Une idée répandue que réfutent des chercheurs européens qui affirment qu’il est possible de nourrir plus de 9 milliards d’êtres humains en 2050 avec 100% d’agriculture biologique, à deux conditions: réduire le gaspillage alimentaire et limiter la consommation de produits d’origine animale. Un défi de taille, --alors que le bio ne représente que 1%-- de la surface agricole utile dans le monde.",
         "query": "De quel défi est-il question?"
     },
     {
@@ -112,7 +112,7 @@
             "Une manifestation culturelle."
         ],
         "answer": 3,
-        "text": "DRAGONS CHINOIS À PARIS. C’est avec enthousiasme que le départ des festivités pour célébrer le Nouvel An chinois a été donné hier à 14h30 sur la place de l’Hôtel de Ville devant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leurs danses rythmées par les tambours. Si vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd’hui, car il y en a un autre de prévu à 11h30 au métro Belleville.",
+        "text": "DRAGONS CHINOIS À PARIS. C’est avec enthousiasme que le départ des festivités pour --célébrer le Nouvel An chinois-- a été donné hier à 14h30 sur la place de l’Hôtel de Ville devant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leurs danses rythmées par les tambours. Si vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd’hui, car il y en a un autre de prévu à 11h30 au métro Belleville.",
         "query": "Qu’a-t-on pu voir place de l’Hôtel de Ville?"
     },
     {
@@ -138,7 +138,7 @@
             "Ils se fixent des objectifs élevés dans ces matières."
         ],
         "answer": 3,
-        "text": "Les recherches actuelles sur la motivation indiquant que la confiance en ses capacité permet d’agir efficacement et joue un rôle crucial dans l’engagement et les performances d’un élève. Cette confiance peut varier d’un domaine à l’autre ainsi que d’une matière scolaire à l’autre. Tout comme on peut se sentir très à l’aise avec des instruments de musique, mais maladroits sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques. Les recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent en préférence des activités présentant pour eux un défi et leur donnant l’occasion de développer leurs habiletés. Inversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+        "text": "Les recherches actuelles sur la motivation indiquant que la confiance en ses capacité permet d’agir efficacement et joue un rôle crucial dans l’engagement et les performances d’un élève. Cette confiance peut varier d’un domaine à l’autre ainsi que d’une matière scolaire à l’autre. Tout comme on peut se sentir très à l’aise avec des instruments de musique, mais maladroits sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques. Les recherches ont montré que --les élèves confiants en leurs capacités dans une matière choisissent en préférence des activités présentant pour eux un défi-- et leur donnant l’occasion de développer leurs habiletés. Inversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
         "query": "Comment réagissent les élèves qui sont à l’aise dans certaines disciplines?"
     },
     {
@@ -151,7 +151,7 @@
             "Ils sont parfaitement à l’aise avec les derniers outils multimédias."
         ],
         "answer": 3,
-        "text": "Le jeunisme n’est certes pas un concept nouveau. Il y a toujours eu des adultes pour croire qu’ils pouvaient jouer en douce dans la cour des « jeunes ». On s’en moquait alors et ils ne trompaient personne, à commencer par eux-mêmes. La nouvelle donne est différente: les intéressés ne cherchent même pas à « faire jeune ». Ils le sont. Sans effort apparent ni ridicule particulier. Finies, les demandes humbles et ringardes aux enfants d’internet, pour se faire expliquer telle ou telle subtilité d’internet. Tout va bien, merci, les ex-vieux ont appris à se servir de leurs joujoux technos, tous seuls comme des grands! Ils se tiennent d’ailleurs parfois aussi mal que des ados, envoyant des SMS à table ou bondissant, à la moindre sonnerie.",
+        "text": "Le jeunisme n’est certes pas un concept nouveau. Il y a toujours eu des adultes pour croire qu’ils pouvaient jouer en douce dans la cour des « jeunes ». On s’en moquait alors et ils ne trompaient personne, à commencer par eux-mêmes. La nouvelle donne est différente: les intéressés ne cherchent même pas à « faire jeune ». Ils le sont. Sans effort apparent ni ridicule particulier. Finies, les demandes humbles et ringardes aux enfants d’internet, pour se faire expliquer telle ou telle subtilité d’internet. Tout va bien, merci, --les ex-vieux ont appris à se servir de leurs joujoux technos--, tous seuls comme des grands! Ils se tiennent d’ailleurs parfois aussi mal que des ados, envoyant des SMS à table ou bondissant, à la moindre sonnerie.",
         "query": "Dans quel sens évoluent les adultes d’après l’auteur?"
     },
     {
@@ -190,7 +190,7 @@
             "Parce que la régulation de la consommation d’énergie est inefficace."
         ],
         "answer": 1,
-        "text": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l’hexagone. En effet, l’Allemagne, qui approvisionne la France en électricité, née sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires. Le gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique Des foyers, qui atteignent des pics quotidiens autour de 19 h, Pourtant, la France possède l’un des plus grands parcs nucléaires du monde, mais elle exporte la Quasi-totalité de l’énergie produite.",
+        "text": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l’hexagone. En effet, l’Allemagne, qui approvisionne la France en électricité, --ne sera plus capable de faire face à la demande-- en raison de la fermeture de certains de ses réacteurs nucléaires. Le gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique Des foyers, qui atteignent des pics quotidiens autour de 19 h, Pourtant, la France possède l’un des plus grands parcs nucléaires du monde, mais elle exporte la Quasi-totalité de l’énergie produite.",
         "query": "Pourquoi y a-t-il des risques de coupures de courant?"
     },
     {
@@ -216,7 +216,7 @@
             "Il retrace l’improbable parcours de vie d’un ancien cancre."
         ],
         "answer": 3,
-        "text": "Histoires d’école\\n Bernard Martin\\n Longtemps, l’auteur de ce livre fut un objet de stupeur pour sa famille: incapable d’apprendre l’alphabet, détestant les majuscules, les noms propres et les listes de vocabulaire à retenir. « D’où venait mon ânerie? », se demande-t-il dans cet ouvrage qui en réconfortera plus d’un. Car ce romancier jubilatoire fut un mauvais élève, terrassé par l’école. Il fut aussi professeur de français, histoire de contredire le destin. Ce récit est à la fois un manuel de pédagogie et un recueil de souvenirs. Un beau témoignage à offrir à tous ceux qui n’ont pas la science infuse. À tout le monde, donc.",
+        "text": "Histoires d’école\n Bernard Martin\n Longtemps, l’auteur de ce livre fut un objet de stupeur pour sa famille: incapable d’apprendre l’alphabet, détestant les majuscules, les noms propres et les listes de vocabulaire à retenir. « D’où venait mon ânerie? », se demande-t-il dans cet ouvrage qui en réconfortera plus d’un. Car --ce romancier jubilatoire fut un mauvais élève--, terrassé par l’école. Il fut aussi professeur de français, histoire de contredire le destin. Ce récit est à la fois un manuel de pédagogie et un recueil de souvenirs. Un beau témoignage à offrir à tous ceux qui n’ont pas la science infuse. À tout le monde, donc.",
         "query": "Selon l’auteur de cette critique, en quoi ce livre est-il réjouissant?"
     },
     {
@@ -229,7 +229,7 @@
             "Le manque d’inventivité des promoteurs."
         ],
         "answer": 3,
-        "text": "Dans le Val-d’Oise, une grande entreprise immobilière envisage de bâtir un complexe commercial sur des terres agricoles parmi les plus fertiles de la région parisienne. Ce serait ainsi 80 hectares de champs qui disparaîtraient sous le béton pour laisser place à un grand temple de la consommation: locaux destinés à la culture (salle de spectacle. etc.). Aux loisirs (manèges. etc.) et aux magasins en tout genre. L’ouvrage pharaonique ne devra son succès qu’à son gigantisme: les promoteurs expliquent en effet qu’ils pensent attirer les clients du fait que ce centre commercial sera encore plus grand que ses cousins... Ce n’est pas avec ce genre de raisonnement que le rythme d’artificialisation des terres vont baisser, ni que la France diminuera ses émissions de CO2.",
+        "text": "Dans le Val-d’Oise, une grande entreprise immobilière envisage de bâtir un complexe commercial sur des terres agricoles parmi les plus fertiles de la région parisienne. Ce serait ainsi 80 hectares de champs qui disparaîtraient sous le béton pour laisser place à un grand temple de la consommation: locaux destinés à la culture (salle de spectacle. etc.). Aux loisirs (manèges. etc.) et aux magasins en tout genre. L’ouvrage pharaonique ne devra son succès qu’à son gigantisme: les promoteurs expliquent en effet qu’ils pensent attirer les clients du fait que ce centre commercial sera encore plus grand que ses cousins... --Ce n’est pas avec ce genre de raisonnement que le rythme d’artificialisation des terres vont baisser--, ni que la France diminuera ses émissions de CO2.",
         "query": "Que déplore l’auteur?"
     },
     {
@@ -242,7 +242,7 @@
             "Trouver une explication logique aux erreurs."
         ],
         "answer": 2,
-        "text": "Stella Baruk est une fée des chiffres. Une magicienne aux pouvoirs d’autant plus étonnants qu’ils donnent vie à la matière la plus redoutée - ou la plus détestée - par beaucoup d’entre nous: les mathématiques. Haut fait de cette enseignante: l’invention d’une méthode simple qui donne aux enfants le goût de cette discipline réputée austère et leur permet de réussir. Principe de base: si les maths, comme tout savoir, font appel à une langue spécifique, il faut aider les enfants qui n’entendent pas ce que dit le prof ou entendent autre chose - sans comprendre souvent l’énoncé du problème - à entrer dans le sens de cette langue, en multipliant les ponts avec le langage ordinaire. Comme tout scientifique, c’est sur le terrain que lui vient une révélation. « J’avais préparé un cours que je pensais très bien. À la fin, un élève m’a fait cette remarque qui m’a sidérée: « 6 est le double de 5 parce que le 6, tu comprendre, il double le 5. II lui passe juste devant. » Comment avait-il pu entendre cela ? » De cet incident nait une démarche patiente, exigeante et iconoclaste. Stella Baruk cerne l’inefficacité de nos méthodes et construit la sienne, fondée sur les mots, la langue, le sens, une vraie compréhension des opérations et des nombres, car les mathématiques sont un langage spécifique. C’est l’incapacité à le comprendre qui fonde les raisons plausibles et logiques des erreurs des élèves.",
+        "text": "Stella Baruk est une fée des chiffres. Une magicienne aux pouvoirs d’autant plus étonnants qu’ils donnent vie à la matière la plus redoutée - ou la plus détestée - par beaucoup d’entre nous: les mathématiques. Haut fait de cette enseignante: l’invention d’une méthode simple qui donne aux enfants le goût de cette discipline réputée austère et leur permet de réussir. Principe de base: si les maths, comme tout savoir, font appel à une langue spécifique, il faut aider les enfants qui n’entendent pas ce que dit le prof ou entendent autre chose - sans comprendre souvent l’énoncé du problème - à entrer dans le sens de cette langue, en multipliant les ponts avec le langage ordinaire. Comme tout scientifique, c’est sur le terrain que lui vient une révélation. « J’avais préparé un cours que je pensais très bien. À la fin, un élève m’a fait cette remarque qui m’a sidérée: « 6 est le double de 5 parce que le 6, tu comprendre, il double le 5. II lui passe juste devant. » Comment avait-il pu entendre cela ? » De cet incident nait une démarche patiente, exigeante et iconoclaste. Stella Baruk cerne l’inefficacité de nos méthodes et construit la sienne, --fondée sur les mots, la langue, le sens, une vraie compréhension des opérations et des nombres--, car les mathématiques sont un langage spécifique. --C’est l’incapacité à le comprendre qui fonde les raisons plausibles-- et logiques des erreurs des élèves.",
         "query": "Quelle est la solution à l’échec en mathématiques selon Stella Baruk?"
     },
     {
@@ -255,7 +255,7 @@
             "Le rajeunissement des spectateurs."
         ],
         "answer": 0,
-        "text": "C’est un fait: le football en France ne fait pas déplacer grand monde. Certains s’en étonnent; or c’est l’inverse qui devrait étonner. Au fond, quel intérêt y est-il à aller au stade? Pour de véritables supporters, c’est le désir de manifester son amour à une équipe soutenue, de se fondre dans une masse plus ou moins chaleureuse et grégaire. Mais pour les autres? En fait, d’un point de vue strictement footballistique, on ne vois pas. Les tribunes font ressentir le drôle de paradoxe de se trouver très près de l’événement, plus près qu’on ne l’a jamais été au point d’entendre les joueurs s’exclamer contre une décision arbitrale, tout en se sentant complément à l’écart de l’action, orphelin des plans serrés et des ralentis étoffés de commentaires parfois éclaircissants.",
+        "text": "C’est un fait: le football en France ne fait pas déplacer grand monde. Certains s’en étonnent; or c’est l’inverse qui devrait étonner. Au fond, quel intérêt y est-il à aller au stade? Pour de véritables supporters, c’est le désir de manifester son amour à une équipe soutenue, de se fondre dans une masse plus ou moins chaleureuse et grégaire. Mais pour les autres? En fait, d’un point de vue strictement footballistique, on ne vois pas. Les tribunes font ressentir le drôle de paradoxe de se trouver très près de l’événement, --plus près qu’on ne l’a jamais été au point d’entendre les joueurs s’exclamer contre une décision arbitrale, tout en se sentant complément à l’écart de l’action, orphelin des plans serrés et des ralentis étoffés de commentaires parfois éclaircissants.--",
         "query": "Selon cet article, qu’est-ce qui explique la baisse de fréquentation des stades?"
     }
 ]

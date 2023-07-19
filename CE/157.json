@@ -1,7 +1,7 @@
 [{
         "id": 20,
         "testId": "157",
-        "text": "MATCH SÈTE - TOURS Mercredi 12 novembre • Achat des billets aux points de vente habituels: 15 €. • Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse.» • Vente aux guichets du stade, le soir même: 20 €.",
+        "text": "MATCH SÈTE - TOURS Mercredi 12 novembre • Achat des billets aux points de --vente habituels: 15 €--. • Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse.» • Vente aux guichets du stade, --le soir même: 20 €--.",
         "query": "À quelle condition l’acheteur a-t-il un meilleur prix?",
         "options": [
             "En achetant les billets à l’avance.",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "157",
-        "text": "Un jour, en réfléchissant aux raisons qui m’avaient éloigné d’une carrière universitaire pourtant bien partie afin de me consacrer à mon I travail de médecin praticien, l’ai compris que mon choix tenait en partie au fait que l’on I riait beaucoup plus au contact des êtres humains plongés dans la vie qu’à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j’avais suivi le soleil de cette! vibration qui fabrique du bonheur, du lien, de la santé. Je ne l’ai jamais regretté.",
+        "text": "Un jour, en réfléchissant aux raisons qui m’avaient éloigné d’une carrière universitaire pourtant bien partie afin de me consacrer à mon I travail de médecin praticien, l’ai compris que mon choix tenait en partie au fait que --l’on riait beaucoup plus au contact des êtres humains-- plongés dans la vie qu’à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j’avais suivi le soleil de cette! vibration qui fabrique du bonheur, du lien, de la santé. Je ne l’ai jamais regretté.",
         "query": "Qu’est-ce qui a guide l’auteur dans ses choix professionnels?",
         "options": [
             "L’attirance pour les études.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "157",
-        "text": "Changer de métier: évitez les aléas! Changer de métier ne doit pas être une décision prise à la légère. Il est Important de prendre le temps de déterminer avec précision les raisons qui vous poussent à vouloir faire ce choix. Il est essentiel de bien s’orienter pour la recherche d’un nouveau travail, surtout si vous êtes dans le flou par rapport à vos envies. Faire le point sur vos compétences vous permettra de déterminer vers quels secteurs vous pouvez-vous diriger. Avoir conscience de vos compétences sera également un plus au moment de vous vendre à un employeur potentiel.",
+        "text": "Changer de métier: évitez les aléas! Changer de métier ne doit pas être une décision prise à la légère. Il est Important de prendre le temps de déterminer avec précision les raisons qui vous poussent à vouloir faire ce choix. Il est essentiel de bien s’orienter pour la recherche d’un nouveau travail, surtout si vous êtes dans le flou par rapport à vos envies. --Faire le point sur vos compétences-- vous permettra de déterminer vers quels secteurs vous pouvez-vous diriger. Avoir conscience de vos compétences sera également un plus au moment de vous vendre à un employeur potentiel.",
         "query": "Que conseille cet article à ceux qui désirent changer de métier?",
         "options": [
             "D’élargir leurs perspectives professionnelles.",
@@ -66,7 +66,7 @@
     {
         "id": 25,
         "testId": "157",
-        "text": "Les salariés européens seraient 74% à songer à se reconvertir, et seuls 8 % se déclarent satisfaits de leur carrière. La crise économique actuelle, loin de décourager les aspirants au changement, semble même précipiter les réorientations professionnelles volontaires. Ce mouvement est à la fois individuel et social. Certes, l’individu, majeur et responsable, demeure l’acteur principal de sa reconversion Mais la société, à tant valoriser le changement personnel, transforme le changement professionnel en expérience sociale. L’idée qu’une autre vie est possible est admise dans tous les niveaux de la société.",
+        "text": "Les salariés européens seraient --74% à songer à se reconvertir--, et seuls 8 % se déclarent satisfaits de leur carrière. La crise économique actuelle, loin de décourager les aspirants au changement, semble même précipiter les réorientations professionnelles volontaires. Ce mouvement est à la fois individuel et social. Certes, l’individu, majeur et responsable, demeure l’acteur principal de sa reconversion Mais la société, à tant --valoriser le changement personnel--, transforme le changement professionnel en expérience sociale. L’idée qu’une autre vie est possible est admise dans tous les niveaux de la société.",
         "query": "Quel phénomène associé à la crise économique est décrit dans ce texte?",
         "options": [
             "La lutte pour le maintien du niveau des salaires.",
@@ -79,7 +79,7 @@
     {
         "id": 26,
         "testId": "157",
-        "text": "Selon une analyse approfondie réalisée par l’agence d’urbanisation de la région d’Angers, la périurbanisation gagne du terrain. Ce terme un peu technique désigne l’installation à la campagne de personnes qui travaillent en zone urbaine et y reviennent pour différentes activités et services. L’agence mène actuellement une étude sociologique pour mieux comprendre ce qui pousse les habitants à s’éloigner des métropoles. Leurs motivations correspondent souvent au désir d’accéder à la propriété ou de trouver un logement adapté lorsque la famille s’agrandit.",
+        "text": "Selon une analyse approfondie réalisée par l’agence d’urbanisation de la région d’Angers, la périurbanisation gagne du terrain. Ce terme un peu technique désigne --l’installation à la campagne de personnes qui travaillent en zone urbaine-- et y reviennent pour différentes activités et services. L’agence mène actuellement une étude sociologique pour mieux comprendre ce qui pousse les habitants à s’éloigner des métropoles. Leurs motivations correspondent souvent au désir d’accéder à la propriété ou de trouver un logement adapté lorsque la famille s’agrandit.",
         "query": "Quelle est l’une des caractéristiques des « périurbains »?",
         "options": [
             "Ils ont une bonne situation financière.",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "157",
-        "text": "L’Europe s’est dotée de son propre label du patrimoine décerné à de hauts lieux de l’histoire et de la culture du Vieux Continent, en complément de la célèbre liste mondiale établie par l’UNESCO. Un accord est intervenu lors d’une réunion des ministres de la Culture de l’Union européenne. Ce label incitera un plus grand nombre de personnes à réfléchir à la dimension européenne de notre histoire commune. Le tourisme et l’économie devraient également en tirer parti. Le label sera accordé en fonction non de qualités architecturales ou esthétiques, mais de la valeur symbolique européenne des lieux et de leur dimension pédagogique.",
+        "text": "L’Europe s’est dotée de son propre label du patrimoine décerné à de hauts lieux de l’histoire et de la culture du Vieux Continent, en complément de la célèbre liste mondiale établie par l’UNESCO. Un accord est intervenu lors d’une réunion des ministres de la Culture de l’Union européenne. Ce label incitera un plus grand nombre de personnes à --réfléchir à la dimension européenne de notre histoire commune--. Le tourisme et l’économie devraient également en tirer parti. Le label sera accordé en fonction non de qualités architecturales ou esthétiques, mais de la valeur symbolique européenne des lieux et de leur dimension pédagogique.",
         "query": "D’après l’article, à quoi servira le label du patrimoine européen!",
         "options": [
             "À concurrencer la liste des hauts lieux dressée par l’UNESCO.",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "157",
-        "text": "Chère Madame, Je vous remercie de votre commande mais votre règlement ne couvre pas totalement le montant de votre achat. Plutôt que de vous faire supporter des frais supplémentaires, je vous expédie votre colis dès aujourd’hui et je vous demande de me faire parvenir un chèque de 20 euros, à réception. Bien sincèrement.",
+        "text": "Chère Madame, Je vous remercie de votre commande mais votre règlement --ne couvre pas totalement le montant-- de votre achat. Plutôt que de vous faire supporter des frais supplémentaires, je vous expédie votre colis dès aujourd’hui et je vous demande de me faire parvenir un chèque de 20 euros, à réception. Bien sincèrement.",
         "query": "Quel est l’objet de cette lettre?",
         "options": [
             "Demander à une cliente de payer l’intégralité de sa commande.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "157",
-        "text": "Le partage d’expérience d’Adeline et de Jérôme. Adeline et Jérôme ont créé Pyrénées-randonées, qui propose un ensemble d’itinéraires dans ces montagnes, accompagnés de leurs photos personnelles et du tracé sur la carte. Animé depuis Bordeaux où ils étudient, le blog est étoffe à chacune de leurs vacances. On y trouve aussi des informations sur la météo, l’équipement nécessaire, comment s’orienter… Un blog destiné à partager, échanger, faire des rencontres… souvent virtuelles. Et se faire plaisir.",
+        "text": "Le --partage d’expérience-- d’Adeline et de Jérôme. Adeline et Jérôme ont créé --Pyrénées-randonées--, qui propose un ensemble d’itinéraires dans ces montagnes, accompagnés de leurs photos personnelles et du tracé sur la carte. Animé depuis Bordeaux où ils étudient, le blog est étoffe à chacune de leurs vacances. On y trouve aussi des informations sur la météo, l’équipement nécessaire, comment s’orienter… Un blog destiné à partager, échanger, faire des rencontres… souvent virtuelles. Et se faire plaisir.",
         "query": "Qui sont Adeline et Jérôme?",
         "options": [
             "Des bloggeurs professionnels.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "157",
-        "text": "Vincent Van Gogh, un illuminé miséreux à l’oreille coupée et méconnu de son vivant? Ce mythe tenace s’est construit autour du peintre à partir d’une histoire romancée. Or une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh «échangée essentiellement avec son frère Théo, mais aussi avec Gauguin» donne une impression beaucoup plus nuancée. Van Gogh n’était pas si pauvre, il n’était pas si fou et il a bénéficié d’une certaine notoriété de son vivant, même si ce n’était pas auprès de grand public. Forte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un sujet de telle ou telle manière.",
+        "text": "Vincent Van Gogh, un illuminé miséreux à l’oreille coupée et méconnu de son vivant? Ce mythe tenace s’est construit autour du peintre à partir d’une histoire romancée. Or une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh «échangée essentiellement avec son frère Théo, mais aussi avec Gauguin» donne une impression beaucoup plus nuancée. Van Gogh n’était pas si pauvre, il n’était pas si fou et --il a bénéficié d’une certaine notoriété de son vivant--, même si ce n’était pas auprès de grand public. Forte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un sujet de telle ou telle manière.",
         "query": "Que révèle la correspondance de Van Gogh?",
         "options": [
             "Il appréciait de lire les récits d’écrivains de sa génération.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "157",
-        "text": "Le linguiste Alain Rey explique le sentiment de honte à l’idée de faire une faute par le fait qu’avoir une bonne orthographe fait partie des comportement attendus: la mauvaise orthographe est devenu problématique à partir du moment où tout le monde est allé à l’école.  On peut tolérer une orthographe incertaine dans les lettres privées ou dans les SMS, mais une faute dans le milieu professionnel a plus de conséquences: on risque de donner une mauvaise image de soi et donc d’être mal jugé.",
+        "text": "Le linguiste Alain Rey explique le sentiment de honte à l’idée de faire une faute par le fait qu’avoir une bonne orthographe fait partie des comportement attendus: la mauvaise orthographe est devenu problématique à partir du moment où tout le monde est allé à l’école.  On peut tolérer une orthographe incertaine dans les lettres privées ou dans les SMS, mais une faute dans le milieu professionnel a plus de conséquences: on --risque de donner une mauvaise image-- de soi et donc d’être mal jugé.",
         "query": "Comment Alain Rey explique-t-il l’importance d’avoir une bonne orthographe?",
         "options": [
             "C’est un indice de savoir-vivre.",
@@ -196,7 +196,7 @@
     {
         "id": 35,
         "testId": "157",
-        "text": "Il me semble pertinent de ne pas confondre, même si le fait d’être un intellectuel renvoie banalement à une certaine aptitude au maniement des idées, les intellectuels avec les catégories proches. Les écrivains, notamment les romanciers, ne constituent pas naturellement des «intellectuels» dans la mesure où précisément le genre romanesque, pour être parfaitement réussi, a toujours exigé une distance par rapport à l’univers théorique. La qualité fondamentale de la fiction est l’imagination, alors que le brassage d’idées et de concepts s’oppose à la liberté et à l’imprévisibilité du roman. Ainsi, si dans telle ou telle oeuvre de fiction, un auteur peut apparître plus «intellectuel» que romancier, c’est parce que le second a capitulé devant le premier ou n’est jamais parvenu à s’en libérer. Cela ne fait pas forcément de mauvais livres mais empêche qu’ils soient à mon sens de grands romans. Ils font penser, mais je ne suis pas persuadé qu’ils fassent rêver le lecteur.",
+        "text": "Il me semble pertinent de ne pas confondre, même si le fait d’être un intellectuel renvoie banalement à une certaine aptitude au maniement des idées, les intellectuels avec les catégories proches. Les écrivains, notamment les romanciers, ne constituent pas naturellement des «intellectuels» dans la mesure où précisément le genre romanesque, pour être parfaitement réussi, a toujours exigé une distance par rapport à l’univers théorique. La qualité fondamentale de la fiction --est l’imagination--, alors que le brassage d’idées et de concepts --s’oppose à la liberté et à l’imprévisibilité du roman--. Ainsi, si dans telle ou telle oeuvre de fiction, un auteur peut apparître plus «intellectuel» que romancier, c’est parce que le second a capitulé devant le premier ou n’est jamais parvenu à s’en libérer. Cela ne fait pas forcément de mauvais livres mais empêche qu’ils soient à mon sens de grands romans. --Ils font penser, mais je ne suis pas persuadé qu’ils fassent rêver le lecteur.--",
         "query": "Quelle est la thèse défendue par cet auteur?",
         "options": [
             "L’écriture requiert les mêmes qualités pour une fiction ou un essai.",
@@ -212,7 +212,7 @@
         "text": "J’ai commencé ma vie comme je la finirais sans doute: au milieu des livres. Dans le bureau de mon grand-père, il y en avait partout; défense était faite de les épousseter sauf une fois l’an, avant la rentrée d’octobre je ne savais pas encore lire que, déjà je les révérais. Je les touchais en cachette pour honorer mes mains de leur poussière mais je ne savais trop qu’en faire. Mon grand-père maniait ses objets culturels avec une dextérité d’officiant. Je l’ai vu mille fois se lever d’un air absent, faire le tour de sa table, traverser la pièce en deux enjambées, prendre un volume sans hésiter, le feuilleter en regagnant son fauteuil puis, à peine assis l’ouvrit d’un coup sec à la bonne page.",
         "query": "Que fait l’écrivain dans cet extrait?",
         "options": [
-            "Il revit des souvenirs lointains dans le dans le bureau de la maison familiale.",
+            "Il revit des souvenirs lointains dans le bureau de la maison familiale.",
             "Il se rappelle une pièce de travail poussiéreuse interdit aux enfants.",
             "Il raconte son apprentissage de la lecture auprès de son grand-père.",
             "Il évoque ses rentrées scolaires alors es qu’il ne savait pas encore lire."

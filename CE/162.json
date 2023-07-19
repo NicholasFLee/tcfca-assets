@@ -14,7 +14,7 @@
     {
         "id": 21,
         "testId": "162",
-        "text": "Vous cherchez un contrat à durée indéterminée avec un salaire motivant et fixe? Dans le cadre du lancement d’une cellule de télévente, la société ADEM recrute 12 télévendeurs confirmés. Si vous êtes un commercial, si vous êtes dynamique et motivé, contactez-nous: recrutement@ademtel.fr",
+        "text": "Vous cherchez un contrat à durée indéterminée avec un salaire motivant et fixe? Dans le cadre du lancement d’une cellule de télévente, la société ADEM recrute 12 --télévendeurs confirmés--. Si vous êtes un commercial, si vous êtes dynamique et motivé, contactez-nous: recrutement@ademtel.fr",
         "query": "La société ADEM recherche des télévendeurs…",
         "options": [
             "Qui débutent dans le métier de la télévente.",
@@ -27,7 +27,7 @@
     {
         "id": 22,
         "testId": "162",
-        "text": "Près de 500 écrans alignés sur deux étages et 1200 m2 La plus grande salle de jeux vidéo en réseau d’Europe a ouvert ses portes au public à Paris. Baignée dans une ambiance bleu métal et noire, cette salle de jeux à l’ambition de devenir à la fois un stade numérique « où les professionnels et amateurs de jeux vidéo pourront s’affronter à l’occasion de joutes virtuelles, et une école de jeux « pour les débutants ». Une quinzaine d’animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
+        "text": "--Près de 500 écrans alignés sur deux étages et 1200 m2 La plus grande salle de jeux vidéo-- en réseau d’Europe a ouvert ses portes au public à Paris. Baignée dans une ambiance bleu métal et noire, cette salle de jeux à l’ambition de devenir à la fois un stade numérique « où les professionnels et amateurs de jeux vidéo pourront s’affronter à l’occasion de joutes virtuelles, et une école de jeux « pour les débutants ». Une quinzaine d’animateurs sont constamment présents dans la salle pour guider et initier les joueurs et animer des tournois.",
         "query": "En quoi cette salle de jeux est-elle un événement?",
         "options": [
             "Du fait de sa taille.",
@@ -40,7 +40,7 @@
     {
         "id": 23,
         "testId": "162",
-        "text": "Il est désormais possible de modifier la couleur des yeux. Une technique laser, expérimentée en laboratoire, détruit à vie les pigments de l’iris pour l’éclaircir. La séance se déroule dans le cabinet du spécialiste et en 20 secondes, les yeux du patient passent d’une couleur à l’autre. Mais, comme le laser décolore l’iris, seuls les yeux marrons peuvent espérer passer à une couleur plus claire.",
+        "text": "Il est désormais possible de modifier la couleur des yeux. Une technique laser, expérimentée en laboratoire, --détruit à vie les pigments de l’iris-- pour l’éclaircir. La séance se déroule dans le cabinet du spécialiste et en 20 secondes, les yeux du patient passent d’une couleur à l’autre. Mais, comme le laser décolore l’iris, seuls les yeux marrons peuvent espérer passer à une couleur plus claire.",
         "query": "Qu’apprend-on sur cette technique laser?",
         "options": [
             "Elle est en cours de test.",
@@ -53,7 +53,7 @@
     {
         "id": 24,
         "testId": "162",
-        "text": "La population d’insectes volants, essentiels aux écosystémes, a diminué de plus de 75% en près de trente ans en Allemagne sans que les scientifiques ne parviennent à en déterminer la cause avec certitude. Les chercheurs, qui ont mené leur étude dans des zones protégées en Allemagne depuis 1989, suspectent les pesticides agricoles d’être responsables de ce phénomène préoccupant. Selon leurs conclusions publiées dans la revue Plos One, ce fort déclin a été observé quels que soient les changements météorologiques, le type d’exploitation des sols ou les caractéristiques de l’habitat.",
+        "text": "La population d’insectes volants, essentiels aux écosystémes, a diminué de plus de 75% en près de trente ans en Allemagne sans que les scientifiques ne parviennent à en déterminer la cause avec certitude. Les chercheurs, qui ont mené leur étude dans des zones protégées en Allemagne depuis 1989, --suspectent les pesticides agricoles d’être responsables de ce phénomène-- préoccupant. Selon leurs conclusions publiées dans la revue Plos One, ce fort déclin a été observé quels que soient les changements météorologiques, le type d’exploitation des sols ou les caractéristiques de l’habitat.",
         "query": "À quoi serait due la baisse du nombre d’insectes?",
         "options": [
             "L’urbanisation galopante des campagnes.",
@@ -105,7 +105,7 @@
     {
         "id": 28,
         "testId": "162",
-        "text": "L’huile de palme est l’huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d’augmenter, souvent en lieu et place des forêts. Il existe pourtant d’autres huiles qui peuvent la remplacer mais c’est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+        "text": "L’huile de palme est l’huile la plus produite au monde. Un tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: --la culture du palmier à huile étant très rentable--, les surfaces de plantation ne cessent d’augmenter, souvent en lieu et place des forêts. Il existe pourtant d’autres huiles qui peuvent la remplacer mais c’est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
         "query": "Pourquoi l’huile de palme est-elle produite massivement?",
         "options": [
             "C’est un produit recherché par les consommateurs.",
@@ -118,7 +118,7 @@
     {
         "id": 29,
         "testId": "162",
-        "text": "Deux mondes s’affrontent: ceux de l’ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution. Notre enquête montre le contraire: l’alliance de la technologie et de l’écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C’est la voie de la sagesse autant que de la modernité.",
+        "text": "Deux mondes s’affrontent: ceux de l’ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu’il n’existe pas d’autre solution. Notre enquête montre le contraire: l’alliance de la technologie et de l’écologie pour --remplacer des substances nocives par une panoplie de techniques inédites-- offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C’est la voie de la sagesse autant que de la modernité.",
         "query": "Que défend le journaliste?",
         "options": [
             "L’accès universel à des aliments bon marché.",
@@ -131,7 +131,7 @@
     {
         "id": 30,
         "testId": "162",
-        "text": "L’amour à la retraite au théâtre du Splendid. Claire Nadeau, très drôle, et Gérard Rinaldi, très inattendu dans le rôle d’un petit retraité maltraité par sa femme, jouent «Après l’amour» cette comédie, créée il y a dix ans, est reprise au Splendid. L’auteur met en scène un couple de petites gens qui sont passées à côté de belles choses. Leur amour est à la retraite. Le paradoxe, c’est qu’on rit beaucoup des mésaventures de Jeanne et Henri dans cette comédie grainçante.",
+        "text": "L’amour à la retraite au théâtre du Splendid. Claire Nadeau, très drôle, et Gérard Rinaldi, très inattendu dans le rôle d’un petit retraité maltraité par sa femme, jouent «Après l’amour» cette comédie, créée il y a dix ans, est reprise au Splendid. L’auteur met en scène un couple de petites gens qui sont passées à côté de belles choses. --Leur amour est à la retraite--. Le paradoxe, c’est qu’on rit beaucoup des mésaventures de Jeanne et Henri dans cette comédie grainçante.",
         "query": "Quel est le sujet de la pièce?",
         "options": [
             "Une histoire d’amour splendide.",
@@ -144,7 +144,7 @@
     {
         "id": 31,
         "testId": "162",
-        "text": "La langue française n’a pas besoin de se défendre. Elle a surtout besoin de se détendre. Aimons-la et laissons-la flâner, adopter des mots d’argot ou étrangers. Laissons-la respirer et s’inspirer comme elle veut. Avec elle, essayons juste d’être cool! En utilisant ce mot, j’imagine déjà l’indignation de ceux qui considère l’anglais comme un adversaire. Pour nous, la langue anglaise est peut-être une rivale, mais sûrement pas une ennemie. Elle nous a emprunté nos «rendez-vous», «savoir-faire», «déshabillé», «bureau de change», «maître d’hôtel». il n’y a aucune contradiction entre, d’une part, encourager la pratique de l’anglais et, d’autre part, adopter une stratégie volontariste en faveur de la francophonie.",
+        "text": "La langue française n’a pas besoin de se défendre. Elle a surtout besoin de se détendre. Aimons-la et laissons-la flâner, --adopter des mots d’argot ou étrangers--. Laissons-la respirer et s’inspirer comme elle veut. Avec elle, essayons juste d’être cool! En utilisant ce mot, j’imagine déjà l’indignation de ceux qui considère l’anglais comme un adversaire. Pour nous, la langue anglaise est peut-être une rivale, mais sûrement pas une ennemie. Elle nous a emprunté nos «rendez-vous», «savoir-faire», «déshabillé», «bureau de change», «maître d’hôtel». il n’y a aucune contradiction entre, d’une part, encourager la pratique de l’anglais et, d’autre part, adopter une stratégie volontariste en faveur de la francophonie.",
         "query": "Selon ce journaliste, comment la langue française pourrait-elle évoluer?",
         "options": [
             "En diversifiant sa politique linguistique.",
@@ -157,7 +157,7 @@
     {
         "id": 32,
         "testId": "162",
-        "text": "Facebook et Twitter sont omniprésents au collège. Nous pourrions détourner les yeux en prétendant qu’ils n’ont rien à voir avec les compétences et savoirs acquis à l’école. Mais ces messageries instantanées doivent être prises au sérieux par les enseignants, au sens où elles ne sont pas une mode mais un mode de communication qui conditionne les relations sociales. Les réseaux sociaux appartiennent déjà à la cité et seront partie prenante de notre vie demain. Ainsi, des pétitions se signent sur Internet, les renseignements sur autrui se prennet aussi sur la Toile. Il s’agit alors pour l’enseignant d’apprendre aux jeunes des comportements responsables dans l’usage des modes de communication tels que Facebook et autre Twitter.",
+        "text": "Facebook et Twitter sont omniprésents au collège. Nous pourrions détourner les yeux en prétendant qu’ils n’ont rien à voir avec les compétences et savoirs acquis à l’école. Mais ces messageries instantanées doivent être prises au sérieux par les enseignants, au sens où elles ne sont pas une mode mais un mode de communication qui conditionne les relations sociales. Les réseaux sociaux appartiennent déjà à la cité et seront partie prenante de notre vie demain. Ainsi, des pétitions se signent sur Internet, les renseignements sur autrui se prennet aussi sur la Toile. Il s’agit alors pour l’enseignant --d’apprendre aux jeunes des comportements responsables-- dans l’usage des modes de communication tels que Facebook et autre Twitter.",
         "query": "Que pense l’auteur des réseaux sociaux?",
         "options": [
             "Il est indispensable de savoir s’en servir correctement.",
@@ -170,7 +170,7 @@
     {
         "id": 33,
         "testId": "162",
-        "text": "Les anomalies ne doivent pas masquer le degré de cohérence qui fonde le code graphique. S’il y a plusieurs graphies pour un même son, leur distribution n’est pas aléatoire: le choix est souvent corrélé à des critères de position ou à des correspondances morphologiques. Les lettre muettes, à l’occasion, soulignent les flexions ou les dérivations. Certaines consonnes doubles sont clairement interprétables. De plus, certaines graphies étymologiques ne sont pas dépourvues de toute signification. Et bien d’autres observations iraient dans le même sens. Dès lors, pourquoi renoncer à enseigner ce noyau intelligible de notre écriture? L’orthographe, dans ses fondements, peut faire l’objet d’un apprentissage raisonné. Une pédagogie fondée sur la réflexion est plus valorisante qu’une acquisition basée sur le «par coeur» et la répétition, en même temps qu’elle assure des connaissances plus solides. En outre, elle permet de mieux cerner, par contraste, les zones d’ombre et les bizzarreries: la perception des exceptions sera d’autant plus aisée qu’on aura pris conscience des régularités.",
+        "text": "Les anomalies ne doivent pas masquer le degré de cohérence qui fonde le code graphique. S’il y a plusieurs graphies pour un même son, --leur distribution n’est pas aléatoire--: le choix est souvent corrélé à des critères de position ou à des correspondances morphologiques. Les lettre muettes, à l’occasion, soulignent les flexions ou les dérivations. Certaines consonnes doubles sont clairement interprétables. De plus, certaines graphies étymologiques ne sont pas dépourvues de toute signification. Et bien d’autres observations iraient dans le même sens. Dès lors, pourquoi renoncer à enseigner --ce noyau intelligible de notre écriture--? L’orthographe, dans ses fondements, peut faire l’objet d’un apprentissage raisonné. Une pédagogie fondée sur la réflexion est plus valorisante qu’une acquisition basée sur le «par coeur» et la répétition, en même temps qu’elle assure des connaissances plus solides. En outre, elle permet de mieux cerner, par contraste, les zones d’ombre et les bizzarreries: la perception des exceptions sera d’autant plus aisée qu’on aura pris conscience des régularités.",
         "query": "Que pense l’auteur de l’orthographe française?",
         "options": [
             "Elle devrait être réformée de fond en comble.",
@@ -222,7 +222,7 @@
     {
         "id": 37,
         "testId": "162",
-        "text": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche. Pour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grands écoles, organismes de recherche, centre hospitalier universitaire…). Ce nouveau modèle remet au centre des préoccupations la question de l’accès à un enseignement supérieur qualitatif pour le plus grand nombre. Il a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures. Au travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
+        "text": "L’avenir est dans la formation de la jeunesse, dans l’innovation, dans la recherche. Pour prendre pleinement ses responsabilités, l’université de Nantes propose un nouveau modèle universitaire en France, décloisonné, qui rassemble les acteurs de l’enseignement supérieur et de la recherche (grands écoles, organismes de recherche, centre hospitalier universitaire…). Ce nouveau modèle remet au centre des préoccupations la question de l’accès à --un enseignement supérieur qualitatif pour le plus grand nombre--. Il a l’ambition de créer les conditions de réussite et d’épanouissement pour tous ses étudiants et de permettre des innovations majeures. Au travers de ce projet de nouvelle université, le président et son équipe défendent une vision innovante et proposent un nouveau modèle qui conjugue exigence et main tendue, excellence et lien social.",
         "query": "Quel est l’objectif de cette université?",
         "options": [
             "Attirer davantage d’étudiants brillants.",
@@ -235,7 +235,7 @@
     {
         "id": 38,
         "testId": "162",
-        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne «un parent sans emploi doit être prioritaire pour obtenir une place en crèche ». Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, s’engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
+        "text": "Mara Maudet, à son arrivée en France, constate que la politique d’insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l’autre. Pour cette Brésilienne «un parent sans emploi doit être prioritaire pour obtenir une place en crèche ». Tout le contraire des critères actuels. Elle a crée alors L’IEPC(Institut d’éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu’en échange d’une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire, le plus souvent des mères, --s’engage à trouver un emploi-- dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d’un accompagnement professionnel personnalisé.",
         "query": "Quel est l’objectif de l’IEPC?",
         "options": [
             "Embaucher des parents défavorisés.",
@@ -248,7 +248,7 @@
     {
         "id": 39,
         "testId": "162",
-        "text": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuse écoles d’animation, ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique. S’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’oeuvre d’un « apparenté surréaliste » dont la notoriété est souvent, hélas, réduite au seul et incontournable poème liberté. Sa délicatesse, en amour commen en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
+        "text": "Treize jeunes cinéastes, achevant leur formation dans les plus prestigieuse écoles d’animation, --ont planché sur quelques vers de Paul Éluard, livrant leur vision originale de son univers poétique--. S’inscrivant dans la suite des programmes de courts-métrages dédiés à Prévert et Apollinaire, ce nouveau florilège de la série En sortant de l’école met en lumière l’oeuvre d’un « apparenté surréaliste » dont la notoriété est souvent, hélas, réduite au seul et incontournable poème liberté. Sa délicatesse, en amour commen en fantaisie, s’avère un combustible merveilleux pour de jeunes cinéastes.",
         "query": "Selon cette critique, quel est l’apport de ce dernier ensemble de courts-métrages?",
         "options": [
             "Il constitue une création artistique novatrice.",
