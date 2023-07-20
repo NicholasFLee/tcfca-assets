@@ -56,8 +56,8 @@
         "text": "On réserve trop facilement le covoiturage aux étudiants sans un sou. Les clichés sont tenaces. Pourtant, le temps de la petite annonce papier accrochée près de la machine à café est bel et bien terminé, les nouveaux moyens de communication ont changé les choses. L’organisation d’un trajet entre plusieurs personnes qui se rendent dans la même direction --est devenue si simple et si efficace avec les sites spécialisés-- que le covoiturage est en train d’élargir son public de gagner son statut de mode de transport à part entière.",
         "query": "Quel développement connaît le covoiturage?",
         "options": [
-            "II devient la solution idéale des voyages organisés à la dernière minute.",
-            "II est accessible à un nombre croissant d’utilisateurs grâce à Internet.",
+            "Il devient la solution idéale des voyages organisés à la dernière minute.",
+            "Il est accessible à un nombre croissant d’utilisateurs grâce à Internet.",
             "Il occupe une place grandissante dans les petites annonces des journaux.",
             "Il s’impose comme le moyen de déplacement à la mode chez les jeunes."
         ],
@@ -160,9 +160,9 @@
         "text": "La première difficulté, qu’il avait en réalisté sous-estimée, fut de réussir à atteindre l’extrémité du trottoir, c’est-à-dire de --franchir la masse mouvante et compacte des hommes et des femmes-- qui marchaient devant lui, frange large de deux ou trois mètres mais dont la texture était dense, mobile, paisiblement hostile. Il eut beau dans un premier temps prononcer à haute voix de nombreuses paroles d’excuse, expliquant avec des gestes modestes qu’il voulait passer, se montrer on ne peut plus poli et plus encore, personne ne s’arrêta, ni ne se poussa afin de lui permettre de se faufiler entre les corps. Les hommes et les femme qui marchaient ne le regardaient pas et beaucoup avaient sur les oreilles des écouteurs.",
         "query": "Dans quelle situation se trouve le personnage principal?",
         "options": [
-            "II du mal à se déplacer dans la foule.",
-            "II est emporté par une foule pressée.",
-            "II est paralysé par l’hostilité de la foule.",
+            "Il du mal à se déplacer dans la foule.",
+            "Il est emporté par une foule pressée.",
+            "Il est paralysé par l’hostilité de la foule.",
             "Il imagine les répliques impolies de la foule"
         ],
         "answer": 0

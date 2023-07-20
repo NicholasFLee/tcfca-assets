@@ -41,10 +41,10 @@
         "id": 23,
         "testId": "163",
         "options": [
-            "II n’y a plus de place en seconde classe.",
-            "II n’y a plus de place pour la voiture.",
+            "Il n’y a plus de place en seconde classe.",
+            "Il n’y a plus de place pour la voiture.",
             "Il n’y a plus de place pour quatre personnes.",
-            "II n’y a plus de cabines pour quatre personnes."
+            "Il n’y a plus de cabines pour quatre personnes."
         ],
         "audio": "/mp3/163/23.mp3",
         "answer": 1,
@@ -148,7 +148,7 @@
             "Il annonce une réorganisation.",
             "Il encourage un collaborateur.",
             "Il négocie des délais de livraison.",
-            "II rappelle à l’ordre un employé."
+            "Il rappelle à l’ordre un employé."
         ],
         "audio": "/mp3/163/31.mp3",
         "answer": 3,
@@ -213,7 +213,7 @@
             "Il demande un délai supplémentaire de réflexion.",
             "Il doute de l’intérêt d’un diagnostic préalable.",
             "Il hésite sur la définition de son projet.",
-            "II souhaite l’avis de consultants extérieurs."
+            "Il souhaite l’avis de consultants extérieurs."
         ],
         "audio": "/mp3/163/36.mp3",
         "answer": 1,
