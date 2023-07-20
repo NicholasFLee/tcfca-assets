@@ -8,7 +8,7 @@
             "Proposer des solutions à des situations de crise."
         ],
         "answer": 2,
-        "text": "Parents mode d’emploi. Série télévisée - Du lundi au vendredi à 20h40 Nous découvrons le quotidien de Gaby et Isa, les personnages principaux, quadragénaires d’aujourd’hui, qui cherchent un mode d’emploi pour être de bons parents! Ils essaient de contrôler la situation et seraient même prêts à nous donner des conseils, mais comme tous les parents, ils font de grosses erreurs... ce qui nous amuse et nous fait rire, pour notre plus grand plaisir!",
+        "text": "Parents mode d’emploi. Série télévisée - Du lundi au vendredi à 20h40 Nous découvrons le quotidien de Gaby et Isa, les personnages principaux, quadragénaires d’aujourd’hui, qui cherchent un mode d’emploi pour --être de bons parents--! Ils essaient de contrôler la situation et seraient même prêts à nous donner des conseils, mais comme tous les parents, ils font de grosses erreurs... --ce qui nous amuse et nous fait rire--, pour notre plus grand plaisir!",
         "query": "Quel est l’objectif de cette série télévisée?"
     },
     {
@@ -21,7 +21,7 @@
             "Une sortie au zoo."
         ],
         "answer": 1,
-        "text": "Envie de faire le clown? Pendant les vacances de Pâques, l’équipe d’animateurs du centre de loisirs dessinera chaque jour sur les joues des enfants des animaux marins: hippocampes, phoques, manchots, poissons-clowns.",
+        "text": "Envie de --faire le clown--? Pendant les vacances de Pâques, l’équipe d’animateurs du centre de loisirs dessinera chaque jour sur les joues des enfants des animaux marins: hippocampes, phoques, manchots, poissons-clowns.",
         "query": "Quelle activité proposera-t-on aux enfants pendant les vacances de Pâques?"
     },
     {
@@ -34,7 +34,7 @@
             "De signaler sur les photos les modifications effectuées."
         ],
         "answer": 3,
-        "text": "Outre-Manche, une jeune députée a attiré l’attention des médias et des photographes en proposant un décret qui imposerait la mention « retouchée numériquement » sur toutes les photos corrigées. Le parti libéral démocratique a d’ailleurs approuvé cette proposition. « Je ne veux pas interdire aux publicitaires de recourir à des mannequins plus beaux que la femme de tous les jours, mais il y a une différence, entre choisir la beauté et retoucher cette beauté pour atteindre des propositions impossibles en ce qui concerne, par exemple, la taille des jambes », s’insurge la députée.",
+        "text": "Outre-Manche, une jeune députée a attiré l’attention des médias et des photographes en proposant un décret qui imposerait --la mention « retouchée numériquement » sur toutes les photos corrigées--. Le parti libéral démocratique a d’ailleurs approuvé cette proposition. « Je ne veux pas interdire aux publicitaires de recourir à des mannequins plus beaux que la femme de tous les jours, mais il y a une différence, entre choisir la beauté et retoucher cette beauté pour atteindre des propositions impossibles en ce qui concerne, par exemple, la taille des jambes », s’insurge la députée.",
         "query": "Que propose cette députée à propos des publicités mettant en scène des femmes?"
     },
     {
@@ -47,7 +47,7 @@
             "Les prix deviennent de plus en plus attractifs."
         ],
         "answer": 0,
-        "text": "En quelques années, le camping est devenu le premier mode d’hébergement touristique, devant les hôtels, les résidences et les villages de vacances. « Les familles qui louaient des villas ou partaient à l’hôtel choisissent de plus en plus ce type de séjour en plein air et tout compris », déclare un expert. Ces nouveaux adeptes du camping, souvent plus fortunés, se tournent vers les tentes meublées, chalets et mobil-homes classés 3 à 5 étoiles qui existaient peu auparavant. Il y a quelques années, certains avaient honte de dire: je suis allé au camping. Aujourd’hui, ce n’est plus vrai.",
+        "text": "En quelques années, le camping est devenu le premier mode d’hébergement touristique, devant les hôtels, les résidences et les villages de vacances. « Les familles qui louaient des villas ou partaient à l’hôtel choisissent de plus en plus ce type de séjour en plein air et tout compris », déclare un expert. Ces nouveaux adeptes du camping, souvent plus fortunés, se tournent vers les tentes meublées, chalets et mobil-homes --classés 3 à 5 étoiles qui existaient peu auparavant--. Il y a quelques années, certains avaient honte de dire: je suis allé au camping. Aujourd’hui, ce n’est plus vrai.",
         "query": "Que constate l’expert à propos du camping?"
     },
     {
@@ -60,7 +60,7 @@
             "Des modes de recyclage innovants."
         ],
         "answer": 0,
-        "text": "Certaines grandes surfaces ont désigné un coach antigaspi au sein du personnel, ont cassé les prix des produits à date de péremption proche, on réduit le nombre d’articles en rayon et ont proposé les fruits et légumes en vrac. Ces mesures ont permis de réduire les pertes alimentaires de 22% en trois mois! Les solutions pour lutter contre le gaspillage en grande distribution existent donc bel et bien. Des initiatives similaires, dont les résultats devraient paraître prochainement, sont en cours dans d’autres secteurs (industries agroalimentaires, producteurs, etc.).",
+        "text": "Certaines grandes surfaces ont désigné un coach antigaspi au sein du personnel, ont cassé les prix des produits à date de péremption proche, --on réduit le nombre d’articles en rayon et ont proposé les fruits et légumes en vrac--. Ces mesures ont permis de réduire les pertes alimentaires de 22% en trois mois! Les solutions pour lutter contre le gaspillage en grande distribution existent donc bel et bien. Des initiatives similaires, dont les résultats devraient paraître prochainement, sont en cours dans d’autres secteurs (industries agroalimentaires, producteurs, etc.).",
         "query": "Selon cet article, quel type d’action faudrait-il poursuivre?"
     },
     {
@@ -73,7 +73,7 @@
             "C’est une réclamation destinée au gérant d’un immeuble."
         ],
         "answer": 3,
-        "text": "Monsieur, Je vous écris pour vous faire part des nuisances sonores provoquées par les locataires du 7ème étage. Ils écoutent de la musique jusque tard dans la nuit à un volume qui ne permet pas de dormir dans de bonnes conditions. Je leur ai demandé plusieurs fois de baisser le son et de faire attention à l’heure, mais ils ne m’ont pas écouté. Je vous demande de bien vouloir agir afin qu’ils changent de comportement au plus vite. Cordialement, Marco leno",
+        "text": "Monsieur, Je vous écris --pour vous faire part des nuisances sonores provoquées par les locataires du 7ème étage--. Ils écoutent de la musique jusque tard dans la nuit à un volume qui ne permet pas de dormir dans de bonnes conditions. Je leur ai demandé plusieurs fois de baisser le son et de faire attention à l’heure, mais ils ne m’ont pas écouté. Je vous demande de bien vouloir agir afin qu’ils changent de comportement au plus vite. Cordialement, Marco leno",
         "query": "Quel est l’objet de ce courrier?"
     },
     {
@@ -99,7 +99,7 @@
             "Protéger les secrets d’élaboration des fromages."
         ],
         "answer": 1,
-        "text": "DIRECTION L’ITALIE POUR DECOUVRIR LA BRIGADE DES FROMAGES. Un département entier de policiers situé à Rome traque les imitations alimentaires et notamment celle du plus célèbre des fromages italiens, le parmesan. Ils ont, en effet, fort à faire avec des meules de parmesan AOP (Appellation. d’Origine Protégée) qui peuvent valoir plusieurs milliers d’euros. Le parmesan représente 900 ans de tradition concentrés entre les mains de 350 fabricants dans le nord de la péninsule, un savoir fièrement défendu par cette brigade.",
+        "text": "DIRECTION L’ITALIE POUR DECOUVRIR LA BRIGADE DES FROMAGES. Un département entier de policiers situé à Rome --traque les imitations alimentaires et notamment celle du plus célèbre des fromages italiens--, le parmesan. Ils ont, en effet, fort à faire avec des meules de parmesan AOP (Appellation. d’Origine Protégée) qui peuvent valoir plusieurs milliers d’euros. Le parmesan représente 900 ans de tradition concentrés entre les mains de 350 fabricants dans le nord de la péninsule, un savoir fièrement défendu par cette brigade.",
         "query": "Quel est l’objectf de cette brigade spéciale?"
     },
     {
@@ -112,7 +112,7 @@
             "D’une pollution imperceptible."
         ],
         "answer": 3,
-        "text": "La sonorité naturelle qui berce l’océan depuis des millions d’années a presque disparu, éclipsée par les bruits artificiels générés depuis l’ère industrielle. Le bioacousticien Michel André alerte sur cette nuisance invisible qui menace la vie marine: la cacophonie engendrée par les activités humaines. À la différence de la lumière qui ne pénètre qu’à quelques mètres sous l’eau et n’est d’aucune utilité pour transmettre des informations sur de longues distances, le son, lui, se propage à des centaines de kilomètres. Heureusement, le bruit, dès qu’on le coupe n’a plus aucun effet. Si nous travaillons sur des méthodes pour éliminer ces sons produits par les êtres humains, la nuisance pourrait être diminuée.",
+        "text": "La sonorité naturelle qui berce l’océan depuis des millions d’années a presque disparu, éclipsée par les bruits artificiels générés depuis l’ère industrielle. Le bioacousticien Michel André alerte sur --cette nuisance invisible qui menace la vie marine--: la cacophonie engendrée par les activités humaines. À la différence de la lumière qui ne pénètre qu’à quelques mètres sous l’eau et n’est d’aucune utilité pour transmettre des informations sur de longues distances, le son, lui, se propage à des centaines de kilomètres. Heureusement, le bruit, dès qu’on le coupe n’a plus aucun effet. Si nous travaillons sur des méthodes pour éliminer ces sons produits par les êtres humains, la nuisance pourrait être diminuée.",
         "query": "De quoi est-il question dans cet article?"
     },
     {
@@ -151,7 +151,7 @@
             "Le contentement de leurs abonnés."
         ],
         "answer": 2,
-        "text": "Deux petites saisons et puis s’en vont. Sur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n’en sont pas moins soumises à rude concurrence. Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles. Cette stratégie ne doit rien au hasard. Dans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu’à la longévité. Quitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l’audimat.",
+        "text": "Deux petites saisons et puis s’en vont. Sur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n’en sont pas moins soumises à rude concurrence. Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles. Cette stratégie ne doit rien au hasard. Dans leur objectif de conquête de nouveaux abonnés, les plates-formes --accordent en effet plus de vertus à la nouveauté qu’à la longévité--. Quitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l’audimat.",
         "query": "D’après l’article, que privilégient les plates-formes de streaming?"
     },
     {
@@ -164,7 +164,7 @@
             "Évaluer régulièrement leurs acquis."
         ],
         "answer": 0,
-        "text": "Le numérique bouleverse profondément l’enseignement, mais, d’après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d’écoles. Excellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore. Surtout, il enseigne une chose essentielle: personne ne sait et, nulle part, il n’existe de détenteur ultime du savoir. Ainsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques. L’enseignant est alors celui qui va expliquer qu’il existe plusieurs versions d’une même chose et que savoir, c’est se confronter à l’incertitude et non réciter bêtement des connaissances.",
+        "text": "Le numérique bouleverse profondément l’enseignement, mais, d’après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d’écoles. Excellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore. Surtout, il enseigne une chose essentielle: personne ne sait et, nulle part, il n’existe de détenteur ultime du savoir. Ainsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques. L’enseignant est alors celui qui va expliquer qu’il existe plusieurs versions d’une même chose et que savoir, --c’est se confronter à l’incertitude et non réciter bêtement des connaissances--.",
         "query": "Selon Marcel Gauchet, quel va être le rôle de l’enseignant auprès des élèves?"
     },
     {
@@ -177,7 +177,7 @@
             "Le désir des vivres en communauté."
         ],
         "answer": 2,
-        "text": "Les néo-nomades ont souvent moins de 30 ans et vivent dans leur camion ou d’anciens cars scolaires transformés en caravane ou camping-car. Ces nouveaux voyageurs intermittents vont d’un lieu à l’autre, au gré des impératifs de leur travail, souvent saisonnier et forment une population hétérogène. Ils résolvent la difficulté d’accéder à un logement lorsque l’on n’a pas de travail permanent en se posant en marge de notre paysage contemporain: aux abords des routes secondaires, dans la périphérie des villes, le long des rails, sur des friches ou des terrains privés. Les néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
+        "text": "Les néo-nomades ont souvent moins de 30 ans et vivent dans leur camion ou d’anciens cars scolaires transformés en caravane ou camping-car. Ces nouveaux voyageurs intermittents vont d’un lieu à l’autre, --au gré des impératifs de leur travail, souvent saisonnier-- et forment une population hétérogène. Ils résolvent la difficulté d’accéder à un logement lorsque --l’on n’a pas de travail permanent-- en se posant en marge de notre paysage contemporain: aux abords des routes secondaires, dans la périphérie des villes, le long des rails, sur des friches ou des terrains privés. Les néo-nomades forment de fait une entité structurée au cœur de notre société individualiste.",
         "query": "Selon le journaliste, quelle est l’origine du néo-natalisme?"
     },
     {
@@ -203,7 +203,7 @@
             "Si c’est le fruit d’une décision personnelle."
         ],
         "answer": 3,
-        "text": "Que pensent les français de la mobilité territoriale? Si la mobilité n’est ni bonne, ni mauvaise en soi, elle peut être perçue de manière radicalement différente en fonction des circonstances dans lesquelles elle se réalise et surtout du fait d’être choisie ou non. Des mobilités personnelles, professionnelles et spatiales, voulues et recherchées, peuvent être un facteur d’épanouissement individuel et professionnel pour certains groupes favorisés. Alors qu’elles peuvent être un facteur de précarité pour les groupes défavorisés notamment si elles sont subies.",
+        "text": "Que pensent les français de la mobilité territoriale? Si la mobilité n’est ni bonne, ni mauvaise en soi, --elle peut être perçue de manière radicalement différente-- en fonction des circonstances dans lesquelles elle se réalise et surtout --du fait d’être choisie ou non--. Des mobilités personnelles, professionnelles et spatiales, voulues et recherchées, peuvent être un facteur d’épanouissement individuel et professionnel pour certains groupes favorisés. Alors qu’elles peuvent être un facteur de précarité pour les groupes défavorisés notamment si elles sont subies.",
         "query": "Quand une mobilité territoriale est-elle vécue?"
     },
     {
@@ -216,7 +216,7 @@
             "Elle simplifie le travail des enseignants."
         ],
         "answer": 0,
-        "text": "Instaurer un grand oral pour réformer le baccalauréat est un nouveau défi à relever pour le système éducatif français. L’oral a autant d’importance que l’écrit. Il a ses règles propres et ses méthodes d’apprentissage: selon moi, une quinzaine d’heures suffit avec douze élèves pour arriver à parler debout devant les autres de façon argumentée. Bien loin d’être un discriminant social, l’oral peut être une formidable opportunité de réussite pour tous les élèves, à condition qu’il s’agisse bien d’une épreuve orale et non d’un écrit transposé à l’oral. Contrairement aux idées reçues, je ne pense que l’oral ne demande quasiment pas de pré requis ni un quelconque talent de naissance venu d’une fée - y compris sociale - qui se serait penchée sur le bureau.",
+        "text": "Instaurer un grand oral pour réformer le baccalauréat est un nouveau défi à relever pour le système éducatif français. L’oral a autant d’importance que l’écrit. Il a ses règles propres et ses méthodes d’apprentissage: selon moi, une quinzaine d’heures suffit avec douze élèves pour arriver à parler debout devant les autres de façon argumentée. --Bien loin d’être un discriminant social, l’oral peut être une formidable opportunité de réussite pour tous les élèves--, à condition qu’il s’agisse bien d’une épreuve orale et non d’un écrit transposé à l’oral. Contrairement aux idées reçues, je ne pense que l’oral ne demande quasiment pas de pré requis ni un quelconque talent de naissance venu d’une fée - y compris sociale - qui se serait penchée sur le bureau.",
         "query": "Selon l’auteur, quel est intérêt d’une épreuve orale au baccalauréat?"
     },
     {
@@ -242,7 +242,7 @@
             "Les effets du surmenage sur la santé."
         ],
         "answer": 0,
-        "text": "Le stress, la fatigue, les troubles du sommeil: voilà ce qui menace notre organisme à la suite d’une exposition excessive à une lumière artificielle. Au contraire, la lumière naturelle influence notre comportement et régit nos processus physiologiques, notre efficacité au quotidien, nos humeurs, jouant donc un rôle fondamental sur notre métabolisme. Ainsi, par une diminution des effets de fatigue. De stress et par un accroissement de la concentration, nous sommes alors plus réceptifs et attentifs aux différents stimuli que notre organisme pourra plus facilement assimiler. En entreprise, un aménagement adéquat des bureaux, de préférence dans un environnement préservant au maximum la lumière naturelle, est donc un atout pour nos performances journalières.",
+        "text": "Le stress, la fatigue, les troubles du sommeil: voilà ce qui menace notre organisme à la suite d’une exposition excessive à une lumière artificielle. Au contraire, la lumière naturelle influence notre comportement et régit nos processus physiologiques, notre efficacité au quotidien, nos humeurs, jouant donc un rôle fondamental sur notre métabolisme. Ainsi, par une diminution des effets de fatigue. De stress et par un accroissement de la concentration, nous sommes alors plus réceptifs et attentifs aux différents stimuli que notre organisme pourra plus facilement assimiler. En entreprise, --un aménagement adéquat des bureaux--, de préférence dans --un environnement préservant au maximum la lumière naturelle--, --est donc un atout pour nos performances-- journalières.",
         "query": "Sur quoi insiste l’auteur de cet article?"
     },
     {

@@ -21,7 +21,7 @@
             "Parce qu’ils ne veulent plus être seuls."
         ],
         "answer": 0,
-        "text": "SOCIÉTÉ. Plus que jamais peut-être, des lycéens, étudiants, jeunes travailleurs sont nombreux à consacrer une partie de leur activité, souvent bénévolement, aux plus âgés. Tout au long de la semaine, ils passent faire un brin de causette, histoire de tenir compagnie à ces personnes isolées, délaissées par leur famille. Rencontrer des jeunes n’est-il pas le plus sûr moyen de conserver un semblant de la vie sociale?",
+        "text": "SOCIÉTÉ. Plus que jamais peut-être, des lycéens, étudiants, jeunes travailleurs sont nombreux à consacrer une partie de leur activité, souvent bénévolement, aux plus âgés. Tout au long de la semaine, ils passent faire un brin de causette, histoire de tenir compagnie à ces personnes isolées, délaissées par leur famille. Rencontrer des jeunes n’est-il pas le plus sûr moyen de --conserver un semblant de la vie sociale--?",
         "query": "Pourquoi certaines jeunes consacrent-ils du temps aux personnes âgées?"
     },
     {
@@ -34,7 +34,7 @@
             "Sélectionner un souvenir."
         ],
         "answer": 3,
-        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit: coiffés d’un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l’est aussi!",
+        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d’un genre inédit: coiffés d’un casque spécial, les participants doivent --se remémorer une histoire personnelle-- durant trente à soixante secondes. Des données ressortent alors sous forme d’algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l’est aussi!",
         "query": "Quel est le rôle des participants à cette expérience?"
     },
     {
@@ -47,7 +47,7 @@
             "Il l’a retenue prisonnière toute la nuit."
         ],
         "answer": 0,
-        "text": "Hier soir, lors du dernier concert du Festival de jazz organisé par la ville de Nancy, une chanteuse lorraine, Mell, a enthousiasmé le public lors de la première partie. À tel point que le groupe prévu ensuite a dû décaler son horaire. En effet, lorsque la chanteuse a quitté la scène, la salle, noire de monde, s’est mise à hurler afin de l’empêcher de partir.",
+        "text": "Hier soir, lors du dernier concert du Festival de jazz organisé par la ville de Nancy, une chanteuse lorraine, Mell, --a enthousiasmé le public-- lors de la première partie. À tel point que --le groupe prévu ensuite a dû décaler son horaire--. En effet, lorsque la chanteuse a quitté la scène, la salle, noire de monde, s’est mise à hurler afin de --l’empêcher de partir--.",
         "query": "Comment le public a-t-il réagi lors du concert de Mell?"
     },
     {
@@ -73,7 +73,7 @@
             "D’éviter la discrimination à l’embauche."
         ],
         "answer": 1,
-        "text": "Comment recruter la bonne personne, baby-sitter ou collaborateur? Si le bouche-à-oreille ou les tests constituent des méthodes largement répandues, difficile pour autant d’être sûr à 100% que la personne choisie soit vraiment la bonne. C’est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux: grâce à un algorithme, toutes leurs publications sont étudiées en seulement quelques secondes. Cependant, l’usage de l’intelligence artificielle pour la sélection de candidats a rapidement montré ses limites. L’entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
+        "text": "Comment recruter la bonne personne, baby-sitter ou collaborateur? Si le bouche-à-oreille ou les tests constituent des méthodes largement répandues, --difficile pour autant d’être sûr à 100% que la personne choisie-- soit vraiment la bonne. C’est pourquoi, pour une somme modique, une entreprise californienne, Predictim, promet une analyse complète de la personnalité des candidats via les réseaux sociaux: grâce à un algorithme, --toutes leurs publications sont étudiées en seulement quelques secondes--. Cependant, l’usage de l’intelligence artificielle pour la sélection de candidats a rapidement montré ses limites. L’entreprise Amazon, par exemple, a dû renoncer à son logiciel de recrutement, car celui-ci avait tendance à privilégier les hommes.",
         "query": "Que devrait permettre l’intelligence artificielle dans le monde professionnel?"
     },
     {
@@ -112,7 +112,7 @@
             "Transmettre des connaissances."
         ],
         "answer": 3,
-        "text": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance. « Je m’en vais et je pense que vous devriez me rejoindre. ». La journaliste Kelly H. annonçait trois choses: qu’elle démissionnait après une longue carrière dans un prestigieux quotidien, qu’elle devenait professeure de mathématiques et qu’elle créait une fondation pour encourager d’anciens entrepreneurs à devenir enseignant. « Vous avez eu une carrière à succès. Maintenant faites quelque chose de plus important! Enseignez!». En tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs en ridiculisant le plus souvent l’engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
+        "text": "Elle écrivait récemment sa dernière chronique, lancée comme un appel à la résistance. « Je m’en vais et je pense que vous devriez me rejoindre. ». La journaliste Kelly H. annonçait trois choses: qu’elle démissionnait après une longue carrière dans un prestigieux quotidien, qu’--elle devenait professeure de mathématiques-- et qu’elle créait une fondation pour --encourager d’anciens entrepreneurs à devenir enseignant--. « Vous avez eu une carrière à succès. Maintenant faites quelque chose de plus important! Enseignez!». En tant que journaliste, elle avait effectué des enquêtes sur la vie des cadres supérieurs en ridiculisant le plus souvent l’engouement pour les concepts managériaux en vogue et en soulignant les crises existentielles des cadres.",
         "query": "Quelle est la nouvelle priorité de Kelly H.?"
     },
     {
@@ -125,7 +125,7 @@
             "Que ses textes confortent l’image que l’on avait de lui."
         ],
         "answer": 2,
-        "text": "Vincent Van Gogh (1853-1890), un fou génial et sans le sou, s’est coupé l’oreille ; il n’a pas été reconnu de son vivant. Voilà à peu près l’image qu’on se fait du célèbre peintre néerlandais, du moins à en croire les livres, les films et les anecdotes dont il est le héros. Un mythe difficile à effacer s’est construit autour du peintre à partir d’une histoire romancée. Or une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh - échangée essentiellement avec son frère Théo, mais aussi avec Gauguin - donne une impression beaucoup plus nuancée. Van Gogh n’était pas si pauvre, il n’était pas si fou et il a bénéficié d’une certaine notoriété de son vivant, même si ce n’était pas auprès du grand public. Forte personnalité, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un suiet de telle ou telle manière.",
+        "text": "Vincent Van Gogh (1853-1890), un fou génial et sans le sou, s’est coupé l’oreille ; il n’a pas été reconnu de son vivant. Voilà à peu près l’image qu’on se fait du célèbre peintre néerlandais, du moins à en croire les livres, les films et les anecdotes dont il est le héros. Un mythe difficile à effacer s’est construit autour du peintre à partir d’une histoire romancée. Or une étude approfondie de l’ensemble de la correspondance de Vincent Van Gogh - échangée essentiellement avec son frère Théo, mais aussi avec Gauguin - --donne une impression beaucoup plus nuancée--. --Van Gogh n’était pas si pauvre--, il --n’était pas si fou-- et --il a bénéficié d’une certaine notoriété de son vivant--, même si ce n’était pas auprès du grand public. --Forte personnalité--, dans ses lettres il savait raconter merveilleusement et de façon captivante ce qui l’occupait et pourquoi il peignait un suiet de telle ou telle manière.",
         "query": "Qu’explique ce texte sur Vincent Van Gogh?"
     },
     {
@@ -138,7 +138,7 @@
             "Elles nourrissent une curiosité naissance."
         ],
         "answer": 0,
-        "text": "Les chaînes d’information en continu nous montrent la vie en temps réel, comme si nous y étions. Les informations y sont plus vraies que nature, elles palpitent et nous prennent aux tripes, analyse le journaliste Hubert Huertas. Avec le direct, nous pouvons imaginer qu’il peut toujours se passer quelque chose. C’est plus fort que le différé et plus fort que la fiction: nous sommes dans le concret, en contact avec le monde, et cela devient addictif, ajoute Virginie Spies, spécialiste des médias. À cela s’ajoute une impression d’insécurité. Le direct présente dans ces moments un côté hypnotique et tient le téléspectateur en haleine.",
+        "text": "Les chaînes d’information en continu nous montrent la vie en temps réel, comme si nous y étions. Les informations y sont plus vraies que nature, elles palpitent et --nous prennent aux tripes--, analyse le journaliste Hubert Huertas. Avec le direct, --nous pouvons imaginer qu’il peut toujours se passer quelque chose--. C’est plus fort que le différé et plus fort que la fiction: nous sommes dans le concret, en contact avec le monde, et cela devient addictif, ajoute Virginie Spies, spécialiste des médias. À cela s’ajoute une impression d’insécurité. Le direct présente dans ces moments un côté hypnotique et tient le téléspectateur en haleine.",
         "query": "Qu’explique cet article à propos des chaines d’informations en continu?"
     },
     {
@@ -177,7 +177,7 @@
             "Les moqueries de leurs camarades."
         ],
         "answer": 0,
-        "text": "Le désintérêt pour la lecture chez un grand nombre d’enfants peut être expliqué par plusieurs facteurs. Tout d’abord, beaucoup d’enfants abandonnent la lecture lorsqu’ils réalisent que d’autres élèves sont plus avancés qu’eux. De plus, lorsqu’on demande à l’enfant non seulement de lire, mais aussi de comprendre, il peut perdre son intérêt. En général, l’absence de compréhension est associée à un manque de plaisir. Selon certains psychologues, les enfants ont du mal à comprendre parce qu’ils ont des lacunes en culture générale. Cependant, la culture générale s’acquiert justement en lisant. Cela crée un cercle vicieux difficile à briser. Pour sortir de ce cercle vicieux, les psychologues recommandent de mettre à la disposition des enfants des livres adaptés à leur niveau de compréhension et à leurs centres d’intérêt. De plus, il est important de proposer des méthodes d’enseignement de la lecture qui encouragent l’interaction entre les élèves et qui renforcent la confiance en soi. Enfin, il est important que les parents et les enseignants encouragent la lecture chez les enfants en leur offrant des livres adaptés à leur âge et à leur niveau de compréhension.",
+        "text": "Le désintérêt pour la lecture chez un grand nombre d’enfants peut être expliqué par plusieurs facteurs. Tout d’abord, beaucoup d’enfants abandonnent la lecture lorsqu’ils réalisent que d’autres élèves sont plus avancés qu’eux. De plus, lorsqu’on demande à l’enfant non seulement de lire, --mais aussi de comprendre, il peut perdre son intérêt--. En général, l’absence de compréhension est associée à un manque de plaisir. Selon certains psychologues, les enfants ont du mal à comprendre parce qu’ils ont des lacunes en culture générale. Cependant, la culture générale s’acquiert justement en lisant. Cela crée un cercle vicieux difficile à briser. Pour sortir de ce cercle vicieux, les psychologues recommandent de mettre à la disposition des enfants des livres adaptés à leur niveau de compréhension et à leurs centres d’intérêt. De plus, il est important de proposer des méthodes d’enseignement de la lecture qui encouragent l’interaction entre les élèves et qui renforcent la confiance en soi. Enfin, il est important que les parents et les enseignants encouragent la lecture chez les enfants en leur offrant des livres adaptés à leur âge et à leur niveau de compréhension.",
         "query": "Selon ce texte, quel est l’une des raisons qui découragent les enfants de lire?"
     },
     {
@@ -255,7 +255,7 @@
             "Le maintien du patrimoine culturel."
         ],
         "answer": 0,
-        "text": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu’en leur temps l’invention de l’écriture, puis celle de l’imprimerie. Les notions de temps et d’espace en sont transformées et les façons d’accéder à la connaissance profondément modifiées. À cet égard, chaque grande rupture dans l’histoire de l’humanité conduit à priver l’homme de facultés («il perd »), mais chaque révolution lui en apporte de nouvelles («il gagne »). Pour chaque perte d’une part de mémoire et de capacité de traitement de l’information liée à la diffusion des technologies numériques, l’homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu’une faculté décuplée d’invention et de création.",
+        "text": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu’en leur temps l’invention de l’écriture, puis celle de l’imprimerie. Les notions de temps et d’espace en sont transformées et les façons d’accéder à la connaissance profondément modifiées. À cet égard, chaque grande rupture dans l’histoire de l’humanité conduit à --priver l’homme de facultés («il perd »)--, mais chaque révolution --lui en apporte de nouvelles («il gagne »)--. Pour chaque perte d’une part de mémoire et de capacité de traitement de l’information liée à la diffusion des technologies numériques, l’homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu’--une faculté décuplée d’invention et de création--.",
         "query": "Sur quoi Michel Serres attire-t-il l’attention?"
     }
 ]

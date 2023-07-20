@@ -8,7 +8,7 @@
             "Une perte de spontanéité des matchs."
         ],
         "answer": 3,
-        "text": "La Ligue de Football Professionnel vient d’annoncer que l’assistance vidéo sera prochainement introduite en première ligue. Mais la polémique demeure sur sa nécessité « Quand il y aura un but dans un stade, les gens devront attendre », s’inquiète un ancien défenseur de première ligue. Pour lui, «on oublie l’essence même du football, qui est la joie, la folie. On ne va même plus profiter des buts ». Généralement, un arrêt de jeu ne doit pas dépasser 30 secondes, or « actuellement on est souvent à 50 secondes parce que le système n’est pas encore tout à fait performant. »",
+        "text": "La Ligue de Football Professionnel vient d’annoncer que l’assistance vidéo sera prochainement introduite en première ligue. Mais la polémique demeure sur sa nécessité « Quand il y aura un but dans un stade, --les gens devront attendre-- », s’inquiète un ancien défenseur de première ligue. Pour lui, «on oublie l’essence même du football, qui est la joie, la folie. On ne va même plus profiter des buts ». Généralement, un arrêt de jeu ne doit pas dépasser 30 secondes, or « actuellement on est souvent à 50 secondes parce que le système n’est pas encore tout à fait performant. »",
         "query": "Quelle est la conséquence de l’assistance vidéo pour le football?"
     },
     {
@@ -34,7 +34,7 @@
             "Il suscite l’engagement des professionnels du secteur."
         ],
         "answer": 1,
-        "text": "Le tourisme en France a longtemps été perçu comme un filon, mais il pourrait à l’avenir se transformer en calamité: celle du « surtourisme ». Ce phénomène résulte d’une mauvaise gestion de foules sans cesse plus nombreuses qui pourraient bientôt toucher la France, où nombre de sites mythiques sont inadaptés à une affluence en forte croissance, le Louvre et la tour Eiffel, à Paris, en tête. « L’objectif de 100 millions de touristes par an pourrait bien être atteint, précise un directeur d’agence organisant des séjours en France. Mais, en l’absence de tout aménagement et alors que 20% du pays accueillent 80% des touristes, cela pourrait devenir un danger. »",
+        "text": "Le tourisme en France a longtemps été perçu comme un filon, mais il pourrait à l’avenir se transformer en calamité: celle du « surtourisme ». Ce phénomène --résulte d’une mauvaise gestion de foules-- sans cesse plus nombreuses qui pourraient bientôt toucher la France, où nombre de sites mythiques sont inadaptés à une affluence en forte croissance, le Louvre et la tour Eiffel, à Paris, en tête. « L’objectif de 100 millions de touristes par an pourrait bien être atteint, précise un directeur d’agence organisant des séjours en France. Mais, en l’absence de tout aménagement et alors que 20% du pays accueillent 80% des touristes, cela pourrait devenir un danger. »",
         "query": "Qu’apprend-on au sujet du « surtourisme »?"
     },
     {
@@ -47,7 +47,7 @@
             "Elle héberge de multiples lieux d’exposition."
         ],
         "answer": 1,
-        "text": "Vancouver s’affirme depuis plusieurs années comme un lieu de croisement inédit des humanismes et dispose de nombreuses connexions internationales, entre Shanghai et Tokyo, la Californie et l’Europe. Le colloque « l’avenir du contemporain » fait partie d’une série d’initiatives conduites par le consulat général de France à Vancouver pour renforcer les relations entre la France et l’Ouest canadien dans le domaine des arts. II s’intéressera notamment aux nouveaux rôles des musées face aux contraintes et aux chances offertes, d’une part, par la mondialisation et d’autre part, par la circulation intensifiée des artistes et des œuvres.",
+        "text": "Vancouver s’affirme depuis plusieurs années comme --un lieu de croisement inédit des humanismes et dispose de nombreuses connexions internationales--, entre Shanghai et Tokyo, la Californie et l’Europe. Le colloque « l’avenir du contemporain » fait partie d’une série d’initiatives conduites par le consulat général de France à Vancouver pour renforcer les relations entre la France et l’Ouest canadien dans le domaine des arts. II s’intéressera notamment aux nouveaux rôles des musées face aux contraintes et aux chances offertes, d’une part, par la mondialisation et d’autre part, par la circulation intensifiée des artistes et des œuvres.",
         "query": "Quel atout de Vancouver l’auteur met-il en avant dans cet article?"
     },
     {
@@ -73,7 +73,7 @@
             "Pour obtenir des données sur sa composition."
         ],
         "answer": 3,
-        "text": "SEIS sera le premier sismomètre déployé sur un autre sol que celui de la Terre. Sur Mars, cet instrument français va ausculter les séismes qui secouent la planète rouge et récolter des données qui permettront de déterminer si le noyau de la planète est liquide ou solide. Mars a le même âge que la planète Terre, mais il y a 3 ou 4 milliards d’années, toute vie y a cessé et elle est devenue une planète morte. Si nous savons déjà de quoi sont constituées son atmosphère et sa surface, nous ignorons encore ce qui s’est produit à ce moment-là et ce qu’elle recèle dans son sous-sol.",
+        "text": "SEIS sera le premier sismomètre déployé sur un autre sol que celui de la Terre. Sur Mars, cet instrument français va ausculter les séismes qui secouent la planète rouge et --récolter des données qui permettront de déterminer si le noyau de la planète est liquide ou solide--. Mars a le même âge que la planète Terre, mais il y a 3 ou 4 milliards d’années, toute vie y a cessé et elle est devenue une planète morte. Si nous savons déjà de quoi sont constituées son atmosphère et sa surface, nous ignorons encore ce qui s’est produit à ce moment-là et ce qu’elle recèle dans son sous-sol.",
         "query": "Pourquoi SEIS a-t-il été envoyé sur Mars?"
     },
     {
@@ -86,7 +86,7 @@
             "Un soutien scolaire journalier serait bénéfique."
         ],
         "answer": 0,
-        "text": "La revue Science et Avenir cite une étude de l’université de Cambridge dans lequel des chercheurs en psychologie et en éducation rapportaient les attitudes des écoliers à l’égard des mathématiques. Les scientifiques décrivent chez les petits Britanniques un sentiment de dégoût, de frustration ou de peur. Des observations qui reflètent exactement ce qui se passe en France. De nombreux enfants sont confrontés à un véritable blocage en manifestant tous les signes du stress, ce qui entraîne des effets négatifs sur les fonctions cognitives. Selon certains professeurs, les mathématiques apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure, alors que pour réconcilier les écoliers avec les maths, il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien.",
+        "text": "La revue Science et Avenir cite une étude de l’université de Cambridge dans lequel des chercheurs en psychologie et en éducation rapportaient les attitudes des écoliers à l’égard des mathématiques. Les scientifiques décrivent chez les petits Britanniques un sentiment de dégoût, de frustration ou de peur. Des observations qui reflètent exactement ce qui se passe en France. De nombreux enfants sont confrontés à un véritable blocage en manifestant tous les signes du stress, ce qui entraîne des effets négatifs sur les fonctions cognitives. Selon certains professeurs, les mathématiques apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure, alors que pour réconcilier les écoliers avec les maths, --il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien--.",
         "query": "Qu’explique ce texte à propos de l’enseignement des mathématiques?"
     },
     {
@@ -99,7 +99,7 @@
             "Les problèmes causés par la surpopulation."
         ],
         "answer": 1,
-        "text": "Pourrait-on nourrir les 9 milliards d’humains que comptera la Terre en 2050 uniquement par l’agriculture biologique? Oui, répondent certains chercheurs. Mais selon eux, la tâche sera difficile, car pour se défaire des pesticides, des engrais de synthèse et des OGM, il faudrait absolument diminuer la consommation de viande et le gaspillage alimentaire. Et même à ces conditions, il resterait encore des obstacles au « tout bio ». Alors, agriculture biologique ou conventionnelle? Les incertitudes scientifiques demeurent quant à leurs réels impacts sur les rendements et les prédictions sur ce sujet sont encore floues.",
+        "text": "Pourrait-on nourrir les 9 milliards d’humains que comptera la Terre en 2050 uniquement par l’agriculture biologique? Oui, répondent certains chercheurs. Mais selon eux, la tâche sera difficile, car pour se défaire des pesticides, des engrais de synthèse et des OGM, il faudrait absolument diminuer la consommation de viande et le gaspillage alimentaire. Et même à ces conditions, --il resterait encore des obstacles au « tout bio »--. Alors, agriculture biologique ou conventionnelle? --Les incertitudes scientifiques demeurent-- quant à leurs réels impacts sur les rendements et les prédictions sur ce sujet sont encore floues.",
         "query": "Sur quoi insiste l’auteur de ce texte?"
     },
     {
@@ -190,7 +190,7 @@
             "Lutter contre elles peut nuire à certaines libertés."
         ],
         "answer": 3,
-        "text": "Un nouveau mot se banalise sur les campus américains: « microagression » Qualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d’expression. Forgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi: des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé. Des universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions, mais certains redoutent que l’excès de précaution ne vienne tuer le débat d’idées.",
+        "text": "Un nouveau mot se banalise sur les campus américains: « microagression » Qualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d’expression. Forgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi: des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé. Des universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions, mais certains redoutent que --l’excès de précaution ne vienne tuer le débat d’idées--.",
         "query": "Qu’apprend-on sur les microagressions?"
     },
     {
@@ -229,7 +229,7 @@
             "Il renforce de mythe de la bataille de Bouvines."
         ],
         "answer": 2,
-        "text": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l’un des actes fondateurs de la dynastie capétienne et l’un des épisodes les plus célèbres du « roman national » français. Du XIlle siècle à nos jours, elle a été à l’origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits. À l’issue d’une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques. Ainsi, il nous invite à poursuivre la réflexion sur l’idée que les Français se font d’eux-mêmes.",
+        "text": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l’un des actes fondateurs de la dynastie capétienne et l’un des épisodes les plus célèbres du « roman national » français. Du XIlle siècle à nos jours, elle a été à l’origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits. À l’issue d’une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques. Ainsi, il nous invite à --poursuivre la réflexion sur l’idée que les Français se font d’eux-mêmes--.",
         "query": "Selon l’article, que fait Dominique Barthélemy?"
     },
     {
@@ -242,7 +242,7 @@
             "Il suffit d’apprendre à profiter du quotidien."
         ],
         "answer": 1,
-        "text": "Faire cohabiter vie citadine haletante et déconnexion en pleine nature sur le même emploi du temps: voilà ce que propose le micro-aventuré popularisé par l’aventurier britannique Alastair Humphreys, ce terme caractérise une aventure courte et accessible, pour « les gens qui ont des vies normales ». Le concept est simple: plutôt que de tirer un trait sur sa soif de voyage, il est envisageable d’en réduire l’échelle pour bousculer son quotidien. Ouvrir la porte et partir à l’aventure, passer une nuit ou deux dehors, suffirait même si on habite en ville. Pour ceux qui persistent à croire que la véritable aventure se trouve à l’autre bout du monde, ce concept représente une douce piqûre de rappel.",
+        "text": "Faire cohabiter vie citadine haletante et déconnexion en pleine nature sur le même emploi du temps: voilà ce que propose le micro-aventuré popularisé par l’aventurier britannique Alastair Humphreys, ce terme caractérise une aventure courte et accessible, pour « les gens qui ont des vies normales ». Le concept est simple: --plutôt que de tirer un trait sur sa soif de voyage, il est envisageable d’en réduire l’échelle-- pour bousculer son quotidien. Ouvrir la porte et partir à l’aventure, --passer une nuit ou deux dehors--, suffirait même si on habite en ville. Pour ceux qui persistent à croire que la véritable aventure se trouve à l’autre bout du monde, ce concept représente une douce piqûre de rappel.",
         "query": "Que démontre Alastair Humphreys, avec le concept de micro-aventure?"
     },
     {
@@ -255,7 +255,7 @@
             "Se donner bonne conscience."
         ],
         "answer": 3,
-        "text": "Aujourd’hui, de nombreux enfants cumulent les activités en dehors des cours. Selon une étude, l’origine de cette tendance serait liée aux mutations sociales contemporaines. Ainsi, recourir à de telles activités serait un moyen pour les parents de palier l’absence des mères -de plus en plus souvent actives- et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail. Cependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants. Elles n’en apparaissent pas moins aux parents comme des marqueurs de leur bonne parentalité. Un phénomène qui s’entretient par l’expansion constante de l’offre ainsi par la surenchère qui s’instaure entre les foyers.",
+        "text": "Aujourd’hui, de nombreux enfants cumulent les activités en dehors des cours. Selon une étude, l’origine de cette tendance serait liée aux mutations sociales contemporaines. Ainsi, recourir à de telles activités serait un moyen pour les parents de palier l’absence des mères -de plus en plus souvent actives- et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail. Cependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants. Elles n’en apparaissent pas moins --aux parents comme des marqueurs de leur bonne parentalité--. Un phénomène qui s’entretient par l’expansion constante de l’offre ainsi par la surenchère qui s’instaure entre les foyers.",
         "query": "Que veulent faire les parents?"
     }
 ]
