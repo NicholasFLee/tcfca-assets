@@ -21,7 +21,7 @@
             "Les adolescents adorent l’univers imaginé."
         ],
         "answer": 1,
-        "text": "Si des animés Japonais étaient diffusés avant Dragon Ball, c’est cette saga qui a popularisé le manga en France. Le personnage principal, Goku, est d’abord un enfant simple et très joyeux. Avec l’âge et l’expérience, il mûrit et assume les responsabilités liées au développement de ses supers pouvoirs. Cette évolution du protagoniste, parallèle à celle de ses lecteurs, leur a permis de s’identifier à lui. Ce procédé narratif, qui consiste à faire grandir le personnage au fil du temps, était sans précédent et surtout en opposition claire avec les comics américains dont les personnages ne vieillissent jamais.",
+        "text": "Si des animés Japonais étaient diffusés avant Dragon Ball, c’est cette saga qui a popularisé le manga en France. Le personnage principal, Goku, est d’abord un enfant simple et très joyeux. Avec l’âge et l’expérience, il mûrit et assume les responsabilités liées au développement de ses supers pouvoirs. --Cette évolution du protagoniste, parallèle à celle de ses lecteurs, leur a permis de s’identifier à lui--. Ce procédé narratif, qui consiste à faire grandir le personnage au fil du temps, était sans précédent et surtout en opposition claire avec les comics américains dont les personnages ne vieillissent jamais.",
         "query": "D’après cet article, qu’est-ce qui explique le succès de ce magma?"
     },
     {
@@ -34,7 +34,7 @@
             "À une simulation de mission spatiale."
         ],
         "answer": 3,
-        "text": "Avec la technologie actuelle, il faut six à neuf mois pour un vol de la Terre à Mars. Pour connaître les effets de l’isolement spatial de longue durée, six volontaires ont joué les astronautes dans un dôme de 90 m2 installé sur un volcan à Hawaï et qui faisait office de base martienne. Ils en sont ressortis dimanche, épuisés, mais heureux de respirer l’air frais et de converser avec d’autres humains. Pendant un an, ils sont restés ensemble en milieu fermé (avec quelques rares sorties en combinaison spatiale), ont mangé une nourriture déshydratée et effectuée des expériences pour améliorer les systèmes autonomes.",
+        "text": "Avec la technologie actuelle, il faut six à neuf mois pour un vol de la Terre à Mars. Pour connaître les effets de l’isolement spatial de longue durée, --six volontaires ont joué les astronautes dans un dôme-- de 90 m2 installé sur un volcan à Hawaï et qui faisait office de base martienne. Ils en sont ressortis dimanche, épuisés, mais heureux de respirer l’air frais et de converser avec d’autres humains. Pendant un an, ils sont restés ensemble en milieu fermé (avec quelques rares sorties en combinaison spatiale), ont mangé une nourriture déshydratée et effectuée des expériences pour améliorer les systèmes autonomes.",
         "query": "À quoi ont participé ces six personnes?"
     },
     {
@@ -47,7 +47,7 @@
             "Pouvoir travailler en totale autonomie."
         ],
         "answer": 2,
-        "text": "L’alliance française de Bordeaux recherche: un(e) professeur(e) de français langue étrangère. Vous assurerez les cours de français pour tous niveaux. Le public se compose d’élèves de tous âges. Les cours ont lieu de 15 h 00 à 21 h 00 (du lundi au jeudi). Matinées et vendredis libres. Possibilités d’heures supplémentaires en cours particuliers. Rémunération: à débattre, en fonction de l’expérience. Profil: titulaire d’un diplôme d’enseignement de français langue étrangère, dynamique et motivé(e). Capacité à travailler en équipe. Une expérience auprès d’enfants serait un plus.",
+        "text": "L’alliance française de Bordeaux recherche: un(e) professeur(e) de français langue étrangère. Vous assurerez les cours de français pour tous niveaux. Le public se compose d’élèves de tous âges. Les cours ont lieu de 15 h 00 à 21 h 00 (du lundi au jeudi). Matinées et vendredis libres. Possibilités d’heures supplémentaires en cours particuliers. Rémunération: à débattre, en fonction de l’expérience. Profil: --titulaire d’un diplôme d’enseignement de français langue étrangère--, dynamique et motivé(e). Capacité à travailler en équipe. Une expérience auprès d’enfants serait un plus.",
         "query": "Quelles sont les conditions d’embauche?"
     },
     {
@@ -60,7 +60,7 @@
             "Garantir une pédagogie différenciée."
         ],
         "answer": 2,
-        "text": "En France, ce sont majoritairement les enfants des classes sociales favorisées qui accèdent aux études supérieures, quand ceux des classes moyennes et modestes en sont largement écartés, diminuant ainsi leurs chances d’accès aux postes à responsabilités et aux salaires qui en découlent. Si l’école ne peut être tenue pour responsable de cette situation, il n’en demeure pas moins qu’elle ne permet pas aux élèves des classes modestes de compenser les faiblesses de l’environnement social et familial dont on connait l’impact majeur sur la réussite scolaire. C’est pourquoi nous devons examiner comment l’école peut être sa propre ressource afin de garantir une démocratisation de la réussite scolaire, aujourd’hui réservée de fait à quelques-uns.",
+        "text": "En France, --ce sont majoritairement les enfants des classes sociales favorisées qui accèdent aux études supérieures--, quand ceux des classes moyennes et modestes en sont largement écartés, diminuant ainsi leurs chances d’accès aux postes à responsabilités et aux salaires qui en découlent. Si l’école ne peut être tenue pour responsable de cette situation, il n’en demeure pas moins qu’elle ne permet pas aux élèves des classes modestes de compenser les faiblesses de l’environnement social et familial dont on connait l’impact majeur sur la réussite scolaire. C’est pourquoi nous devons examiner comment l’école peut être sa propre ressource afin de --garantir une démocratisation de la réussite scolaire--, aujourd’hui réservée de fait à quelques-uns.",
         "query": "Selon l’auteur, que devrait faire l’école?"
     },
     {
@@ -73,7 +73,7 @@
             "Leur multiplication réduit le stress des consommateurs."
         ],
         "answer": 2,
-        "text": "Dans une société qui ne tolère plus l’attente, est-il possible d’éviter la frustration lorsqu’on patiente à la caisse d’un supermarché? La question préoccupe les grandes chaînes commerciales. Il existe plusieurs systèmes pour optimiser l’organisation des files d’attente et, pour les départager, il faut faire appel à la stratégie. Si une seule file très longue peut être décourageante, proposer plusieurs files plus courtes présente un autre inconvénient: celui de devoir en choisir une. Or, se trouver en situation de devoir faire un choix peut générer de l’incertitude, du stress et de la colère.",
+        "text": "Dans une société qui ne tolère plus l’attente, est-il possible d’éviter la frustration lorsqu’on patiente à la caisse d’un supermarché? La question préoccupe les grandes chaînes commerciales. Il existe plusieurs systèmes pour optimiser l’organisation des files d’attente et, pour les départager, il faut faire appel à la stratégie. Si une seule file très longue peut être décourageante, proposer --plusieurs files plus courtes présente un autre inconvénient--: celui de devoir en choisir une. Or, se trouver en situation de --devoir faire un choix peut générer de l’incertitude--, du stress et de la colère.",
         "query": "Qu’apprend-on sur les files d’attente?"
     },
     {
@@ -99,7 +99,7 @@
             "Elle tente d’imiter sa voisine."
         ],
         "answer": 0,
-        "text": "Avec une histoire de plus de deux millénaires et une économie prospère, Aix-en-Provence rompt avec l’image de cité endormie que donne son labyrinthe de ruelles colorées. L’activité des commerçants, galeristes, aubergistes et autres passants offre un rythme singulier aux journées provençales, démontrant l’énergie créative de sa population cosmopolite. En plus d’un patrimoine important, la ville accueille l’élite de la danse contemporaine, 70 000 étudiants fréquentent les trois universités de la ville et des centaines d’entreprises occupent le pôle d’activité. Ce dynamisme n’a rien à envier à Marseille, située à quelques kilomètres, et promet des heures heureuses à Aix.",
+        "text": "Avec une histoire de plus de deux millénaires et --une économie prospère--, Aix-en-Provence rompt avec l’image de cité endormie que donne son labyrinthe de ruelles colorées. --L’activité des commerçants, galeristes, aubergistes et autres passants offre un rythme singulier-- aux journées provençales, --démontrant l’énergie créative-- de sa population cosmopolite. En plus d’un patrimoine important, la ville accueille l’élite de la danse contemporaine, 70 000 étudiants fréquentent les trois universités de la ville et des centaines d’entreprises occupent le pôle d’activité. Ce dynamisme n’a rien à envier à Marseille, située à quelques kilomètres, et promet des heures heureuses à Aix.",
         "query": "Selon ce texte, quelle est la particularité d’Aix-en-Provence?"
     },
     {
@@ -112,7 +112,7 @@
             "Opposer un veto à certaines décisions."
         ],
         "answer": 1,
-        "text": "La mairie de Paris appelle les Parisiens à prendre part au budget participatif. 5% du budget de la Ville est ainsi dédié à la réalisation de voeux émanant directement des habitants. D’abord, ces des derniers font d’aménagements propositions OU d’événements. Ensuite, les projets sont soumis au vote via Internet. Ceux qui obtiendront le plus de suffrages seront inscrits au budget de la Ville et verront le jour dans les mois suivants. L’obiectif de cette initiative est d’assurer plus de transparence dans la gestion des finances et de valoriser l’expertise et la créativité des Parisiens concernant leur environnement immédiat.",
+        "text": "La mairie de Paris appelle les Parisiens à prendre part au budget participatif. 5% du budget de la Ville est ainsi dédié à --la réalisation de voeux émanant directement des habitants--. D’abord, ces des derniers font d’aménagements propositions ou d’événements. Ensuite, --les projets sont soumis au vote via Internet--. Ceux qui obtiendront le plus de suffrages seront inscrits au budget de la Ville et verront le jour dans les mois suivants. L’obiectif de cette initiative est d’assurer plus de transparence dans la gestion des finances et de valoriser l’expertise et la créativité des Parisiens concernant leur environnement immédiat.",
         "query": "Grâce à cette initiative, que peuvent faire les Parisiens?"
     },
     {
@@ -125,7 +125,7 @@
             "Il véhicule des valeurs obsolètes."
         ],
         "answer": 0,
-        "text": "L’individualisme a souvent mauvaise presse dans les discours actuels. On a tendance à lui imputer tous les maux de nos sociétés: égoïsme, compétition, exclusion, communautarisme, voire déliquescence morale... Erreur, explique le sociologue François de Singly dans un petit essai percutant. On assimile l’individualisme à ces réactions adolescentes du type « j’ai bien le droit de faire ce que je veux », alors qu’il est tout le contraire. Fruit d’une pensée élaborée depuis la Renaissance, l’individualisme est un projet de société dans lequel chacun devrait trouver les meilleures conditions de son épanouissement.",
+        "text": "L’individualisme a souvent mauvaise presse dans les discours actuels. On a tendance à lui imputer tous les maux de nos sociétés: égoïsme, compétition, exclusion, communautarisme, voire déliquescence morale... Erreur, explique le sociologue François de Singly dans un petit essai percutant. On assimile l’individualisme à ces réactions adolescentes du type « j’ai bien le droit de faire ce que je veux », alors qu’il est tout le contraire. --Fruit d’une pensée élaborée-- depuis la Renaissance, --l’individualisme est un projet de société-- dans lequel chacun devrait trouver les meilleures conditions de son épanouissement.",
         "query": "Qu’explique François de Singly à propos de l’individualisme?"
     },
     {
@@ -151,7 +151,7 @@
             "On veut les préserver durablement."
         ],
         "answer": 3,
-        "text": "Lors des premiers pas de l’art urbain (connu aussi sous le nom de street art), il y a plus cinquante ans, personne ne portait vraiment intérêt à cette expression artistique éphémère. Les tags étaient destinés à disparaître, mais avec le temps, cela a changé: désormais on va jusqu’à découper les murs pour les vendre aux enchères et en garder une trace, car la conservation des œuvres d’art urbain dans l’espace public pose de sérieux défis. Il faut les protéger des agressions du temps, de la température, des dégradations humaines. On peut mettre une protection en plexiglas, mais un jour le mur finira aussi peut-être par tomber.",
+        "text": "Lors des premiers pas de l’art urbain (connu aussi sous le nom de street art), il y a plus cinquante ans, personne ne portait vraiment intérêt à cette expression artistique éphémère. Les tags étaient destinés à disparaître, mais avec le temps, cela a changé: désormais --on va jusqu’à découper les murs pour les vendre aux enchères et en garder une trace--, car la conservation des œuvres d’art urbain dans l’espace public pose de sérieux défis. Il faut les protéger des agressions du temps, de la température, des dégradations humaines. On peut mettre une protection en plexiglas, mais un jour le mur finira aussi peut-être par tomber.",
         "query": "Qu’explique l’auteur à propos des œuvres d’art urbain?"
     },
     {
@@ -203,7 +203,7 @@
             "Simplifier le vocabulaire employé."
         ],
         "answer": 3,
-        "text": "La question environnementale est au cœur des débats contemporains; elle doit donc, à ce titre, trouver dans l’école un écho à la mesure de son importance. Il faut toutefois adapter la question à l’espace scolaire. La première condition pour un transfert réussi, utile et pédagogique, est d’ordre terminologique: il faudrait reformuler la problématique dans des mots ordinaires. Pourquoi, en effet, ne pas parler directement de l’environnement et du rapport que les hommes entretiennent avec lui, de la variété précieuse des êtres vivants qui le composent, de sa protection en vue de sa conservation? Nous nous placerions ainsi dans un registre linguistique moins abstrait que celui de la transition écologique par exemple.",
+        "text": "La question environnementale est au cœur des débats contemporains; elle doit donc, à ce titre, trouver dans l’école un écho à la mesure de son importance. Il faut toutefois adapter la question à l’espace scolaire. La première condition pour un transfert réussi, utile et pédagogique, est d’--ordre terminologique: il faudrait reformuler la problématique dans des mots ordinaires--. Pourquoi, en effet, ne pas parler directement de l’environnement et du rapport que les hommes entretiennent avec lui, de la variété précieuse des êtres vivants qui le composent, de sa protection en vue de sa conservation? Nous nous placerions ainsi dans un registre linguistique moins abstrait que celui de la transition écologique par exemple.",
         "query": "D’après l’auteur, que faut-il faire pour sensibiliser les élèves aux questions environnementales?"
     },
     {
@@ -229,7 +229,7 @@
             "Elles symbolisent la peur de l’inconnu."
         ],
         "answer": 0,
-        "text": "Jadis pourchassées pour hérésie ou cantonnées aux seconds rôles dans les contes de fées, les sorcières, ces figures de pouvoir et de liberté, reprennent du service, notamment dans les fictions, essais et ouvrages historiques. Après le best-seller de Mona Chollet, « Sorcières, la puissance invaincue des femmes », écoulé à plus de 136000 exemplaires depuis sa sortie, en 2018, les éditeurs ont su s’emparer du filon. Si ce succès est indéniablement lié au féminisme, le déclencheur vient d’abord d’un petit sorcier, Harry Potter. Il a marqué le retour en grâce de la magie, estime Mickaël Palvin, directeur marketing d’Albin Michel. Pendant des années, on a cantonné la sorcellerie au rayon ésotérisme. Mais, depuis quelques mois, on assiste à sa consécration dans la littérature que les éditeurs mettent en avant à la rentrée littéraire.",
+        "text": "Jadis pourchassées pour hérésie ou cantonnées aux seconds rôles dans les contes de fées, les sorcières, ces figures de pouvoir et de liberté, reprennent du service, notamment dans les fictions, essais et ouvrages historiques. Après le best-seller de Mona Chollet, « Sorcières, la puissance invaincue des femmes », écoulé à plus de 136000 exemplaires depuis sa sortie, en 2018, les éditeurs ont su s’emparer du filon. Si --ce succès est indéniablement lié au féminisme--, le déclencheur vient d’abord d’un petit sorcier, Harry Potter. Il a marqué le retour en grâce de la magie, estime Mickaël Palvin, directeur marketing d’Albin Michel. Pendant des années, on a cantonné la sorcellerie au rayon ésotérisme. Mais, depuis quelques mois, on assiste à sa consécration dans la littérature que les éditeurs mettent en avant à la rentrée littéraire.",
         "query": "Qu’explique ce journaliste sur les sorcières dans la littérature?"
     },
     {

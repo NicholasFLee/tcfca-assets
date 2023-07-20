@@ -60,7 +60,7 @@
             "Elles sécurisent les modes de paiement."
         ],
         "answer": 1,
-        "text": "Plus de trente monnaies locales circulent en France, la plupart sont créées et pilotées par des groupes de citoyens. En version papier ou exclusivement numériques, elles dessinent une nouvelle carte économique des villes, fondée sur le développement local des entreprises et la promotion des circuits courts. Ces nouveaux moyens de paiement complémentaires de l’euro se veulent aussi des outils de réappropriation de l’économie locale par les habitants. Si leurs effets sur l’environnement sont moins mesurables que les impacts économiques et sociaux, les monnaies locales restent des outils intéressants pour encourager l’adoption de comportements plus écologiques. Elles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
+        "text": "Plus de trente monnaies locales circulent en France, la plupart sont créées et pilotées par des groupes de citoyens. En version papier ou exclusivement numériques, elles dessinent une nouvelle carte économique des villes, fondée sur le développement local des entreprises et la promotion des circuits courts. Ces nouveaux moyens de paiement complémentaires de l’euro se veulent aussi des outils de réappropriation de l’économie locale par les habitants. Si leurs effets sur l’environnement sont moins mesurables que les impacts économiques et sociaux, les monnaies locales restent des outils intéressants pour --encourager l’adoption de comportements plus écologiques--. Elles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
         "query": "Selon cet article, quel intérêt présentent les monnaies locales?"
     },
     {
@@ -73,7 +73,7 @@
             "Il sera situé près d’un axe routier."
         ],
         "answer": 2,
-        "text": "Programme d’exception. « C’est un endroit calme comme un village. La mairie n’est qu’à 200 mètres et, autour, tous les commerces et services dont on peut rêver sont accessibles, sans avoir besoin d’emprunter sa voiture. Inutile d’aller bien loin pour une promenade puisque le parc Étienne est à proximité de la résidence. Qui croirait que nous sommes à quelques minutes seulement de Paris? », C’est ainsi que l’architecte décrit le lieu où il va construire deux bâtiments modernes cette année.",
+        "text": "Programme d’exception. « C’est un endroit calme comme un village. La mairie n’est qu’à 200 mètres et, autour, tous les commerces et services dont on peut rêver sont accessibles, sans avoir besoin d’emprunter sa voiture. Inutile d’aller bien loin pour une promenade puisque --le parc Étienne est à proximité de la résidence--. Qui croirait que nous sommes à quelques minutes seulement de Paris? », C’est ainsi que l’architecte décrit le lieu où il va construire deux bâtiments modernes cette année.",
         "query": "Quelle sera la particularité de ce projet immobilier?"
     },
     {
@@ -86,7 +86,7 @@
             "Elle est modelée par ses locuteurs."
         ],
         "answer": 3,
-        "text": "C’est un fait majeur dans l’histoire du français: la France est devenue minoritaire en nombre de locuteurs dans le monde francophone. Ce qui vaut mieux que de faire partie des 2 000 langues qui, par les hasards de l’histoire et des rapports de force, risquent d’avoir disparu d’ici à la fin du siècle. En revanche, nous allons devoir abandonner certaines de nos postures traditionnelles. Et ce pour une raison simple: le français ne dépend pas seulement d’une élite intellectuelle, écrivains, enseignants ou académiciens, mais surtout de ses locuteurs. Aussi la langue va-t-elle nécessairement s’ouvrir davantage. Il semble acquis en tout cas que l’origine de la norme va se déplacer des rives de la Seine au vaste monde, sachant qu’il s’agit là d’un enrichissement et non d’une perte.",
+        "text": "C’est un fait majeur dans l’histoire du français: la France est devenue minoritaire en nombre de locuteurs dans le monde francophone. Ce qui vaut mieux que de faire partie des 2 000 langues qui, par les hasards de l’histoire et des rapports de force, risquent d’avoir disparu d’ici à la fin du siècle. En revanche, nous allons devoir abandonner certaines de nos postures traditionnelles. Et ce pour une raison simple: le français ne dépend pas seulement d’une élite intellectuelle, écrivains, enseignants ou académiciens, --mais surtout de ses locuteurs--. Aussi la langue va-t-elle nécessairement s’ouvrir davantage. Il semble acquis en tout cas que l’origine de la norme va se déplacer des rives de la Seine au vaste monde, sachant qu’il s’agit là d’un enrichissement et non d’une perte.",
         "query": "Comment l’auteur voit-il l’évolution du français?"
     },
     {
@@ -112,7 +112,7 @@
             "Vulgariser des techniques de rendement des terres."
         ],
         "answer": 0,
-        "text": "Initiée dans les années 1960, la bataille contre les mauvaises herbes n’a jamais cessé. Depuis, les sols, en plus d’être labourés à outrance, sont aspergés de pesticides qui se propagent sur les terres et dans les eaux voisines... Claude Bourguignon, ingénieur agricole, milite depuis plus de vingt ans pour tenter de convaincre les agriculteurs que le labourage intensif et les pesticides causent la perte de la matière organique terrestre. Présente sur la couche supérieure de la terre, elle est composée de microbes, d’insectes et de champignons et elle fournit des nutriments qui sont essentiels pour les sols.",
+        "text": "Initiée dans les années 1960, la bataille contre les mauvaises herbes n’a jamais cessé. Depuis, les sols, en plus d’être labourés à outrance, sont aspergés de pesticides qui se propagent sur les terres et dans les eaux voisines... Claude Bourguignon, ingénieur agricole, milite depuis plus de vingt ans pour tenter de convaincre les agriculteurs que --le labourage intensif et les pesticides causent la perte de la matière organique terrestre--. Présente sur la couche supérieure de la terre, elle est composée de microbes, d’insectes et de champignons et elle fournit des nutriments qui sont essentiels pour les sols.",
         "query": "Quel est l’objectif de Claude Bourguignon?"
     },
     {
@@ -125,7 +125,7 @@
             "Elle est incompatible avec les objectifs politiques."
         ],
         "answer": 1,
-        "text": "Dans les villes françaises, les arbres ont poussé tout l’hiver! Insatiables capteurs de CO2, ils sont surtout de puissants climatiseurs. Devant l’urgence, il faudrait en planter partout, dans les moindres interstices. Et vite. Depuis des années, l’Organisation Mondiale de la Santé recommande un verdissement maximum des villes, insistant sur l’action de la nature quant à la réduction potentielle de l’exposition à la pollution de l’air, au bruit et à la chaleur excessive. Mais sur le terrain, la mise en œuvre de tels programmes ne coule pas de source. Le temps des politiques n’est pas le temps de l’arbre. Pour qu’il rende pleinement les services qu’on attend de lui, il lui faut des dizaines d’années, un accès à l’eau, de l’espace, des congénères, un environnement écologique…",
+        "text": "Dans les villes françaises, les arbres ont poussé tout l’hiver! Insatiables capteurs de CO2, ils sont surtout de puissants climatiseurs. Devant l’urgence, il faudrait en planter partout, dans les moindres interstices. Et vite. Depuis des années, l’Organisation Mondiale de la Santé recommande un verdissement maximum des villes, insistant sur l’action de la nature quant à la réduction potentielle de l’exposition à la pollution de l’air, au bruit et à la chaleur excessive. Mais sur le terrain, --la mise en œuvre de tels programmes ne coule pas de source--. Le temps des politiques n’est pas le temps de l’arbre. Pour qu’il rende pleinement les services qu’on attend de lui, --il lui faut des dizaines d’années--, un accès à l’eau, de l’espace, des congénères, un environnement écologique…",
         "query": "Que pense ce journaliste de l’arborisation des villes?"
     },
     {
@@ -177,7 +177,7 @@
             "Il souffre d’une image négative."
         ],
         "answer": 0,
-        "text": "« Le programme de mobilité Erasmus n’est plus réservé aux étudiants, » explique Sophie Roque, enseignante. Peu répandu, le programme Erasmus+ pour les enseignants bénéficie depuis quelques années d’un grand appel d’air. La demande progresse, et l’offre de mobilité aussi. Le système éducatif finlandais et les formations en anglais attirent beaucoup. Si le programme Erasmus+ pour les enseignants semble très apprécié de ceux qui y participent, il souffre néanmoins d’un vrai déficit de notoriété. On le découvre souvent par hasard ou à la faveur d’une rencontre. Franck Le Cars, délégué académique, confirme que le bouche-à-oreille entre enseignants est le meilleur moyen de développer le dispositif. Il souligne également que ces mobilités à l’étranger restent complexes à mettre en œuvre, car très chronophages.",
+        "text": "« Le programme de mobilité Erasmus n’est plus réservé aux étudiants, » explique Sophie Roque, enseignante. Peu répandu, le programme Erasmus+ pour les enseignants bénéficie depuis quelques années d’un grand appel d’air. La demande progresse, et l’offre de mobilité aussi. Le système éducatif finlandais et les formations en anglais attirent beaucoup. Si le programme Erasmus+ pour les enseignants semble très apprécié de ceux qui y participent, il souffre néanmoins d’un vrai déficit de notoriété. --On le découvre souvent par hasard ou à la faveur d’une rencontre--. Franck Le Cars, délégué académique, confirme que le bouche-à-oreille entre enseignants est le meilleur moyen de développer le dispositif. Il souligne également que ces mobilités à l’étranger restent complexes à mettre en œuvre, car très chronophages.",
         "query": "Qu’apprend-on sur le programme Erasmus+?"
     },
     {
@@ -255,7 +255,7 @@
             "Ils sont fiers de leurs apports à l’économie."
         ],
         "answer": 1,
-        "text": "De plus en plus d’agriculteurs sont la cible d’accusations sévères de la part de leur voisinage ou d’organisations de défense des animaux. La plupart reconnaissent que la critique est légitime et que leurs modes d’exploitation sont perfectibles. Mais, ils sont mis en cause de manière massive et généralisée, ce qui revient à contester en bloc la leurs façons de travailler, leur utilité sociale et leur existence. Les jeunes comme les vieux, les prospères comme les plus fragiles, ceux qui les ont choisis l’agriculture biologique comme ceux qui sont restés en conventionnel: tous disent souffrir, à des degrés divers, de ce discrédit qui s’ajoute à leurs difficultés habituelles, financières notamment.",
+        "text": "De plus en plus d’agriculteurs sont la cible d’accusations sévères de la part de leur voisinage ou d’organisations de défense des animaux. La plupart reconnaissent que la critique est légitime et que leurs modes d’exploitation sont perfectibles. Mais, ils sont mis en cause de manière massive et généralisée, ce qui revient à contester en bloc la leurs façons de travailler, leur utilité sociale et leur existence. Les jeunes comme les vieux, les prospères comme les plus fragiles, ceux qui les ont choisis l’agriculture biologique comme ceux qui sont restés en conventionnel: --tous disent souffrir, à des degrés divers, de ce discrédit-- qui s’ajoute à leurs difficultés habituelles, financières notamment.",
         "query": "Que répondent les agriculteurs face aux critiques?"
     }
 ]
