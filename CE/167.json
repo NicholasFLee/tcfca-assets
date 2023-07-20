@@ -8,7 +8,7 @@
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
         "answer": 1,
-        "text": "Dora Bruder, publié en 1997, est considéré comme l’un des meilleurs romans de Patrick Modiano. L’écrivain aime fouiller l’histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir: « On recherche une jeune fille, Dora Bruder, 15 ans, 1m55, visage ovale, yeux gris marron, manteau sport gris. Adresse toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris. » Modiano va alors s’attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18e arrondissement.",
+        "text": "Dora Bruder, publié en 1997, est considéré comme l’un des meilleurs romans de Patrick Modiano. L’écrivain aime fouiller l’histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, --il tombe sur une annonce-- parue le 31 décembre 1941 dans Paris-soir: « On recherche une jeune fille, Dora Bruder, 15 ans, 1m55, visage ovale, yeux gris marron, manteau sport gris. Adresse toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris. » Modiano va alors s’attacher à --lever le mystère de cette disparition-- en entraînant le lecteur dans les rues du 18e arrondissement.",
         "query": "Que fait le journaliste dans cet extrait?"
     },
     {
@@ -60,7 +60,7 @@
             "Ils restaurent à l’identique de vieux édifices."
         ],
         "answer": 2,
-        "text": "Une usine textile transformée en musée, un moulin converti en chambres d’hôtes, une gare devenue centrale de production d’énergie. Certains architectes ne manquent pas d’imagination. Et il leur en faut, car leur objectif n’est pas simplement de rénover des bâtiments usés par le temps, mais d’imaginer de nouveaux projets à partir de ce qui reste et qui est volontairement laissé en l’état. À leurs yeux, c’est une façon de conserver l’histoire et de garder des traces de bâtiments qui étaient destinés à disparaître.",
+        "text": "Une --usine textile transformée en musée--, un --moulin converti en chambres-- d’hôtes, une --gare devenue centrale-- de production d’énergie. Certains architectes ne manquent pas d’imagination. Et il leur en faut, car leur objectif n’est pas simplement de rénover des bâtiments usés par le temps, mais d’--imaginer de nouveaux projets à partir de ce qui reste-- et qui est volontairement laissé en l’état. À leurs yeux, c’est une façon de conserver l’histoire et de garder des traces de bâtiments qui étaient destinés à disparaître.",
         "query": "En quoi le travail de ces architectes est-il original?"
     },
     {
@@ -73,7 +73,7 @@
             "Les relations de voisinage deviennent anonymes et dénuées de politesse."
         ],
         "answer": 3,
-        "text": "LES HYPERMARCHÉS ONT 50 ANS. Souvenir d’un internaute. L’ébahissement, tout d’abord en découvrant ces magasins géants, ensuite la sensation d’être sans points de repère, la tendance à acheter à tort et à travers. Et l’euphorie, en analysant à la maison le résultat des emplettes, convaincu d’avoir gagné le gros lot, avant de regarder la facture... Le lendemain, on fait ses emplettes chez les commerçants habituels, où, bien sûr, on est accueilli avec des « Bonjour, M. X. comment va le fiston? », ou « Dites donc, une superbe bavette, ça vous tente? ». Aujourd’hui, ni bonjour, ni merci, on vous passe devant à la caisse, on achète des produits sans savoir ce qu’ils contiennent... Et quand on ressort dans la rue, on remarque: « T’as vu, le boucher a fermé. »",
+        "text": "LES HYPERMARCHÉS ONT 50 ANS. Souvenir d’un internaute. L’ébahissement, tout d’abord en découvrant ces magasins géants, ensuite la sensation d’être sans points de repère, la tendance à acheter à tort et à travers. Et l’euphorie, en analysant à la maison le résultat des emplettes, convaincu d’avoir gagné le gros lot, avant de regarder la facture... Le lendemain, on fait ses emplettes chez les commerçants habituels, où, bien sûr, on est accueilli avec des « Bonjour, M. X. comment va le fiston? », ou « Dites donc, une superbe bavette, ça vous tente? ». --Aujourd’hui, ni bonjour, ni merci--, on vous passe devant à la caisse, on achète des produits sans savoir ce qu’ils contiennent... Et quand on ressort dans la rue, on remarque: « T’as vu, le boucher a fermé. »",
         "query": "Quel est le constat de l’auteur?"
     },
     {
@@ -86,7 +86,7 @@
             "Du rapport entre les générations."
         ],
         "answer": 2,
-        "text": "FILM DOCUMENTAIRE « TISSEUSES DE RÊVES ». Mères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels. Dans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent. Elles veulent farouchement s’arracher à leur condition et offrir études et avenir à leurs enfants. D’Essaouira sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à elles, qui ont créé des coopératives de production d’huile d’Argan et changé leurs vies. Taaborth et Erkia partent en exploratrices et éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.",
+        "text": "FILM DOCUMENTAIRE « TISSEUSES DE RÊVES ». Mères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels. Dans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent. Elles veulent farouchement --s’arracher à leur condition-- et offrir études et avenir à leurs enfants. D’Essaouira sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à elles, qui ont créé des coopératives de production d’huile d’Argan et changé leurs vies. Taaborth et Erkia partent en exploratrices et éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.",
         "query": "De quoi traite le documentaire sur les femmes berbères?"
     },
     {
@@ -112,7 +112,7 @@
             "Le développement d’une conscience civique."
         ],
         "answer": 3,
-        "text": "Les conséquences de l’analphabétisme sont profondes, au point qu’elles peuvent mettre la vie en danger. Elles s’enracinent dans le refus d’un droit humain fondamental: le droit à l’éducation. A l’échelle de la société, dénier le droit à l’éducation s’est hypothéqué le progrès démocratique et social - et par conséquent, la paix et la sécurité internationales. En empêchant les enfants de se développer pleinement, l’analphabétisme sème d’embûches leur chemin vers l’âge adulte et rend encore plus difficile leur compréhension du monde dans sa diversité aussi bien que des valeurs de paix et d’égalité entre les personnes. L’analphabétisme prive également l’individu d’autres joies, comme celles de la culture et de l’art en général.",
+        "text": "Les conséquences de l’analphabétisme sont profondes, au point qu’elles peuvent mettre la vie en danger. Elles s’enracinent dans le refus d’un droit humain fondamental: le droit à l’éducation. A l’échelle de la société, dénier le droit à l’éducation --s’est hypothéqué le progrès démocratique et social-- - et par conséquent, la paix et la sécurité internationales. En empêchant les enfants de se développer pleinement, l’analphabétisme sème d’embûches leur chemin vers l’âge adulte et rend encore plus difficile leur compréhension du monde dans sa diversité aussi bien que des valeurs de paix et d’égalité entre les personnes. L’analphabétisme prive également l’individu d’autres joies, comme celles de la culture et de l’art en général.",
         "query": "Selon ce texte, que favorise le respect du droit à l’éducation?"
     },
     {
@@ -125,7 +125,7 @@
             "Subventionner les entreprises qui recrutent des handicapés."
         ],
         "answer": 0,
-        "text": "L’association «Savoir-faire et expérience » a huit ans. Sa philosophie: une personne handicapée n’est pas forcément une personne en fauteuil roulant. Et, de la même manière qu’il y a de nombreuses formes de handicap, il existe une multitude de métiers et de postes qui peuvent leur correspondre. C’est pourquoi cette association souhaite modifier la vision commune du handicap et encourager les entreprises à s’engager dans cette voie. C’est dans ce but qu’elle œuvre pour l’ouverture la plus large possible des dispositifs de formation professionnelle aux handicapés. Pour qu’enfin, on regarde le savoir-faire et l’expérience avant le handicap.",
+        "text": "L’association «Savoir-faire et expérience » a huit ans. Sa philosophie: une personne handicapée n’est pas forcément une personne en fauteuil roulant. Et, de la même manière qu’il y a de nombreuses formes de handicap, --il existe une multitude de métiers et de postes qui peuvent leur correspondre--. C’est pourquoi cette association souhaite --modifier la vision commune du handicap et encourager les entreprises à s’engager-- dans cette voie. C’est dans ce but qu’elle œuvre pour l’ouverture la plus large possible des dispositifs de formation professionnelle aux handicapés. Pour qu’enfin, on regarde le savoir-faire et l’expérience avant le handicap.",
         "query": "Quelle est la mission de l’association Savoir-faire et expérience?"
     },
     {
@@ -151,7 +151,7 @@
             "L’augmentation du prix des entrées pour les spectateurs."
         ],
         "answer": 1,
-        "text": "Les organisateurs du festival Rock Werchter envisagent de le déplacer dans la région de Limbourg. Cette perspective inquiète le maire de la ville de Rotselaar, où le festival se tient depuis 1975. « La question d’un déménagement pèse sur la plaine du festival, comme un nuage sombre, a affirmé le maire. Toutes les personnes impliquées dans le festival s’interrogent sur leur avenir. C’est très ennuyeux pour les professionnels du spectacle de la région qui s’investissent depuis des années et qui risquent d’être renvoyés. J’espère que la clarté sera faite rapidement. Moi-même, je ne vois pas pourquoi le festival devrait déménager, cela se passe très bien ici. Il est même prévu de réviser le plan d’aménagement du territoire pour permettre d’accueillir plus de podiums et plus de monde. »",
+        "text": "Les organisateurs du festival Rock Werchter envisagent de le déplacer dans la région de Limbourg. Cette perspective inquiète le maire de la ville de Rotselaar, où le festival se tient depuis 1975. « La question d’un déménagement pèse sur la plaine du festival, comme un nuage sombre, a affirmé le maire. --Toutes les personnes impliquées dans le festival s’interrogent sur leur avenir--. C’est très ennuyeux pour les professionnels du spectacle de la région qui s’investissent depuis des années et qui risquent d’être renvoyés. J’espère que la clarté sera faite rapidement. Moi-même, je ne vois pas pourquoi le festival devrait déménager, cela se passe très bien ici. Il est même prévu de réviser le plan d’aménagement du territoire pour permettre d’accueillir plus de podiums et plus de monde. »",
         "query": "Qu’est-ce qui inquiète le maire dans le projet d’évolution du festival?"
     },
     {
@@ -190,7 +190,7 @@
             "Son fonctionnement est encore mystérieux."
         ],
         "answer": 3,
-        "text": "De plus en plus de scientifiques s’intéressent au fonctionnement du cerveau des tout-petits. En effet, comprendre le développement normal du cerveau permettra d’aider les bébés touchés par des troubles. Au-delà, l’ambition est de découvrir les racines de l’intelligence humaine: pourquoi l’homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l’espace. Pendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale. Une idée finalement battue en brèche: le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux. Et pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n’importe quel animal ou même que les adultes.",
+        "text": "De plus en plus de scientifiques s’intéressent au fonctionnement du cerveau des tout-petits. En effet, comprendre le développement normal du cerveau permettra d’aider les bébés touchés par des troubles. Au-delà, l’ambition est de découvrir les racines de l’intelligence humaine: pourquoi l’homme, à la différence des autres espèces animales, peut parler, compter et même envoyer des fusées dans l’espace. --Pendant longtemps, ces capacités uniques ont été attribuées à la taille de notre encéphale--. Une idée --finalement battue en brèche--: le cerveau du bébé est bien moins gros que le nôtre ou que celui de nombreux animaux. Et pourtant, les tout-petits apprennent beaucoup de choses, bien plus vite et bien plus facilement que n’importe quel animal ou même que les adultes.",
         "query": "Qu’apprend-on sur le cerveau humain?"
     },
     {
@@ -216,7 +216,7 @@
             "L’auteur a imaginé différents scenarios."
         ],
         "answer": 3,
-        "text": "Côté (BD) - Adaptée d’un polar de Pierre Siniac, la bande dessinée « Le secret de l’étrangleur » de Jacques Tardi est un succès : sa version en feuilleton, cet été, sous la forme de cinq journaux, tirés à 50,000 exemplaires chacun, avait intrigué les premiers lecteurs, âgés de 15 à 35 ans. L’album, déjà vendu à 130,000 exemplaires, est remarquable par son originalité. En effet, il faut découper les dernières pages du livre pour en connaître la fin sachant que plusieurs dénouements sont possibles.",
+        "text": "Côté (BD) - Adaptée d’un polar de Pierre Siniac, la bande dessinée « Le secret de l’étrangleur » de Jacques Tardi est un succès : sa version en feuilleton, cet été, sous la forme de cinq journaux, tirés à 50,000 exemplaires chacun, avait intrigué les premiers lecteurs, âgés de 15 à 35 ans. L’album, déjà vendu à 130,000 exemplaires, est remarquable par son originalité. En effet, il faut découper les dernières pages du livre pour en connaître la fin sachant que --plusieurs dénouements sont possibles--.",
         "query": "Quelle est la particularité de cette BD?"
     },
     {
@@ -242,7 +242,7 @@
             "L’émancipation des héros au cours du récit."
         ],
         "answer": 3,
-        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre: rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu’entre le jeune pompier Roméo et l’infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu’on décrit trop peu. Il y a chez eux une envie de dire, d’avouer ce qui fut trop longtemps caché. Ainsi l’histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l’auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre: rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu’entre le jeune pompier Roméo et l’infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu’on décrit trop peu. Il y a chez eux une envie de dire, d’avouer ce qui fut trop longtemps caché. --Ainsi l’histoire se fait-elle peu à peu libération et rédemption--. Avec un art direct et familier de conteuse, l’auteure offre à ses personnages un espoir, un bonheur encore possible.",
         "query": "D’après la critique, quel est l’atout principal du roman d’Agnès Ledig?"
     },
     {
@@ -255,7 +255,7 @@
             "Ils seraient appropriés pour se détendre lors des pauses."
         ],
         "answer": 0,
-        "text": "Les jeux vidéo sont souvent la hantise des parents craignant qu’ils éloignent leurs enfants de la vie réelle et notamment de la scolarité. À contre-courant, une expérience qui vise à utiliser ces jeux pour ramener à l’école les « décrocheurs scolaires » vient de commencer à Bordeaux. Le choix des jeux vidéo est une idée intéressante, parce qu’elle inscrit l’école dans l’univers de jeunes qui ont souvent l’impression que cette dernière se situe sur une planète à laquelle ils n’ont pas accès. Pour autant, en matière de décrochage scolaire, il n’y a pas de gadget miracle: un outil n’est efficace que s’il s’inscrit dans le cadre d’une prise en charge des causes profondes du décrochage de chaque élève.",
+        "text": "Les jeux vidéo sont souvent la hantise des parents craignant qu’ils éloignent leurs enfants de la vie réelle et notamment de la scolarité. À contre-courant, une expérience qui vise à utiliser ces jeux pour ramener à l’école les « décrocheurs scolaires » vient de commencer à Bordeaux. Le choix des jeux vidéo est une idée intéressante, parce qu’elle inscrit --l’école dans l’univers-- de jeunes qui ont souvent l’impression que cette dernière se situe sur --une planète à laquelle ils n’ont pas accès--. Pour autant, en matière de décrochage scolaire, il n’y a pas de gadget miracle: un outil n’est efficace que s’il s’inscrit dans le cadre d’une prise en charge des causes profondes du décrochage de chaque élève.",
         "query": "Qu’exprime l’auteur de cet article à propos des jeux vidéo à l’école?"
     }
 ]
