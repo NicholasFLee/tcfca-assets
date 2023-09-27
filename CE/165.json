@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "165",
+        "options": [
+            "D’apprendre une nouvelle langue.",
+            "De participer à un concours.",
+            "De prendre des cours de cuisine.",
+            "De rencontrer des étrangers."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": "165",
+        "options": [
+            "Pour aller visiter un musée.",
+            "Pour participer à un concours.",
+            "Pour prendre un café ensemble.",
+            "Pour voir un événement sportif."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": "165",
+        "options": [
+            "Il annonce son absence.",
+            "Il donne un rendez-vous.",
+            "Il indique son arrivée.",
+            "Il signale son retard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": "165",
+        "options": [
+            "D’aller à un concert.",
+            "D’organiser un voyage.",
+            "De déjeuner chez lui.",
+            "De garder ses enfants."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": "165",
+        "options": [
+            "Pour annuler un dîner.",
+            "Pour expliquer un problème.",
+            "Pour l’inviter chez elle.",
+            "Pour lui proposer de sortir."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": "165",
+        "options": [
+            "À un repas officiel.",
+            "À un spectacle musical.",
+            "À une fête de fin d’année.",
+            "À une soirée dansante."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": "165",
+        "options": [
+            "Pour acheter un cadeau avec elle.",
+            "Pour annuler sa venue à une fête.",
+            "Pour décider d’un rendez-vous.",
+            "Pour inviter son amie à dîner."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": "165",
+        "options": [
+            "De l’ouverture d’un musée parisien.",
+            "De voyager en Océanie.",
+            "Des derniers jours d’une exposition.",
+            "D’une émission de télévision."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": "165",
+        "options": [
+            "Un document professionnel.",
+            "Un titre de transport.",
+            "Une enveloppe timbre.",
+            "Une somme d’argent."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": "165",
+        "options": [
+            "Un atelier de cuisine.",
+            "Un déménagement.",
+            "Une fête entre voisins.",
+            "Une visite d’appartement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": "165",
+        "options": [
+            "Des cours de cuisine.",
+            "Des plats à emporter.",
+            "Un repas bon marché.",
+            "Une boisson gratuite."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": "165",
+        "options": [
+            "D’apprendre à s’orienter dans la ville.",
+            "De se former au métier de guide.",
+            "De visiter des expositions photo.",
+            "De voir Lyon d’une façon différente."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": "165",
+        "options": [
+            "D’utiliser des crèmes solaires à base de chocolat.",
+            "De diminuer sa consommation de chocolat.",
+            "De manger quotidiennement du chocolat.",
+            "De suivre un traitement de pilules au chocolat."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": "165",
+        "options": [
+            "Découvrir de jeunes acteurs.",
+            "Participer à des tournages.",
+            "Rencontrer des stars du cinéma.",
+            "Revoir de grands classiques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": "165",
+        "options": [
+            "Ils annoncent des événements culturels lyonnais.",
+            "Ils donnent des informations sur leur métier.",
+            "Ils proposent de nouveaux livres aux lecteurs.",
+            "Ils répondent aux questions des internautes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": "165",
+        "options": [
+            "Un métier.",
+            "Un voyage.",
+            "Une formation.",
+            "Une galerie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": "165",
+        "options": [
+            "C’est une pratique courante.",
+            "Les pharmaciens s’y opposent.",
+            "Leur paiement est sécurisé.",
+            "On s’en méfie en France."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": "165",
+        "options": [
+            "L’ajout d’ingrédients malsains.",
+            "Le prix des produits exotiques.",
+            "Les annonces publicitaires.",
+            "Les étiquettes trompeuses."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": "165",
+        "options": [
+            "Créer un site collaboratif de données.",
+            "Mener une enquête sur les plantes.",
+            "Organiser des visites de l’herbier.",
+            "Proposer des cours de botanique."
+        ],
+        "answer": 0
+    },
+    {
         "id": 20,
         "testId": "165",
         "options": [

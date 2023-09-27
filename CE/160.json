@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "160",
+        "options": [
+            "D’aller au supermarché.",
+            "De garder son fils.",
+            "De préparer un dessert.",
+            "ÀDe rester dormir."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": "160",
+        "options": [
+            "9 euros.",
+            "12,50 euros.",
+            "16 euros.",
+            "20 euros."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": "160",
+        "options": [
+            "Des cours gratuits.",
+            "Des postes à l’étranger.",
+            "Des stages en Italie.",
+            "Des voyages en Europe."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": "160",
+        "options": [
+            "Avoir un bébé.",
+            "Déménager en France.",
+            "Jouer au cinéma.",
+            "Organiser une exposition."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": "160",
+        "options": [
+            "De jeunes enfants.",
+            "Des femmes et des enfants.",
+            "De jeunes mamans.",
+            "Des parents avec leurs enfants."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": "160",
+        "options": [
+            "À la caisse d’un cinéma.",
+            "À l’accueil d’un opéra.",
+            "À l’entrée d’un musée.",
+            "Au guichet d’un théâtre."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": "160",
+        "options": [
+            "De préparer un voyage.",
+            "De regarder un spectacle.",
+            "De venir à une réunion.",
+            "De visiter une classe."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": "160",
+        "options": [
+            "Pour changer un horaire.",
+            "Pour organiser une fête.",
+            "Pour présenter des élèves.",
+            "Pour proposer une sortie."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": "160",
+        "options": [
+            "D’apprendre à préparer des plats chez soi.",
+            "De devenir un chef cuisinier professionnel.",
+            "De réaliser des repas pour de grands groupes.",
+            "De trouver de bonnes recettes sur internet."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": "160",
+        "options": [
+            "Elle sera fermée au mois de mars.",
+            "Il y aura des travaux à l’intérieur.",
+            "L’entrée se fera par une autre porte.",
+            "Le service municipal réparera les lieux."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": "160",
+        "options": [
+            "Pour lui communiquer la date de ses fiançailles.",
+            "Pour lui proposer de passer le voir avec son amie.",
+            "Pour lui annoncer son déménagement à Toulouse.",
+            "Pour lui demander de l’accompagner en voyage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": "160",
+        "options": [
+            "Accueillir les étudiants étrangers.",
+            "Faciliter la recherche d’emploi.",
+            "Préparer la rentrée universitaire.",
+            "Présenter de nouvelles formations."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": "160",
+        "options": [
+            "Ils doivent être réservés à l’avance.",
+            "Ils donnent accès au sauna.",
+            "Ils ont lieu pendant les vacances.",
+            "Ils sont gratuits pour les enfants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": "160",
+        "options": [
+            "Faire plus attention au bruit.",
+            "Informer Mme Quincampoix.",
+            "Inviter les voisins de l’étage.",
+            "Recevoir ses invités plus tôt."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": "160",
+        "options": [
+            "Aller dans un bar.",
+            "Assister à un spectacle.",
+            "Dîner au restaurant.",
+            "Voir une pièce de théâtre."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "testId": "160",
+        "options": [
+            "Des promotions.",
+            "Des vacances.",
+            "Un jeu.",
+            "Une fête."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": "160",
+        "options": [
+            "La délocalisation de l’entreprise.",
+            "La réduction des effectifs de l’entreprise.",
+            "La restructuration des postes de direction.",
+            "La suspension des contrats à durer déterminés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": "160",
+        "options": [
+            "Il encourage les initiatives.",
+            "Il favorise le rendement au travail.",
+            "Il permet d’être plus détendu.",
+            "Il rend les gens plus cultivés."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": "160",
+        "options": [
+            "Il a avalé un mauvais morceau de fromage.",
+            "Il a trouvé quelque chose dans son fromage.",
+            "Il est tombé malade en mangeant du fromage.",
+            "Il s’est fait mal aux dents avec le fromage."
+        ],
+        "answer": 1
+    },
+    {
         "id": 20,
         "testId": "160",
         "options": [

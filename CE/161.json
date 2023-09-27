@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "161",
+        "options": [
+            "Le lundi matin.",
+            "Le mardi matin.",
+            "Le mercredi matin.",
+            "Le jeudi matin."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": "161",
+        "options": [
+            "Habiter à la compagne.",
+            "Réserver un hôtel.",
+            "Trouver un logement.",
+            "Vendre un appartement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": "161",
+        "options": [
+            "Avec Mme Deor.",
+            "Avec un chauffeur.",
+            "En autobus.",
+            "En taxi."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": "161",
+        "options": [
+            "La comptable.",
+            "La secrétaire.",
+            "Le directeur.",
+            "Le réparateur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": "161",
+        "options": [
+            "Une journée.",
+            "Une semaine.",
+            "Une nuit.",
+            "Un mois."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": "161",
+        "options": [
+            "Il est très occupé.",
+            "Il part en vacances.",
+            "Il travaille avec Fred.",
+            "Il veut venir plus tôt."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": "161",
+        "options": [
+            "À ses amis.",
+            "À ses collègues.",
+            "À ses enfants.",
+            "À ses voisins."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": "161",
+        "options": [
+            "En cours de soirée.",
+            "En début et en fin de soirée.",
+            "Entre chaque émission.",
+            "Quatre fois dans la soirée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": "161",
+        "options": [
+            "Un atelier de cuisine.",
+            "Un déménagement.",
+            "Une fête entre voisins.",
+            "Une visite d’appartement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": "161",
+        "options": [
+            "Elle est autorisée.",
+            "Elle est dangereuse.",
+            "Elle est interdite.",
+            "Elle est limitée."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": "161",
+        "options": [
+            "Consulter le serveur vocal.",
+            "Prendre rendez-vous par téléphone.",
+            "Téléphoner aux horaires indiqués.",
+            "Demander le service de relation avec la clientèle."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": "161",
+        "options": [
+            "Un message d’excuse.",
+            "Une déclaration d’amour.",
+            "Une invitation à une fête.",
+            "Une lettre de vacances."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": "161",
+        "options": [
+            "D’envoyer très rapidement le devis.",
+            "D’interdire l’emploi de produits toxiques.",
+            "De libérer les lieux pendant les travaux.",
+            "De préciser la nature de l’intervention."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": "161",
+        "options": [
+            "Il montre des documentaires sur les conditions de vie des sourds.",
+            "Il organise des conférences sur la langue utilisée par les sourds.",
+            "Il présente des films réalisés par des personnes sourdes.",
+            "Il programme des spectacles destinés à un jeune public sourd."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": "161",
+        "options": [
+            "Casablanca.",
+            "Fès.",
+            "Marrakech.",
+            "Tanger."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": "161",
+        "options": [
+            "Un centre de loisirs pour les habitants de son quartier.",
+            "Un restaurant qui sert des spécialités de sa région.",
+            "Un service municipal d’aide sociale aux jeunes célibataires.",
+            "Une manière originale de rencontrer des gens près de chez elle."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": "161",
+        "options": [
+            "Pour éviter de conduire.",
+            "Pour faire rêver les enfants.",
+            "Pour marcher sans souffrir.",
+            "Pour porter des objets lourds."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": "161",
+        "options": [
+            "Corriger les mauvaises habitudes alimentaires des enfants.",
+            "Faire respecter la législation sur l’alimentation des enfants.",
+            "Mieux comprendre les préférences alimentaires des enfants.",
+            "Permettre aux enfants de découvrir de nouveaux aliments."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": "161",
+        "options": [
+            "L’arrivée d’une troupe de comédiens à la campagne.",
+            "L’enquête policière d’une personne très rationnelle.",
+            "La vie des paysans néerlandais au XVIIIE siècle.",
+            "Les expériences originales d’un scientifique anglais."
+        ],
+        "answer": 1
+    },
+    {
         "id": 20,
         "testId": "161",
         "options": [

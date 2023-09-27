@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "148",
+        "options": [
+            "Un événement.",
+            "Un horaire.",
+            "Un plan.",
+            "Une adresse."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": "148",
+        "options": [
+            "Un cours.",
+            "Un spectacle.",
+            "Un travail.",
+            "Une visite."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": "148",
+        "options": [
+            "À la gare.",
+            "À la maison.",
+            "Au cinéma.",
+            "Au travail."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": "148",
+        "options": [
+            "Ils achètent souvent des sucreries.",
+            "Ils font attention à l’argent.",
+            "Ils aiment préparer des desserts.",
+            "Ils ont une maison de vacances."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": "148",
+        "options": [
+            "Une adresse.",
+            "Une date.",
+            "Un horaire.",
+            "Un tarif."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": "148",
+        "options": [
+            "Il achète un livre.",
+            "Il apprend ses leçons.",
+            "Il fait du sport.",
+            "Il regarde un film."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": "148",
+        "options": [
+            "Il donne un conseil.",
+            "Il indique une fermeture.",
+            "Il invite à un dîner.",
+            "Il promet un cadeau."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "testId": "148",
+        "options": [
+            "Pour passer un examen.",
+            "Pour prendre son diplôme.",
+            "Pour surveiller des candidats.",
+            "Pour s’inscrire à des cours."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": "148",
+        "options": [
+            "Il accepte de l’aider.",
+            "Il cherche une information.",
+            "Il l’invite à déjeuner.",
+            "Il organise un entretien."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": "148",
+        "options": [
+            "Il a un nouveau travail.",
+            "Il change d’adresse.",
+            "Il part en vacances.",
+            "Il s’inscrit à l’université."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": "148",
+        "options": [
+            "À conseiller le promeneur.",
+            "À décrire les risques d’accident.",
+            "À prévoir le temps qu’il fera.",
+            "À signaler les accès interdits."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": "148",
+        "options": [
+            "Accueillir les étudiants étrangers.",
+            "Faciliter la recherche d’emploi.",
+            "Préparer la rentrée universitaire.",
+            "Présenter de nouvelles formations."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": "148",
+        "options": [
+            "C’est un amoureux de la région.",
+            "C’est un écrivain très célèbre.",
+            "C’est un membre de l’association.",
+            "C’est un spécialiste du sujet."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": "148",
+        "options": [
+            "Écouter des chansons.",
+            "Gagner des cadeaux.",
+            "Goûter des recettes.",
+            "Jouer dans un film."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": "148",
+        "options": [
+            "La difficulté de trouver un stage à l’étranger.",
+            "La nécessité de s’exiler pour pouvoir travailler.",
+            "Le manque de formation des jeunes diplômés.",
+            "Le niveau trop faible des salaires proposés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "testId": "148",
+        "options": [
+            "Accélérer les interventions d’urgence.",
+            "Généraliser la conduite sans chauffeur.",
+            "Repérer les mauvais conducteurs.",
+            "Signaler les difficultés de circulation."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": "148",
+        "options": [
+            "Diriger un service de plusieurs salariés.",
+            "Effectuer des tâches administratives.",
+            "Tester des programmes informatiques.",
+            "Vérifier les finances de l’entreprise."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": "148",
+        "options": [
+            "Aux familles qui ont des factures élevées.",
+            "Aux jeunes qui veulent vivre en colocation.",
+            "Aux locataires qui ont de faibles revenus.",
+            "Aux personnes qui achètent un logement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": "148",
+        "options": [
+            "De lutter contre les imitations.",
+            "D’en accroître la production.",
+            "De développer sa saveur.",
+            "De le faire davantage connaître."
+        ],
+        "answer": 0
+    },
+    {
         "id": 20,
         "testId": "148",
         "options": [

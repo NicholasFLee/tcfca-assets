@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "181",
+        "options": [
+            "Pour lui annoncer un projet.",
+            "Pour lui présenter un nouveau produit.",
+            "Pour organiser leur journée de travail.",
+            "Pour préparer son voyage."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": "181",
+        "options": [
+            "C’est un succès.",
+            "Elle changera de lieu.",
+            "Elle est déjà finie.",
+            "L’entrée est gratuite."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": "181",
+        "options": [
+            "Un concert.",
+            "Une exposition.",
+            "Un film.",
+            "Un livre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": "181",
+        "options": [
+            "Aider des familles en difficulté.",
+            "Donner un vélo à des élèves.",
+            "Ouvrir de nouveaux collèges.",
+            "Réparer de vieilles bicyclettes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": "181",
+        "options": [
+            "L’Internet.",
+            "La presse.",
+            "La radio.",
+            "La télévision."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": "181",
+        "options": [
+            "Beaucoup de personnes le visitent.",
+            "Il vend des articles bon marché.",
+            "Il y a un célèbre musée à l’intérieur.",
+            "On y donne des cours de cuisine."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": "181",
+        "options": [
+            "Comment elle a acheté un article en ligne.",
+            "Où elle a cherché un cadeau bon marché.",
+            "Où elle a cherché un cadeau bon marché.",
+            "Quand elle a échangé un vêtement soldé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": "181",
+        "options": [
+            "Elles ont besoin d’accompagnement.",
+            "Elles ont peur de quitter leur logement.",
+            "Elles souffrent de grande solitude.",
+            "Elles suivent des traitements coûteux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": "181",
+        "options": [
+            "Pour proposer une promenade en bateau.",
+            "Pour raconter son séjour en Bretagne.",
+            "Pour répondre à son cousin Benjamin.",
+            "Pour réserver une place dans un camping."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": "181",
+        "options": [
+            "D’aider à organiser une",
+            "Devenir membre d’une association.",
+            "Distribuer des repas gratuits.",
+            "De participer à un événement sportif."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": "181",
+        "options": [
+            "De cuisiner tous ensemble.",
+            "De faire un repas entre voisins.",
+            "De s’inscrire à des activités.",
+            "De visiter de nouveaux logements."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": "181",
+        "options": [
+            "Avoir des réductions sur certains articles.",
+            "Faire des courses dans un magasin.",
+            "Offrir une surprise pour un anniversaire.",
+            "Retirer de l’argent à un distributeur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": "181",
+        "options": [
+            "Elle est bonne pour la santé.",
+            "Elle facilite la socialisation.",
+            "Elle développe la mémoire.",
+            "Elle enrichit la personnalité."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": "181",
+        "options": [
+            "L’offre spéciale de l’été.",
+            "La date des vacances.",
+            "Le prix de l’entrée.",
+            "Les heures d’ouverture."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": "181",
+        "options": [
+            "Avoir des réductions sur certains produits.",
+            "Bénéficier de facilités de paiement.",
+            "Faire ses courses plus rapidement.",
+            "Recevoir sans frais des produits d’essai."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": "181",
+        "options": [
+            "De dormir au milieu de la nature.",
+            "De faire un parcours dans les arbres.",
+            "De participer à une aventure sportive.",
+            "De passer une nuit sous la tente."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": "181",
+        "options": [
+            "Pour clarifier ses idées.",
+            "Pour combler la solitude.",
+            "Pour exercer la mémoire.",
+            "Pour prendre des décisions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": "181",
+        "options": [
+            "Il commente une loi.",
+            "Il formule une plainte.",
+            "Il donne un conseil.",
+            "Il raconte une anecdote."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": "181",
+        "options": [
+            "Si c’est une occasion d’élargir son réseau social.",
+            "Si c’est une opportunité de changer de mode de vie.",
+            "Si c’est la possibilité de trouver un emploi.",
+            "Si c’est le fruit d’une décision personnelle."
+        ],
+        "answer": 3
+    },
+    {
         "id": 20,
         "testId": "181",
         "options": [

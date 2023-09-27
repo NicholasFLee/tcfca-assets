@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "172",
+        "options": [
+            "À un cours de pâtisserie.",
+            "À un déjeuner chez un ami.",
+            "À une fête d’anniversaire.",
+            "À une sortie en discothèque."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": "172",
+        "options": [
+            "Pour lui conseiller un film.",
+            "Pour lui demander des nouvelles.",
+            "Pour lui proposer une sortie.",
+            "Pour lui raconter ses vacances."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": "172",
+        "options": [
+            "Un changement de lieu.",
+            "Un nouvel horaire.",
+            "Une absence de professeur.",
+            "Une rencontre entre étudiants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": "172",
+        "options": [
+            "Avant ce soir.",
+            "Cette semaine.",
+            "Dans trois mois.",
+            "Pendant le déjeuner."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": "172",
+        "options": [
+            "Découvrir la nourriture locale.",
+            "Gagner un repas traditionnel.",
+            "Prendre un cours de cuisine.",
+            "Visiter une ferme française."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": "172",
+        "options": [
+            "Elle est en voyage à Montpellier.",
+            "Elle rencontre des amis à Paris.",
+            "Elle suit des cours à l’université.",
+            "Elle travaille dans un restaurant."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": "172",
+        "options": [
+            "D’apprendre à conduire.",
+            "De réparer des automobiles.",
+            "De voyager plus rapidement.",
+            "D’utiliser des véhicules."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "testId": "172",
+        "options": [
+            "Comment elle a acheté un article en ligne ?",
+            "Où elle a cherché un cadeau bon marché ?",
+            "Pourquoi elle a eu un chèque de réduction ?",
+            "Quand elle a échangé un vêtement soldé ?"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": "172",
+        "options": [
+            "Continuer ses ventes.",
+            "Déménager à Montélimar.",
+            "Rencontrer des clients.",
+            "Téléphoner à Biotopia."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": "172",
+        "options": [
+            "Une visite de Londres.",
+            "Un billet d’avion.",
+            "Un séjour à Paris.",
+            "Un voyage en train."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": "172",
+        "options": [
+            "De changer les poubelles.",
+            "De collecter du plastique.",
+            "De gagner une bicyclette.",
+            "De travailler pour la mairie."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": "172",
+        "options": [
+            "Elle est bonne pour la santé.",
+            "Elle facilite la socialisation.",
+            "Elle développe la mémoire.",
+            "Elle enrichit la personnalité."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": "172",
+        "options": [
+            "Annuler son achat.",
+            "Échanger son article.",
+            "Obtenir une réduction.",
+            "Rendre le vêtement."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": "172",
+        "options": [
+            "Assister à des spectacles.",
+            "Obtenir de meilleures places.",
+            "Rencontrer des comédiens.",
+            "Suivre des visites guidées."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": "172",
+        "options": [
+            "Les clubs disparaissaient vite après leur création.",
+            "Les groupes concernés étaient trop nombreux.",
+            "Les lecteurs refusaient de parler à des journalistes.",
+            "Les rencontres se faisaient de manière irrégulière."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": "172",
+        "options": [
+            "Pour aider les élèves à ne pas s’enrhumer.",
+            "Pour enseigner le droit à la tolérance.",
+            "Pour respecter des normes d’hygiène.",
+            "Pour supprimer les différences sociales."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": "172",
+        "options": [
+            "D’acheter des médicaments sans ordonnance.",
+            "D’avoir le choix entre différents spécialistes.",
+            "De prendre rapidement rendez-vous.",
+            "De traiter seul des affectations bénignes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": "172",
+        "options": [
+            "Un abonnement mensuel.",
+            "Un choix d’appartements.",
+            "Une location moins chère.",
+            "Une offre intéressante."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": "172",
+        "options": [
+            "Donner à ces activités une fonction éducative.",
+            "Faire de ces loisirs des moments de partage.",
+            "Fixer des plages horaires pour jouer en ligne.",
+            "S’informer auprès des professionnels de santé."
+        ],
+        "answer": 1
+    },
+    {
         "id": 20,
         "testId": "172",
         "options": [

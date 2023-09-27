@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "183",
+        "options": [
+            "Un changement de jour.",
+            "Un changement de professeur.",
+            "Un changement de salle.",
+            "Un changement d’heure."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": "183",
+        "options": [
+            "Un plat, un dessert et un café.",
+            "Une entrée, un plat et une boisson.",
+            "Une entrée, un plat et un fromage.",
+            "Un plat, un fromage et une boisson."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": "183",
+        "options": [
+            "Un photocopieur.",
+            "Un climatiseur.",
+            "Un ordinateur.",
+            "Un télécopieur."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": "183",
+        "options": [
+            "Un secrétaire.",
+            "Un parent.",
+            "Un élève.",
+            "Un professeur."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": "183",
+        "options": [
+            "Acheter un cadeau.",
+            "Emmener une amie.",
+            "Organiser une fête.",
+            "Réparer une voiture."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": "183",
+        "options": [
+            "Compléter des documents.",
+            "Demander des informations.",
+            "Écrire un courrier.",
+            "Téléphoner à la préfecture."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": "183",
+        "options": [
+            "De cuisiner tous ensemble.",
+            "De faire un repas entre voisins.",
+            "De s’inscrire à des activités.",
+            "De visiter de nouveaux logements."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": "183",
+        "options": [
+            "Comment elle a acheté un article en ligne.",
+            "Où elle a cherché un cadeau bon marché.",
+            "Pourquoi elle a eu un chèque de réduction.",
+            "Quand elle a échangé un vêtement soldé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": "183",
+        "options": [
+            "Un savon pour le corps.",
+            "Un shampoing aux herbes.",
+            "Une boisson pour dormir.",
+            "Une crème de beauté."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": "183",
+        "options": [
+            "Des visites de musées.",
+            "Des voyages en Europe.",
+            "Un mois de vacances.",
+            "Un semestre d’études."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": "183",
+        "options": [
+            "L’agrandissement d’un parking.",
+            "La modernisation d’un bâtiment.",
+            "La transformation d’un logement.",
+            "Le déménagement d’une locataire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": "183",
+        "options": [
+            "Accueillir les étudiants étrangers.",
+            "Faciliter la recherche d’emploi.",
+            "Préparer la rentrée universitaire.",
+            "Présenter de nouvelles formations."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": "183",
+        "options": [
+            "Leur couleur.",
+            "Leur forme.",
+            "Leur prix.",
+            "Leur taille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": "183",
+        "options": [
+            "Apporter à boire.",
+            "Préparer un gâteau.",
+            "Contacter un ami.",
+            "Animer la soirée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": "183",
+        "options": [
+            "De faire du sport et de rencontrer des personnes.",
+            "De nager régulièrement et de manger du poisson.",
+            "De se reposer et de découvrir le milieu marin.",
+            "De vivre au calme et de se retrouver en famille."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": "183",
+        "options": [
+            "La France compte de nombreux producteurs qui exportent peu.",
+            "La France demeure une petite productrice sur le plan européen.",
+            "La France fournit une part importante de la production mondiale.",
+            "La France parvient tout juste à répondre à sa demande nationale."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": "183",
+        "options": [
+            "Des enregistrements sonores d’articles de journaux.",
+            "Des extraits choisis de romans classiques.",
+            "Des publications résumées de contenus de sites web.",
+            "Des sélections de répliques de théâtre célèbres."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": "183",
+        "options": [
+            "À leur couleur.",
+            "À leur dimension.",
+            "À leur emballage.",
+            "À leur quantité."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": "183",
+        "options": [
+            "Participer à un concours international d’astronomie.",
+            "Réaliser une étude d’observation des astres.",
+            "Se joindre à une formation d’enseignants en sciences.",
+            "Suivre un cours de rattrapage en sciences physiques."
+        ],
+        "answer": 1
+    },
+    {
         "id": 20,
         "testId": "183",
         "options": [

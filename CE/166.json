@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "166",
+        "options": [
+            "À moto.",
+            "À pied.",
+            "À vélo.",
+            "En taxi."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": "166",
+        "options": [
+            "Ses leçons à distance.",
+            "Ses professeurs expérimentés.",
+            "Ses salles neuves connectées.",
+            "Ses tarifs bon marché."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": "166",
+        "options": [
+            "Il annonce son absence.",
+            "Il donne un rendez-vous.",
+            "Il indique son arrivée.",
+            "Il signale son retard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": "166",
+        "options": [
+            "D’aller à un concert.",
+            "D’organiser un voyage.",
+            "De déjeuner chez lui.",
+            "De garder ses enfants."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": "166",
+        "options": [
+            "La date.",
+            "La matière.",
+            "Le lieu.",
+            "L’heure."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": "166",
+        "options": [
+            "D’apprendre à cuisiner des plats étrangers.",
+            "D’organiser des repas-spectacles à thèmes.",
+            "De gagner un voyage à la fin du repas.",
+            "De goûter des spécialités franco-espagnoles."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": "166",
+        "options": [
+            "De l’inscription des élèves.",
+            "Des horaires de sortie.",
+            "Des repas à la cantine.",
+            "Du temps de repos."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": "166",
+        "options": [
+            "Cuisiner.",
+            "Étudier.",
+            "S’amuser.",
+            "Se promener."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": "166",
+        "options": [
+            "Ils aiment en voir dans la nature.",
+            "Ils les regardent à la télévision.",
+            "Ils sont nombreux à en avoir.",
+            "Ils vont les voir dans des zoos."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": "166",
+        "options": [
+            "D’envoyer des photos.",
+            "D’inventer une recette.",
+            "De créer un spectacle.",
+            "De découvrir une langue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": "166",
+        "options": [
+            "Des chocolats.",
+            "Des romans.",
+            "Des valises.",
+            "Ses vêtements."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": "166",
+        "options": [
+            "Pour acheter des meubles de bibliothèque.",
+            "Pour organiser un concours de lecture.",
+            "Pour ouvrir un salon de thé littéraire.",
+            "Pour s’installer dans un local plus vaste."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": "166",
+        "options": [
+            "D’argent pour la course.",
+            "De livres pour les enfants.",
+            "De produits pour les repas.",
+            "D’une voiture pour le transport."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": "166",
+        "options": [
+            "Il a un rendez-vous à l’hôpital.",
+            "Il doit annuler leur rencontre.",
+            "Il est parti acheter un portable.",
+            "Il va arriver en retard chez lui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": "166",
+        "options": [
+            "Écouter des chansons.",
+            "Gagner des cadeaux.",
+            "Goûter des recettes.",
+            "Jouer dans un film."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": "166",
+        "options": [
+            "C’est un musée peu fréquenté.",
+            "Il a réussi à séduire un public local.",
+            "On y découvrir l’histoire de la région.",
+            "Sa collection sera présentée à Paris."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": "166",
+        "options": [
+            "D’un comédien qui tourne dans des bidonvilles.",
+            "D’un homme qui produit des œuvres originales.",
+            "De la santé d’un membre du gouvernement.",
+            "De mesure écologique prise par une mairie."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": "166",
+        "options": [
+            "Des idées de stages en entreprise.",
+            "Un guide des démarches d’inscription.",
+            "Une méthode pour choisir une formation.",
+            "Une sélection des meilleures universités."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": "166",
+        "options": [
+            "L’origine historique de la recette.",
+            "Le secret d’une bonne préparation.",
+            "Les adresses où les consommer.",
+            "Les raisons de leur popularité."
+        ],
+        "answer": 1
+    },
+    {
         "id": 20,
         "testId": "166",
         "options": [

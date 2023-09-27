@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "163",
+        "options": [
+            "Frapper et entrer.",
+            "Prendre rendez-vous.",
+            "Revenir plus tard.",
+            "Téléphoner."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": "163",
+        "options": [
+            "Des cours particuliers.",
+            "Des jobs pendant le week-end.",
+            "Des rencontres entre jeunes.",
+            "Des voyages à l’étranger."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": "163",
+        "options": [
+            "Il annonce son absence.",
+            "Il donne un rendez-vous.",
+            "Il indique son arrivée.",
+            "Il signale son retard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": "163",
+        "options": [
+            "Apprendre à jouer d’un instrument.",
+            "Assister à des concerts.",
+            "Réserver des billets de spectacle.",
+            "S’inscrire à des animations."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": "163",
+        "options": [
+            "Elle doit partir une journée.",
+            "Elle propose un déjeuner.",
+            "Elle souhaite parler à Françoise.",
+            "Elle veut visiter une entreprise."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": "163",
+        "options": [
+            "Aller à un anniversaire.",
+            "Dîner avec son amie.",
+            "Partir en week-end.",
+            "Regarder des films."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": "163",
+        "options": [
+            "Pour annoncer un changement.",
+            "Pour inviter les élèves à une réunion.",
+            "Pour modifier l’horaire d’un cours.",
+            "Pour remercier les élèves de 5e B."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": "163",
+        "options": [
+            "Beaux.",
+            "Calmes.",
+            "Courageux.",
+            "Joyeux."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": "163",
+        "options": [
+            "À des clients.",
+            "À madame Létourneau.",
+            "À des élèves.",
+            "À des employés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": "163",
+        "options": [
+            "Aux élèves.",
+            "Aux étudiants.",
+            "Aux parents.",
+            "Aux professeurs."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": "163",
+        "options": [
+            "Non, parce que c’est une réaction normale.",
+            "Bien sûr ! il existe des médicaments très efficaces.",
+            "Oui, grâce à des méthodes très simples.",
+            "Certainement pas. Il est insurmontable."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": "163",
+        "options": [
+            "Pour accueillir des élèves handicapés.",
+            "Pour favoriser une autre pédagogie.",
+            "Pour limiter les problèmes de santé.",
+            "Pour rénover les salles de classe."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": "163",
+        "options": [
+            "Elle demande un remboursement.",
+            "Elle doit prendre un rendez-vous.",
+            "Elle souhaite des renseignements.",
+            "Elle veut faire une réclamation."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": "163",
+        "options": [
+            "Échanger son appartement pendant l’été.",
+            "Louer un appartement meublé de 20 m².",
+            "Partager son appartement pour deux mois.",
+            "Vendre son appartement près de Paris."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": "163",
+        "options": [
+            "Demander des informations sur des produits.",
+            "Passer une commande de produits.",
+            "Présenter de nouveaux produits.",
+            "Proposer une dégustation de produit."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": "163",
+        "options": [
+            "Baisser les salaires.",
+            "Créer des emplois.",
+            "Diviser le travail.",
+            "Favoriser la recherche."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": "163",
+        "options": [
+            "Exposer l’ensemble de ses qualités professionnelles.",
+            "Faire la preuve de son désir de travailler.",
+            "Parler avec enthousiasme de ses projets de formations.",
+            "Parler des emplois qu’on a déjà occupés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": "163",
+        "options": [
+            "Informer sur de nouvelles méthodes éducatives.",
+            "Montrer la vie de tous les jours d’un jeune couple.",
+            "Présenter les relations familiales avec humour.",
+            "Proposer des solutions à des situations de crise."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": "163",
+        "options": [
+            "Accéder à la propriété privée.",
+            "Avoir un mode de vie économique.",
+            "Participer à la vie associative.",
+            "Tenter une nouvelle aventure."
+        ],
+        "answer": 3
+    },
+    {
         "id": 20,
         "testId": "163",
         "options": [

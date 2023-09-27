@@ -1,4 +1,214 @@
-[{
+[
+    {
+        "id": 1,
+        "testId": "177",
+        "options": [
+            "D’un anniversaire.",
+            "D’un décès.",
+            "D’un mariage.",
+            "D’une naissance."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": "177",
+        "options": [
+            "D’un concert.",
+            "D’un film.",
+            "D’un livre.",
+            "D’un tableau."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": "177",
+        "options": [
+            "Des billets de train.",
+            "Des légumes.",
+            "Des pâtisseries.",
+            "Des vêtements."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": "177",
+        "options": [
+            "Aux clients de l’hôtel.",
+            "Au service de nettoyage.",
+            "Au directeur de l’hôtel.",
+            "Aux serveurs du bar."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": "177",
+        "options": [
+            "La comptable.",
+            "La secrétaire.",
+            "Le directeur.",
+            "Le réparateur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": "177",
+        "options": [
+            "Aider des familles en difficulté.",
+            "Donner un vélo à des élèves.",
+            "Ouvrir de nouveaux collèges.",
+            "Réparer de vieilles bicyclettes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": "177",
+        "options": [
+            "Pour annoncer un changement de couleur des poubelles.",
+            "Pour informer de l’ouverture du nouveau local poubelle.",
+            "Pour présenter l’entreprise de tri des poubelles.",
+            "Pour rappeler l’utilisation correcte des poubelles."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "testId": "177",
+        "options": [
+            "De découvrir une sélection de livres.",
+            "De gagner des places pour un festival.",
+            "De participer à une discussion sur le jazz.",
+            "De passer un moment agréable en musique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": "177",
+        "options": [
+            "Un savon pour le corps.",
+            "Un shampoing aux herbes.",
+            "Une boisson pour dormir.",
+            "Une crème de beauté."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": "177",
+        "options": [
+            "Beaucoup de personnes le visitent.",
+            "Il vend des articles bon marché.",
+            "Il y a un célèbre musée à l’intérieur.",
+            "On y donne des cours de cuisine."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": "177",
+        "options": [
+            "Pour échanger des conseils sur le vélo.",
+            "Pour échanger des promenades à vélo.",
+            "Pour s’entrainer aux courses de vélo.",
+            "Pour trouver des vélos bon marché."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": "177",
+        "options": [
+            "D’apprendre à s’orienter dans la ville.",
+            "De se former au métier de guide.",
+            "De visiter des expositions photo.",
+            "De voir Lyon d’une façon différente."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": "177",
+        "options": [
+            "D’argent pour la course.",
+            "De livres pour les enfants.",
+            "De produits pour les repas.",
+            "D’une voiture pour le transport."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": "177",
+        "options": [
+            "Elle accueille plus de visiteurs cette année.",
+            "Elle accueille plus de visiteurs cette année.",
+            "Elle propose une découverte du Japon.",
+            "Elle s’est terminée dimanche dernier."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": "177",
+        "options": [
+            "Pour diminuer l’empreinte carbone.",
+            "Pour donner une image moderne de l’Assemblée.",
+            "Pour étudier plus rapidement les amendements.",
+            "Pour faire des économies de papier."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": "177",
+        "options": [
+            "Un lieu de livraison.",
+            "Un problème de colis.",
+            "Une date d’envoi.",
+            "Une facture à payer."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": "177",
+        "options": [
+            "D’un comédien qui tourne dans les bidonvilles.",
+            "D’un homme qui produit des œuvres originales.",
+            "De la santé d’un membre du gouvernement.",
+            "De mesures écologiques prises par une mairie."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": "177",
+        "options": [
+            "Des musées sont prêts à les accueillir.",
+            "Le marché voit sa cote grimper.",
+            "Leurs auteurs sont devenus célèbres.",
+            "On veut les préserver durablement."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": "177",
+        "options": [
+            "C’est un succès.",
+            "Elle changera de lieu.",
+            "Elle est déjà finie.",
+            "L’entrée est gratuite."
+        ],
+        "answer": 2
+    },
+    {
         "id": 20,
         "testId": "177",
         "options": [
